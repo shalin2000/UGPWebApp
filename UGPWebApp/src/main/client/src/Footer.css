@@ -1,0 +1,64 @@
+.site-footer
+{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  height: 150px;   
+         
+  background-color: #AC1E2D;
+  font-size:15px;
+  color:whitesmoke;
+  
+}
+
+.site-footer a
+{
+  color:whitesmoke;
+}
+.site-footer a:hover
+{
+  color:#3366cc;
+  text-decoration:none;
+}
+
+.copyright-text
+{
+  margin:0
+}
+@media (max-width:991px)
+{
+  .site-footer [class^=col-]
+  {
+    margin-bottom:30px
+  }
+}
+@media (max-width:767px)
+{
+  .site-footer
+  {
+    padding-bottom:0
+  }
+  .site-footer .copyright-text,.site-footer .social-icons
+  {
+    text-align:center
+  }
+}
+.site-footer a.facebook:hover
+{
+  color:#3b5998
+}
+.site-footer a.twitter:hover
+{
+  color:#00aced
+}
+.site-footer a.linkedin:hover
+{
+  color:#007bb6
+}
+.site-footer a.instagram:hover
+{
+  color:#405DE6
+}
