@@ -474,19 +474,21 @@ class ListGrades extends Component {
         {/* calls the function that maps the other courses that are taught by the professor */}
         {cT_Element}
 
-        <br></br>
-        <h5><u>Rate the Course below</u></h5>
+        {/* <br></br> */}
+        {/* <h5><u>Rate the Professor below</u></h5> */}
 
+        {/* <div className="reviewRating"> */}
+        {/* < ReviewProf /> */}
+        {/* </div> */}
+
+        <br></br>
+        <h5><u>User Reviews</u></h5>
+        <br></br>
+        
         <div className="reviewRating">
-        < ReviewProf />
+          < CommentProf chosenCourseAndProf={this.props.ProfInfo}/>
         </div>
 
-        <br></br>
-        <h5><u>Leave a review of the Professor below</u></h5>
-        <br></br>
-        
-        < CommentProf chosenCourseAndProf={this.props.ProfInfo}/>
-        
       </div>
       
     );
