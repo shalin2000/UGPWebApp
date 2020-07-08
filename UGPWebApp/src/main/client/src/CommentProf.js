@@ -107,36 +107,38 @@ class CommentProf extends Component {
 
                 <div>
                     <form onSubmit={this.submitBook}>
-                        <div className="row">
-                        {/* this is for the star rating */}
-                        <div className="col">
-                            <div>
-                                <h5 style={{textAlign: 'left'}}>Easiness: <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/></h5>  
-                                <h5 style={{textAlign: 'left'}}>Helpfulness: <Rater total={5}  onRate={this.rateTwo} rating={this.state.rateTwoTemp} interactive={this.state.interact} /></h5>
-                                <h5 style={{textAlign: 'left'}}>Clarity: <Rater total={5}  onRate={this.rateThree} rating={this.state.rateThreeTemp} interactive={this.state.interact} /></h5>
-                                <h5 style={{textAlign: 'left'}}>WorkLoad: <Rater total={5}  onRate={this.rateFour} rating={this.state.rateFourTemp} interactive={this.state.interact} /></h5>
-                                <h5 style={{textAlign: 'left'}}>Grading: <Rater total={5}  onRate={this.rateFive} rating={this.state.rateFiveTemp} interactive={this.state.interact} /></h5>
-                            </div>
-                            <br/>
-                        </div>
+                        <div className="row" style={{border: '3px solid red'}}>
+                            {/* this is for the star rating */}
+                            <Col sm={4} style={{border: '3px solid yellow'}}>
+                                <div>
+                                    <h5 style={{textAlign: 'left'}}>Easiness: <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/></h5>  
+                                    <h5 style={{textAlign: 'left'}}>Helpfulness: <Rater total={5}  onRate={this.rateTwo} rating={this.state.rateTwoTemp} interactive={this.state.interact} /></h5>
+                                    <h5 style={{textAlign: 'left'}}>Clarity: <Rater total={5}  onRate={this.rateThree} rating={this.state.rateThreeTemp} interactive={this.state.interact} /></h5>
+                                    <h5 style={{textAlign: 'left'}}>WorkLoad: <Rater total={5}  onRate={this.rateFour} rating={this.state.rateFourTemp} interactive={this.state.interact} /></h5>
+                                    <h5 style={{textAlign: 'left'}}>Grading: <Rater total={5}  onRate={this.rateFive} rating={this.state.rateFiveTemp} interactive={this.state.interact} /></h5>
+                                </div>
+                                <br/>
+                            </Col>
 
-                        {/* this is for the commenting */}
-                        <div className="col">
-                            {/* <input className="nameTag" type="text" name="name" required
-                                    value={name} onChange={this.bookChange}
-                                    placeholder="Enter Your Name"
-                            />
-                            <br /> */}
-                            <textarea className="commentTag" type="text" name="comment" required
-                                value={comment} onChange={this.bookChange}
-                                placeholder="Enter Your Comment"
-                            >
-                            </textarea>
-                            <br />
+                            {/* this is for the commenting */}
+                            <Col sm={8} style={{border: '3px solid blue'}}>
+                                {/* <input className="nameTag" type="text" name="name" required
+                                        value={name} onChange={this.bookChange}
+                                        placeholder="Enter Your Name"
+                                />
+                                <br /> */}
+                                <textarea className="commentTag" type="text" name="comment" required
+                                    value={comment} onChange={this.bookChange}
+                                    placeholder="Enter Your Comment"
+                                >
+                                </textarea>
+                                <br />
+                            </Col>
                         </div>
-                        </div>
-
-                        <button>Comment</button>
+                        <ul class="actions special">
+                                <li class="button">Submit</li>
+                        </ul>
+                        {/* <button>Comment</button> */}
                     </form>
                 </div>
 
