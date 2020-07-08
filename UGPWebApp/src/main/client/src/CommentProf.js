@@ -97,12 +97,12 @@ class CommentProf extends Component {
         const {name, comment,} = this.state;
 
         return (
-            <div>
+            <div className="reviewSystem">
                 
-                <div className="row">
-                    <h5>Overall (placeHolder) rating</h5>
-                    <Rater total={5}/>
+                <div className="overallRating">
+                    <h5>Overall (placeHolder) rating <Rater total={5}/> </h5>
                 </div>
+
                 <br/>
 
                 <div>
@@ -110,36 +110,23 @@ class CommentProf extends Component {
                         <div className="row">
                         {/* this is for the star rating */}
                         <div className="col">
-                            <div className="row">
-                                <h5>Overall teaching</h5>
-                                <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/>
-                            </div>
-                            <div className="row">
-                                <h5>Use of tech</h5>
-                                <Rater total={5}  onRate={this.rateTwo} rating={this.state.rateTwoTemp} interactive={this.state.interact} />
-                            </div>
-                            <div className="row">
-                                <h5>Course Difficulty?</h5>
-                                <Rater total={5}  onRate={this.rateThree} rating={this.state.rateThreeTemp} interactive={this.state.interact} />
-                            </div>
-                            <div className="row">
-                                <h5>Homework heavy?</h5>
-                                <Rater total={5}  onRate={this.rateFour} rating={this.state.rateFourTemp} interactive={this.state.interact} />
-                            </div>
-                            <div className="row">
-                            <h5>Likely to take again?</h5>
-                            <Rater total={5}  onRate={this.rateFive} rating={this.state.rateFiveTemp} interactive={this.state.interact} />
+                            <div>
+                                <h5 style={{textAlign: 'left'}}>Easiness: <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/></h5>  
+                                <h5 style={{textAlign: 'left'}}>Helpfulness: <Rater total={5}  onRate={this.rateTwo} rating={this.state.rateTwoTemp} interactive={this.state.interact} /></h5>
+                                <h5 style={{textAlign: 'left'}}>Clarity: <Rater total={5}  onRate={this.rateThree} rating={this.state.rateThreeTemp} interactive={this.state.interact} /></h5>
+                                <h5 style={{textAlign: 'left'}}>WorkLoad: <Rater total={5}  onRate={this.rateFour} rating={this.state.rateFourTemp} interactive={this.state.interact} /></h5>
+                                <h5 style={{textAlign: 'left'}}>Grading: <Rater total={5}  onRate={this.rateFive} rating={this.state.rateFiveTemp} interactive={this.state.interact} /></h5>
                             </div>
                             <br/>
                         </div>
 
                         {/* this is for the commenting */}
                         <div className="col">
-                            <input className="nameTag" type="text" name="name" required
+                            {/* <input className="nameTag" type="text" name="name" required
                                     value={name} onChange={this.bookChange}
                                     placeholder="Enter Your Name"
                             />
-                            <br />
+                            <br /> */}
                             <textarea className="commentTag" type="text" name="comment" required
                                 value={comment} onChange={this.bookChange}
                                 placeholder="Enter Your Comment"
