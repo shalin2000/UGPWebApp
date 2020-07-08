@@ -12,6 +12,10 @@ public class EmployeeRowMapper implements RowMapper<Employee> {
 //        emp.setUserId(rs.getInt("userId"));
         emp.setUserName(rs.getString("userName"));
         emp.setUserComment(rs.getString("userComment"));
+        emp.setCrsNbr(rs.getString("crsNbr"));
+        emp.setCrsSubjCd(rs.getString("crsSubjCd"));
+        emp.setCrsTitle(rs.getString("crsTitle"));
+        emp.setProfName(rs.getString("profName"));
         return emp;
     }
 }

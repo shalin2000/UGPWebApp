@@ -31,6 +31,10 @@ class CommentProf extends Component {
         const book = {
             userName: this.state.name,
             userComment: this.state.comment,
+            crsTitle: this.props.chosenCourseAndProf.CRS_TITLE,
+            crsNbr: this.props.chosenCourseAndProf.CRS_NBR,
+            crsSubjCd: this.props.chosenCourseAndProf.CRS_SUBJ_CD,
+            profName: this.props.chosenCourseAndProf.name1
         };
 
         axios.post("http://localhost:8080/postgressApp/createEmp", book)
@@ -77,7 +81,7 @@ class CommentProf extends Component {
                 </div>
 
                 <div className="col-12 col-md-8" style={{height: 500, overflowY:'auto'}}>
-                    <DisplayComment />
+                    <DisplayComment chosenCourseAndProf={this.props.chosenCourseAndProf}/>
                 </div>
             </div>
         );

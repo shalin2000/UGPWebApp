@@ -21,6 +21,38 @@ public class Employee {
     String userName;
     String userComment;
 
+    String crsTitle; 
+    String crsNbr;
+    String crsSubjCd;
+    String profName;
+
+    //////////////////////////////////////////////////////////////
+    public String getCrsNbr() {
+        return crsNbr;
+    }
+    public String getCrsSubjCd() {
+        return crsSubjCd;
+    }
+    public String getCrsTitle() {
+        return crsTitle;
+    }
+    public String getProfName() {
+        return profName;
+    }
+    public void setCrsNbr(String crsNbr) {
+        this.crsNbr = crsNbr;
+    }
+    public void setCrsSubjCd(String crsSubjCd) {
+        this.crsSubjCd = crsSubjCd;
+    }
+    public void setCrsTitle(String crsTitle) {
+        this.crsTitle = crsTitle;
+    }
+    public void setProfName(String profName) {
+        this.profName = profName;
+    }
+    //////////////////////////////////////////////////////////////
+    
     public String getUserComment() {
         return userComment;
     }

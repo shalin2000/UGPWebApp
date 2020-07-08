@@ -27,12 +27,12 @@ class DisplayComment extends Component {
 
         var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
 
-        console.log(this.state.books)
+        const byProf = this.state.books.filter(x => x.profName === (this.props.chosenCourseAndProf.name1)); 
 
         return (
             <div className="displayComment">
                 {
-                this.state.books.map((book) => (
+                byProf.map((book) => (
                     <p style={{borderBottom: '2px solid black'}} key={book.id}>
                         <h2>{book.userName} <small style={{fontSize: '15px'}}><i>Posted on {date} </i></small></h2>
                         <p>{book.userComment}</p>

@@ -32,12 +32,16 @@ public class EmployeeDaoImpl implements EmployeeDao {
     }
     @Override
     public void insertEmployee(Employee emp) {
-        final String sql = "insert into userReviews(userName,userComment) values(:userName,:userComment)";
+        final String sql = "insert into userReviews(userName,userComment,crsTitle,crsNbr,crsSubjCd,profName) values(:userName,:userComment,:crsTitle,:crsNbr,:crsSubjCd,:profName)";
         KeyHolder holder = new GeneratedKeyHolder();
         SqlParameterSource param = new MapSqlParameterSource()
 //                .addValue("userID", emp.getId())
                 .addValue("userName", emp.getUserName())
-                .addValue("userComment", emp.getUserComment());
+                .addValue("userComment", emp.getUserComment())
+                .addValue("crsTitle", emp.getCrsTitle())
+                .addValue("crsNbr", emp.getCrsNbr())
+                .addValue("crsSubjCd", emp.getCrsSubjCd())
+                .addValue("profName", emp.getProfName());
 //                .addValue("employeeAddress", emp.getEmployeeAddress());
         template.update(sql,param, holder);
     }

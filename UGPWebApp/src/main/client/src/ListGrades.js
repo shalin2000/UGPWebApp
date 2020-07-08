@@ -485,7 +485,7 @@ class ListGrades extends Component {
         <h5><u>Leave a review of the Professor below</u></h5>
         <br></br>
         
-        < CommentProf chosenSUBJCD={this.props.ProfInfo.CRS_SUBJ_CD} chosenCRSNBR={this.props.ProfInfo.CRS_NBR} chosenCRSTitle={this.props.ProfInfo.CRS_TITLE}/>
+        < CommentProf chosenCourseAndProf={this.props.ProfInfo}/>
         
       </div>
       
