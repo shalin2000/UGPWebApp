@@ -485,9 +485,9 @@ class ListGrades extends Component {
         <h5><u>User Reviews</u></h5>
         <br></br>
         
-        <div className="overallRating">
+        {/* <div className="overallRating"> */}
           < CommentProf chosenCourseAndProf={this.props.ProfInfo}/>
-        </div>
+        {/* </div> */}
 
       </div>
       
