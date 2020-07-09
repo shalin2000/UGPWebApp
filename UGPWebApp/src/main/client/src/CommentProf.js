@@ -109,7 +109,34 @@ class CommentProf extends Component {
         const totalStarOfAllUser = arrOfCombinedTotalStar.reduce((a, b) => a + b, 0)
 
         // computes the overall avg by dividing the total from the length of how many users commented
-        const overallAvg = totalStarOfAllUser / arrOfCombinedTotalStar.length
+        const overallAvg = (totalStarOfAllUser / arrOfCombinedTotalStar.length).toFixed(2)
+
+        //Repeat for Easiness
+        const arrOfCombinedEasyStar = byProf.map(x => ( x.easinessRating ));
+        const totalEasyOfAllUser = arrOfCombinedEasyStar.reduce((a, b) => a + b, 0)
+        const overallEasy = (totalEasyOfAllUser / arrOfCombinedEasyStar.length).toFixed(2)
+
+        //Repeat for Helpfulness
+        const arrOfCombinedHelpStar = byProf.map(x => ( x.helpfulnessRating ));
+        const totalHelpOfAllUser = arrOfCombinedHelpStar.reduce((a, b) => a + b, 0)
+        const overallHelp = (totalHelpOfAllUser / arrOfCombinedHelpStar.length).toFixed(2)
+
+        //Repeat for Clarity
+        const arrOfCombinedClarityStar = byProf.map(x => ( x.clarityRating ));
+        const totalClarityOfAllUser = arrOfCombinedClarityStar.reduce((a, b) => a + b, 0)
+        const overallClarity = (totalClarityOfAllUser / arrOfCombinedClarityStar.length).toFixed(2)
+
+        //Repeat for Workload
+        const arrOfCombinedWorkloadStar = byProf.map(x => ( x.workloadRating ));
+        const totalWorkloadOfAllUser = arrOfCombinedWorkloadStar.reduce((a, b) => a + b, 0)
+        const overallWorkload = (totalWorkloadOfAllUser / arrOfCombinedWorkloadStar.length).toFixed(2)
+
+        //Repeat for Grading
+        const arrOfCombinedGradingStar = byProf.map(x => ( x.gradingRating ));
+        const totalGradingOfAllUser = arrOfCombinedGradingStar.reduce((a, b) => a + b, 0)
+        const overallGrading = (totalGradingOfAllUser / arrOfCombinedGradingStar.length).toFixed(2)
+
+        byProf.reverse();
 
         return (
             <div className="reviewSystem">
@@ -119,7 +146,7 @@ class CommentProf extends Component {
                         <Col sm>
                             <div className="row">   
                                 <Col xs={6}>
-                                    <h5 style={{textAlign: 'right'}}>Overall Rating </h5>
+                                    <h5 style={{textAlign: 'right'}}>Overall </h5>
                                 </Col>
                                 <Col xs={6}>
                                     <Rater total={5} rating={overallAvg} interactive={false}/> 
@@ -130,7 +157,7 @@ class CommentProf extends Component {
                                     <h5 style={{textAlign: 'right'}}>Easiness </h5>
                                 </Col>
                                 <Col xs={6}>
-                                    <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/>
+                                    <Rater total={5} rating={overallEasy} interactive={false}/>
                                 </Col>
                             </div>
                             <div className="row">
@@ -138,7 +165,7 @@ class CommentProf extends Component {
                                     <h5 style={{textAlign: 'right'}}>Helpfulness </h5>
                                 </Col>
                                 <Col xs={6}>
-                                    <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/> 
+                                    <Rater total={5} rating={overallHelp} interactive={false}/> 
                                 </Col>
                             </div>
                             <div className="row">
@@ -146,7 +173,7 @@ class CommentProf extends Component {
                                     <h5 style={{textAlign: 'right'}}>Clarity </h5>
                                 </Col>
                                 <Col xs={6}>
-                                    <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/> 
+                                    <Rater total={5} rating={overallClarity} interactive={false}/> 
                                 </Col>
                             </div>
                             <div className="row">
@@ -154,7 +181,7 @@ class CommentProf extends Component {
                                     <h5 style={{textAlign: 'right'}}>WorkLoad </h5>
                                 </Col>
                                 <Col xs={6}>
-                                    <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/>
+                                    <Rater total={5} rating={overallWorkload} interactive={false}/>
                                 </Col>
                             </div>
                             <div className="row">
@@ -162,7 +189,7 @@ class CommentProf extends Component {
                                     <h5 style={{textAlign: 'right'}}>Grading </h5>
                                 </Col>
                                 <Col xs={6}>
-                                    <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/> 
+                                    <Rater total={5} rating={overallGrading} interactive={false}/> 
                                 </Col>
                             </div>
                         </Col>
@@ -238,7 +265,7 @@ class CommentProf extends Component {
                             <Col sm={8}>
                                 <textarea className="commentTag" type="text" name="comment" required
                                     value={comment} onChange={this.bookChange}
-                                    placeholder="Enter Your Comment"
+                                    placeholder="Rating as (1)Negative to (5)Positive. Comment goes here"
                                 >
                                 </textarea>
                                 <br />
@@ -265,7 +292,9 @@ class CommentProf extends Component {
                                 &nbsp;Grading&nbsp; <Rater total={5} rating={userList.gradingRating} interactive={false}/> 
                             </p>
                             <p>{userList.userComment}</p>
-                            <p>overall: {overallAvg}</p>
+                            <p>Averages: {overallAvg} - {overallEasy} - {overallHelp} - {overallClarity}
+                            - {overallWorkload} - {overallGrading}
+                            </p>
                         </p>
                     ))
                     }
