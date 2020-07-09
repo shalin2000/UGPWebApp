@@ -482,7 +482,9 @@ class ListGrades extends Component {
         {/* </div> */}
 
         <br></br>
-        <h5><u>User Reviews</u></h5>
+        <header className="major container medium">
+                                <h2>PlaceHolder's Reviews</h2>					
+        </header>
         <br></br>
         
         {/* <div className="overallRating"> */}
