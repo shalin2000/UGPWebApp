@@ -32,11 +32,10 @@ public class EmployeeDaoImpl implements EmployeeDao {
     }
     @Override
     public void insertEmployee(Employee emp) {
-        final String sql = "insert into userReview(userComment,crsTitle,crsNbr,crsSubjCd,profName,easinessRating,helpfulnessRating,clarityRating,workloadRating,gradingRating) values(:userComment,:crsTitle,:crsNbr,:crsSubjCd,:profName,:easinessRating,:helpfulnessRating,:clarityRating,:workloadRating,:gradingRating)";
+        emp.setTotalStar(emp.getEasinessRating()+emp.getHelpfulnessRating()+emp.getClarityRating()+emp.getWorkloadRating()+emp.getGradingRating());
+        final String sql = "insert into userReview(userComment,crsTitle,crsNbr,crsSubjCd,profName,easinessRating,helpfulnessRating,clarityRating,workloadRating,gradingRating,totalStar) values(:userComment,:crsTitle,:crsNbr,:crsSubjCd,:profName,:easinessRating,:helpfulnessRating,:clarityRating,:workloadRating,:gradingRating,:totalStar)";
         KeyHolder holder = new GeneratedKeyHolder();
         SqlParameterSource param = new MapSqlParameterSource()
-//                .addValue("userID", emp.getId())
-                // .addValue("userName", emp.getUserName())
                 .addValue("userComment", emp.getUserComment())
                 .addValue("crsTitle", emp.getCrsTitle())
                 .addValue("crsNbr", emp.getCrsNbr())
@@ -46,8 +45,8 @@ public class EmployeeDaoImpl implements EmployeeDao {
                 .addValue("helpfulnessRating", emp.getHelpfulnessRating())
                 .addValue("clarityRating", emp.getClarityRating())
                 .addValue("workloadRating", emp.getWorkloadRating())
-                .addValue("gradingRating", emp.getGradingRating());
-//                .addValue("employeeAddress", emp.getEmployeeAddress());
+                .addValue("gradingRating", emp.getGradingRating())
+                .addValue("totalStar", emp.getTotalStar());
         template.update(sql,param, holder);
     }
     @Override

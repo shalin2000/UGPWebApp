@@ -31,6 +31,15 @@ public class Employee {
     int workloadRating;
     int gradingRating;
 
+    int totalStar;
+
+    public int getTotalStar() {
+        return totalStar;
+    }
+    public void setTotalStar(int totalStar) {
+        this.totalStar = totalStar;
+    }
+    
     public int getEasinessRating() {
         return easinessRating;
     }

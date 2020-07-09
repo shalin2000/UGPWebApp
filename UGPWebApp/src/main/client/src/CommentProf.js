@@ -21,7 +21,8 @@ class CommentProf extends Component {
             rateOneTemp: 0, rateTwoTemp: 0, rateThreeTemp: 0, rateFourTemp: 0, rateFiveTemp: 0,
             rateOneAll: 0,  rateTwoAll: 0, rateThreeAll: 0, rateFourAll: 0, rateFiveAll: 0,
             interact: true,
-            value: 0
+            value: 0,
+            books : []
         };
         this.bookChange = this.bookChange.bind(this);
         this.submitBook = this.submitBook.bind(this);
@@ -30,7 +31,14 @@ class CommentProf extends Component {
         this.rateThree = this.rateThree.bind(this);
         this.rateFour = this.rateFour.bind(this);
         this.rateFive = this.rateFive.bind(this);
-        // this.ratingCompleted = this.ratingCompleted.bind(this);
+    }
+
+    componentDidMount() {
+        axios.get("http://localhost:8080/postgressApp/employeeList")
+            .then(response => response.data)
+            .then((data) => {
+                this.setState({books: data});
+            });
     }
 
     /**These five functions just retreive each set of ratings */
@@ -39,18 +47,6 @@ class CommentProf extends Component {
     rateThree(e){ this.setState({rateThreeTemp: e.rating}) }
     rateFour(e){ this.setState({rateFourTemp: e.rating}) }
     rateFive(e){ this.setState({rateFiveTemp: e.rating}) }
-
-    /**As of now we are using ratingCompleted to disable the ratings (onSubmit)
-     * and 'ALL' varibles will be used later to calculate the averages of each ratings
-     * and perhaps the to calculate the average of all average ratings comabined
-     */
-    // ratingCompleted() {
-    //     this.setState({ 
-    //         rateOneAll: this.state.rateOneTemp, rateTwoAll: this.state.rateTwoTemp, 
-    //         rateThreeAll: this.state.rateThreeTemp, rateFourAll: this.state.rateFourTemp, 
-    //         rateFiveAll: this.state.rateFiveTemp, interact: false
-    //     })
-    // }
 
     initialState = {
         name:'', comment:'',
@@ -100,6 +96,8 @@ class CommentProf extends Component {
 
     render() {
         const {name, comment,} = this.state;
+
+        const byProf = this.state.books.filter(x => x.profName === (this.props.chosenCourseAndProf.name1)); 
 
         return (
             <div className="reviewSystem">
@@ -167,50 +165,7 @@ class CommentProf extends Component {
                                     <li class="button">Leave a Review</li>
                             </ul>
                         </Col>
-                        
                     </div>
-                    
-                    {/* <div className="row">
-                        <div className="col">
-
-                        </div>
-                        <div className="col">
-                            <h5>Easiness <Rater total={5}/> </h5>
-                        </div>
-                    </div>
-                    <div className="row">
-                        <div className="col">
-                            <h5>Overall Rating </h5>
-                        </div>
-                        <div className="col">
-                            <h5>Helpfulness <Rater total={5}/> </h5>
-                        </div>
-                    </div>
-                    <div className="row">
-                        <div className="col">
-                            <Rater total={5}/>
-                        </div>
-                        <div className="col">
-                            <h5>Clarity <Rater total={5}/> </h5>
-                        </div>
-                    </div>
-                    <div className="row">
-                        <div className="col">
-                            <h5>By # of students</h5>
-                            
-                        </div>
-                        <div className="col">
-                            <h5>WorkLoad <Rater total={5}/> </h5>
-                        </div>
-                    </div>
-                    <div className="row">
-                        <div className="col">
-
-                        </div>
-                        <div className="col">
-                            <h5>Grading <Rater total={5}/> </h5>
-                        </div>
-                    </div> */}
                 <hr/>    
                 </div>
                 
@@ -265,16 +220,10 @@ class CommentProf extends Component {
                                         </Col>
                                     </div>
                                 </div>
-                                {/* <br/> */}
                             </Col>
 
                             {/* this is for the commenting */}
                             <Col sm={8}>
-                                {/* <input className="nameTag" type="text" name="name" required
-                                        value={name} onChange={this.bookChange}
-                                        placeholder="Enter Your Name"
-                                />
-                                <br /> */}
                                 <textarea className="commentTag" type="text" name="comment" required
                                     value={comment} onChange={this.bookChange}
                                     placeholder="Enter Your Comment"
@@ -284,24 +233,31 @@ class CommentProf extends Component {
                             </Col>
                         </div>
 
-                        {/* <ul class="actions special">
-                                <li class="button">Submit</li>
-                        </ul> */}
+                        <ul className="actions special">
+                                <button className="button">Submit</button>
+                        </ul>
                         
-                        <button class="button">Submit</button>
+                        {/* <button className="button">Submit</button> */}
 
                     </form>
                 </div>
                 
-                {console.log(this.state.comment)}
-                {console.log(this.state.rateOneTemp)}
-                {console.log(this.state.rateTwoTemp)}
-                {console.log(this.state.rateThreeTemp)}
-                {console.log(this.state.rateFourTemp)}
-                {console.log(this.state.rateFiveTemp)}
+
+                <div className="displayComment">
+                    {
+                    byProf.map((book) => (
+                        <p style={{borderBottom: '2px solid black'}} key={book.id}>
+                            <h2> Anon <small style={{fontSize: '15px'}}><i>Posted on Today </i></small></h2>
+                            <p>easiness: {book.easinessRating} helpfulness: {book.helpfulnessRating} clarity: {book.clarityRating} workload: {book.workloadRating} grading: {book.gradingRating}</p>
+                            <p>{book.userComment}</p>
+                            <button>Reply</button>
+                        </p>
+                    ))
+                    }
+                </div>
 
                 {/* <div className="col-12 col-md-8" style={{height: 500, overflowY:'auto'}}> */}
-                    <DisplayComment chosenCourseAndProf={this.props.chosenCourseAndProf}/>
+                    {/* <DisplayComment chosenCourseAndProf={this.props.chosenCourseAndProf}/> */}
                 {/* </div> */}
             </div>
         );
