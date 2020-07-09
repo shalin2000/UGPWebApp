@@ -1,5 +1,7 @@
 package com.example.demo.entity;
 
+// import java.util.ArrayList;
+
 // import javax.persistence.*;
 
 //@Entity
@@ -32,6 +34,8 @@ public class Employee {
     int gradingRating;
 
     int totalStar;
+    
+    int totalStarAllUser[];
 
     public int getTotalStar() {
         return totalStar;

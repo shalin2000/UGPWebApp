@@ -95,14 +95,15 @@ class CommentProf extends Component {
     }
 
     render() {
+
         const {name, comment,} = this.state;
 
+        // filters the books array which was taken from the database by the professeor that we are currenlty looking at
         const byProf = this.state.books.filter(x => x.profName === (this.props.chosenCourseAndProf.name1)); 
 
         return (
             <div className="reviewSystem">
-                
-                {/* <div class="box container"> */}
+                {/* displays the overall avg of all cateorgies*/}
                 <div className="overallRating">
                     <div className="row">
                         <Col sm>
@@ -157,7 +158,7 @@ class CommentProf extends Component {
                         </Col>
 
                         <Col sm>
-                            <h5> Rated by ## Students</h5>
+                            <h5> Rated by {byProf.length} Students</h5>
                             <ul class="actions special">
                                     <li class="button">Courses by Professor</li>
                             </ul>
@@ -173,6 +174,7 @@ class CommentProf extends Component {
 
                 <br/>
 
+                {/* Form for the user to submit to add their review into the database and be displayed on the site */}
                 <div>
                     <form onSubmit={this.submitBook}>
                         <div className="row">
@@ -232,25 +234,27 @@ class CommentProf extends Component {
                                 <br />
                             </Col>
                         </div>
-
                         <ul className="actions special">
                                 <button className="button">Submit</button>
                         </ul>
-                        
                         {/* <button className="button">Submit</button> */}
-
                     </form>
                 </div>
                 
 
+                {/* This displays the comments made by the users by mapping the byProf array */}
                 <div className="displayComment">
                     {
                     byProf.map((book) => (
                         <p style={{borderBottom: '2px solid black'}} key={book.id}>
                             <h2> Anon <small style={{fontSize: '15px'}}><i>Posted on Today </i></small></h2>
-                            <p>easiness: {book.easinessRating} helpfulness: {book.helpfulnessRating} clarity: {book.clarityRating} workload: {book.workloadRating} grading: {book.gradingRating}</p>
+                            <p style={{fontWeight: 'bold'}}> Easiness&nbsp; <Rater total={5} onRate={this.rateFive} rating={book.easinessRating} interactive={false} required/>
+                                &nbsp;Helpfulness&nbsp; <Rater total={5} onRate={this.rateFive} rating={book.helpfulnessRating} interactive={false} required/>
+                                &nbsp;Clarity&nbsp; <Rater total={5} onRate={this.rateFive} rating={book.clarityRating} interactive={false} required/>
+                                &nbsp;Workload&nbsp; <Rater total={5} onRate={this.rateFive} rating={book.workloadRating} interactive={false} required/>
+                                &nbsp;Grading&nbsp; <Rater total={5} onRate={this.rateFive} rating={book.gradingRating} interactive={false} required/> 
+                            </p>
                             <p>{book.userComment}</p>
-                            <button>Reply</button>
                         </p>
                     ))
                     }
