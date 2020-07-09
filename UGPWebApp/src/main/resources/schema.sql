@@ -1,10 +1,15 @@
-CREATE TABLE userReviews
+CREATE TABLE userReview
 (
- userName varchar(100) NOT NULL,
- userComment varchar(100) DEFAULT NULL,
- crsTitle varchar(100) DEFAULT NULL,
- crsNbr varchar(100) DEFAULT NULL,
- crsSubjCd varchar(100) DEFAULT NULL,
- profName varchar(100) DEFAULT NULL,
- PRIMARY KEY (userName)
+--  userName varchar(100) NOT NULL,
+ userComment varchar(100),
+ crsTitle varchar(100),
+ crsNbr varchar(100),
+ crsSubjCd varchar(100),
+ profName varchar(100),
+ easinessRating int,
+ helpfulnessRating int,
+ clarityRating int,
+ workloadRating int,
+ gradingRating int,
+ PRIMARY KEY (userComment)
 );

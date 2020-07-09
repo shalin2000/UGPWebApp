@@ -1,2 +1,2 @@
-insert into userReviews(userName,userComment, crsTitle, crsNbr, crsSubjCd,profName) values('Shalin','This is my comment by Shalin', 'crsTitle','crsNbr','crsSubjCd','profName');
+insert into userReview(userComment, crsTitle, crsNbr, crsSubjCd,profName,easinessRating,helpfulnessRating,clarityRating,workloadRating,gradingRating) values('This is my comment by Shalin', 'crsTitle','crsNbr','crsSubjCd','profName',1,1,1,1,1);
 

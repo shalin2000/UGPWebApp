@@ -10,12 +10,17 @@ public class EmployeeRowMapper implements RowMapper<Employee> {
     public Employee mapRow(ResultSet rs, int arg1) throws SQLException {
         Employee emp = new Employee();
 //        emp.setUserId(rs.getInt("userId"));
-        emp.setUserName(rs.getString("userName"));
+        // emp.setUserName(rs.getString("userName"));
         emp.setUserComment(rs.getString("userComment"));
         emp.setCrsNbr(rs.getString("crsNbr"));
         emp.setCrsSubjCd(rs.getString("crsSubjCd"));
         emp.setCrsTitle(rs.getString("crsTitle"));
         emp.setProfName(rs.getString("profName"));
+        emp.setEasinessRating(rs.getInt("easinessRating"));
+        emp.setHelpfulnessRating(rs.getInt("helpfulnessRating"));
+        emp.setClarityRating(rs.getInt("clarityRating"));
+        emp.setWorkloadRating(rs.getInt("workloadRating"));
+        emp.setGradingRating(rs.getInt("gradingRating"));
         return emp;
     }
 }

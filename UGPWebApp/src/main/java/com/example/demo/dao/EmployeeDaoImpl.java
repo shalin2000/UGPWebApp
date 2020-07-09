@@ -28,20 +28,25 @@ public class EmployeeDaoImpl implements EmployeeDao {
 
     @Override
     public List<Employee> findAll() {
-        return template.query("select * from userReviews", new EmployeeRowMapper());
+        return template.query("select * from userReview", new EmployeeRowMapper());
     }
     @Override
     public void insertEmployee(Employee emp) {
-        final String sql = "insert into userReviews(userName,userComment,crsTitle,crsNbr,crsSubjCd,profName) values(:userName,:userComment,:crsTitle,:crsNbr,:crsSubjCd,:profName)";
+        final String sql = "insert into userReview(userComment,crsTitle,crsNbr,crsSubjCd,profName,easinessRating,helpfulnessRating,clarityRating,workloadRating,gradingRating) values(:userComment,:crsTitle,:crsNbr,:crsSubjCd,:profName,:easinessRating,:helpfulnessRating,:clarityRating,:workloadRating,:gradingRating)";
         KeyHolder holder = new GeneratedKeyHolder();
         SqlParameterSource param = new MapSqlParameterSource()
 //                .addValue("userID", emp.getId())
-                .addValue("userName", emp.getUserName())
+                // .addValue("userName", emp.getUserName())
                 .addValue("userComment", emp.getUserComment())
                 .addValue("crsTitle", emp.getCrsTitle())
                 .addValue("crsNbr", emp.getCrsNbr())
                 .addValue("crsSubjCd", emp.getCrsSubjCd())
-                .addValue("profName", emp.getProfName());
+                .addValue("profName", emp.getProfName())
+                .addValue("easinessRating", emp.getEasinessRating())
+                .addValue("helpfulnessRating", emp.getHelpfulnessRating())
+                .addValue("clarityRating", emp.getClarityRating())
+                .addValue("workloadRating", emp.getWorkloadRating())
+                .addValue("gradingRating", emp.getGradingRating());
 //                .addValue("employeeAddress", emp.getEmployeeAddress());
         template.update(sql,param, holder);
     }
@@ -51,7 +56,7 @@ public class EmployeeDaoImpl implements EmployeeDao {
         KeyHolder holder = new GeneratedKeyHolder();
         SqlParameterSource param = new MapSqlParameterSource()
 //                .addValue("userId", emp.getUserId())
-                .addValue("userName", emp.getUserName())
+                // .addValue("userName", emp.getUserName())
                 .addValue("userComment", emp.getUserComment());
 //                .addValue("employeeAddress", emp.getEmployeeAddress());
         template.update(sql,param, holder);
@@ -61,7 +66,7 @@ public class EmployeeDaoImpl implements EmployeeDao {
         final String sql = "update userReviews set userName=:userName, userComment=:userComment where userName=:userName";
         Map<String,Object> map=new HashMap<String,Object>();
 //        map.put("userId", emp.getUserId());
-        map.put("userName", emp.getUserName());
+        // map.put("userName", emp.getUserName());
         map.put("userComment", emp.getUserComment());
 //        map.put("employeeAddress", emp.getEmployeeAddress());
         template.execute(sql,map,new PreparedStatementCallback<Object>() {
@@ -76,7 +81,7 @@ public class EmployeeDaoImpl implements EmployeeDao {
     public void deleteEmployee(Employee emp) {
         final String sql = "delete from userReviews where userName=:userName";
         Map<String,Object> map=new HashMap<String,Object>();
-        map.put("userName", emp.getUserName());
+        // map.put("userName", emp.getUserName());
         template.execute(sql,map,new PreparedStatementCallback<Object>() {
             @Override
             public Object doInPreparedStatement(PreparedStatement ps)

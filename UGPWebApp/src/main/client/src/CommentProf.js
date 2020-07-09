@@ -30,7 +30,7 @@ class CommentProf extends Component {
         this.rateThree = this.rateThree.bind(this);
         this.rateFour = this.rateFour.bind(this);
         this.rateFive = this.rateFive.bind(this);
-        this.ratingCompleted = this.ratingCompleted.bind(this);
+        // this.ratingCompleted = this.ratingCompleted.bind(this);
     }
 
     /**These five functions just retreive each set of ratings */
@@ -44,13 +44,13 @@ class CommentProf extends Component {
      * and 'ALL' varibles will be used later to calculate the averages of each ratings
      * and perhaps the to calculate the average of all average ratings comabined
      */
-    ratingCompleted() {
-        this.setState({ 
-            rateOneAll: this.state.rateOneTemp, rateTwoAll: this.state.rateTwoTemp, 
-            rateThreeAll: this.state.rateThreeTemp, rateFourAll: this.state.rateFourTemp, 
-            rateFiveAll: this.state.rateFiveTemp, interact: false
-        })
-    }
+    // ratingCompleted() {
+    //     this.setState({ 
+    //         rateOneAll: this.state.rateOneTemp, rateTwoAll: this.state.rateTwoTemp, 
+    //         rateThreeAll: this.state.rateThreeTemp, rateFourAll: this.state.rateFourTemp, 
+    //         rateFiveAll: this.state.rateFiveTemp, interact: false
+    //     })
+    // }
 
     initialState = {
         name:'', comment:'',
@@ -64,12 +64,17 @@ class CommentProf extends Component {
         event.preventDefault();
 
         const book = {
-            userName: this.state.name,
+            // userName: this.state.name,
             userComment: this.state.comment,
             crsTitle: this.props.chosenCourseAndProf.CRS_TITLE,
             crsNbr: this.props.chosenCourseAndProf.CRS_NBR,
             crsSubjCd: this.props.chosenCourseAndProf.CRS_SUBJ_CD,
-            profName: this.props.chosenCourseAndProf.name1
+            profName: this.props.chosenCourseAndProf.name1,
+            easinessRating: this.state.rateOneTemp,
+            helpfulnessRating: this.state.rateTwoTemp,
+            clarityRating: this.state.rateThreeTemp,
+            workloadRating: this.state.rateFourTemp,
+            gradingRating: this.state.rateFiveTemp,
         };
 
         axios.post("http://localhost:8080/postgressApp/createEmp", book)
@@ -102,7 +107,7 @@ class CommentProf extends Component {
                 {/* <div class="box container"> */}
                 <div className="overallRating">
                     <div className="row">
-                        <Col xs={12} md={8}>
+                        <Col sm>
                             <div className="row">   
                                 <Col xs={6}>
                                     <h5 style={{textAlign: 'left'}}>Overall Rating </h5>
@@ -153,8 +158,8 @@ class CommentProf extends Component {
                             </div>
                         </Col>
 
-                        <Col xs={6} md={4}>
-                            <h5 > Rated by ## Students</h5>
+                        <Col sm>
+                            <h5> Rated by ## Students</h5>
                             <ul class="actions special">
                                     <li class="button">Courses by Professor</li>
                             </ul>
@@ -224,7 +229,7 @@ class CommentProf extends Component {
                                             <h5 style={{textAlign: 'left'}}>Easiness </h5>
                                         </Col>
                                         <Col xs={6}>
-                                            <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/> </div>
+                                            <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact} required/> </div>
                                         </Col>
                                     </div>
                                     <div className="row">
@@ -232,7 +237,7 @@ class CommentProf extends Component {
                                             <h5 style={{textAlign: 'left'}}>Helpfulness </h5>
                                         </Col>
                                         <Col xs={6}>
-                                            <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/> </div>
+                                            <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateTwo} rating={this.state.rateTwoTemp} interactive={this.state.interact} required/> </div>
                                         </Col>
                                     </div>
                                     <div className="row">
@@ -240,7 +245,7 @@ class CommentProf extends Component {
                                             <h5 style={{textAlign: 'left'}}>Clarity </h5>
                                         </Col>
                                         <Col xs={6}>
-                                            <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/> </div>
+                                            <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateThree} rating={this.state.rateThreeTemp} interactive={this.state.interact} required/> </div>
                                         </Col>
                                     </div>
                                     <div className="row">
@@ -248,7 +253,7 @@ class CommentProf extends Component {
                                             <h5 style={{textAlign: 'left'}}>WorkLoad </h5>
                                         </Col>
                                         <Col xs={6}>
-                                         <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/> </div>
+                                         <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateFour} rating={this.state.rateFourTemp} interactive={this.state.interact} required/> </div>
                                         </Col>
                                     </div>
                                     <div className="row">
@@ -256,7 +261,7 @@ class CommentProf extends Component {
                                             <h5 style={{textAlign: 'left'}}>Grading </h5>
                                         </Col>
                                         <Col xs={6}>
-                                            <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/> </div>
+                                            <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateFive} rating={this.state.rateFiveTemp} interactive={this.state.interact} required/> </div>
                                         </Col>
                                     </div>
                                 </div>
@@ -279,13 +284,21 @@ class CommentProf extends Component {
                             </Col>
                         </div>
 
-                        <ul class="actions special">
+                        {/* <ul class="actions special">
                                 <li class="button">Submit</li>
-                        </ul>
+                        </ul> */}
                         
-                        {/* <button>Comment</button> */}
+                        <button>Comment</button>
+                        
                     </form>
                 </div>
+                
+                {console.log(this.state.comment)}
+                {console.log(this.state.rateOneTemp)}
+                {console.log(this.state.rateTwoTemp)}
+                {console.log(this.state.rateThreeTemp)}
+                {console.log(this.state.rateFourTemp)}
+                {console.log(this.state.rateFiveTemp)}
 
                 {/* <div className="col-12 col-md-8" style={{height: 500, overflowY:'auto'}}> */}
                     <DisplayComment chosenCourseAndProf={this.props.chosenCourseAndProf}/>

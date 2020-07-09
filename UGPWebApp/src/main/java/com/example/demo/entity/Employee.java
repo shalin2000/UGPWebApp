@@ -18,14 +18,49 @@ public class Employee {
 //        this.id = id;
 //    }
 
-    String userName;
+    // String userName;
     String userComment;
 
     String crsTitle; 
     String crsNbr;
     String crsSubjCd;
     String profName;
+    int easinessRating;
+    int helpfulnessRating;
+    int clarityRating;
+    int workloadRating;
+    int gradingRating;
 
+    public int getEasinessRating() {
+        return easinessRating;
+    }
+    public int getHelpfulnessRating() {
+        return helpfulnessRating;
+    }
+    public int getClarityRating() {
+        return clarityRating;
+    }
+    public int getWorkloadRating() {
+        return workloadRating;
+    }
+    public int getGradingRating() {
+        return gradingRating;
+    }
+    public void setEasinessRating(int easinessRating) {
+        this.easinessRating = easinessRating;
+    }
+    public void setHelpfulnessRating(int helpfulnessRating) {
+        this.helpfulnessRating = helpfulnessRating;
+    }
+    public void setClarityRating(int clarityRating) {
+        this.clarityRating = clarityRating;
+    }
+    public void setWorkloadRating(int workloadRating) {
+        this.workloadRating = workloadRating;
+    }
+    public void setGradingRating(int gradingRating) {
+        this.gradingRating = gradingRating;
+    }
     //////////////////////////////////////////////////////////////
     public String getCrsNbr() {
         return crsNbr;
@@ -65,10 +100,10 @@ public class Employee {
 //    public void setUserId(int userId) {
 //        this.userId = userId;
 //    }
-    public String getUserName() {
-        return userName;
-    }
-    public void setUserName(String userName) {
-        this.userName = userName;
-    }
+    // public String getUserName() {
+    //     return userName;
+    // }
+    // public void setUserName(String userName) {
+    //     this.userName = userName;
+    // }
 }
