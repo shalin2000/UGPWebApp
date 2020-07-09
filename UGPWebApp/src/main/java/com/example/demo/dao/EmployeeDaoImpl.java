@@ -32,9 +32,10 @@ public class EmployeeDaoImpl implements EmployeeDao {
     }
     @Override
     public void insertEmployee(Employee emp) {
-        emp.setTotalStar(emp.getEasinessRating()+emp.getHelpfulnessRating()+emp.getClarityRating()+emp.getWorkloadRating()+emp.getGradingRating());
+        emp.setTotalStar((emp.getEasinessRating()+emp.getHelpfulnessRating()+emp.getClarityRating()+emp.getWorkloadRating()+emp.getGradingRating())/5);
         // emp.listOfTotalStar.add(1)
         // System.out.println("this is easiness rating  " + emp.getEasinessRating());
+        // emp.setTotalStarAllUser.add(emp.getTotalStar());
 
         final String sql = "insert into userReview(userComment,crsTitle,crsNbr,crsSubjCd,profName,easinessRating,helpfulnessRating,clarityRating,workloadRating,gradingRating,totalStar) values(:userComment,:crsTitle,:crsNbr,:crsSubjCd,:profName,:easinessRating,:helpfulnessRating,:clarityRating,:workloadRating,:gradingRating,:totalStar)";
         KeyHolder holder = new GeneratedKeyHolder();

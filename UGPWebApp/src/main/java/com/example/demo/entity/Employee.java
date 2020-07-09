@@ -1,6 +1,6 @@
 package com.example.demo.entity;
 
-// import java.util.ArrayList;
+import java.util.ArrayList;
 
 // import javax.persistence.*;
 
@@ -35,7 +35,14 @@ public class Employee {
 
     int totalStar;
     
-    int totalStarAllUser[];
+    // ArrayList<Integer> totalStarAllUser;
+
+    // public ArrayList<Integer> getTotalStarAllUser() {
+    //     return totalStarAllUser;
+    // }
+    // public void setTotalStarAllUser(ArrayList<Integer> totalStarAllUser) {
+    //     this.totalStarAllUser = totalStarAllUser;
+    // }
 
     public int getTotalStar() {
         return totalStar;

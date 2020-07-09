@@ -12,6 +12,6 @@ CREATE TABLE userReview
  workloadRating int,
  gradingRating int,
  totalStar int,
- totalStarAllUser integer[],
+--  totalStarAllUser integer[],
  PRIMARY KEY (userComment)
 );

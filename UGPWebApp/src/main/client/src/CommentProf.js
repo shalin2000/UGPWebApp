@@ -22,7 +22,8 @@ class CommentProf extends Component {
             rateOneAll: 0,  rateTwoAll: 0, rateThreeAll: 0, rateFourAll: 0, rateFiveAll: 0,
             interact: true,
             value: 0,
-            books : []
+            books : [],
+            newArr: []
         };
         this.bookChange = this.bookChange.bind(this);
         this.submitBook = this.submitBook.bind(this);
@@ -100,6 +101,14 @@ class CommentProf extends Component {
 
         // filters the books array which was taken from the database by the professeor that we are currenlty looking at
         const byProf = this.state.books.filter(x => x.profName === (this.props.chosenCourseAndProf.name1)); 
+
+        const arrOfCombinedTotalStar = byProf.map(x => ( x.totalStar ));
+        
+        const totalStarOfAllUser = arrOfCombinedTotalStar.reduce((a, b) => a + b, 0)
+        console.log(totalStarOfAllUser)
+
+        const overallAvg = totalStarOfAllUser / arrOfCombinedTotalStar.length
+        console.log(overallAvg)
 
         return (
             <div className="reviewSystem">
@@ -248,13 +257,14 @@ class CommentProf extends Component {
                     byProf.map((book) => (
                         <p style={{borderBottom: '2px solid black'}} key={book.id}>
                             <h2> Anon <small style={{fontSize: '15px'}}><i>Posted on Today </i></small></h2>
-                            <p style={{fontWeight: 'bold'}}> Easiness&nbsp; <Rater total={5} onRate={this.rateFive} rating={book.easinessRating} interactive={false} required/>
-                                &nbsp;Helpfulness&nbsp; <Rater total={5} onRate={this.rateFive} rating={book.helpfulnessRating} interactive={false} required/>
-                                &nbsp;Clarity&nbsp; <Rater total={5} onRate={this.rateFive} rating={book.clarityRating} interactive={false} required/>
-                                &nbsp;Workload&nbsp; <Rater total={5} onRate={this.rateFive} rating={book.workloadRating} interactive={false} required/>
-                                &nbsp;Grading&nbsp; <Rater total={5} onRate={this.rateFive} rating={book.gradingRating} interactive={false} required/> 
+                            <p style={{fontWeight: 'bold'}}> Easiness&nbsp; <Rater total={5} rating={book.easinessRating} interactive={false}/>
+                                &nbsp;Helpfulness&nbsp; <Rater total={5} rating={book.helpfulnessRating} interactive={false}/>
+                                &nbsp;Clarity&nbsp; <Rater total={5} rating={book.clarityRating} interactive={false}/>
+                                &nbsp;Workload&nbsp; <Rater total={5} rating={book.workloadRating} interactive={false}/>
+                                &nbsp;Grading&nbsp; <Rater total={5} rating={book.gradingRating} interactive={false}/> 
                             </p>
                             <p>{book.userComment}</p>
+                            <p>overall: {overallAvg}</p>
                         </p>
                     ))
                     }

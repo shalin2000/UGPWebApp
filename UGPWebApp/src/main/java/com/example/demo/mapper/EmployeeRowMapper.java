@@ -19,6 +19,7 @@ public class EmployeeRowMapper implements RowMapper<Employee> {
         emp.setClarityRating(rs.getInt("clarityRating"));
         emp.setWorkloadRating(rs.getInt("workloadRating"));
         emp.setGradingRating(rs.getInt("gradingRating"));
+        emp.setTotalStar(rs.getInt("totalStar"));
         return emp;
     }
 }
