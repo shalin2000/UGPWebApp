@@ -110,7 +110,7 @@ class CommentProf extends Component {
                         <Col sm>
                             <div className="row">   
                                 <Col xs={6}>
-                                    <h5 style={{textAlign: 'left'}}>Overall Rating </h5>
+                                    <h5 style={{textAlign: 'right'}}>Overall Rating </h5>
                                 </Col>
                                 <Col xs={6}>
                                     <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/> 
@@ -118,7 +118,7 @@ class CommentProf extends Component {
                             </div>
                             <div className="row">
                                 <Col xs={6}>
-                                    <h5 style={{textAlign: 'left'}}>Easiness </h5>
+                                    <h5 style={{textAlign: 'right'}}>Easiness </h5>
                                 </Col>
                                 <Col xs={6}>
                                     <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/>
@@ -126,7 +126,7 @@ class CommentProf extends Component {
                             </div>
                             <div className="row">
                                 <Col xs={6}>
-                                    <h5 style={{textAlign: 'left'}}>Helpfulness </h5>
+                                    <h5 style={{textAlign: 'right'}}>Helpfulness </h5>
                                 </Col>
                                 <Col xs={6}>
                                     <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/> 
@@ -134,7 +134,7 @@ class CommentProf extends Component {
                             </div>
                             <div className="row">
                                 <Col xs={6}>
-                                    <h5 style={{textAlign: 'left'}}>Clarity </h5>
+                                    <h5 style={{textAlign: 'right'}}>Clarity </h5>
                                 </Col>
                                 <Col xs={6}>
                                     <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/> 
@@ -142,7 +142,7 @@ class CommentProf extends Component {
                             </div>
                             <div className="row">
                                 <Col xs={6}>
-                                    <h5 style={{textAlign: 'left'}}>WorkLoad </h5>
+                                    <h5 style={{textAlign: 'right'}}>WorkLoad </h5>
                                 </Col>
                                 <Col xs={6}>
                                     <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/>
@@ -150,7 +150,7 @@ class CommentProf extends Component {
                             </div>
                             <div className="row">
                                 <Col xs={6}>
-                                    <h5 style={{textAlign: 'left'}}>Grading </h5>
+                                    <h5 style={{textAlign: 'right'}}>Grading </h5>
                                 </Col>
                                 <Col xs={6}>
                                     <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/> 
@@ -226,42 +226,42 @@ class CommentProf extends Component {
                                 <div>
                                     <div className="row">
                                         <Col xs={6}>
-                                            <h5 style={{textAlign: 'left'}}>Easiness </h5>
+                                            <h5 style={{textAlign: 'right'}}>Easiness </h5>
                                         </Col>
                                         <Col xs={6}>
-                                            <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact} required/> </div>
-                                        </Col>
-                                    </div>
-                                    <div className="row">
-                                        <Col xs={6}>
-                                            <h5 style={{textAlign: 'left'}}>Helpfulness </h5>
-                                        </Col>
-                                        <Col xs={6}>
-                                            <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateTwo} rating={this.state.rateTwoTemp} interactive={this.state.interact} required/> </div>
+                                            <div><Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact} required/> </div>
                                         </Col>
                                     </div>
                                     <div className="row">
                                         <Col xs={6}>
-                                            <h5 style={{textAlign: 'left'}}>Clarity </h5>
+                                            <h5 style={{textAlign: 'right'}}>Helpfulness </h5>
                                         </Col>
                                         <Col xs={6}>
-                                            <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateThree} rating={this.state.rateThreeTemp} interactive={this.state.interact} required/> </div>
-                                        </Col>
-                                    </div>
-                                    <div className="row">
-                                        <Col xs={6}>
-                                            <h5 style={{textAlign: 'left'}}>WorkLoad </h5>
-                                        </Col>
-                                        <Col xs={6}>
-                                         <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateFour} rating={this.state.rateFourTemp} interactive={this.state.interact} required/> </div>
+                                            <div><Rater total={5} onRate={this.rateTwo} rating={this.state.rateTwoTemp} interactive={this.state.interact} required/> </div>
                                         </Col>
                                     </div>
                                     <div className="row">
                                         <Col xs={6}>
-                                            <h5 style={{textAlign: 'left'}}>Grading </h5>
+                                            <h5 style={{textAlign: 'right'}}>Clarity </h5>
                                         </Col>
                                         <Col xs={6}>
-                                            <div style={{textAlign: 'right'}}><Rater total={5} onRate={this.rateFive} rating={this.state.rateFiveTemp} interactive={this.state.interact} required/> </div>
+                                            <div><Rater total={5} onRate={this.rateThree} rating={this.state.rateThreeTemp} interactive={this.state.interact} required/> </div>
+                                        </Col>
+                                    </div>
+                                    <div className="row">
+                                        <Col xs={6}>
+                                            <h5 style={{textAlign: 'right'}}>WorkLoad </h5>
+                                        </Col>
+                                        <Col xs={6}>
+                                         <div><Rater total={5} onRate={this.rateFour} rating={this.state.rateFourTemp} interactive={this.state.interact} required/> </div>
+                                        </Col>
+                                    </div>
+                                    <div className="row">
+                                        <Col xs={6}>
+                                            <h5 style={{textAlign: 'right'}}>Grading </h5>
+                                        </Col>
+                                        <Col xs={6}>
+                                            <div><Rater total={5} onRate={this.rateFive} rating={this.state.rateFiveTemp} interactive={this.state.interact} required/> </div>
                                         </Col>
                                     </div>
                                 </div>
@@ -288,8 +288,8 @@ class CommentProf extends Component {
                                 <li class="button">Submit</li>
                         </ul> */}
                         
-                        <button>Comment</button>
-                        
+                        <button class="button">Submit</button>
+
                     </form>
                 </div>
                 
