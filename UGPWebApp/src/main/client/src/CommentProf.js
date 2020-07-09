@@ -102,11 +102,14 @@ class CommentProf extends Component {
         // filters the books array which was taken from the database by the professeor that we are currenlty looking at
         const byProf = this.state.books.filter(x => x.profName === (this.props.chosenCourseAndProf.name1)); 
 
+        // maps the byProf array so the new array contains only the totalStar from the byProf
         const arrOfCombinedTotalStar = byProf.map(x => ( x.totalStar ));
         
+        // adds all the totalStar from the arrOfCombinedTotalStar 
         const totalStarOfAllUser = arrOfCombinedTotalStar.reduce((a, b) => a + b, 0)
         console.log(totalStarOfAllUser)
 
+        // computes the overall avg by dividing the total from the length of how many users commented
         const overallAvg = totalStarOfAllUser / arrOfCombinedTotalStar.length
         console.log(overallAvg)
 
