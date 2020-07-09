@@ -3,12 +3,12 @@ package com.example.demo.mapper;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import org.springframework.jdbc.core.RowMapper;
-import com.example.demo.entity.Employee;
+import com.example.demo.entity.User;
 
-public class EmployeeRowMapper implements RowMapper<Employee> {
+public class UserRowMapper implements RowMapper<User> {
     @Override
-    public Employee mapRow(ResultSet rs, int arg1) throws SQLException {
-        Employee emp = new Employee();
+    public User mapRow(ResultSet rs, int arg1) throws SQLException {
+        User emp = new User();
         emp.setUserComment(rs.getString("userComment"));
         emp.setCrsNbr(rs.getString("crsNbr"));
         emp.setCrsSubjCd(rs.getString("crsSubjCd"));

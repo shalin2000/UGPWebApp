@@ -22,7 +22,7 @@ class CommentProf extends Component {
             rateOneAll: 0,  rateTwoAll: 0, rateThreeAll: 0, rateFourAll: 0, rateFiveAll: 0,
             interact: true,
             value: 0,
-            books : [],
+            userList : [],
             newArr: []
         };
         this.bookChange = this.bookChange.bind(this);
@@ -35,10 +35,10 @@ class CommentProf extends Component {
     }
 
     componentDidMount() {
-        axios.get("http://localhost:8080/postgressApp/employeeList")
+        axios.get("http://localhost:8080/postgressApp/userList")
             .then(response => response.data)
             .then((data) => {
-                this.setState({books: data});
+                this.setState({userList: data});
             });
     }
 
@@ -74,7 +74,7 @@ class CommentProf extends Component {
             gradingRating: this.state.rateFiveTemp,
         };
 
-        axios.post("http://localhost:8080/postgressApp/createEmp", book)
+        axios.post("http://localhost:8080/postgressApp/createUser", book)
             .then(response => {
                 if(response.data != null) {
                     this.setState({"show":true});
@@ -99,19 +99,17 @@ class CommentProf extends Component {
 
         const {name, comment,} = this.state;
 
-        // filters the books array which was taken from the database by the professeor that we are currenlty looking at
-        const byProf = this.state.books.filter(x => x.profName === (this.props.chosenCourseAndProf.name1)); 
+        // filters the userList array which was taken from the database by the professeor that we are currenlty looking at
+        const byProf = this.state.userList.filter(x => x.profName === (this.props.chosenCourseAndProf.name1)); 
 
         // maps the byProf array so the new array contains only the totalStar from the byProf
         const arrOfCombinedTotalStar = byProf.map(x => ( x.totalStar ));
         
         // adds all the totalStar from the arrOfCombinedTotalStar 
         const totalStarOfAllUser = arrOfCombinedTotalStar.reduce((a, b) => a + b, 0)
-        console.log(totalStarOfAllUser)
 
         // computes the overall avg by dividing the total from the length of how many users commented
         const overallAvg = totalStarOfAllUser / arrOfCombinedTotalStar.length
-        console.log(overallAvg)
 
         return (
             <div className="reviewSystem">
@@ -124,7 +122,7 @@ class CommentProf extends Component {
                                     <h5 style={{textAlign: 'right'}}>Overall Rating </h5>
                                 </Col>
                                 <Col xs={6}>
-                                    <Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact}/> 
+                                    <Rater total={5} rating={overallAvg} interactive={false}/> 
                                 </Col>
                             </div>
                             <div className="row">
@@ -257,16 +255,16 @@ class CommentProf extends Component {
                 {/* This displays the comments made by the users by mapping the byProf array */}
                 <div className="displayComment">
                     {
-                    byProf.map((book) => (
-                        <p style={{borderBottom: '2px solid black'}} key={book.id}>
+                    byProf.map((userList) => (
+                        <p style={{borderBottom: '2px solid black'}} key={userList.id}>
                             <h2> Anon <small style={{fontSize: '15px'}}><i>Posted on Today </i></small></h2>
-                            <p style={{fontWeight: 'bold'}}> Easiness&nbsp; <Rater total={5} rating={book.easinessRating} interactive={false}/>
-                                &nbsp;Helpfulness&nbsp; <Rater total={5} rating={book.helpfulnessRating} interactive={false}/>
-                                &nbsp;Clarity&nbsp; <Rater total={5} rating={book.clarityRating} interactive={false}/>
-                                &nbsp;Workload&nbsp; <Rater total={5} rating={book.workloadRating} interactive={false}/>
-                                &nbsp;Grading&nbsp; <Rater total={5} rating={book.gradingRating} interactive={false}/> 
+                            <p style={{fontWeight: 'bold'}}> Easiness&nbsp; <Rater total={5} rating={userList.easinessRating} interactive={false}/>
+                                &nbsp;Helpfulness&nbsp; <Rater total={5} rating={userList.helpfulnessRating} interactive={false}/>
+                                &nbsp;Clarity&nbsp; <Rater total={5} rating={userList.clarityRating} interactive={false}/>
+                                &nbsp;Workload&nbsp; <Rater total={5} rating={userList.workloadRating} interactive={false}/>
+                                &nbsp;Grading&nbsp; <Rater total={5} rating={userList.gradingRating} interactive={false}/> 
                             </p>
-                            <p>{book.userComment}</p>
+                            <p>{userList.userComment}</p>
                             <p>overall: {overallAvg}</p>
                         </p>
                     ))
