@@ -11,6 +11,11 @@ import DisplayComment from './DisplayComment';
 import Rater from 'react-rater'
 import 'react-rater/lib/react-rater.css'
 
+import {
+    BrowserRouter as Router,
+    Link
+  } from "react-router-dom";
+  
 class CommentProf extends Component {
     constructor(props) {
         super(props);
@@ -50,7 +55,6 @@ class CommentProf extends Component {
     rateThree(e){ this.setState({rateThreeTemp: e.rating}) }
     rateFour(e){ this.setState({rateFourTemp: e.rating}) }
     rateFive(e){ this.setState({rateFiveTemp: e.rating}) }
-
     ratingAndCommentComplete(){ this.setState({btnDisable: false}) }
 
     // initialState = {
@@ -201,7 +205,7 @@ class CommentProf extends Component {
                         <Col sm>
                             <h5> Rated by {byProf.length} Students</h5>
                             <ul class="actions special">
-                                    <li class="button">Courses by Professor</li>
+                                    <Link to={{pathname: "/displayCRSbyProf", state: { linkState: this.props.chosenCourseAndProf }}}><li class="button">Courses by Professor</li></Link>
                             </ul>
 
                             {/* ------ this is the pop up when u press leave a review button ------ */}
