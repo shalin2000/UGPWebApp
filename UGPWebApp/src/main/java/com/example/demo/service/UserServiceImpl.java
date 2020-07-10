@@ -18,8 +18,8 @@ public class UserServiceImpl implements UserService{
         return userDao.findAll();
     }
     @Override
-    public void insertEmployee(User emp) {
-        userDao.insertEmployee(emp);
+    public void insertUser(User emp) {
+        userDao.insertUser(emp);
 
     }
     // @Override

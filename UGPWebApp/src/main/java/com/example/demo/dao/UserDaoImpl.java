@@ -31,7 +31,7 @@ public class UserDaoImpl implements UserDao {
         return template.query("select * from userReview", new UserRowMapper());
     }
     @Override
-    public void insertEmployee(User emp) {
+    public void insertUser(User emp) {
         emp.setTotalStar((emp.getEasinessRating()+emp.getHelpfulnessRating()+emp.getClarityRating()+emp.getWorkloadRating()+emp.getGradingRating()) / 5.0);
         final String sql = "insert into userReview(userComment,crsTitle,crsNbr,crsSubjCd,profName,easinessRating,helpfulnessRating,clarityRating,workloadRating,gradingRating,totalStar) values(:userComment,:crsTitle,:crsNbr,:crsSubjCd,:profName,:easinessRating,:helpfulnessRating,:clarityRating,:workloadRating,:gradingRating,:totalStar)";
         KeyHolder holder = new GeneratedKeyHolder();

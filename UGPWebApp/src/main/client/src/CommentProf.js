@@ -181,7 +181,7 @@ class CommentProf extends Component {
                                     <h5 style={{textAlign: 'right'}}>WorkLoad </h5>
                                 </Col>
                                 <Col xs={6}>
-                                    <Rater total={5} rating={overallWorkload} interactive={false}/>
+                                    <Rater total={5} rating={overallWorkload} interactive={false}/> 
                                 </Col>
                             </div>
                             <div className="row">
@@ -189,7 +189,7 @@ class CommentProf extends Component {
                                     <h5 style={{textAlign: 'right'}}>Grading </h5>
                                 </Col>
                                 <Col xs={6}>
-                                    <Rater total={5} rating={overallGrading} interactive={false}/> 
+                                    <Rater total={5} rating={overallGrading} interactive={false}/>
                                 </Col>
                             </div>
                         </Col>

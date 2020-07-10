@@ -8,7 +8,7 @@ import com.example.demo.entity.User;
 public interface UserService {
     List<User> findAll();
 
-    void insertEmployee(User emp);
+    void insertUser(User emp);
 
     // void updateEmployee(Employee emp);
 

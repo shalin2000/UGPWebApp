@@ -14,12 +14,12 @@ public class ApplicationController {
     @Resource
     UserService userService;
     @GetMapping(value = "/userList")
-    public List<User> getEmployees() {
+    public List<User> getUser() {
         return userService.findAll();
     }
     @PostMapping(value = "/createUser")
-    public void createEmployee(@RequestBody User emp) {
-        userService.insertEmployee(emp);
+    public void createUser(@RequestBody User emp) {
+        userService.insertUser(emp);
     }
     // @PutMapping(value = "/updateEmp")
     // public void updateEmployee(@RequestBody Employee emp) {
