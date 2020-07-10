@@ -19,11 +19,10 @@ class CommentProf extends Component {
         this.state = {
             /**Set temp variables and all variable to 0 to initalize it to a certain num */
             rateOneTemp: 0, rateTwoTemp: 0, rateThreeTemp: 0, rateFourTemp: 0, rateFiveTemp: 0,
-            rateOneAll: 0,  rateTwoAll: 0, rateThreeAll: 0, rateFourAll: 0, rateFiveAll: 0,
             interact: true,
             value: 0,
             userList : [],
-            newArr: []
+            btnDisable: true
         };
         this.bookChange = this.bookChange.bind(this);
         this.submitBook = this.submitBook.bind(this);
@@ -32,6 +31,7 @@ class CommentProf extends Component {
         this.rateThree = this.rateThree.bind(this);
         this.rateFour = this.rateFour.bind(this);
         this.rateFive = this.rateFive.bind(this);
+        this.ratingAndCommentComplete = this.ratingAndCommentComplete.bind(this);
     }
 
     componentDidMount() {
@@ -48,6 +48,8 @@ class CommentProf extends Component {
     rateThree(e){ this.setState({rateThreeTemp: e.rating}) }
     rateFour(e){ this.setState({rateFourTemp: e.rating}) }
     rateFive(e){ this.setState({rateFiveTemp: e.rating}) }
+
+    ratingAndCommentComplete(){ this.setState({btnDisable: false}) }
 
     initialState = {
         name:'', comment:'',
@@ -199,85 +201,97 @@ class CommentProf extends Component {
                             <ul class="actions special">
                                     <li class="button">Courses by Professor</li>
                             </ul>
-                            <ul class="actions special">
-                                    <li class="button">Leave a Review</li>
-                            </ul>
+
+                            {/* ------ this is the pop up when u press leave a review button ------ */}
+                            <button type="button" class="button" data-toggle="modal" data-target="#exampleModalCenter">
+                            Leave a Review
+                            </button>
+
+                            <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="exampleModalLongTitle">Rate your Professor</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                {/* the content of the modal body, where the form is */}
+                                <div class="modal-body">
+                                <div>
+                                    <form onSubmit={this.submitBook}>
+                                        {/* this is for the star rating */}
+                                        <div>
+                                            <div className="row">
+                                                <div className="col">
+                                                    <h5 style={{textAlign: 'right'}}>Easiness </h5>
+                                                </div>
+                                                <div className="col">
+                                                    <div><Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact} required/> </div>
+                                                </div>
+                                            </div>
+                                            <div className="row">
+                                                <div className="col">
+                                                    <h5 style={{textAlign: 'right'}}>Helpfulness </h5>
+                                                </div>
+                                                <div className="col">
+                                                    <div><Rater total={5} onRate={this.rateTwo} rating={this.state.rateTwoTemp} interactive={this.state.interact} required/> </div>
+                                                </div>
+                                            </div>
+                                            <div className="row">
+                                                <div className="col">
+                                                    <h5 style={{textAlign: 'right'}}>Clarity </h5>
+                                                </div>
+                                                <div className="col">
+                                                    <div><Rater total={5} onRate={this.rateThree} rating={this.state.rateThreeTemp} interactive={this.state.interact} required/> </div>
+                                                </div>
+                                            </div>
+                                            <div className="row">
+                                                <div className="col">
+                                                    <h5 style={{textAlign: 'right'}}>WorkLoad </h5>
+                                                </div>
+                                                <div className="col">
+                                                <div><Rater total={5} onRate={this.rateFour} rating={this.state.rateFourTemp} interactive={this.state.interact} required/> </div>
+                                                </div>
+                                            </div>
+                                            <div className="row">
+                                                <div className="col">
+                                                    <h5 style={{textAlign: 'right'}}>Grading </h5>
+                                                </div>
+                                                <div className="col">
+                                                    <div><Rater total={5} onRate={this.rateFive} rating={this.state.rateFiveTemp} interactive={this.state.interact} required/> </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        {/* this is for the commenting in textarea */}
+                                        <textarea className="commentTag" type="text" name="comment" required
+                                            value={comment} onChange={this.bookChange}
+                                            placeholder="Rating as (1)Negative to (5)Positive. Comment goes here"
+                                        >
+                                        </textarea>
+
+                                        {/* this makes sure that every field in the form has been touched or filled out in order for the submit button to be enabled */}
+                                        {((this.state.rateOneTemp > 0) && (this.state.rateTwoTemp > 0) && (this.state.rateThreeTemp > 0) && (this.state.rateFourTemp > 0) && 
+                                        (this.state.rateFiveTemp > 0) && (this.state.comment.length > 0) && (this.state.btnDisable===true)) 
+                                        ? this.ratingAndCommentComplete() : null}
+
+                                    </form>
+                                </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary" onClick={this.submitBook} disabled={this.state.btnDisable}>Submit</button>
+                                </div>
+                                </div>
+                            </div>
+                            </div>
                         </Col>
                     </div>
                 <hr/>    
                 </div>
-                
-                
 
-                <br/>
-
-                {/* Form for the user to submit to add their review into the database and be displayed on the site */}
-                <div>
-                    <form onSubmit={this.submitBook}>
-                        <div className="row">
-                            {/* this is for the star rating */}
-                            <Col sm={4}>
-                                <div>
-                                    <div className="row">
-                                        <Col xs={6}>
-                                            <h5 style={{textAlign: 'right'}}>Easiness </h5>
-                                        </Col>
-                                        <Col xs={6}>
-                                            <div><Rater total={5} onRate={this.rateOne} rating={this.state.rateOneTemp} interactive={this.state.interact} required/> </div>
-                                        </Col>
-                                    </div>
-                                    <div className="row">
-                                        <Col xs={6}>
-                                            <h5 style={{textAlign: 'right'}}>Helpfulness </h5>
-                                        </Col>
-                                        <Col xs={6}>
-                                            <div><Rater total={5} onRate={this.rateTwo} rating={this.state.rateTwoTemp} interactive={this.state.interact} required/> </div>
-                                        </Col>
-                                    </div>
-                                    <div className="row">
-                                        <Col xs={6}>
-                                            <h5 style={{textAlign: 'right'}}>Clarity </h5>
-                                        </Col>
-                                        <Col xs={6}>
-                                            <div><Rater total={5} onRate={this.rateThree} rating={this.state.rateThreeTemp} interactive={this.state.interact} required/> </div>
-                                        </Col>
-                                    </div>
-                                    <div className="row">
-                                        <Col xs={6}>
-                                            <h5 style={{textAlign: 'right'}}>WorkLoad </h5>
-                                        </Col>
-                                        <Col xs={6}>
-                                         <div><Rater total={5} onRate={this.rateFour} rating={this.state.rateFourTemp} interactive={this.state.interact} required/> </div>
-                                        </Col>
-                                    </div>
-                                    <div className="row">
-                                        <Col xs={6}>
-                                            <h5 style={{textAlign: 'right'}}>Grading </h5>
-                                        </Col>
-                                        <Col xs={6}>
-                                            <div><Rater total={5} onRate={this.rateFive} rating={this.state.rateFiveTemp} interactive={this.state.interact} required/> </div>
-                                        </Col>
-                                    </div>
-                                </div>
-                            </Col>
-
-                            {/* this is for the commenting */}
-                            <Col sm={8}>
-                                <textarea className="commentTag" type="text" name="comment" required
-                                    value={comment} onChange={this.bookChange}
-                                    placeholder="Rating as (1)Negative to (5)Positive. Comment goes here"
-                                >
-                                </textarea>
-                                <br />
-                            </Col>
-                        </div>
-                        <ul className="actions special">
-                                <button className="button">Submit</button>
-                        </ul>
-                        {/* <button className="button">Submit</button> */}
-                    </form>
-                </div>
-                
+                <br/>                
 
                 {/* This displays the comments made by the users by mapping the byProf array */}
                 <div className="displayComment">
@@ -303,6 +317,7 @@ class CommentProf extends Component {
                 {/* <div className="col-12 col-md-8" style={{height: 500, overflowY:'auto'}}> */}
                     {/* <DisplayComment chosenCourseAndProf={this.props.chosenCourseAndProf}/> */}
                 {/* </div> */}
+
             </div>
         );
     }
