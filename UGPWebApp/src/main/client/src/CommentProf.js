@@ -14,15 +14,17 @@ import 'react-rater/lib/react-rater.css'
 class CommentProf extends Component {
     constructor(props) {
         super(props);
-        this.state = this.initialState;
-        this.state.show = false;
+        // this.state = this.initialState;
+        // this.state.show = false;
         this.state = {
             /**Set temp variables and all variable to 0 to initalize it to a certain num */
             rateOneTemp: 0, rateTwoTemp: 0, rateThreeTemp: 0, rateFourTemp: 0, rateFiveTemp: 0,
             interact: true,
             value: 0,
             userList : [],
-            btnDisable: true
+            btnDisable: true,
+            comment: '',
+            show: false,
         };
         this.bookChange = this.bookChange.bind(this);
         this.submitBook = this.submitBook.bind(this);
@@ -51,13 +53,13 @@ class CommentProf extends Component {
 
     ratingAndCommentComplete(){ this.setState({btnDisable: false}) }
 
-    initialState = {
-        name:'', comment:'',
-    }
+    // initialState = {
+    //     name:'', comment:'',
+    // }
 
-    resetBook = () => {
-        this.setState(() => this.initialState);
-    }
+    // resetBook = () => {
+    //     this.setState(() => this.initialState);
+    // }
 
     submitBook = event => {
         event.preventDefault();
@@ -79,15 +81,15 @@ class CommentProf extends Component {
         axios.post("http://localhost:8080/postgressApp/createUser", book)
             .then(response => {
                 if(response.data != null) {
-                    this.setState({"show":true});
-                    setTimeout(() => this.setState({"show":false}), 3000);
+                    this.setState({show:true});
+                    setTimeout(() => this.setState({show:false}), 3000);
                     window.location.reload();
                 } else {
-                    this.setState({"show":false});
+                    this.setState({show:false});
                 }
             });
 
-        this.setState(this.initialState);
+        this.setState({comment: ''});
 
     }
 
@@ -265,7 +267,7 @@ class CommentProf extends Component {
                                         </div>
 
                                         {/* this is for the commenting in textarea */}
-                                        <textarea className="commentTag" type="text" name="comment" required
+                                        <textarea className="commentTag" type="text" name="comment"
                                             value={comment} onChange={this.bookChange}
                                             placeholder="Rating as (1)Negative to (5)Positive. Comment goes here"
                                         >
