@@ -73,7 +73,8 @@ class DisplayAllProfs extends Component {
     }, {
       dataField: 'DEPT_NAME',
       text: dept,
-      sort: true
+      sort: true,
+      formatter: this.CellFormatter,
     }];
     
     // calls the bootstrap table and tookitprovider which generates the table and makes a search bar for users to quickly find the professor

@@ -59,16 +59,18 @@ class ListCRSbyProf extends Component {
       dataField: 'CRS_NBR',
       text: num,
       sort: true,
+      formatter: this.CellFormatter,
     }, {
       dataField: 'CRS_TITLE',
       text: title,
       sort: true,
+      formatter: this.CellFormatter,
     }];
 
     // displays the inital table as sorted
     const defaultSorted = [{
       dataField: 'CRS_NBR',
-      order: 'asce'
+      order: 'asc'
     }];
     
     // calls the bootstrap table which generates the table with the courses that are taught by the professor selected

@@ -29,10 +29,9 @@ class DisplayGrades extends Component {
                 <div className="secHeader">
                 <h2> {this.state.myData.CRS_SUBJ_CD} {this.state.myData.CRS_NBR} - {this.state.myData.CRS_TITLE} </h2>
                 <h2>{this.state.myData.name1}</h2>
-                <p><ListGrades ProfInfo={this.state.myData}/></p>
-
                 </div>
-
+                <ListGrades ProfInfo={this.state.myData}/>
+                
                 < Footer />
                 
             </div>

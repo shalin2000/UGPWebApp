@@ -10,6 +10,9 @@ import {Link} from 'react-router-dom';
 class Title extends Component {
 
     render(){
+        var today = new Date();
+
+        var year = today.getFullYear();
         return (
             <div>
                 <head>
@@ -73,10 +76,9 @@ class Title extends Component {
                                     <h2>Questions or comments?</h2>
                                 </header>
 
-                                <p>Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor
-                                orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus.</p>
+                                <p>Feedback, bug reports, and comments are not only welcome, but strongly encouraged <i class="far fa-smile-beam"></i></p>
 
-                                <form method="post" action="#">
+                                <form method="post" action="https://formspree.io/xnqgoapl">
                                     <div className="row">
                                         <div className="col-6 col-12-mobilep">
                                             <input type="text" name="name" placeholder="Name" />
@@ -104,7 +106,8 @@ class Title extends Component {
                                 </ul>
 
                                 <ul className="copyright">
-                                    <li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                                    <li>&copy; {year} GradePal. All rights reserved.</li>
+                                    {/* </li><li>Design: <a href="http://html5up.net">HTML5 UP</a> */}
                                 </ul>
 
                             </div>

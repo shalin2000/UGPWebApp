@@ -26,102 +26,102 @@ class DisplayDept extends Component {
         <div class="row">
           <div className="col-sm-4">
             <h2>A</h2>
-            <p><ListDept letter = 'a'/></p>
+            <ListDept letter = 'a'/>
           </div>
           
           <div className="col-sm-4">
             <h2>B</h2>
-            <p><ListDept letter = 'b'/></p>
+            <ListDept letter = 'b'/>
           </div>
 
           <div className="col-sm-4">
             <h2>C</h2>
-            <p><ListDept letter = 'c'/></p>
+            <ListDept letter = 'c'/>
           </div>
 
           <div className="col-sm-4">
             <h2>D</h2>
-            <p><ListDept letter = 'd'/></p>
+            <ListDept letter = 'd'/>
           </div>
 
           <div className="col-sm-4">
             <h2>E</h2>
-            <p><ListDept letter = 'e'/></p>
+            <ListDept letter = 'e'/>
           </div>
 
           <div className="col-sm-4">
             <h2>F</h2>
-            <p><ListDept letter = 'f'/></p>
+            <ListDept letter = 'f'/>
           </div>
 
           <div className="col-sm-4">
             <h2>G</h2>
-            <p><ListDept letter = 'g'/></p>
+            <ListDept letter = 'g'/>
           </div>
 
           <div className="col-sm-4">
             <h2>H</h2>
-            <p><ListDept letter = 'h'/></p>
+            <ListDept letter = 'h'/>
           </div>
 
           <div className="col-sm-4">
             <h2>I</h2>
-            <p><ListDept letter = 'i'/></p>
+            <ListDept letter = 'i'/>
           </div>
 
           <div className="col-sm-4">
             <h2>J</h2>
-            <p><ListDept letter = 'j'/></p>
+            <ListDept letter = 'j'/>
           </div>
 
           <div className="col-sm-4">
             <h2>K</h2>
-            <p><ListDept letter = 'k'/></p>
+            <ListDept letter = 'k'/>
           </div>
 
           <div className="col-sm-4">
             <h2>L</h2>
-            <p><ListDept letter = 'l'/></p>
+            <ListDept letter = 'l'/>
           </div>
 
           <div className="col-sm-4">
             <h2>M</h2>
-            <p><ListDept letter = 'm'/></p>
+            <ListDept letter = 'm'/>
           </div>
 
           <div className="col-sm-4">
             <h2>N</h2>
-            <p><ListDept letter = 'n'/></p>
+            <ListDept letter = 'n'/>
           </div>
 
           <div className="col-sm-4">
             <h2>O</h2>
-            <p><ListDept letter = 'o'/></p>
+            <ListDept letter = 'o'/>
           </div>
 
           <div className="col-sm-4">
             <h2>P</h2>
-            <p><ListDept letter = 'p'/></p>
+            <ListDept letter = 'p'/>
           </div>
 
           <div className="col-sm-4">
             <h2>R</h2>
-            <p><ListDept letter = 'r'/></p>
+            <ListDept letter = 'r'/>
           </div>
 
           <div className="col-sm-4">
             <h2>S</h2>
-            <p><ListDept letter = 's'/></p>
+            <ListDept letter = 's'/>
           </div>
 
           <div className="col-sm-4">
             <h2>T</h2>
-            <p><ListDept letter = 't'/></p>
+            <ListDept letter = 't'/>
           </div>
 
           <div className="col-sm-4">
             <h2>U</h2>
-            <p><ListDept letter = 'u'/></p>
+            <ListDept letter = 'u'/>
           </div>
           </div>
         </div>

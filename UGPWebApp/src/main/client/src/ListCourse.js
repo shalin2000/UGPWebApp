@@ -67,15 +67,17 @@ class ListCourse extends Component {
       dataField: 'CRS_NBR',
       text: num,
       sort: true,
+      formatter: this.CellFormatter,
     }, {
       dataField: 'CRS_TITLE',
       text: title,
       sort: true,
+      formatter: this.CellFormatter,
     }];
 
     const defaultSorted = [{
       dataField: 'CRS_NBR',
-      order: 'asce'
+      order: 'asc'
     }];
     
     const displayCourseArr = <BootstrapTable

@@ -472,7 +472,7 @@ class ListGrades extends Component {
         {displayOverAllGraph}
 
         {/* calls the function that maps the other courses that are taught by the professor */}
-        {cT_Element}
+        {/* {cT_Element} */}
 
         {/* <br></br> */}
         {/* <h5><u>Rate the Professor below</u></h5> */}
@@ -481,9 +481,9 @@ class ListGrades extends Component {
         {/* < ReviewProf /> */}
         {/* </div> */}
 
-        <br></br>
+        <br/>
         <header className="major container medium">
-                                <h2>PlaceHolder's Reviews</h2>					
+          <h2>{this.props.ProfInfo.name1} Reviews</h2>					
         </header>
         <br></br>
         

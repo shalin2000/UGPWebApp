@@ -27,10 +27,10 @@ class DisplayCourse extends Component {
             <div className="secHeader">
                 {/* using the props sent by the ImportCsvFile from Link in order to send the new props to ListCourse */}
                 <h2> {this.state.myData.CRS_SUBJ_CD} - {this.state.myData.CRS_SUBJ_DESC}</h2>
-                </div>
-                <div className='Table'>
+            </div>
+            <div className='Table'>
                 <ListCourse dept={this.state.myData}/>
-                </div>
+            </div>
                 
             < Footer />
 

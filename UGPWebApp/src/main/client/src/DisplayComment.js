@@ -33,12 +33,12 @@ class DisplayComment extends Component {
             <div className="displayComment">
                 {
                 byProf.map((book) => (
-                    <p style={{borderBottom: '2px solid black'}} key={book.id}>
+                    <div style={{borderBottom: '2px solid black'}} key={book.id}>
                         <h2> Anon <small style={{fontSize: '15px'}}><i>Posted on {date} </i></small></h2>
                         <p>easiness: {book.easinessRating} helpfulness: {book.helpfulnessRating} clarity: {book.clarityRating} workload: {book.workloadRating} grading: {book.gradingRating}</p>
                         <p>{book.userComment}</p>
                         <button>Reply</button>
-                    </p>
+                    </div>
                 ))
                 }
             </div>

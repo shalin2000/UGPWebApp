@@ -56,11 +56,12 @@ class ListDept extends Component {
       formatter: this.CellFormatter,
     }, {
       dataField: 'CRS_SUBJ_DESC',
+      formatter: this.CellFormatter,
     }];
 
     const defaultSorted = [{
       dataField: 'CRS_SUBJ_CD',
-      order: 'asce'
+      order: 'asc'
     }];
     
     const displayDeptArr = <div className="react-bootstrap-table-wrapper">
@@ -70,14 +71,13 @@ class ListDept extends Component {
                                 data={ sameLetterArr }
                                 columns={ columns } 
                                 defaultSorted={ defaultSorted } 
-                                striped
                                 hover
                               />
                             </div>
 
     return (
        <div>
-          <p>{displayDeptArr}</p>
+          {displayDeptArr}
        </div>
     );
 

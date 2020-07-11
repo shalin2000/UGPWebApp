@@ -203,7 +203,8 @@ class CommentProf extends Component {
                         </Col>
 
                         <Col sm>
-                            <h5> Rated by {byProf.length} Students</h5>
+                            {byProf.length > 0 ? <h5> Rated by {byProf.length} Students</h5> : <h5> Be the first to <br/>leave a review!</h5>}
+                            {/* <h5> Rated by {byProf.length} Students</h5> */}
                             <ul class="actions special">
                                     <Link to={{pathname: "/displayCRSbyProf", state: { linkState: this.props.chosenCourseAndProf }}}><li class="button">Courses by Professor</li></Link>
                             </ul>
@@ -303,8 +304,8 @@ class CommentProf extends Component {
                 <div className="displayComment">
                     {
                     byProf.map((userList) => (
-                        <p style={{borderBottom: '2px solid black'}} key={userList.id}>
-                            <h2> Anon <small style={{fontSize: '15px'}}><i>Posted on Today </i></small></h2>
+                        <div key={userList.id}>
+                            <h5> {userList.crsSubjCd}&nbsp;{userList.crsNbr}<small style={{fontSize: '15px'}}><i> - Posted on Today </i></small></h5>
                             <p style={{fontWeight: 'bold'}}> Easiness&nbsp; <Rater total={5} rating={userList.easinessRating} interactive={false}/>
                                 &nbsp;Helpfulness&nbsp; <Rater total={5} rating={userList.helpfulnessRating} interactive={false}/>
                                 &nbsp;Clarity&nbsp; <Rater total={5} rating={userList.clarityRating} interactive={false}/>
@@ -312,10 +313,9 @@ class CommentProf extends Component {
                                 &nbsp;Grading&nbsp; <Rater total={5} rating={userList.gradingRating} interactive={false}/> 
                             </p>
                             <p>{userList.userComment}</p>
-                            <p>Averages: {overallAvg} - {overallEasy} - {overallHelp} - {overallClarity}
-                            - {overallWorkload} - {overallGrading}
-                            </p>
-                        </p>
+                        <hr/>    
+                        </div>
+                        
                     ))
                     }
                 </div>

@@ -73,14 +73,17 @@ class ListGenEdCourses extends Component {
       dataField: 'CRS_NBR',
       text: num,
       sort: true,
+      formatter: this.CellFormatter,
     }, {
       dataField: 'CRS_TITLE',
       text: title,
       sort: true,
+      formatter: this.CellFormatter,
     }, {
       dataField: 'CRDT',
       text: credit,
       sort: true,
+      formatter: this.CellFormatter,
     }];
     
     const displayGenCourses = <BootstrapTable
