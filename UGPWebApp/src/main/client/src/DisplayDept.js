@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import './DisplayDept.css';
 import ListDept from './ListDept';
-import Logo from './logoImage.png'
 import Header from './Header';
 import Footer from './Footer';
 

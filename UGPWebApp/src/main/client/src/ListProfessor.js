@@ -5,7 +5,6 @@ import './DisplayDept.css';
 
 import * as d3 from 'd3';
 import data from './CSVData/10Year.csv';
-import avatar from './img_avatar3.png';
 import pic01 from "./TitleScreenComponent/images/pic01.jpg"
 import {
   BrowserRouter as Router,

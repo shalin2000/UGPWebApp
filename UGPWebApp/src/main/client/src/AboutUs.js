@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Logo from './GradePal.png'
 import Header from './Header';
 import Footer from './Footer';
 import './AboutUs.css'

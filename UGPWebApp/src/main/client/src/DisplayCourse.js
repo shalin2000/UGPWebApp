@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './DisplayDept.css';
 import ListCourse from './ListCourse';
-import Logo from './logoImage.png'
 import Header from './Header';
 import Footer from './Footer';
 

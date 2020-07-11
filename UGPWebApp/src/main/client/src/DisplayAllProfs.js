@@ -61,8 +61,12 @@ class DisplayAllProfs extends Component {
     const sortedArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1)
     
     //To style the Header of the Table columns
-    let prof = <div className="TableHeader">Professor</div>
-    let dept = <div className="TableHeader">Department</div>
+    let prof = <div className="TableHeader">Professor
+                <span class="tooltiptext">Click to Sort</span>
+               </div>
+    let dept = <div className="TableHeader">Department
+                <span class="tooltiptextLeft">Click to Sort</span>
+               </div>
 
     // makes the columns which the bootstrap table can use to display
     const columns = [{

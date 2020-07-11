@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import './DisplayDept.css';
-import ListCourse from './ListCourse';
 import ListProfessor from './ListProfessor';
-import Logo from './logoImage.png'
 import Header from './Header';
 import Footer from './Footer';
 
