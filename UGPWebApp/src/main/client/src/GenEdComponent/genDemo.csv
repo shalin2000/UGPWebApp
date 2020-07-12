@@ -472,8 +472,8 @@ THTR,155,"Fundamentals of Theatre Design",3,0,0,0,1,0,0
 THTR,201,"Theatre History II: Modern Theatre",3,0,0,0,1,0,0
 THTR,245,"East Asian Theatre",3,0,0,0,1,0,0
 AAST,101,"Introduction to African Diaspora Studies",3,0,0,0,0,1,0
-AAST,245,"Politics and Government of Africa", 3,0,0,0,0,1,0
-ANTH,100,"The Human Adventure", 3,0,0,0,0,1,0
+AAST,245,"Politic and Government of Africa",3,0,0,0,0,1,0
+ANTH,100,"The Human Adventure",3,0,0,0,0,1,0
 ANTH,101,"World Cultures: Introduction to Social Anthropology",3,0,0,0,0,1,0
 ANTH,207,"Asian Cities: Urban Cultures of the Global South",3,0,0,0,0,1,0
 ANTH,208,"Virtual Lives: Science, Technology, and Culture",3,0,0,0,0,1,0
@@ -481,7 +481,7 @@ ANTH,215,"Anthropology of Religion",3,0,0,0,0,1,0
 ANTH,216,"Medicine, Culture, and Society",3,0,0,0,0,1,0
 ANTH,219,"Anthropology of Globalization",3,0,0,0,0,1,0
 ANTH,273,"Ethnography of Southeast Asia",3,0,0,0,0,1,0
-ANTH,277,"Ethnography of Meso-America",	3,0,0,0,0,1,0
+ANTH,277,"Ethnography of Meso-America",3,0,0,0,0,1,0
 ANTH,279,"South Asian Cultures and Societies",3,0,0,0,0,1,0
 ARAB,230,"Arabic Literature in Translation",3,0,0,0,0,1,0
 ARAB,250,"The Heritage of Muslim Iberia",3,0,0,0,0,1,0
@@ -505,7 +505,7 @@ FR,191,"African and Caribbean Francophone Literature in Translation",3,0,0,0,0,1
 FR,297,"Paris in Literature, Film, and Culture",3,0,0,0,0,1,0
 FR,298,"French Literature, Drama and/or Film in Translation",3,0,0,0,0,1,0
 GWS,102,"Global Perspectives on Women and Gender",3,0,0,0,0,1,0
-GWS,262,"Constructions of Gender, Race, Health, and Human Rights", 3,0,0,0,0,1,0
+GWS,262,"Constructions of Gender, Race, Health, and Human Rights",3,0,0,0,0,1,0
 GEOG,100,"Concepts in Geography",3,0,0,0,0,1,0
 GEOG,101,"World Regional Geography",3,0,0,0,0,1,0
 GEOG,151,"Introduction to Cultural Geography",4,0,0,0,0,1,0
@@ -517,7 +517,7 @@ GER,120,"Study of Gender, Class, and Political Issues in German Texts",3,0,0,0,0
 GER,122,"Minority Perspectives in the Germanic Context",3,0,0,0,0,1,0
 GER,123,"Introduction to Yiddish Culture and Literature",3,0,0,0,0,1,0
 GER,125,"Diaspora, Exile, Genocide: Aspects of the European Jewish Experience in Literature and Film",3,0,0,0,0,1,0
-GER,217,"Introduction to German Cinema", 4,0,0,0,0,1,0
+GER,217,"Introduction to German Cinema",4,0,0,0,0,1,0
 GLAS,100,"Introduction to Global Asian Studies",3,0,0,0,0,1,0
 GLAS,201,"Asian Markets, Corporations, and Social Justice",3,0,0,0,0,1,0
 GLAS,229,"Introduction to Asian Film",3,0,0,0,0,1,0
@@ -700,7 +700,7 @@ PPOL,230,"Nonprofit Organizations and Civil Society",3,0,0,0,0,0,1
 PPOL,231,"Social Welfare State: Policies and Process",3,0,0,0,0,0,1
 PPOL,240,"Environmental Policy",3,0,0,0,0,0,1
 PUBH,100,"Health and the Public",3,0,0,0,0,0,1
-RELS,256,"Religion in American History",3,0,0,0,0,0,1
+RELS,256,"Religions in American History",3,0,0,0,0,0,1
 SJ,201,"Theories and Practices of Social Justice",3,0,0,0,0,0,1
 SOC,100,"Introduction to Sociology",3,0,0,0,0,0,1
 SOC,105,"Social Problems",3,0,0,0,0,0,1
