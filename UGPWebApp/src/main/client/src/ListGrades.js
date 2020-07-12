@@ -219,25 +219,79 @@ class ListGrades extends Component {
     return prev + parseInt(cur.B);
     } , 0);    
 
-    // get sum of all A across all objects in array 
+    // get sum of all C across all objects in array 
     const totalGradesC = allSemCombinedArr.reduce(function(prev, cur) {
       return prev + parseInt(cur.C);
     }, 0);
 
-    // get sum of all B across all objects in array 
+    // get sum of all D across all objects in array 
     const totalGradesD = allSemCombinedArr.reduce(function(prev, cur) {
     return prev + parseInt(cur.D);
     } , 0);
 
-    // get sum of all A across all objects in array 
+    // get sum of all F across all objects in array 
     const totalGradesF = allSemCombinedArr.reduce(function(prev, cur) {
       return prev + parseInt(cur.F);
     }, 0);
 
-    // get sum of all B across all objects in array 
+    // get sum of all W across all objects in array 
     const totalGradesW = allSemCombinedArr.reduce(function(prev, cur) {
       return prev + parseInt(cur.W);
     } , 0);
+
+    // get sum of all ADV across all objects in array 
+    const totalGradesADV = allSemCombinedArr.reduce(function(prev, cur) {
+      return prev + parseInt(cur.ADV);
+    } , 0);
+
+    // get sum of all CR across all objects in array 
+    const totalGradesCR = allSemCombinedArr.reduce(function(prev, cur) {
+      return prev + parseInt(cur.CR);
+    } , 0);
+
+    // get sum of all DFR across all objects in array 
+    const totalGradesDFR = allSemCombinedArr.reduce(function(prev, cur) {
+      return prev + parseInt(cur.DFR);
+    } , 0);
+
+    // get sum of all I across all objects in array 
+    const totalGradesI = allSemCombinedArr.reduce(function(prev, cur) {
+      return prev + parseInt(cur.I);
+    } , 0);
+
+    // get sum of all NG across all objects in array 
+    const totalGradesNG = allSemCombinedArr.reduce(function(prev, cur) {
+      return prev + parseInt(cur.NG);
+    } , 0);
+
+    // get sum of all NR across all objects in array 
+    const totalGradesNR = allSemCombinedArr.reduce(function(prev, cur) {
+      return prev + parseInt(cur.NR);
+    } , 0);
+
+    // get sum of all O across all objects in array 
+    const totalGradesO = allSemCombinedArr.reduce(function(prev, cur) {
+      return prev + parseInt(cur.O);
+    } , 0);
+
+    // get sum of all PR across all objects in array 
+    const totalGradesPR = allSemCombinedArr.reduce(function(prev, cur) {
+      return prev + parseInt(cur.PR);
+    } , 0);
+
+    // get sum of all S across all objects in array 
+    const totalGradesS = allSemCombinedArr.reduce(function(prev, cur) {
+      return prev + parseInt(cur.S);
+    } , 0);
+
+    // get sum of all U across all objects in array 
+    const totalGradesU = allSemCombinedArr.reduce(function(prev, cur) {
+      return prev + parseInt(cur.U);
+    } , 0);
+    
+    const totalStudentsTaught2 = totalGradesADV+totalGradesI+totalGradesO+totalGradesU+totalGradesCR+totalGradesNG+totalGradesPR
+    +totalGradesW+totalGradesDFR+totalGradesNR+totalGradesS;
+
     const overallLetterGradeCount = totalGradesA+totalGradesB+totalGradesC+totalGradesD+totalGradesF;
     // returns the total amount of students from adding all the letter grades
     const totalStudentsTaught = totalGradesA+totalGradesB+totalGradesC+totalGradesD+totalGradesF+totalGradesW
@@ -262,6 +316,33 @@ class ListGrades extends Component {
           data: [ parseFloat(((totalGradesA/totalStudentsTaught) * 100).toFixed(2)), parseFloat(((totalGradesB/totalStudentsTaught) * 100).toFixed(2)),
                   parseFloat(((totalGradesC/totalStudentsTaught) * 100).toFixed(2)), parseFloat(((totalGradesD/totalStudentsTaught) * 100).toFixed(2)), 
                   parseFloat(((totalGradesF/totalStudentsTaught) * 100).toFixed(2)), parseFloat(((totalGradesW/totalStudentsTaught) * 100).toFixed(2))]
+        },
+      ]
+    }
+
+    const overallGradeChart2  = {
+      labels: ['Advanced', 'Credit','Deferred', 'Incomplete', 'Non-graded', 'Not Reported', 'Outstanding', 'Proficient', 'Satisfactory', 'Unsatisfactory', 'Withdrawn'],
+      datasets: [
+        {
+          backgroundColor: [
+            'rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 206, 86, 0.2)',
+            'rgba(75, 192, 192, 0.2)', 'rgba(153, 102, 255, 0.2)', 'rgba(78, 169, 107, 0.2)', 
+            'rgba(173, 113, 116, 0.2)', 'rgba(214, 47, 227, 0.2)', 'rgba(188, 58, 0, 0.2)', 
+            'rgba(43, 81, 106, 0.2)', 'rgba(255, 159, 64, 0.2)'
+          ],
+          borderColor: [
+              'rgba(255, 99, 132, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 206, 86, 1)',
+              'rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)', 'rgba(78, 169, 107, 1)', 
+              'rgba(173, 113, 116, 1)', 'rgba(214, 47, 227, 1)', 'rgba(188, 58, 0, 1)', 
+              'rgba(43, 81, 106, 1)', 'rgba(255, 159, 64, 1)', 
+          ],
+          borderWidth: 2,
+          data: [parseFloat(((totalGradesADV/totalStudentsTaught2) * 100).toFixed(2)), parseFloat(((totalGradesCR/totalStudentsTaught2) * 100).toFixed(2)),
+            parseFloat(((totalGradesDFR/totalStudentsTaught2) * 100).toFixed(2)), parseFloat(((totalGradesI/totalStudentsTaught2) * 100).toFixed(2)),
+            parseFloat(((totalGradesNG/totalStudentsTaught2) * 100).toFixed(2)), parseFloat(((totalGradesNR/totalStudentsTaught2) * 100).toFixed(2)),
+            parseFloat(((totalGradesO/totalStudentsTaught2) * 100).toFixed(2)), parseFloat(((totalGradesPR/totalStudentsTaught2) * 100).toFixed(2)),  
+            parseFloat(((totalGradesS/totalStudentsTaught2) * 100).toFixed(2)), parseFloat(((totalGradesU/totalStudentsTaught2) * 100).toFixed(2)),
+            parseFloat(((totalGradesW/totalStudentsTaught2) * 100).toFixed(2))]
         },
       ]
     }
@@ -398,7 +479,7 @@ class ListGrades extends Component {
 
     const displayOverAllGraph = <div className='chart-container'>
                                   <Bar
-                                  data={overallGradeChart}
+                                  data={overallLetterGradeCount > 0 ? overallGradeChart : overallGradeChart2}
                                   options={{
                                       title:{
                                           display:true,
@@ -470,7 +551,7 @@ class ListGrades extends Component {
         {this.state.intialGraph ? displayInitalGraph : this.state.howManyLetterGrades > 0 ? displayLetterGraph : displayNoLetterGraph}
         
         {/* makes the graph for the overall grades for the professor througout all semesters */}
-        {overallLetterGradeCount > 0 ? displayOverAllGraph : null}
+        {displayOverAllGraph}
         {/* calls the function that maps the other courses that are taught by the professor */}
         {/* {cT_Element} */}
 
