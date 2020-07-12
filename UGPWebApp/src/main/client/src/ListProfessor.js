@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
 import './DisplayDept.css';
-import ScrollUpButton from "react-scroll-up-button";
+// import ScrollUpButton from "react-scroll-up-button";
 import * as d3 from 'd3';
 import data from './CSVData/10Year.csv';
 import pic01 from "./TitleScreenComponent/images/pic01.jpg"
@@ -61,7 +61,7 @@ class ListProfessor extends Component {
     
     return (
        <div>
-         <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/>
+         {/* <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/> */}
         <div>{displayProfArr}</div>
        </div>
        

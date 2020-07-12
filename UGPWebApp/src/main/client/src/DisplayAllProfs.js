@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './DisplayDept.css';
 import Header from './Header';
 import Footer from './Footer';
-import ScrollUpButton from "react-scroll-up-button";
+// import ScrollUpButton from "react-scroll-up-button";
 import * as d3 from 'd3';
 import data from './CSVData/3Year.csv';
 
@@ -102,7 +102,7 @@ class DisplayAllProfs extends Component {
     return(
       <div className='App'>
         
-        <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/>
+        {/* <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/> */}
           < Header />
 
           <div className="secHeader">

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './Footer.css'
+import ScrollUpButton from "react-scroll-up-button";
 
 class Footer extends Component {
 
@@ -8,6 +9,7 @@ class Footer extends Component {
 
         var year = today.getFullYear();
         return(
+            <div>
             <footer className="site-footer">
                 <div className="container">
                     <br/>
@@ -24,6 +26,8 @@ class Footer extends Component {
         
                 </div>
             </footer>
+            <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/>
+            </div>
         )
     }
 }
