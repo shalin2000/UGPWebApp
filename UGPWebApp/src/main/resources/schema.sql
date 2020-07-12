@@ -1,7 +1,6 @@
 CREATE TABLE userReview
 (
---  userName varchar(100) NOT NULL,
- userComment varchar(100),
+ userComment varchar(1000),
  crsTitle varchar(100),
  crsNbr varchar(100),
  crsSubjCd varchar(100),
@@ -12,5 +11,6 @@ CREATE TABLE userReview
  workloadRating int,
  gradingRating int,
  totalStar float,
+ datePosted varchar(100),
  PRIMARY KEY (userComment)
 );

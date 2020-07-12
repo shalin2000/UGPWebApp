@@ -25,6 +25,7 @@ public class User {
         this.message = message;
     }
 
+    String datePosted;
     String userComment;
     String crsTitle; 
     String crsNbr;
@@ -35,9 +36,15 @@ public class User {
     int clarityRating;
     int workloadRating;
     int gradingRating;
-
     double totalStar;
     
+    public String getDatePosted(){
+        return datePosted;
+    }
+    public void setDatePosted(String datePosted){
+        this.datePosted = datePosted;
+    }
+
     public double getTotalStar() {
         return totalStar;
     }

@@ -20,6 +20,7 @@ public class UserRowMapper implements RowMapper<User> {
         emp.setWorkloadRating(rs.getInt("workloadRating"));
         emp.setGradingRating(rs.getInt("gradingRating"));
         emp.setTotalStar(rs.getFloat("totalStar"));
+        emp.setDatePosted(rs.getString("datePosted"));
         return emp;
     }
 }

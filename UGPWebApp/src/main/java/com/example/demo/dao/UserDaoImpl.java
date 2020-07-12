@@ -17,6 +17,9 @@ import org.springframework.stereotype.Repository;
 import com.example.demo.entity.User;
 import com.example.demo.mapper.UserRowMapper;
 
+import java.time.format.DateTimeFormatter;  
+import java.time.LocalDateTime;
+
 @Repository
 public class UserDaoImpl implements UserDao {
 
@@ -33,8 +36,13 @@ public class UserDaoImpl implements UserDao {
     @Override
     public void insertUser(User emp) {
         emp.setTotalStar((emp.getEasinessRating()+emp.getHelpfulnessRating()+emp.getClarityRating()+emp.getWorkloadRating()+emp.getGradingRating()) / 5.0);
-        final String sql = "insert into userReview(userComment,crsTitle,crsNbr,crsSubjCd,profName,easinessRating,helpfulnessRating,clarityRating,workloadRating,gradingRating,totalStar) values(:userComment,:crsTitle,:crsNbr,:crsSubjCd,:profName,:easinessRating,:helpfulnessRating,:clarityRating,:workloadRating,:gradingRating,:totalStar)";
+        final String sql = "insert into userReview(userComment,crsTitle,crsNbr,crsSubjCd,profName,easinessRating,helpfulnessRating,clarityRating,workloadRating,gradingRating,totalStar,datePosted) values(:userComment,:crsTitle,:crsNbr,:crsSubjCd,:profName,:easinessRating,:helpfulnessRating,:clarityRating,:workloadRating,:gradingRating,:totalStar,:datePosted)";
         KeyHolder holder = new GeneratedKeyHolder();
+        
+        DateTimeFormatter dtf = DateTimeFormatter.ofPattern("MM/dd/yyyy");  
+        LocalDateTime now = LocalDateTime.now();
+        emp.setDatePosted(dtf.format(now));
+        
         SqlParameterSource param = new MapSqlParameterSource()
                 .addValue("userComment", emp.getUserComment())
                 .addValue("crsTitle", emp.getCrsTitle())
@@ -46,7 +54,8 @@ public class UserDaoImpl implements UserDao {
                 .addValue("clarityRating", emp.getClarityRating())
                 .addValue("workloadRating", emp.getWorkloadRating())
                 .addValue("gradingRating", emp.getGradingRating())
-                .addValue("totalStar", emp.getTotalStar());
+                .addValue("totalStar", emp.getTotalStar())
+                .addValue("datePosted", emp.getDatePosted());
         template.update(sql,param, holder);
     }
 //     @Override

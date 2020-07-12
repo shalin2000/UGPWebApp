@@ -19,8 +19,6 @@ import {
 class CommentProf extends Component {
     constructor(props) {
         super(props);
-        // this.state = this.initialState;
-        // this.state.show = false;
         this.state = {
             /**Set temp variables and all variable to 0 to initalize it to a certain num */
             rateOneTemp: 0, rateTwoTemp: 0, rateThreeTemp: 0, rateFourTemp: 0, rateFiveTemp: 0,
@@ -30,6 +28,7 @@ class CommentProf extends Component {
             btnDisable: true,
             comment: '',
             show: false,
+            datePosted: '',
         };
         this.bookChange = this.bookChange.bind(this);
         this.submitBook = this.submitBook.bind(this);
@@ -57,19 +56,10 @@ class CommentProf extends Component {
     rateFive(e){ this.setState({rateFiveTemp: e.rating}) }
     ratingAndCommentComplete(){ this.setState({btnDisable: false}) }
 
-    // initialState = {
-    //     name:'', comment:'',
-    // }
-
-    // resetBook = () => {
-    //     this.setState(() => this.initialState);
-    // }
-
     submitBook = event => {
         event.preventDefault();
 
         const book = {
-            // userName: this.state.name,
             userComment: this.state.comment,
             crsTitle: this.props.chosenCourseAndProf.CRS_TITLE,
             crsNbr: this.props.chosenCourseAndProf.CRS_NBR,
@@ -305,7 +295,7 @@ class CommentProf extends Component {
                     {
                     byProf.map((userList) => (
                         <div key={userList.id}>
-                            <h5> {userList.crsSubjCd}&nbsp;{userList.crsNbr}<small style={{fontSize: '15px'}}><i> - Posted on Today </i></small></h5>
+                            <h5> {userList.crsSubjCd}&nbsp;{userList.crsNbr}<small style={{fontSize: '15px'}}><i> - Posted on {userList.datePosted} </i></small></h5>
                             <p style={{fontWeight: 'bold'}}> Easiness&nbsp; <Rater total={5} rating={userList.easinessRating} interactive={false}/>
                                 &nbsp;Helpfulness&nbsp; <Rater total={5} rating={userList.helpfulnessRating} interactive={false}/>
                                 &nbsp;Clarity&nbsp; <Rater total={5} rating={userList.clarityRating} interactive={false}/>
