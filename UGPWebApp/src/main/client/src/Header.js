@@ -12,13 +12,15 @@ class Header extends Component {
             <Menu>
                 <Link to={{pathname: "/"}} className="menu-item"> <i className="fa fa-home fa-fw" aria-hidden="true"/>&nbsp; Home </Link>
 
-                <Link to={{pathname: "/aboutUs"}} className="menu-item"> <i className="fa fa-address-card fa-fw" aria-hidden="true"/>&nbsp; About Us </Link>
-
                 <Link to={{pathname: "/displayDept"}} className="menu-item"> <i className="fa fa-university fa-fw" aria-hidden="true"/>&nbsp; Departments </Link>
 
                 <Link to={{pathname: "/displayAllProfessors"}} className="menu-item"> <i className="fa fa-user-tie fa-fw" aria-hidden="true"/>&nbsp; Professors </Link>
 
                 <Link to={{pathname: "/displayGenEd"}} className="menu-item"> <i className="fa fa-book fa-fw" aria-hidden="true"/>&nbsp; Gen Education </Link>
+
+                <Link to={{pathname: "/aboutUs"}} className="menu-item"> <i className="fa fa-address-card fa-fw" aria-hidden="true"/>&nbsp; About Us </Link>
+
+                <Link to={{pathname: "/"}} className="menu-item"> <i className="fa fa-envelope-open-text fa-fw" aria-hidden="true"/>&nbsp; Contact Us </Link>
             </Menu>
             <div className="logoAlignment"> 
             <Link to={{pathname: "/"}}>

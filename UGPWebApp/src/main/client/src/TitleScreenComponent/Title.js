@@ -1,9 +1,6 @@
 import React, { Component } from 'react';
 import "./assets/css/main.css"
 import pic01 from "./images/pic01.jpg"
-import pic02 from "./images/pic02.jpg"
-import pic03 from "./images/pic03.jpg"
-// import Logo from '../miniLogo.png'
 import Logo from '../GradePal.png'
 import {Link} from 'react-router-dom';
 import ScrollUpButton from "react-scroll-up-button";
@@ -86,13 +83,13 @@ class Title extends Component {
                                     </div>
                                 </section>
                                 <section className="feature right">
-                                <Link to={{pathname: "/displayAllProfessors"}} className="image icon solid fa-user-tie"><img src={pic02} alt="pic02" /></Link>
+                                <Link to={{pathname: "/displayAllProfessors"}} className="image icon solid fa-user-tie"><img src={pic01} alt="pic01" /></Link>
                                     <div className="content">
                                         <h3>Check out Professors</h3>
                                     </div>
                                 </section>
                                 <section className="feature left">
-                                    <Link to={{pathname: "/displayGenEd"}} className="image icon solid fa-book-open"><img src={pic03} alt="pic03" /></Link>
+                                    <Link to={{pathname: "/displayGenEd"}} className="image icon solid fa-book-open"><img src={pic01} alt="pic01" /></Link>
                                     <div className="content">
                                         <h3>General Ed. Courses</h3>
                                     </div>
