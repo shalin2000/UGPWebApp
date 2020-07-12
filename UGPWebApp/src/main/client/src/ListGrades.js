@@ -238,7 +238,7 @@ class ListGrades extends Component {
     const totalGradesW = allSemCombinedArr.reduce(function(prev, cur) {
       return prev + parseInt(cur.W);
     } , 0);
-
+    const overallLetterGradeCount = totalGradesA+totalGradesB+totalGradesC+totalGradesD+totalGradesF;
     // returns the total amount of students from adding all the letter grades
     const totalStudentsTaught = totalGradesA+totalGradesB+totalGradesC+totalGradesD+totalGradesF+totalGradesW
 
@@ -470,8 +470,7 @@ class ListGrades extends Component {
         {this.state.intialGraph ? displayInitalGraph : this.state.howManyLetterGrades > 0 ? displayLetterGraph : displayNoLetterGraph}
         
         {/* makes the graph for the overall grades for the professor througout all semesters */}
-        {displayOverAllGraph}
-
+        {overallLetterGradeCount > 0 ? displayOverAllGraph : null}
         {/* calls the function that maps the other courses that are taught by the professor */}
         {/* {cT_Element} */}
 
