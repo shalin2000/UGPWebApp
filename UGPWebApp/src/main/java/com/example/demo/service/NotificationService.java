@@ -21,10 +21,10 @@ public class NotificationService {
 	public void sendNotificaitoin(User user) throws MailException {
 		// send email
 		SimpleMailMessage mail = new SimpleMailMessage();
-		mail.setTo(user.getEmail());
+		mail.setTo(user.getEmail(),"ugpgradepal@gmail.com");
 		mail.setFrom("ugpgradepal@gmail.com");
-		mail.setSubject("Testing contact form for webapp");
-		mail.setText(user.getMessage() + "\n\n" + user.getName());
+		mail.setSubject("Copy of GradePal contact form");
+		mail.setText("Name: " + user.getName() + "\n" + "Email: " + user.getEmail() + "\n" + "\n" + "Message: " + user.getMessage());
 		
 		javaMailSender.send(mail);
 	}

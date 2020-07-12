@@ -24,16 +24,14 @@ public class RegistrationController {
 	private NotificationService notificationService;
 	
 	@PostMapping(value = "/signup-success")
-	public String signupSuccess(@RequestBody User user){
+	public void signupSuccess(@RequestBody User user){
 		// send a notification
-		System.out.println(user.getEmail());
 		try {
 			notificationService.sendNotificaitoin(user);
 		}catch( MailException e ){
 			// catch error
 			logger.info("Error Sending Email: " + e.getMessage());
 		}
-		return "Thank you for registering with us.";
 	}
 	
 }
