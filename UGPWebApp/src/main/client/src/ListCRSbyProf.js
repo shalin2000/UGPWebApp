@@ -45,15 +45,9 @@ class ListCRSbyProf extends Component {
     const noDupArr = printArr.filter((item, index, self) => index === self.findIndex((t) => (t.CRS_SUBJ_CD === item.CRS_SUBJ_CD && t.CRS_TITLE === item.CRS_TITLE)));
 
     //To style the Header of the Table columns
-    let course = <div className="TableHeader">Course
-                  <span class="tooltiptext">Click to Sort</span>
-                 </div>
-    let num = <div className="TableHeader">Number
-                <span class="tooltiptext">Click to Sort</span>
-              </div>
-    let title = <div className="TableHeader">Title
-                  <span class="tooltiptextLeft">Click to Sort</span>
-                </div>
+    let course = <div className="TableHeader">Course⇅</div>
+    let num = <div className="TableHeader">Number⇅</div>
+    let title = <div className="TableHeader">Title⇅</div>
 
     // makes the columns which the bootstrap table can use to display
     const columns = [{

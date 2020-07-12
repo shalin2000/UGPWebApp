@@ -55,15 +55,9 @@ class ListCourse extends Component {
 
 
     //To style the Header of the Table columns
-    let course = <div className="TableHeader">Course
-                  <span class="tooltiptext">Click to Sort</span>
-                 </div>
-    let num = <div className="TableHeader">Number
-                <span class="tooltiptext">Click to Sort</span>
-              </div>
-    let title = <div className="TableHeader">Title
-                  <span class="tooltiptextLeft">Click to Sort</span>
-                </div>
+    let course = <div className="TableHeader">Course</div>
+    let num = <div className="TableHeader">Number⇅</div>
+    let title = <div className="TableHeader">Title⇅</div>
 
     const columns = [{
       dataField: 'CRS_SUBJ_CD',

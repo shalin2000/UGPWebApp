@@ -45,45 +45,6 @@ a:hover {
 
 .TableHeader {
   cursor: pointer;
-  position: relative;
-}
-
-.TableHeader .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: #AC1E2D;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-
-  /* Position the tooltip */
-  position: absolute;
-  top: -5px;
-  z-index: 1;
-}
-
-.TableHeader .tooltiptextLeft {
-  visibility: hidden;
-  width: 120px;
-  background-color: #AC1E2D;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-
-  /* Position the tooltip */
-  position: absolute;
-  z-index: 1;
-  top: -5px;
-  right: 75%;
-}
-
-.TableHeader:hover .tooltiptext {
-  visibility: visible;
-}
-.TableHeader:hover .tooltiptextLeft {
-  visibility: visible;
 }
 
 .Footer {
