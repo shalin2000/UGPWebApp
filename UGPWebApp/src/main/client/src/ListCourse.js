@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
 import './DisplayDept.css';
-
+import ScrollUpButton from "react-scroll-up-button";
 import * as d3 from 'd3';
 import data from './CSVData/3Year.csv';
 import BootstrapTable from 'react-bootstrap-table-next';
@@ -56,8 +56,8 @@ class ListCourse extends Component {
 
     //To style the Header of the Table columns
     let course = <div className="TableHeader">Course</div>
-    let num = <div className="TableHeader">Number⇅</div>
-    let title = <div className="TableHeader">Title⇅</div>
+    let num = <div className="TableHeader">Number&#x21D5;</div>
+    let title = <div className="TableHeader">Title&#x21D5;</div>
 
     const columns = [{
       dataField: 'CRS_SUBJ_CD',
@@ -94,6 +94,7 @@ class ListCourse extends Component {
     
     return (
        <div>
+         <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/>
         <div>{displayCourseArr}</div>
        </div>
     );

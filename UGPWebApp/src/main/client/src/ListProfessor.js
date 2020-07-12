@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
 import './DisplayDept.css';
-
+import ScrollUpButton from "react-scroll-up-button";
 import * as d3 from 'd3';
 import data from './CSVData/10Year.csv';
 import pic01 from "./TitleScreenComponent/images/pic01.jpg"
@@ -46,6 +46,7 @@ class ListProfessor extends Component {
     // map the array which then returns the course number and course title
     const displayProfArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => {
       return <div className="Table1">
+
       <div className="box alt container" style={{border: "1px solid whitesmoke", width: "50%", float: "left"}}>
           <section className="feature left">
           <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx} className="image icon solid fa-user"><img src={pic01} alt="pic01"/></Link>
@@ -60,6 +61,7 @@ class ListProfessor extends Component {
     
     return (
        <div>
+         <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/>
         <div>{displayProfArr}</div>
        </div>
        

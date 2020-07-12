@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './DisplayDept.css';
 import Header from './Header';
 import Footer from './Footer';
-
+import ScrollUpButton from "react-scroll-up-button";
 import * as d3 from 'd3';
 import data from './CSVData/3Year.csv';
 
@@ -61,8 +61,8 @@ class DisplayAllProfs extends Component {
     const sortedArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1)
     
     //To style the Header of the Table columns
-    let prof = <div className="TableHeader">Professor⇅</div>
-    let dept = <div className="TableHeader">Department⇅</div>
+    let prof = <div className="TableHeader">Professor&#x21D5;</div>
+    let dept = <div className="TableHeader">Department&#x21D5;</div>
 
 
     // makes the columns which the bootstrap table can use to display
@@ -101,7 +101,8 @@ class DisplayAllProfs extends Component {
 
     return(
       <div className='App'>
-
+        
+        <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/>
           < Header />
 
           <div className="secHeader">

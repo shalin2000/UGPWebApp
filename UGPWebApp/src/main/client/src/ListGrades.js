@@ -25,7 +25,7 @@ import spring2013Data from './CSVData/Spr2013.csv';
 import spring2012Data from './CSVData/Spr2012.csv';
 import spring2011Data from './CSVData/Spr2011.csv';
 import spring2010Data from './CSVData/Spr2010.csv';
-import ReviewProf from './ReviewProf.js'
+import ScrollUpButton from "react-scroll-up-button";
 import CommentProf from './CommentProf';
 // import { parse } from 'papaparse';
 
@@ -433,6 +433,7 @@ class ListGrades extends Component {
 
     return (
       <div>
+        <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/>
         {/* makes the drop down menu for the sesmters that the professor has taught in these course */}
         <select className="mdb-select md-form colorful-select dropdown-primary" 
         style={{width: '50%', margin:'auto', display:'block'}} onChange={this.handleDropdownChange}>

@@ -59,16 +59,16 @@ class ListGenEdCourses extends Component {
     }
 
     //To style the Header of the Table columns
-    let course = <div className="TableHeader">Course⇅ 
+    let course = <div className="TableHeader">Course&#x21D5;
                   {/* <span class="tooltiptext">Click to Sort</span> */}
                  </div>
-    let num = <div className="TableHeader">Number⇅ 
+    let num = <div className="TableHeader">Number&#x21D5;
                 {/* <span class="tooltiptext">Click to Sort</span> */}
               </div>
-    let title = <div className="TableHeader">Title⇅ 
+    let title = <div className="TableHeader">Title&#x21D5;
                   {/* <span class="tooltiptext">Click to Sort</span> */}
                 </div>
-    let credit = <div className="TableHeader">Credit⇅ 
+    let credit = <div className="TableHeader">Credit&#x21D5;
                   {/* <span class="tooltiptextLeft">Click to Sort</span> */}
                  </div>
 

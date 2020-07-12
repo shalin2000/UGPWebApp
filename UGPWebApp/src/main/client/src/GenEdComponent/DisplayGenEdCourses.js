@@ -7,6 +7,7 @@ import Header from '../Header';
 import Footer from '../Footer';
 import '../DisplayDept.css';
 import ListGenEdCourses from './ListGenEdCourses'
+import ScrollUpButton from "react-scroll-up-button";
 
 class DisplayGenEd extends Component {
 
@@ -48,6 +49,7 @@ class DisplayGenEd extends Component {
 
         return(
             <div className='App'>
+                <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/>
                 < Header /> 
 
                 <div className="secHeader"><h2>{genCoursesTitle}</h2></div>

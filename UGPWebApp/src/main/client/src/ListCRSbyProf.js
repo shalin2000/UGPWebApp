@@ -3,7 +3,7 @@ import './DisplayDept.css';
 import * as d3 from 'd3';
 import data from './CSVData/10Year.csv';
 import BootstrapTable from 'react-bootstrap-table-next';
-
+import ScrollUpButton from "react-scroll-up-button";
 import {
   BrowserRouter as Router,
   Link
@@ -45,9 +45,9 @@ class ListCRSbyProf extends Component {
     const noDupArr = printArr.filter((item, index, self) => index === self.findIndex((t) => (t.CRS_SUBJ_CD === item.CRS_SUBJ_CD && t.CRS_TITLE === item.CRS_TITLE)));
 
     //To style the Header of the Table columns
-    let course = <div className="TableHeader">Course⇅</div>
-    let num = <div className="TableHeader">Number⇅</div>
-    let title = <div className="TableHeader">Title⇅</div>
+    let course = <div style={ { outline:'none' }} className="TableHeader">Course&#x21D5;</div>
+    let num = <div style={ { outline:'none' }} className="TableHeader">Number&#x21D5;</div>
+    let title = <div style={ { outline:'none' }} className="TableHeader">Title&#x21D5;</div>
 
     // makes the columns which the bootstrap table can use to display
     const columns = [{
@@ -87,7 +87,7 @@ class ListCRSbyProf extends Component {
     return (
 
        <div className='App'>
-
+         <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/>
         < Header />
         <div className="secHeader">
           <h2>Courses Taught By {this.props.location.state.linkState.name1}</h2>

@@ -6,7 +6,7 @@ import pic03 from "./images/pic03.jpg"
 // import Logo from '../miniLogo.png'
 import Logo from '../GradePal.png'
 import {Link} from 'react-router-dom';
-
+import ScrollUpButton from "react-scroll-up-button";
 import axios from 'axios';
 
 class Title extends Component {
@@ -53,6 +53,7 @@ class Title extends Component {
         var year = today.getFullYear();
         return (
             <div>
+                <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/>
                 <head>
                     <title>GradePal</title>
                     <meta charset="utf-8" />

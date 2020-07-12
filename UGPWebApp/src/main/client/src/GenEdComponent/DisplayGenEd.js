@@ -6,6 +6,7 @@ import pic03 from "../TitleScreenComponent/images/pic03.jpg"
 import Header from '../Header';
 import Footer from '../Footer';
 import '../DisplayDept.css';
+import ScrollUpButton from "react-scroll-up-button";
 
 class DisplayGenEd extends Component {
 
@@ -16,6 +17,7 @@ class DisplayGenEd extends Component {
     render(){
         return(
             <div className='App'>
+                <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/>
                 < Header /> 
 
                 <div className="secHeader"><h2>General Education Core</h2></div>
