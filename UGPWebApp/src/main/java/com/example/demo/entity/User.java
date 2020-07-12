@@ -2,8 +2,30 @@ package com.example.demo.entity;
 
 public class User {
 
-    String userComment;
+    private String name;
+	private String message;
+    private String email;
+    
+    public String getName() {
+        return name;
+    }
+   public String getEmail() {
+       return email;
+   }
+    public String getMessage() {
+        return message;
+    }
+    public void setName(String name) {
+        this.name = name;
+    }
+    public void setEmail(String email) {
+        this.email = email;
+    }
+    public void setMessage(String message) {
+        this.message = message;
+    }
 
+    String userComment;
     String crsTitle; 
     String crsNbr;
     String crsSubjCd;

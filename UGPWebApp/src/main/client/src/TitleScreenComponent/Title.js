@@ -7,7 +7,45 @@ import pic03 from "./images/pic03.jpg"
 import Logo from '../GradePal.png'
 import {Link} from 'react-router-dom';
 
+import axios from 'axios';
+
 class Title extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            show: false,
+            name: '',
+            email: '',
+            message: ''
+        };
+    }
+
+    submitBook = event => {
+        event.preventDefault();
+
+        const info = {
+            name: this.state.name,
+            message: this.state.message,
+            email: this.state.email
+        };
+        
+        axios.post("http://localhost:8080/postgressApp/signup-success", info)
+            .then(response => {
+                if(response.data != null) {
+                    this.setState({show:true});
+                    setTimeout(() => this.setState({show:false}), 3000);
+                    window.location.reload();
+                } else {
+                    this.setState({show:false});
+                }
+            });
+    }
+
+    bookChange = event => {
+        this.setState({
+            [event.target.name]:event.target.value
+        });
+    }
 
     render(){
         var today = new Date();
@@ -78,16 +116,16 @@ class Title extends Component {
 
                                 <p>Feedback, bug reports, and comments are not only welcome, but strongly encouraged <i class="far fa-smile-beam"></i></p>
 
-                                <form method="post" action="https://formspree.io/xnqgoapl">
+                                <form onSubmit={this.submitBook}>
                                     <div className="row">
                                         <div className="col-6 col-12-mobilep">
-                                            <input type="text" name="name" placeholder="Name" />
+                                            <input type="text" name="name" placeholder="Name" value={this.state.name} onChange={this.bookChange}/>
                                         </div>
                                         <div className="col-6 col-12-mobilep">
-                                            <input type="email" name="email" placeholder="Email" />
+                                            <input type="email" name="email" placeholder="Email" value={this.state.email} onChange={this.bookChange}/>
                                         </div>
                                         <div className="col-12">
-                                            <textarea name="message" placeholder="Message" rows="6"></textarea>
+                                            <textarea name="message" placeholder="Message" rows="6" value={this.state.message} onChange={this.bookChange}></textarea>
                                         </div>
                                         <div className="col-12">
                                             <ul className="actions special">
