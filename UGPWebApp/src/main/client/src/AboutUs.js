@@ -63,30 +63,30 @@ class About_Us extends Component {
                         <div class="flex flex-3">
                             <article>
                                 <header>
-                                    <h3>Ansar Khan <i className="fab fa-linkedin"></i></h3>
+                                    <h3>Ansar Khan <a href="https://www.linkedin.com/in/mk5040"><i className="fab fa-linkedin fa-1.5x"></i></a></h3>
                                 </header>
                                 {/* <p>ansarkhan0625@gmail.com</p> */}
-                                <p>Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu.</p>
+                                <p>Senior Computer Science studenT at University of illinois at Chicago looking to utilize from among the set of various skills of Web development and Software development that I possess, to pursue  an auspicious career as a Developer</p>
                                 {/* <footer>
                                     <a href="#" class="button special">More</a>
                                 </footer> */}
                             </article>
                             <article>
                                 <header>
-                                    <h3>Qasim Mir <i className="fab fa-linkedin"></i></h3>
+                                    <h3>Qasim Mir <a href="https://www.linkedin.com/in/qmir23"><i className="fab fa-linkedin fa-1.5x"></i></a></h3>
                                 </header>
                                 {/* <p>qmir23@gmail.com</p> */}
-                                <p>Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu.</p>
+                                <p>Junior Computer Science student interested in utilizing prior programming experience towards an internship. Experience in event driven programming, multi-threading, GUI design and data structures. Interested in learning UI design, development, data analysis and other advanced languages.</p>
                                 {/* <footer>
                                     <a href="#" class="button special">More</a>
                                 </footer> */}
                             </article>
                             <article>
                                 <header>
-                                    <h3>Shalin Patel <i className="fab fa-linkedin"></i></h3>
+                                    <h3>Shalin Patel <a href="https://www.linkedin.com/in/shalinp2000"><i className="fab fa-linkedin fa-1.5x"></i></a></h3>
                                 </header>
                                 {/* <p>shalinp2000@gmail.com</p> */}
-                                <p>Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu.</p>
+                                <p>Pursuing a Bachelor’s in Computer Science and seeking for an internship. Passionate about educating others and myself with new technologies and always looking for opportunities to increase knowledge. Looking forward to joining a team and making use of my skills / knowledge to obtain hands on experience. </p>
                                 {/* <footer>
                                     <a href="#" class="button special">More</a>
                                 </footer> */}
