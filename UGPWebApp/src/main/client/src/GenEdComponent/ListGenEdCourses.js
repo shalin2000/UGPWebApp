@@ -1,13 +1,10 @@
 import React, { Component, Fragment } from 'react';
-import ReactDOM from 'react-dom';
 import '../DisplayDept.css';
 import {Link} from 'react-router-dom';
 
 import * as d3 from 'd3';
 import data from './genDemo.csv';
 import BootstrapTable from 'react-bootstrap-table-next';
-// import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';
-
 
 class ListGenEdCourses extends Component {
   constructor(props) {
@@ -24,6 +21,7 @@ class ListGenEdCourses extends Component {
       });
   }
     
+  // makes each item in the row clickable and when clicked it links to displayProfessor and sends a prop of the entire row
   CellFormatter(cell, row) {
     return (
       <div>
@@ -64,6 +62,7 @@ class ListGenEdCourses extends Component {
     let title = <div className="TableHeader">Title&#x21D5;</div>
     let credit = <div className="TableHeader">Credit&#x21D5;</div>
 
+    // columns for the table and each column calls cellFormatter which attaches the link
     const columns = [{
       dataField: 'CRS_SUBJ_CD',
       text: course,
@@ -86,6 +85,7 @@ class ListGenEdCourses extends Component {
       formatter: this.CellFormatter,
     }];
     
+    // displays the columns and data into the a table
     const displayGenCourses = <BootstrapTable
                                 bootstrap4
                                 keyField="CRS_TITLE"
@@ -101,9 +101,7 @@ class ListGenEdCourses extends Component {
            {displayGenCourses}
        </div>
     );
-
   }
-
 };
 
 export default ListGenEdCourses;
