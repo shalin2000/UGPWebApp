@@ -30,11 +30,15 @@ class RoutePath extends Component {
                     <Route exact path="/displayCourse" component={DisplayCourse} />
                     {/* page with courses from a specific professor */}
                     <Route exact path="/displayProfessor" component={DisplayProfessor} />
+                    {/* Page with All professors from 3yr data */}
                     <Route exact path="/displayAllProfessors" component={DisplayAllProfs} />
+                    {/* page with course for a given professor */}
                     <Route exact path="/displayCRSbyProf" component={ListCRSbyProf} />
+                    {/* About us page */}
                     <Route exact path="/aboutUs" component={AboutUs} />
                     {/* page with Grades for a specific Course Professor*/}
                     <Route exact path="/displayGrades" component={DisplayGrades} />
+                    {/* not found page */}
                     <Route exact path="/404" component={NotFound} />
                     <Redirect to="/404" /> 
                 </Switch>
