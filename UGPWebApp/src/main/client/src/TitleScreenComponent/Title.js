@@ -107,11 +107,11 @@ class Title extends Component {
 
                         <div id="footer">
                             <div className="container medium">
-
+                                
                                 <header className="major last">
-                                    <h2>Questions or comments?</h2>
+                                    <h2 id="contact">Questions or comments?</h2>
                                 </header>
-
+                                
                                 <p>Feedback, bug reports, and comments are not only welcome, but strongly encouraged <i class="far fa-smile-beam"></i></p>
 
                                 <form onSubmit={this.submitBook}>
