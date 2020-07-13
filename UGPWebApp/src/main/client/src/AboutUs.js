@@ -13,6 +13,7 @@ class About_Us extends Component {
         return (
             <div className='App'>
                 <Header/>
+                <br/>
                 <header className="major container medium">
                     <h2>About GradePal</h2>
                 </header>
