@@ -134,11 +134,10 @@ class Title extends Component {
                                 </form>
 
                                 <ul className="icons">
-                                    <li><a href="#" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
-                                    <li><a href="#" className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
-                                    <li><a href="#" className="icon brands fa-instagram"><span className="label">Instagram</span></a></li>
-                                    <li><a href="#" className="icon brands fa-github"><span className="label">Github</span></a></li>
-                                    <li><a href="#" className="icon brands fa-dribbble"><span className="label">Dribbble</span></a></li>
+                                    <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.google.com/" className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
+                                    <li><a href="https://www.twitter.com/share?url=https://www.google.com/" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
+                                    <li><a href="http://www.reddit.com/submit?url=https://www.google.com/" className="icon brands fa-reddit-alien"><span className="label">Reddit</span></a></li>
+                                    <li><a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.google.com/" className="icon brands fa-linkedin-in"><span className="label">LinkedIn</span></a></li>
                                 </ul>
 
                                 <ul className="copyright">
