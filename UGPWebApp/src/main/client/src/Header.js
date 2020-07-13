@@ -2,7 +2,6 @@ import React, { Component} from 'react';
 import Logo from './GradePal.png';
 import './header.css';
 import {Link} from 'react-router-dom';
-
 import { elastic as Menu } from 'react-burger-menu'
 
 class Header extends Component {
@@ -20,7 +19,7 @@ class Header extends Component {
 
                 <Link to={{pathname: "/aboutUs"}} className="menu-item"> <i className="fa fa-address-card fa-fw" aria-hidden="true"/>&nbsp; About </Link>
 
-                {/* <Link to={{pathname: "/#footer"}} className="menu-item"> <i className="fa fa-envelope-open-text fa-fw" aria-hidden="true"/>&nbsp; Contact </Link> */}
+                
                 <a href="/#contact" className="menu-item" > <i className="fa fa-envelope-open-text fa-fw" aria-hidden="true"/>&nbsp; Contact</a>
                 
             </Menu>

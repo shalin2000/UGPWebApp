@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
 import './DisplayDept.css';
-// import ScrollUpButton from "react-scroll-up-button";
 import * as d3 from 'd3';
 import data from './CSVData/10Year.csv';
 import pic01 from "./TitleScreenComponent/images/pic01.jpg"
