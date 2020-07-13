@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
 import './DisplayDept.css';
 import ListGrades from './ListGrades'
 import Header from './Header';
@@ -29,6 +28,7 @@ class DisplayGrades extends Component {
                 <h2> {this.state.myData.CRS_SUBJ_CD} {this.state.myData.CRS_NBR} - {this.state.myData.CRS_TITLE} </h2>
                 <h2>{this.state.myData.name1}</h2>
                 </div>
+                {/* calls listGrade with the prop that was sent from listProf */}
                 <ListGrades ProfInfo={this.state.myData}/>
                 
                 < Footer />
