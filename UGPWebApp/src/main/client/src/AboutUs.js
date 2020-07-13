@@ -69,7 +69,7 @@ class About_Us extends Component {
                                         <a href="https://www.linkedin.com/in/mk5040"><i className="fab fa-linkedin"></i></a>
                                     </h3>
                                 </header>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                {/* <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> */}
                                 {/* <footer>
                                     <a href="#" class="button special">More</a>
                                 </footer> */}
@@ -81,7 +81,7 @@ class About_Us extends Component {
                                         <a href="https://www.linkedin.com/in/qmir23"><i className="fab fa-linkedin"></i></a>
                                     </h3>
                                 </header>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                {/* <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> */}
                                 {/* <footer>
                                     <a href="#" class="button special">More</a>
                                 </footer> */}
@@ -93,7 +93,7 @@ class About_Us extends Component {
                                         <a href="https://www.linkedin.com/in/shalinp2000"><i className="fab fa-linkedin"></i></a>
                                     </h3>
                                 </header>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                {/* <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> */}
                                 {/* <footer>
                                     <a href="#" class="button special">More</a>
                                 </footer> */}
