@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './DisplayDept.css';
 import Header from './Header';
 import Footer from './Footer';
-// import ScrollUpButton from "react-scroll-up-button";
 import * as d3 from 'd3';
 import data from './CSVData/3Year.csv';
 
@@ -15,6 +14,7 @@ import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider, { Search } from 'react-bootstrap-table2-toolkit';
 import paginationFactory from 'react-bootstrap-table2-paginator';
 
+// for the search bar in the table
 const { SearchBar } = Search;
 
 class DisplayAllProfs extends Component {
@@ -42,7 +42,7 @@ class DisplayAllProfs extends Component {
       ];
   }
 
-  // used to link a row to another route
+  // used to link a row to another page and sends the row data as the props
   CellFormatter(cell, row) {
     return (
       <div>
@@ -102,7 +102,6 @@ class DisplayAllProfs extends Component {
     return(
       <div className='App'>
         
-        {/* <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/> */}
           < Header />
 
           <div className="secHeader">
