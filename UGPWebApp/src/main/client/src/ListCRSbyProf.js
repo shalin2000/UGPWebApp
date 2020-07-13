@@ -3,7 +3,6 @@ import './DisplayDept.css';
 import * as d3 from 'd3';
 import data from './CSVData/10Year.csv';
 import BootstrapTable from 'react-bootstrap-table-next';
-// import ScrollUpButton from "react-scroll-up-button";
 import {
   BrowserRouter as Router,
   Link
@@ -87,7 +86,6 @@ class ListCRSbyProf extends Component {
     return (
 
        <div className='App'>
-         {/* <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/> */}
         < Header />
         <div className="secHeader">
           <h2>Courses Taught By {this.props.location.state.linkState.name1}</h2>

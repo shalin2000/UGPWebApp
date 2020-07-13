@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
 
 import './DisplayDept.css';
-// import ScrollUpButton from "react-scroll-up-button";
 import * as d3 from 'd3';
 import data from './CSVData/3Year.csv';
 import BootstrapTable from 'react-bootstrap-table-next';
@@ -94,8 +92,7 @@ class ListCourse extends Component {
     
     return (
        <div>
-         {/* <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/> */}
-        <div>{displayCourseArr}</div>
+        {displayCourseArr}
        </div>
     );
 
