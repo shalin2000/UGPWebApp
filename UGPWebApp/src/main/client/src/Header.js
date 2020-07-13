@@ -18,7 +18,6 @@ class Header extends Component {
                 <Link to={{pathname: "/displayGenEd"}} className="menu-item"> <i className="fa fa-book fa-fw" aria-hidden="true"/>&nbsp; Gen Education </Link>
 
                 <Link to={{pathname: "/aboutUs"}} className="menu-item"> <i className="fa fa-address-card fa-fw" aria-hidden="true"/>&nbsp; About </Link>
-
                 
                 <a href="/#contact" className="menu-item" > <i className="fa fa-envelope-open-text fa-fw" aria-hidden="true"/>&nbsp; Contact</a>
                 

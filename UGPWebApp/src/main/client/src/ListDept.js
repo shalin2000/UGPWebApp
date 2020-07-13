@@ -1,12 +1,11 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
 
 import './DisplayDept.css';
 import * as d3 from 'd3';
 import data from './CSVData/3Year.csv';
 import BootstrapTable from 'react-bootstrap-table-next';
 
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 class ListDept extends Component {
   constructor(props) {

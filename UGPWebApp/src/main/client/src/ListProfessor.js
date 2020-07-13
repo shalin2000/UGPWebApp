@@ -1,14 +1,10 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
 
 import './DisplayDept.css';
 import * as d3 from 'd3';
 import data from './CSVData/10Year.csv';
 import pic01 from "./TitleScreenComponent/images/pic01.jpg"
-import {
-  BrowserRouter as Router,
-  Link
-} from "react-router-dom";
+import { Link } from "react-router-dom";
 
 class ListProfessor extends Component {
   constructor(props) {

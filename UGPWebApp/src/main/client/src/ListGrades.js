@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
 import {Bar} from 'react-chartjs-2';
-import {Link} from 'react-router-dom';
 import './DisplayDept.css';
 import * as d3 from 'd3';
 import fall2019Data from './CSVData/Fall2019.csv'
@@ -164,15 +162,15 @@ class ListGrades extends Component {
     // -------------------- used to determine the other courses that are taught by this professor and links the course to that specifc course --------------------
     
     // filters and maps the courses that is taught by the same professors in the selected semester
-    const coursesTaught = this.state.chosenData.filter( x => x.name1 === (this.props.ProfInfo.name1)).map((obj, idx) => {
-      return <Link to={{pathname: "/displayProfessor", state: { linkState: obj }}} key={idx}>
-              <li className={'DeptList'}>
-              {obj.CRS_SUBJ_CD} {obj.CRS_NBR} - {obj.CRS_TITLE}
-              </li>
-          </Link>;
-    });
+    // const coursesTaught = this.state.chosenData.filter( x => x.name1 === (this.props.ProfInfo.name1)).map((obj, idx) => {
+    //   return <Link to={{pathname: "/displayProfessor", state: { linkState: obj }}} key={idx}>
+    //           <li className={'DeptList'}>
+    //           {obj.CRS_SUBJ_CD} {obj.CRS_NBR} - {obj.CRS_TITLE}
+    //           </li>
+    //       </Link>;
+    // });
       
-    const cT_Element = coursesTaught.length > 0 ? <div> <h1><u>Courses taught by {this.props.ProfInfo.name1} in - {this.state.selectVal}</u></h1> {coursesTaught} </div> : null
+    // const cT_Element = coursesTaught.length > 0 ? <div> <h1><u>Courses taught by {this.props.ProfInfo.name1} in - {this.state.selectVal}</u></h1> {coursesTaught} </div> : null
 
     // --------------------------- filters all the csv data for each semster by the professor that is currently chosen ---------------------------
     

@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from 'react';
+import React, { Component } from 'react';
 import '../DisplayDept.css';
 import {Link} from 'react-router-dom';
 

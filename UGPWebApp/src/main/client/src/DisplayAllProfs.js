@@ -5,10 +5,7 @@ import Footer from './Footer';
 import * as d3 from 'd3';
 import data from './CSVData/3Year.csv';
 
-import {
-  BrowserRouter as Router,
-  Link
-} from "react-router-dom";
+import { Link } from "react-router-dom";
 
 import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider, { Search } from 'react-bootstrap-table2-toolkit';

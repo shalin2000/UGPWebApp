@@ -7,10 +7,7 @@ import axios from 'axios';
 import Rater from 'react-rater'
 import 'react-rater/lib/react-rater.css'
 
-import {
-    BrowserRouter as Router,
-    Link
-  } from "react-router-dom";
+import { Link } from "react-router-dom";
   
 class CommentProf extends Component {
     constructor(props) {
