@@ -15,6 +15,8 @@ class Title extends Component {
             email: '',
             message: ''
         };
+        this.submitContactForm = this.submitContactForm.bind(this);
+        this.formChange = this.formChange.bind(this);
     }
 
     // when user fills the form and submits, it will post the name, message, and email to the /signup-success (backend) which will send email to us and the user
