@@ -9,10 +9,4 @@ public interface UserService {
     List<User> findAll();
 
     void insertUser(User emp);
-
-    // void updateEmployee(Employee emp);
-
-    // void executeUpdateEmployee(Employee emp);
-
-    // void deleteEmployee(Employee emp);
 }
