@@ -264,13 +264,14 @@ class CommentProf extends Component {
                                         {/* this is for the commenting in textarea */}
                                         <textarea className="commentTag" type="text" name="comment"
                                             value={comment} onChange={this.bookChange}
-                                            placeholder="Rating as (1)Negative to (5)Positive. Comment goes here"
+                                            placeholder="Rating as (1)Negative to (5)Positive. Comment of 
+                                            Min(15) and Max(1000) characters goes here."
                                         >
                                         </textarea>
 
                                         {/* this makes sure that every field in the form has been touched or filled out in order for the submit button to be enabled */}
                                         {((this.state.rateOneTemp > 0) && (this.state.rateTwoTemp > 0) && (this.state.rateThreeTemp > 0) && (this.state.rateFourTemp > 0) && 
-                                        (this.state.rateFiveTemp > 0) && (this.state.comment.length > 0) && (this.state.btnDisable===true)) 
+                                        (this.state.rateFiveTemp > 0) && (this.state.comment.length > 15) && (this.state.btnDisable===true)) 
                                         ? this.ratingAndCommentComplete() : null}
 
                                     </form>
