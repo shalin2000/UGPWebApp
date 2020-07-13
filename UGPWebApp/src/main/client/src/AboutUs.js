@@ -27,21 +27,16 @@ class About_Us extends Component {
 							<p>This is the subtitle for this particular heading</p>
 						</header> */}
                         <blockquote>
-                            Bring data into students lives by making it easier to digest with 
-                            visual graphs and a simple navigation system.
+                            To ease up every semester's course scheduling for students by creating a virtual hub for them to research about any course or professor and how former students did in those courses
                         </blockquote>
 						<p>
-                        Donec consectetur vestibulum dolor et pulvinar. Etiam vel felis enim, at viverra
-						ligula. Ut porttitor sagittis lorem, quis eleifend nisi ornare vel. Praesent nec orci
-						facilisis leo magna. Cras sit amet urna eros, id egestas urna. Quisque aliquam
-						tempus euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
-						posuere cubilia.
-                        <hr />
+                        Ourselves, as being students do some intense research before registering for any courses for an upcoming semester. We wanted to make an application and utilize its features to make our and other student's research easier and effortless. Although UIC has a grade distribution website of it's own, it is overly intricate to interact with. For very reason, we wanted to create an application which will be useful for any UIC college student to do their research for any course.
+                        {/* <hr />
 						<p>Donec consectetur vestibulum dolor et pulvinar. Etiam vel felis enim, at viverra
 						ligula. Ut porttitor sagittis lorem, quis eleifend nisi ornare vel. Praesent nec orci
 						facilisis leo magna. Cras sit amet urna eros, id egestas urna. Quisque aliquam
 						tempus euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
-						posuere cubilia.</p>
+						posuere cubilia.</p> */}
                             {/* Students should know how their fellow peers 
                         perform for any given course in a given semester based on a specific professor.  */}
                         </p>
