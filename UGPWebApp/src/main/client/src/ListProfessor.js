@@ -54,9 +54,10 @@ class ListProfessor extends Component {
       
     });
     
+    const noData = <div style={{textAlign: "center"}}>No Data Available</div>
     return (
        <div>
-        <div>{displayProfArr}</div>
+        <div>{noDupArr.length > 0 ? displayProfArr : noData}</div>
        </div>
        
     );
