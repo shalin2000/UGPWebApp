@@ -61,7 +61,6 @@ class ListProfessor extends Component {
     
     return (
        <div>
-         {/* <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/> */}
         <div>{displayProfArr}</div>
        </div>
        

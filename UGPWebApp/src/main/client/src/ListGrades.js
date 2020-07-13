@@ -27,7 +27,6 @@ import spring2011Data from './CSVData/Spr2011.csv';
 import spring2010Data from './CSVData/Spr2010.csv';
 import ScrollUpButton from "react-scroll-up-button";
 import CommentProf from './CommentProf';
-// import { parse } from 'papaparse';
 
 class ListGrades extends Component {
   constructor(props) {
@@ -289,6 +288,7 @@ class ListGrades extends Component {
       return prev + parseInt(cur.U);
     } , 0);
     
+    
     const totalStudentsTaught2 = totalGradesADV+totalGradesI+totalGradesO+totalGradesU+totalGradesCR+totalGradesNG+totalGradesPR
     +totalGradesW+totalGradesDFR+totalGradesNR+totalGradesS;
 
@@ -549,18 +549,8 @@ class ListGrades extends Component {
         {/* creates the chart for semster grade Distrubtion depending on if there are any letter grades or not*/}
         {/* nested tarnaray operatoer which first diplays letter graph when N/A and then when semster is chosen it will display the other graphs approtiately */}
         {this.state.intialGraph ? displayInitalGraph : this.state.howManyLetterGrades > 0 ? displayLetterGraph : displayNoLetterGraph}
-        
-        {/* makes the graph for the overall grades for the professor througout all semesters */}
+        {/* displays the overall graph for that course with that specific professor taught */}
         {displayOverAllGraph}
-        {/* calls the function that maps the other courses that are taught by the professor */}
-        {/* {cT_Element} */}
-
-        {/* <br></br> */}
-        {/* <h5><u>Rate the Professor below</u></h5> */}
-
-        {/* <div className="reviewRating"> */}
-        {/* < ReviewProf /> */}
-        {/* </div> */}
 
         <br/>
         <header className="major container medium">

@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
 import './DisplayDept.css';
-// import ScrollUpButton from "react-scroll-up-button";
 import * as d3 from 'd3';
 import data from './CSVData/3Year.csv';
 import BootstrapTable from 'react-bootstrap-table-next';
@@ -16,8 +15,6 @@ class ListDept extends Component {
       myData: [],
     };
   }
-  
-  // Sets the data from csv file to myData state when start
   componentDidMount() {
     d3.csv(data).then(data => {
         this.setState({ myData: data });
