@@ -30,13 +30,9 @@ class About_Us extends Component {
                             To ease up every semester's course scheduling for students by creating a virtual hub for them to research about any course or professor and how former students did in those courses
                         </blockquote>
 						<p>
-                        Ourselves, as being students do some intense research before registering for any courses for an upcoming semester. We wanted to make an application and utilize its features to make our and other student's research easier and effortless. Although UIC has a grade distribution website of it's own, it is overly intricate to interact with. For very reason, we wanted to create an application which will be useful for any UIC college student to do their research for any course.
-                        {/* <hr />
-						<p>Donec consectetur vestibulum dolor et pulvinar. Etiam vel felis enim, at viverra
-						ligula. Ut porttitor sagittis lorem, quis eleifend nisi ornare vel. Praesent nec orci
-						facilisis leo magna. Cras sit amet urna eros, id egestas urna. Quisque aliquam
-						tempus euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
-						posuere cubilia.</p> */}
+                        Ourselves, as being students do some intense research before registering for any course for an upcoming semester. We wanted to make an application and utilize its features to make our and other student's research easier and effortless. Although UIC has a grade distribution website of it's own, it is overly intricate to interact with. For very reason, we wanted to create an application which will be useful for any UIC student to do their research for any course or a professor.
+                        <hr />
+						<p>We expected the summer of 2020 to be a thrilling stage of our careers as we were hoping to land on an internship as we were exhilarated to obtain some valuable experience by working on a real life project. However, due to the the unforseen circumstances of COVID-19, it has been dificult to hear from companies about them cancelling their internship programs for the summer-2020. Despite that, we wanted to do work on a project and learn new set of skills and give our careers a headstart and thus we decided to learn and create this Web Application </p>
                             {/* Students should know how their fellow peers 
                         perform for any given course in a given semester based on a specific professor.  */}
                         </p>
