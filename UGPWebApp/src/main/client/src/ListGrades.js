@@ -288,11 +288,13 @@ class ListGrades extends Component {
       return prev + parseInt(cur.U);
     } , 0);
     
-    
+    //returns the total amount of students for credit courses
     const totalStudentsTaught2 = totalGradesADV+totalGradesI+totalGradesO+totalGradesU+totalGradesCR+totalGradesNG+totalGradesPR
     +totalGradesW+totalGradesDFR+totalGradesNR+totalGradesS;
 
+    //this is used to to see if a course should display overall letter grade graph or credit 
     const overallLetterGradeCount = totalGradesA+totalGradesB+totalGradesC+totalGradesD+totalGradesF;
+
     // returns the total amount of students from adding all the letter grades
     const totalStudentsTaught = totalGradesA+totalGradesB+totalGradesC+totalGradesD+totalGradesF+totalGradesW
 
