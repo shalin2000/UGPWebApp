@@ -22,6 +22,7 @@ class CommentProf extends Component {
             comment: '',
             show: false,
             datePosted: '', // tells the date when user posted 
+            badWords: ['bitch', 'fuck', 'cunt', 'dick', 'ass', 'asshole']
         };
         this.formChange = this.formChange.bind(this);
         this.submitReviewForm = this.submitReviewForm.bind(this);
@@ -53,6 +54,12 @@ class CommentProf extends Component {
 
     // when user sumbits the review form, it will send the data from the form to the backend which will store it in the database
     submitReviewForm = event => {
+
+        if (this.state.badWords.some(word => this.state.comment.includes(word)) === true){
+            alert("There is a bad word")
+            return false;
+        }
+
         event.preventDefault();
 
         // sets all the columns in the database to the value that is being filled out by the user
@@ -217,7 +224,7 @@ class CommentProf extends Component {
                                 {/* the content of the modal body, where the form is */}
                                 <div class="modal-body">
                                 <div>
-                                    <form onSubmit={this.submitReviewForm}>
+                                    <form onSubmit="return this.submitReviewForm">
                                         {/* this is for the star rating */}
                                         <div>
                                             <div className="row">

@@ -31,10 +31,10 @@ class ListProfessor extends Component {
   }
 
   render() {    
+
     // filters the array so the new array contains only the professor that match the CRS_TITLE that was passed in as the prop (TITLE) from DisplayProfessor
     const printArr = this.state.myData.filter(x => x.CRS_NBR === (this.props.profInfo.CRS_NBR) && x.CRS_SUBJ_CD === (this.props.profInfo.CRS_SUBJ_CD)); 
 
-    console.log(printArr)
     // removes dup entires that have the same name1 and store it in noDup array
     const noDupArr = this.removeDup(printArr, x => x.name1);
 
@@ -51,13 +51,11 @@ class ListProfessor extends Component {
           </section>   
       </div>
       </div>
-      
     });
     
-    const noData = <div style={{textAlign: "center"}}>No Data Available</div>
     return (
        <div>
-        <div>{noDupArr.length > 0 ? displayProfArr : noData}</div>
+        {displayProfArr}
        </div>
        
     );
