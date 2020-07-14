@@ -20,27 +20,25 @@ class About_Us extends Component {
                 <div className='About'>
                     <section>
                         <blockquote>
-                            <strong>Mission Statement:</strong> To provide UIC students with an intuitive platform to conduct research on available courses, acquire digestible information on past grading histories, and plan out their future schedules conveniently.
+                            <strong>Mission Statement:</strong> To provide UIC students with an intuitive platform to learn more about their instructors, conduct research on prior course records, and gather the information they need to plan their future schedules conveniently.
                         </blockquote>
                         <p> 
-                            As we wrapped up our junior year, our team anticipated the summer of 2020 to be an exciting new stage for our careers. 
-                            We were actively applying for internships and hoped to develop as professionals by gaining valuable real-world experience. However, due to the unforeseen 
-                            circumstances of COVID-19, we decided to shift gears and work on an impactful project ourselves as a team.
-                            This lead to the idea of GradePal, a service intended to revolutionize course selection for UIC students. 
+                            As we wrapped up our school year, our team anticipated that summer 2020 would be an exciting new stage for our careers. 
+                            We were actively seeking internships and hoping to develop our professional skillsets by gaining valuable real-world experience. However, the unforeseen 
+                            circumstances of COVID-19 resulted in a change of plans. We decided to shift gears and work on an impactful project ourselves as a team.
+                            This lead to the idea of GradePal, a service intended to revolutionize course selection and research for UIC students. 
                         </p>
                         <hr />
                         <p>
-                            As students, we do our due diligence before registering for any course for an upcoming semester. 
-                            Although UIC has a grade distribution website of its own, interacting with it is unintuitive for users. 
-                            For this very reason, we wanted to create an application which will be beneficial for any UIC student to do 
-                            their research for any course or a professor. Whether that be by simply filtering geneds by credit hours 
-                            or by leaving reviews for professors for other students to read. 
+                            Most UIC students prefer to do their due diligence before registering for any courses for an upcoming semester. 
+                            Although UIC has their own grade distribution website of its own, many current students have found it to be unintuitive to navigate. 
+                            For this very reason, we wanted to create an application which would help UIC students learn about their courses and instructors easily and efficiently.
                         </p>
                         <hr />
                         <p>
                             We hope our website will have a positive impact, 
-                            not just by assisting with our professional development, but by giving a positive user experience to every future 
-                            student who takes advantage of this service.
+                            not just by assisting us with our professional development, but by providing a positive user experience to everyone 
+                            who takes advantage of this service.
                         </p>
                     </section>
                 </div>

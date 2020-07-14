@@ -73,9 +73,9 @@ class Title extends Component {
                         <div id="main">
 
                             <header className="major container medium">
-                                <h2>Check out how your 
+                                <h2>Check out how your&nbsp;
                                 <br />
-                                fellow peers perform
+                                fellow peers are performing&nbsp;
                                 <br />
                                 in hundreds of courses</h2>					
                             </header>
@@ -108,7 +108,7 @@ class Title extends Component {
                             {/* Links to About us page */}
                             <footer class="major container medium">
                             <h3>About Us</h3>
-                            <p>Find out our journey into creating this website for fellow students.</p>
+                            <strong><p>Find out more about our journey into creating this website for fellow students.</p></strong>
                             <ul class="actions special">
                                 <li><Link to={{pathname: "/aboutUs"}} class="button">Learn More</Link></li>
                             </ul>

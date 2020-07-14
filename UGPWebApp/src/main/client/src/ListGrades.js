@@ -402,7 +402,7 @@ class ListGrades extends Component {
                                 options={{
                                     title:{
                                         display:true,
-                                        text:'Semester Grade Distrubtion',
+                                        text:'Semester Grade Distribution',
                                         fontSize:20
                                     },
                                     legend:{
@@ -414,6 +414,10 @@ class ListGrades extends Component {
                                       yAxes: [{
                                           ticks: {
                                               beginAtZero: true
+                                          },
+                                          scaleLabel: {
+                                            display: true,
+                                            labelString: 'Student Count'
                                           }
                                       }]
                                     },
@@ -429,7 +433,7 @@ class ListGrades extends Component {
                                 options={{
                                     title:{
                                         display:true,
-                                        text:'Semester Grade Distrubtion',
+                                        text:'Semester Grade Distribution',
                                         fontSize:20
                                     },
                                     legend:{
@@ -441,6 +445,10 @@ class ListGrades extends Component {
                                       yAxes: [{
                                           ticks: {
                                               beginAtZero: true
+                                          },
+                                          scaleLabel: {
+                                            display: true,
+                                            labelString: 'Student Count'
                                           }
                                       }]
                                     },
@@ -456,7 +464,7 @@ class ListGrades extends Component {
                                   options={{
                                       title:{
                                           display:true,
-                                          text:'Semester Grade Distrubtion',
+                                          text:'Semester Grade Distribution',
                                           fontSize:20
                                       },
                                       legend:{
@@ -468,6 +476,10 @@ class ListGrades extends Component {
                                         yAxes: [{
                                             ticks: {
                                                 beginAtZero: true
+                                            },
+                                            scaleLabel: {
+                                              display: true,
+                                              labelString: 'Student Count'
                                             }
                                         }]
                                       },
@@ -483,7 +495,7 @@ class ListGrades extends Component {
                                   options={{
                                       title:{
                                           display:true,
-                                          text:'Overall Grade Distrubtion (%)',
+                                          text:'Overall Grade Distribution (%)',
                                           fontSize:20
                                       },
                                       legend:{
@@ -503,6 +515,10 @@ class ListGrades extends Component {
                                         yAxes: [{
                                             ticks: {
                                                 beginAtZero: true
+                                            },
+                                            scaleLabel: {
+                                              display: true,
+                                              labelString: 'Student Percentage'
                                             }
                                         }]
                                       },
@@ -546,7 +562,7 @@ class ListGrades extends Component {
         {/* calls the termselected function which assigns correct data for the term that the user has chosen */}
         <div>{this.state.selectedbool ? this.termSelected() : null}</div>
 
-        {/* creates the chart for semster grade Distrubtion depending on if there are any letter grades or not*/}
+        {/* creates the chart for semster grade Distribution depending on if there are any letter grades or not*/}
         {/* nested tarnaray operatoer which first diplays letter graph when N/A and then when semster is chosen it will display the other graphs approtiately */}
         {this.state.intialGraph ? displayInitalGraph : this.state.howManyLetterGrades > 0 ? displayLetterGraph : displayNoLetterGraph}
         {/* displays the overall graph for that course with that specific professor taught */}
