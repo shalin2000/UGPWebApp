@@ -64,10 +64,13 @@ class Title extends Component {
                     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
                     <link rel="stylesheet" href="assets/css/main.css" />
                 </head>
+                
                 <body className="is-preload">
 
                         <div id="header">
-                            <img className="logo" src={Logo} alt="logo" />
+                        
+                        <img className="logo" src={Logo} alt="logo" />  
+                            
                         </div>
 
                         <div id="main">

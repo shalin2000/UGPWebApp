@@ -272,8 +272,8 @@ class CommentProf extends Component {
                                         {/* this is for the commenting in textarea */}
                                         <textarea className="commentTag" type="text" name="comment"
                                             value={comment} onChange={this.formChange}
-                                            placeholder="Rating as (1)Negative to (5)Positive. Comment of 
-                                            Min(15) and Max(1000) characters goes here."
+                                            placeholder="Rating goes as (1) Negative to (5) Positive. &#10;Comment of Min (15) and Max (1000) characters goes here."
+                                            
                                         >
                                         </textarea>
 
