@@ -45,26 +45,26 @@ class ListDept extends Component {
     const noDupArr = this.removeDup(this.state.myData, x => x.CRS_SUBJ_CD);
 
     // filters the noDup array by the first letter in CRS_SUBJ_CD 
-    const arrA = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('A'));
-    const arrB = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('B'));
-    const arrC = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('C'));
-    const arrD = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('D'));
-    const arrE = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('E'));
-    const arrF = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('F'));
-    const arrG = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('G'));
-    const arrH = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('H'));
-    const arrI = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('I'));
-    const arrJ = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('J'));
-    const arrK = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('K'));
-    const arrL = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('L'));
-    const arrM = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('M'));
-    const arrN = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('N'));
-    const arrO = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('O'));
-    const arrP = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('P'));
-    const arrR = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('R'));
-    const arrS = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('S'));
-    const arrT = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('T'));
-    const arrU = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('U'));
+    const arrA = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('A')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrB = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('B')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrC = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('C')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrD = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('D')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrE = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('E')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrF = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('F')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrG = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('G')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrH = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('H')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrI = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('I')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrJ = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('J')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrK = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('K')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrL = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('L')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrM = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('M')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrN = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('N')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrO = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('O')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrP = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('P')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrR = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('R')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrS = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('S')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrT = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('T')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
+    const arrU = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('U')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
 
     const columns = [{
       dataField: 'CRS_SUBJ_CD',
