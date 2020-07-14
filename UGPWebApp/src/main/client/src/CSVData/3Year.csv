@@ -16818,3 +16818,45 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220181,US,"Urban Studies",495,"Senior Capstone in US",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",15,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"Winkle, Curtis Richard",,,23
 220191,US,"Urban Studies",495,"Senior Capstone in US",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",35,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Winkle, Curtis Richard",,,40
 220201,US,"Urban Studies",495,"Senior Capstone in US",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",22,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Winkle, Curtis Richard",,,26
+220171,BLST,"Black Studies",100,"Introduction to Black Studies",FT,"Liberal Arts & Sciences",2363,"Black Studies",25,12,15,3,1,0,0,0,0,0,0,0,0,0,0,4,"Barnes, Natasha B.",,,60
+220171,BLST,"Black Studies",104,"Race, Place, and Schooling: Black Americans and Education",FT,"Liberal Arts & Sciences",2363,"Black Studies",13,6,5,0,0,0,0,0,3,0,0,0,0,0,0,1,"Stovall, David O",,,28
+220171,BLST,"Black Studies",248,"African Amer Hist since 1877",FT,"Liberal Arts & Sciences",2363,"Black Studies",1,12,10,0,1,0,0,0,0,0,0,0,0,0,0,1,"Jabir, Johari",,,25
+220171,BLST,"Black Studies",294,"James Baldwin",FT,"Liberal Arts & Sciences",2363,"Black Studies",7,4,5,1,0,0,0,0,0,0,0,0,0,0,0,2,"Jabir, Johari",,,19
+220181,BLST,"Black Studies",100,"Introduction to Black Studies",FT,"Liberal Arts & Sciences",2363,"Black Studies",26,17,13,2,0,0,0,0,0,0,0,0,0,0,0,2,"Barnes, Natasha B.",,,60
+220181,BLST,"Black Studies",104,"Race, Place, and Schooling: Black Americans and Education",FT,"Liberal Arts & Sciences",2363,"Black Studies",14,6,0,0,0,0,0,0,5,0,0,0,0,0,0,0,"Stovall, David O",,,25
+220181,BLST,"Black Studies",242,"Modern Africa",FT,"Liberal Arts & Sciences",2316,History,3,7,9,3,1,0,0,0,0,0,0,0,0,0,0,3,"Hoppe, Kirk A",,,26
+220181,BLST,"Black Studies",248,"African Amer Hist since 1877",FT,"Liberal Arts & Sciences",2363,"Black Studies",14,7,2,0,1,0,0,1,0,0,0,0,0,0,0,3,"Grad Asst",,,28
+220191,BLST,"Black Studies",100,"Introduction to Black Studies",FT,"Liberal Arts & Sciences",2363,"Black Studies",19,32,5,1,1,0,0,0,0,0,0,0,0,0,0,2,"Ransby, Barbara",,,60
+220191,BLST,"Black Studies",104,"Race, Place, and Schooling: Black Americans and Education",FT,"Liberal Arts & Sciences",2363,"Black Studies",5,9,1,0,0,0,0,0,7,0,2,0,0,0,0,1,"Stovall, David O",,,25
+220191,BLST,"Black Studies",207,"Racism: Global Perspectives",FT,"Liberal Arts & Sciences",2363,"Black Studies",15,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Clarno, Andrew J",,,25
+220191,BLST,"Black Studies",242,"Modern Africa",FT,"Liberal Arts & Sciences",2316,History,7,5,8,3,0,0,0,0,2,0,0,0,0,0,0,1,"Hoppe, Kirk A",,,26
+220191,BLST,"Black Studies",247,"African American Hist to 1877",FT,"Liberal Arts & Sciences",2363,"Black Studies",6,8,1,0,0,0,0,0,1,0,0,0,0,0,0,2,"Grad Asst",,,18
+220191,BLST,"Black Studies",258,"Race and Urban Life",FT,"Liberal Arts & Sciences",2363,"Black Studies",2,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson, Cedric",,,13
+220191,BLST,"Black Studies",272,"Race, Gender, and Sexuality",FT,"Liberal Arts & Sciences",2363,"Black Studies",7,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,"Richie, Beth E",,,10
+220201,BLST,"Black Studies",100,"Introduction to Black Studies",FT,"Liberal Arts & Sciences",2363,"Black Studies",15,24,13,5,5,0,0,0,0,0,0,0,0,0,0,2,"Rhodes, Jane",,,64
+220201,BLST,"Black Studies",207,"Racism: Global Perspectives",FT,"Liberal Arts & Sciences",2363,"Black Studies",21,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Clarno, Andrew J",,,25
+220201,BLST,"Black Studies",242,"Modern Africa",FT,"Liberal Arts & Sciences",2316,History,3,11,6,3,6,0,0,0,0,0,0,0,0,0,0,1,"Hoppe, Kirk A",,,30
+220201,BLST,"Black Studies",247,"African American Hist to 1877",FT,"Liberal Arts & Sciences",2363,"Black Studies",14,5,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"Jones, Julius Langston",,,22
+220201,BLST,"Black Studies",258,"Race and Urban Life",FT,"Liberal Arts & Sciences",2363,"Black Studies",6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Forman, Tyrone A",,,10
+220178,BLST,"Black Studies",100,"Introduction to Black Studies",FT,"Liberal Arts & Sciences",2363,"Black Studies",11,19,19,3,1,0,0,0,0,0,0,0,0,0,0,3,"Jabir, Johari",,,56
+220178,BLST,"Black Studies",110,"Intro Af Amer Lit, 1760-1910",FT,"Liberal Arts & Sciences",2363,"Black Studies",9,8,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Dubey, Madhu",,,21
+220178,BLST,"Black Studies",221,"The Atlantic Slave Trade",FT,"Liberal Arts & Sciences",2316,History,10,15,1,0,0,0,0,0,2,0,0,0,0,0,0,0,"Hoppe, Kirk A",,,28
+220178,BLST,"Black Studies",225,"Racial and Ethnic Groups",FT,"Liberal Arts & Sciences",2772,Sociology,1,5,5,2,2,0,0,0,0,0,0,0,0,0,0,3,"Muhammad, Ray",,,18
+220178,BLST,"Black Studies",246,"Black Lives in Hist Context",FT,"Liberal Arts & Sciences",2363,"Black Studies",3,11,4,4,1,0,0,0,0,0,0,0,0,0,0,4,"Blair, Cynthia M",,,27
+220178,BLST,"Black Studies",249,"Black Freedom Movements",FT,"Liberal Arts & Sciences",2363,"Black Studies",2,15,4,1,0,0,0,0,0,0,1,0,0,0,0,1,"Rhodes, Jane",,,24
+220178,BLST,"Black Studies",258,"Race and Urban Life",FT,"Liberal Arts & Sciences",2363,"Black Studies",3,10,3,0,0,0,0,0,1,0,0,0,0,0,0,1,"Lewis, Amanda E",,,18
+220188,BLST,"Black Studies",100,"Introduction to Black Studies",FT,"Liberal Arts & Sciences",2363,"Black Studies",25,24,12,0,5,0,0,0,0,0,0,0,0,0,0,4,"Rhodes, Jane",,,70
+220188,BLST,"Black Studies",110,"Intro Af Amer Lit, 1760-1910",FT,"Liberal Arts & Sciences",2363,"Black Studies",5,13,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"Dubey, Madhu",,,22
+220188,BLST,"Black Studies",210,"Art/Archaeology of Egypt",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",6,1,1,1,2,0,0,0,0,0,0,0,0,0,0,2,"Tobin, Jennifer L",,,13
+220188,BLST,"Black Studies",225,"Racial and Ethnic Groups",FT,"Liberal Arts & Sciences",2772,Sociology,10,1,3,1,2,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst","Grad Asst","Grad Asst",20
+220188,BLST,"Black Studies",246,"Black Lives in Hist Context",FT,"Liberal Arts & Sciences",2363,"Black Studies",8,7,8,0,0,0,0,0,0,0,0,0,0,0,0,4,"Jabir, Johari",,,27
+220188,BLST,"Black Studies",249,"Black Freedom Movements",FT,"Liberal Arts & Sciences",2363,"Black Studies",5,13,3,0,0,0,0,0,1,0,0,0,0,0,0,0,"Ferguson, Roderick A",,,22
+220188,BLST,"Black Studies",294,"Performing Black Spirituality",FT,"Liberal Arts & Sciences",2363,"Black Studies",10,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"LaMothe, Mario Jacques",,,15
+220198,BLST,"Black Studies",100,"Introduction to Black Studies",FT,"Liberal Arts & Sciences",2363,"Black Studies",10,25,22,2,1,0,0,0,0,0,0,0,0,0,0,7,"Jabir, Johari",,,67
+220198,BLST,"Black Studies",110,"Intro Af Amer Lit, 1760-1910",FT,"Liberal Arts & Sciences",2363,"Black Studies",7,13,1,0,1,0,0,0,2,0,0,0,0,0,0,1,"Clarke, Ainsworth A.",,,25
+220198,BLST,"Black Studies",221,"The Atlantic Slave Trade",FT,"Liberal Arts & Sciences",2316,History,9,16,7,0,1,0,0,0,2,0,0,0,0,0,0,5,"Hoppe, Kirk A",,,40
+220198,BLST,"Black Studies",225,"Racial and Ethnic Groups",FT,"Liberal Arts & Sciences",2772,Sociology,3,7,2,0,4,0,0,0,0,0,0,0,0,0,0,1,"Macias, Patrisia","Grad Asst","Grad Asst",17
+220198,BLST,"Black Studies",246,"Black Lives in Hist Context",FT,"Liberal Arts & Sciences",2363,"Black Studies",2,17,4,1,1,0,0,0,1,0,0,0,0,0,0,0,"Rhodes, Jane",,,26
+220198,BLST,"Black Studies",248,"African Amer Hist since 1877",FT,"Liberal Arts & Sciences",2363,"Black Studies",3,5,7,0,1,0,0,0,0,0,0,0,0,0,0,0,"Jones, Julius Langston",,,16
+220198,BLST,"Black Studies",294,"Policing in Chicago",FT,"Liberal Arts & Sciences",2363,"Black Studies",18,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Clarno, Andrew J",,,35
+220198,BLST,"Black Studies",351,"New Black Aesthetics",FT,"Liberal Arts & Sciences",2363,"Black Studies",3,4,0,0,2,0,0,0,1,0,0,0,0,0,0,1,"Dubey, Madhu",,,11
