@@ -2300,3 +2300,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220181,US,"Urban Studies",361,"Intro to GIS I",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",13,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Jasek, Thomas A",,,20
 220181,US,"Urban Studies",390,"Sustainability Internship",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Klein-Banai, Cynthia Lee",,,13
 220181,US,"Urban Studies",495,"Senior Capstone in US",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",15,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"Winkle, Curtis Richard",,,23
+220181,BLST,"Black Studies",100,"Introduction to Black Studies",FT,"Liberal Arts & Sciences",2363,"Black Studies",26,17,13,2,0,0,0,0,0,0,0,0,0,0,0,2,"Barnes, Natasha B.",,,60
+220181,BLST,"Black Studies",104,"Race, Place, and Schooling: Black Americans and Education",FT,"Liberal Arts & Sciences",2363,"Black Studies",14,6,0,0,0,0,0,0,5,0,0,0,0,0,0,0,"Stovall, David O",,,25
+220181,BLST,"Black Studies",242,"History of Modern Africa",FT,"Liberal Arts & Sciences",2316,History,3,7,9,3,1,0,0,0,0,0,0,0,0,0,0,3,"Hoppe, Kirk A",,,26
+220181,BLST,"Black Studies",248,"African Amer Hist since 1877",FT,"Liberal Arts & Sciences",2363,"Black Studies",14,7,2,0,1,0,0,1,0,0,0,0,0,0,0,3,"Grad Asst",,,28
