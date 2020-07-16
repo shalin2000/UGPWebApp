@@ -55,7 +55,7 @@ class CommentProf extends Component {
     // when user sumbits the review form, it will send the data from the form to the backend which will store it in the database
     submitReviewForm = event => {
         // check if there exist bad word in the comment that the user wrote, if yes then dont submit and give alert
-        if (this.state.badWords.some(word => this.state.comment.toLowerCase().includes(word)) === true){
+        if (this.state.badWords.some(word => this.state.comment.toLowerCase().split(" ").includes(word)) === true){
             alert("Refrain from using inappropriate words")
             return false;
         }
