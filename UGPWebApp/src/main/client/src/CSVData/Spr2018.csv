@@ -152,7 +152,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220181,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,1,"Duke, Trischa Beth",,,15
 220181,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,0,"Carson, Jordan Marie",,,14
 220181,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,16,9,1,"Lombardo, Heidi Ann",,,26
-220181,ASP,"Academic Skills Program",33,"Live, Learn, Grow: Foundation",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,1," ,",,,11
+220181,ASP,"Academic Skills Program",33,"Live, Learn, Grow: Foundation",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,1,Grad Asst,,,11
 220181,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,14,5,0,"Grad Asst",,,19
 220181,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,52,13,0,"Lombardo, Heidi Ann",,,65
 220181,ASP,"Academic Skills Program",35,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,20,12,0,"Mielcarek, Stephanie M",,,32
@@ -756,7 +756,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220181,ECON,Economics,520,"Microecon for Business",FT,"Liberal Arts & Sciences",2525,Economics,19,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,"Rauscher, William F",,,34
 220181,ECON,Economics,520,"Microecon for Business",FT,"Liberal Arts & Sciences",2525,Economics,26,8,1,0,0,0,0,0,0,0,1,0,0,0,0,1,"Grad Asst",,,37
 220181,ECON,Economics,555,"Health Economics I",FT,"Liberal Arts & Sciences",2525,Economics,4,9,0,0,0,0,0,0,0,0,2,0,0,0,0,1,"Kaestner, Robert",,,16
-220181,ECON,Economics,599,"PhD Thesis Research",FT,"Liberal Arts & Sciences",2525,Economics,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0," ,",,,40
+220181,ECON,Economics,599,"PhD Thesis Research",FT,"Liberal Arts & Sciences",2525,Economics,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,Grad Asst,,,40
 220181,ED,Education,100,"Intro to Urban Education",FP,Education,2208,Education,25,8,0,0,0,0,0,0,2,0,0,0,0,0,0,0,"Larnell, Gregory Vincent",,,35
 220181,ED,Education,100,"Intro to Urban Education",FP,Education,2208,Education,26,4,0,0,2,0,0,0,0,0,0,0,0,0,0,2,"Olson, Jennifer D",,,34
 220181,ED,Education,135,"Chld & Yth Policy Urb Amer",FP,Education,2208,Education,35,23,4,3,5,0,0,0,0,0,0,0,0,0,0,5,"Mayrowetz, David S",,,75
@@ -2283,7 +2283,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220181,UPP,"Urban Planning and Policy",542,"Metro Housng Plannig",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Smith, Janet L",,,19
 220181,UPP,"Urban Planning and Policy",544,"Urban Revitailization",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",10,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Betancur, John-Jairo",,,11
 220181,UPP,"Urban Planning and Policy",550,"Spatial Plng/Dsn:Theoret Fndtn",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Vidyarthi, Sanjeev",,,18
-220181,UPP,"Urban Planning and Policy",555,"Site Planning",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,3," ,",,,14
+220181,UPP,"Urban Planning and Policy",555,"Site Planning",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,3,Grad Asst,,,14
 220181,UPP,"Urban Planning and Policy",558,"Land Use Regulation & Planning",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",20,9,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Smith, Thomas P",,,30
 220181,UPP,"Urban Planning and Policy",560,"Urb Transportation I: Intro",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",11,10,0,0,1,0,0,0,0,0,0,0,0,0,0,1,"Lowe, Catherine",,,23
 220181,UPP,"Urban Planning and Policy",564,"Public Transit Management",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",13,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Sriraj, P.S.",,,21

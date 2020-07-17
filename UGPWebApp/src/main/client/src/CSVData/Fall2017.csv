@@ -782,8 +782,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220178,ECON,Economics,520,"Microecon for Business",FT,"Liberal Arts & Sciences",2525,Economics,20,18,5,2,0,0,0,0,3,0,0,0,0,0,0,2,"Rauscher, William F",,,50
 220178,ECON,Economics,520,"Microecon for Business",FT,"Liberal Arts & Sciences",2525,Economics,29,29,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bassett, Gilbert W",,,64
 220178,ECON,Economics,534,"Econometrics I",FT,"Liberal Arts & Sciences",2525,Economics,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Qureshi, Javaeria A",,,11
-220178,ECON,Economics,596,"Independent Study",FT,"Liberal Arts & Sciences",2525,Economics,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0," ,",,,11
-220178,ECON,Economics,599,"PhD Thesis Research",FT,"Liberal Arts & Sciences",2525,Economics,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0," ,",,,36
+220178,ECON,Economics,596,"Independent Study",FT,"Liberal Arts & Sciences",2525,Economics,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,Grad Asst,,,11
+220178,ECON,Economics,599,"PhD Thesis Research",FT,"Liberal Arts & Sciences",2525,Economics,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,Grad Asst,,,36
 220178,ED,Education,100,"Intro to Urban Education",FP,Education,2208,Education,27,12,1,0,0,0,0,0,0,0,1,0,0,0,0,1,"Larnell, Gregory Vincent",,,42
 220178,ED,Education,100,"Intro to Urban Education",FP,Education,2208,Education,34,17,9,6,2,0,0,0,0,0,0,0,0,0,0,5,"Grad Asst","Larnell, Gregory Vincent",,73
 220178,ED,Education,135,"Chld & Yth Policy Urb Amer",FP,Education,2208,Education,25,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,30

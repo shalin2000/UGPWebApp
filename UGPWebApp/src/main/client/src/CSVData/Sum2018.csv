@@ -26,7 +26,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220185,ASP,"Academic Skills Program",35,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,19,12,2,"Stockman, Matthew William Miller",,,33
 220185,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,1,"Carson, Jordan Marie",,,12
 220185,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,"Duke, Trischa Beth",,,12
-220185,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0," ,",,,12
+220185,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,Grad Asst,,,12
 220185,BA,"Business Administration",299,"CBA Study Abroad",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,"Prazza, Angela J",,,21
 220185,BA,"Business Administration",420,"Professional Presence",FL,"Business Administration",2785,"Business Administration Admini",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Popowits, Michael T",,,10
 220185,BA,"Business Administration",589,"Corporate Bus Intern Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,"Anderson, John D",,,77
@@ -147,11 +147,11 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220185,ECE,"Electrical and Computer Engr",333,"Computer Comm Networks I",FQ,Engineering,2949,"Electrical & Computer Engr",6,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Salam, Mohammed Abdul",,,17
 220185,ECE,"Electrical and Computer Engr",340,"Electronics I",FQ,Engineering,2949,"Electrical & Computer Engr",7,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Metlushko, Vitali V",,,16
 220185,ECE,"Electrical and Computer Engr",341,"Probabil &Rand Proc for Engr",FQ,Engineering,2949,"Electrical & Computer Engr",4,4,3,0,1,0,0,0,0,0,0,0,0,0,0,1,"Salim, Ahmad Suhail",,,13
-220185,ECON,Economics,120,"Principles of Microeconomics",FT,"Liberal Arts & Sciences",2525,Economics,9,15,5,1,0,0,0,0,0,0,0,0,0,0,0,0," ,",,,30
-220185,ECON,Economics,121,"Principles of Macroeconomics",FT,"Liberal Arts & Sciences",2525,Economics,4,6,3,6,4,0,0,0,0,0,0,0,0,0,0,1," ,",,,24
-220185,ECON,Economics,220,Microeconomics,FT,"Liberal Arts & Sciences",2525,Economics,4,3,4,1,1,0,0,0,0,0,0,0,0,0,0,1," ,",,,14
+220185,ECON,Economics,120,"Principles of Microeconomics",FT,"Liberal Arts & Sciences",2525,Economics,9,15,5,1,0,0,0,0,0,0,0,0,0,0,0,0,Grad Asst,,,30
+220185,ECON,Economics,121,"Principles of Macroeconomics",FT,"Liberal Arts & Sciences",2525,Economics,4,6,3,6,4,0,0,0,0,0,0,0,0,0,0,1,Grad Asst,,,24
+220185,ECON,Economics,220,Microeconomics,FT,"Liberal Arts & Sciences",2525,Economics,4,3,4,1,1,0,0,0,0,0,0,0,0,0,0,1,Grad Asst,,,14
 220185,ECON,Economics,221,Macroeconomics,FT,"Liberal Arts & Sciences",2525,Economics,3,5,6,0,0,0,0,0,2,0,0,0,0,0,0,0,"Karras, Georgios",,,16
-220185,ECON,Economics,300,Econometrics,FT,"Liberal Arts & Sciences",2525,Economics,3,4,3,1,0,0,0,0,0,0,0,0,0,0,0,1," ,",,,12
+220185,ECON,Economics,300,Econometrics,FT,"Liberal Arts & Sciences",2525,Economics,3,4,3,1,0,0,0,0,0,0,0,0,0,0,0,1,Grad Asst,,,12
 220185,ECON,Economics,333,"International Economics",FT,"Liberal Arts & Sciences",2525,Economics,5,7,4,1,1,0,0,0,1,0,0,0,0,0,0,1,"Pieper, Paul J",,,20
 220185,ECON,Economics,520,"Microecon for Business",FT,"Liberal Arts & Sciences",2525,Economics,9,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,"Bassett, Gilbert W",,,19
 220185,ED,Education,402,"Phil Ed & Urban School Policy",FP,Education,2208,Education,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Miller, Christopher L.",,,11
@@ -379,7 +379,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220185,SOC,Sociology,212,"Human Sexuality",FT,"Liberal Arts & Sciences",2772,Sociology,6,3,1,0,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,13
 220185,SOC,Sociology,445,"Sociology of the Family",FT,"Liberal Arts & Sciences",2772,Sociology,1,2,4,3,0,0,0,0,0,0,0,0,0,0,0,0,"Muhammad, Ray","Grad Asst",,10
 220185,SOCW,"Social Work",571,"Field Instruction II",GL,"Social Work",2630,"Jane Addams Social Work",0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,"Coats, Barbara C","Stanfield, Veronica Ann",,17
-220185,SPAN,Spanish,102,"Elementary Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0," ,",,,10
+220185,SPAN,Spanish,102,"Elementary Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Grad Asst,,,10
 220185,SPAN,Spanish,103,"Elementary Spanish III",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",2,9,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,15
 220185,SPAN,Spanish,104,"Topics: Span Language &Culture",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",6,10,5,3,1,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,25
 220185,SPAN,Spanish,114,"Spanish Bilingual II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",4,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,12

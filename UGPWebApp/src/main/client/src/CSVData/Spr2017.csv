@@ -410,10 +410,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,CL,Classics,218,Pompeii,FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",12,7,4,2,0,0,0,0,0,0,0,0,0,0,0,1,"Ros, Karen E",,,26
 220171,CL,Classics,219,"Sport in the Ancient World",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Papakonstantinou, Zinon",,,14
 220171,CL,Classics,340,"The Iliad",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Marinatos, Ourania Nanno",,,11
-220171,CLER,"Clerkship - Medicine",601,"Obstetrics and Gynecology",GA,"Coll Medicine at Chicago - CS",2225,"Obstetrics & Gynecology",0,0,0,0,0,19,0,0,0,0,33,34,1,0,0,0," ,",,,87
+220171,CLER,"Clerkship - Medicine",601,"Obstetrics and Gynecology",GA,"Coll Medicine at Chicago - CS",2225,"Obstetrics & Gynecology",0,0,0,0,0,19,0,0,0,0,33,34,1,0,0,0,Grad Asst,,,87
 220171,CLER,"Clerkship - Medicine",602,Psychiatry,GA,"Coll Medicine at Chicago - CS",2722,Psychiatry,0,0,0,0,0,12,0,0,0,0,42,32,0,0,0,0,"Blitzstein, Sean Matthew",,,86
 220171,CLER,"Clerkship - Medicine",603,Pediatrics,GA,"Coll Medicine at Chicago - CS",2905,Pediatrics,0,0,0,0,0,20,0,0,0,0,48,26,1,0,0,0,"Hupert, Jordan",,,95
-220171,CLER,"Clerkship - Medicine",604,Surgery,GA,"Coll Medicine at Chicago - CS",2271,Surgery,0,0,0,0,0,16,0,0,0,0,52,21,5,0,0,0," ,",,,94
+220171,CLER,"Clerkship - Medicine",604,Surgery,GA,"Coll Medicine at Chicago - CS",2271,Surgery,0,0,0,0,0,16,0,0,0,0,52,21,5,0,0,0,Grad Asst,,,94
 220171,CLER,"Clerkship - Medicine",605,Medicine,GA,"Coll Medicine at Chicago - CS",2586,Medicine,0,0,0,0,0,15,0,0,0,0,48,32,0,0,0,0,"Khan, Asra R",,,95
 220171,CLER,"Clerkship - Medicine",606,"Family Medicine",GA,"Coll Medicine at Chicago - CS",2675,"Family Medicine",0,0,0,0,0,13,0,0,0,0,45,21,9,0,0,0,"Stringham, Richard V.V.",,,88
 220171,CLER,"Clerkship - Medicine",612,"Medicine Sub-Internship",GA,"Coll Medicine at Chicago - CS",2586,Medicine,0,0,0,0,0,5,0,0,0,0,5,20,3,0,0,0,"Khan, Asra R",,,33
@@ -478,13 +478,13 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,CME,"Civil & Materials Engineering",322,"Environmental Engineering",FQ,Engineering,2737,"Civil & Materials Engineering",8,14,12,5,0,0,0,0,1,0,0,0,0,0,0,1,"Khodadoust, Amid",,,41
 220171,CME,"Civil & Materials Engineering",401,"Adv Design Of Metal Struct",FQ,Engineering,2737,"Civil & Materials Engineering",18,14,16,11,3,0,0,0,2,0,0,0,0,0,0,1,"Mahamid, Mustafa",,,65
 220171,CME,"Civil & Materials Engineering",402,"Highway Design",FQ,Engineering,2737,"Civil & Materials Engineering",19,28,8,0,0,0,0,0,0,0,0,0,0,0,0,1,"Mohammadian, Abolfazl",,,56
-220171,CME,"Civil & Materials Engineering",403,"Hydraulic Design",FQ,Engineering,2737,"Civil & Materials Engineering",20,14,7,1,0,0,0,0,0,0,0,0,0,0,0,1," ,",,,43
+220171,CME,"Civil & Materials Engineering",403,"Hydraulic Design",FQ,Engineering,2737,"Civil & Materials Engineering",20,14,7,1,0,0,0,0,0,0,0,0,0,0,0,1,Grad Asst,,,43
 220171,CME,"Civil & Materials Engineering",405,"Foundation Dsgn& Analysis",FQ,Engineering,2737,"Civil & Materials Engineering",0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,1,"Schulenberg, Joseph W",,,57
 220171,CME,"Civil & Materials Engineering",421,"Water Treatment Design",FQ,Engineering,2737,"Civil & Materials Engineering",9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Khodadoust, Amid",,,18
 220171,CME,"Civil & Materials Engineering",422,"Wastewater Treatment",FQ,Engineering,2737,"Civil & Materials Engineering",5,2,8,4,0,0,0,0,0,0,0,0,0,0,0,0,"Rockne, Karl John",,,19
 220171,CME,"Civil & Materials Engineering",434,"Finite Element Analysis I",FQ,Engineering,2737,"Civil & Materials Engineering",44,43,4,0,1,0,0,0,0,0,0,0,0,0,0,1,"Karpov, Eduard",,,93
 220171,CME,"Civil & Materials Engineering",493,Seminar,FQ,Engineering,2737,"Civil & Materials Engineering",15,3,2,0,10,0,0,0,0,0,0,0,0,0,0,0,"Chi, Sheng-Wei",,,30
-220171,CME,"Civil & Materials Engineering",497,"Capstone Design",FQ,Engineering,2737,"Civil & Materials Engineering",71,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0," ,","Muench, James T",,82
+220171,CME,"Civil & Materials Engineering",497,"Capstone Design",FQ,Engineering,2737,"Civil & Materials Engineering",71,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Grad Asst,"Muench, James T",,82
 220171,CME,"Civil & Materials Engineering",507,"Sustainable Transportation",FQ,Engineering,2737,"Civil & Materials Engineering",6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Lin, Jie",,,11
 220171,CME,"Civil & Materials Engineering",536,"Nondestructv Testing/Concrete",FQ,Engineering,2737,"Civil & Materials Engineering",12,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"Ansari, Farhad",,,19
 220171,CME,"Civil & Materials Engineering",544,"Structural Dynamics",FQ,Engineering,2737,"Civil & Materials Engineering",0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,"Ozevin, Didem",,,17
@@ -641,7 +641,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,DHD,"Disability & Human Development",555,"AT PreK-12 Education Setting",GF,"Applied Health Sciences",2871,"Disability & Human Development",17,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Cochrane, Daniel P","Politano, Patricia",,22
 220171,DHD,"Disability & Human Development",556,"Wheelchair Mobility",GF,"Applied Health Sciences",2871,"Disability & Human Development",0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,1,"Sposato Bonfiglio, Brenda",,,19
 220171,DHD,"Disability & Human Development",594,"AT for Infants and Toddlers",GF,"Applied Health Sciences",2871,"Disability & Human Development",14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Politano, Patricia","Heavey, Ann E",,16
-220171,DHD,"Disability & Human Development",594,"AT for the Blind and VI",GF,"Applied Health Sciences",2871,"Disability & Human Development",12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0," ,","Hedman, Glenn",,13
+220171,DHD,"Disability & Human Development",594,"AT for the Blind and VI",GF,"Applied Health Sciences",2871,"Disability & Human Development",12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grad Asst,"Hedman, Glenn",,13
 220171,DLG,Dialogue,220,"Intergroup Dialogue",GQ,Library,2282,"Library Courses",3,5,5,0,1,0,0,0,0,0,0,0,0,0,0,0,"Whitley, Steven K",,,14
 220171,DOSI,"Dent-Oral/Systemic Issues",343,"Oral/Systemc Issue in Dent III",FN,Dentistry,2758,"Dentistry Administration",83,16,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Zwiercan, Christopher P","Hofmeister, Jamie Lynn",,101
 220171,DOST,"Dent-Oral/Systemic Topics",333,"Oral/Systemc Topcs in Dent III",FN,Dentistry,2758,"Dentistry Administration",50,46,5,0,0,0,0,2,0,0,0,0,0,0,0,0,"Kawar, Nadia","Haley, Colin Michael",,103
@@ -883,7 +883,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,ENGR,Engineering,100,"Engineering Orientation",FQ,Engineering,2284,"Engineering Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,137,0,5,"Kuypers, Christine M",,,142
 220171,ENGR,Engineering,111,"Pract Additive Manufacturing",FQ,Engineering,2284,"Engineering Admin",0,0,0,0,0,0,0,0,1,0,0,0,0,78,2,4,"Pan, Yayue",,,85
 220171,ENGR,Engineering,112,"Pract Subtractive Manufact",FQ,Engineering,2284,"Engineering Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,59,1,0,"Scott, Michael J",,,60
-220171,ENGR,Engineering,289,"Cooperative Engr Practice",FQ,Engineering,2284,"Engineering Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,3," ,"," ,","Cicero, Thomas J",61
+220171,ENGR,Engineering,289,"Cooperative Engr Practice",FQ,Engineering,2284,"Engineering Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,3,Grad Asst,Grad Asst,"Cicero, Thomas J",61
 220171,ENTR,Entrepreneurship,310,"Intro to Entrepreneurship",FL,"Business Administration",2846,"Managerial Studies",47,6,4,2,0,0,0,0,0,0,0,0,0,0,0,1,"Renko, Anna Maija",,,60
 220171,ENTR,Entrepreneurship,420,"Social Entrepreneurship",FL,"Business Administration",2846,"Managerial Studies",23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lloyd, Anna K",,,24
 220171,ENTR,Entrepreneurship,435,"International Entrepreneurship",FL,"Business Administration",2846,"Managerial Studies",44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Parhankangas, Annaleena",,,44
@@ -901,7 +901,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,EOHS,"Environmtl & Occuptnl Hlth Sci",563,"Management Systems",FY,"School of Public Health",2731,"Environmtl & Occuptnl Hlth Sci",9,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fiore, Michael Joseph",,,15
 220171,EOHS,"Environmtl & Occuptnl Hlth Sci",580,"EOHS Policy Seminar",FY,"School of Public Health",2731,"Environmtl & Occuptnl Hlth Sci",8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Brandt-Rauf, Sherry",,,10
 220171,EPID,Epidemiology,404,"Intermediate Epidemiolog Mthds",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",33,13,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Rankin, Kristin",,,48
-220171,EPID,Epidemiology,409,"Epidemiology of HIV/AIDS",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2," ,",,,23
+220171,EPID,Epidemiology,409,"Epidemiology of HIV/AIDS",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,Grad Asst,,,23
 220171,EPID,Epidemiology,411,"Epid Non-Infectious Diseases",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",21,9,0,0,0,0,0,0,4,0,0,0,0,0,0,1,"Persky, Victoria Weyler",,,35
 220171,EPID,Epidemiology,526,Pharmacoepidemiology,FX,Pharmacy,2360,"Pharmacy Syst,Outcomes &Policy",9,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lee, Todd A.",,,14
 220171,EPID,Epidemiology,594,"Advanced Spec Topics Epid",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",11,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Dworkin, Mark Steven",,,22
@@ -958,7 +958,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,FIN,Finance,594,Equities,FL,"Business Administration",2691,Finance,10,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Barclay, William",,,17
 220171,FIN,Finance,594,"Fixed Income",FL,"Business Administration",2691,Finance,5,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Miller, John Paul",,,17
 220171,FIN,Finance,594,Investments,FL,"Business Administration",2691,Finance,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,"Patel, Hitesh C",,,17
-220171,FIN,Finance,594,Options,FL,"Business Administration",2691,Finance,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0," ,","Milford, Douglas",,17
+220171,FIN,Finance,594,Options,FL,"Business Administration",2691,Finance,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,Grad Asst,"Milford, Douglas",,17
 220171,FIN,Finance,594,"Sec Mkts & Hg Freq Trading",FL,"Business Administration",2691,Finance,11,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Murphy, Dermot P",,,17
 220171,FR,French,101,"Elementary French 1",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",8,5,1,1,1,0,0,0,1,0,0,0,0,0,0,3,"Thornton, Jessica",,,20
 220171,FR,French,101,"Elementary French 1",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",16,14,7,3,2,0,0,0,0,0,0,0,0,0,0,7,"Grad Asst",,,49
@@ -1054,7 +1054,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,HIST,History,170,"The Ottoman Empire",FT,"Liberal Arts & Sciences",2316,History,11,14,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Akcetin, Elif",,,29
 220171,HIST,History,199,"Chicago and the World",FT,"Liberal Arts & Sciences",2316,History,2,3,2,1,0,0,0,0,0,0,0,0,0,0,0,2,"Davis, Cory A",,,10
 220171,HIST,History,214,"Twentieth-Century Europe",FT,"Liberal Arts & Sciences",2316,History,19,23,10,1,1,0,0,0,0,0,0,0,0,0,0,5,"Abbott, John",,,59
-220171,HIST,History,217,"US Military History",GG,"Armed Forces",2589,"Armed Forces Military Science",9,13,0,0,0,0,0,0,2,0,0,0,0,0,0,1," ,"," ,"," ,",25
+220171,HIST,History,217,"US Military History",GG,"Armed Forces",2589,"Armed Forces Military Science",9,13,0,0,0,0,0,0,2,0,0,0,0,0,0,1,Grad Asst,Grad Asst,Grad Asst,25
 220171,HIST,History,219,"Sport in the Ancient World",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Papakonstantinou, Zinon",,,16
 220171,HIST,History,220,"Germany since 1848",FT,"Liberal Arts & Sciences",2316,History,9,9,2,0,0,0,0,0,0,0,2,0,0,0,0,0,"Levy, Richard S",,,22
 220171,HIST,History,223,"Modern Britain since 1689",FT,"Liberal Arts & Sciences",2316,History,16,10,0,1,0,0,0,0,1,0,0,0,0,0,0,2,"Strickland, Peter",,,30
@@ -1337,7 +1337,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,LING,Linguistics,487,"Comp Asst Lang Learning (CALL)",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",12,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rott, Susanne",,,16
 220171,LING,Linguistics,583,"Materials Dev/Sec Lang Teach",FT,"Liberal Arts & Sciences",2714,Linguistics,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Xiang, Xuehua",,,14
 220171,LING,Linguistics,586,"Second Language Assessment",FT,"Liberal Arts & Sciences",2714,Linguistics,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grgurovic, Maja",,,12
-220171,LITH,Lithuanian,130,"Lith Prose Fiction",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",9,13,1,0,0,0,0,0,0,0,0,0,0,0,0,1," ,",,,24
+220171,LITH,Lithuanian,130,"Lith Prose Fiction",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",9,13,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Grad Asst,,,24
 220171,LRSC,"Learning Sciences",501,"Research Methods",FS,"Graduate College",2480,"Graduate Admin",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Pellegrino, James W.",,,10
 220171,MATH,Mathematics,88,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,18,8,0,"Grad Asst",,,26
 220171,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,2,0,0,66,52,9,"Calamaro, Aviva H",,,129
@@ -1500,11 +1500,11 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,MGMT,Management,594,"Special Topics:Global Strategy",FL,"Business Administration",2846,"Managerial Studies",12,6,0,0,0,0,0,0,0,0,7,0,0,0,0,0,"Perkins, Susan",,,25
 220171,MHPE,"Medical Education",503,"Curriculum & Evaluation",FZ,"Coll Medicine at Chicago - BS",2857,"Medical Education",0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,"Harris, Ilene B","Sandlow, Leslie J",,20
 220171,MHPE,"Medical Education",598,"Thesis Research",FZ,"Coll Medicine at Chicago - BS",2857,"Medical Education",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Harris, Ilene B",,,10
-220171,MILS,"Military Science",102,"Introduction to Leadership",GG,"Armed Forces",2589,"Armed Forces Military Science",21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0," ,",,,21
-220171,MILS,"Military Science",131,"Military Physical Fitness",GG,"Armed Forces",2589,"Armed Forces Military Science",36,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0," ,"," ,"," ,",52
-220171,MILS,"Military Science",202,"Foundations of Tactical LDRSHP",GG,"Armed Forces",2589,"Armed Forces Military Science",0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0," ,",,,16
-220171,MILS,"Military Science",217,"US Military History",GG,"Armed Forces",2589,"Armed Forces Military Science",10,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0," ,"," ,"," ,",13
-220171,MILS,"Military Science",302,"Applied Team Leadership",GG,"Armed Forces",2589,"Armed Forces Military Science",9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0," ,",,,10
+220171,MILS,"Military Science",102,"Introduction to Leadership",GG,"Armed Forces",2589,"Armed Forces Military Science",21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grad Asst,,,21
+220171,MILS,"Military Science",131,"Military Physical Fitness",GG,"Armed Forces",2589,"Armed Forces Military Science",36,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,Grad Asst,Grad Asst,Grad Asst,52
+220171,MILS,"Military Science",202,"Foundations of Tactical LDRSHP",GG,"Armed Forces",2589,"Armed Forces Military Science",0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,Grad Asst,,,16
+220171,MILS,"Military Science",217,"US Military History",GG,"Armed Forces",2589,"Armed Forces Military Science",10,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Grad Asst,Grad Asst,Grad Asst,13
+220171,MILS,"Military Science",302,"Applied Team Leadership",GG,"Armed Forces",2589,"Armed Forces Military Science",9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grad Asst,,,10
 220171,MIM,"Microbiology and Immunology",560,"Microbial Pathogenesis",FZ,"Coll Medicine at Chicago - BS",2301,"Microbiology and Immunology",0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,1,"Kenney, Linda J.",,,10
 220171,MIM,"Microbiology and Immunology",595,"Microbiology Seminars",FZ,"Coll Medicine at Chicago - BS",2301,"Microbiology and Immunology",0,0,0,0,0,0,0,0,0,0,0,0,0,13,3,0,"McLachlan, Alan",,,16
 220171,MKTG,Marketing,360,"Introduction to Marketing",FL,"Business Administration",2846,"Managerial Studies",12,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Trampas, Ann E",,,19
@@ -1621,8 +1621,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,NURS,"Nursing Core",365,"Clin Concpt&Proc Mental Hlth",FW,Nursing,2662,"Pop Health Nursing Science",19,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Simpson, Kimberly Ann",,,29
 220171,NURS,"Nursing Core",385,"Nursing Care of Populations",FW,Nursing,2662,"Pop Health Nursing Science",26,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jones, Krista Lynn",,,30
 220171,NURS,"Nursing Core",385,"Nursing Care of Populations",FW,Nursing,2662,"Pop Health Nursing Science",32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Smith, Carrol A.",,,32
-220171,NURS,"Nursing Core",385,"Nursing Care of Populations",FW,Nursing,2662,"Pop Health Nursing Science",35,14,4,0,0,0,0,0,0,0,0,0,0,0,0,5,"Grad Asst"," ,",,58
-220171,NURS,"Nursing Core",390,"Nsg Leadershp&Mgmt in Hlthcare",FW,Nursing,2842,"Human Development Nursing Sci",24,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst"," ,",,29
+220171,NURS,"Nursing Core",385,"Nursing Care of Populations",FW,Nursing,2662,"Pop Health Nursing Science",35,14,4,0,0,0,0,0,0,0,0,0,0,0,0,5,"Grad Asst",Grad Asst,,58
+220171,NURS,"Nursing Core",390,"Nsg Leadershp&Mgmt in Hlthcare",FW,Nursing,2842,"Human Development Nursing Sci",24,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",Grad Asst,,29
 220171,NURS,"Nursing Core",390,"Nsg Leadershp&Mgmt in Hlthcare",FW,Nursing,2842,"Human Development Nursing Sci",44,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Doran, Rebecca Jo","Hall, Monica E",,59
 220171,NURS,"Nursing Core",390,"Nsg Leadershp&Mgmt in Hlthcare",FW,Nursing,2842,"Human Development Nursing Sci",94,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson, Robin A",,,96
 220171,NURS,"Nursing Core",397,"Issues in Nursing Practice",FW,Nursing,2662,"Pop Health Nursing Science",9,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,13
@@ -1666,7 +1666,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,ORTD,Orthodontics,595,"Seminar in Orthodontics",FN,Dentistry,2978,Orthodontics,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,"Kusnoto, Budi",,,27
 220171,ORTD,Orthodontics,667,"Ortho-Perio Relationships",FN,Dentistry,2978,Orthodontics,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,"Kusnoto, Budi","Handelman, Chester S",,14
 220171,OSCI,"Oral Sciences",504,"Advanced Dental Materials",FN,Dentistry,2758,"Dentistry Administration",0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,"Campbell, Stephen D",,,15
-220171,OSCI,"Oral Sciences",594,"Research Protocol",FN,Dentistry,2758,"Dentistry Administration",2,0,0,0,0,0,0,20,0,0,1,0,0,0,0,0,"Le Hew, Charles W"," ,","Burton, Ashley Lynn",23
+220171,OSCI,"Oral Sciences",594,"Research Protocol",FN,Dentistry,2758,"Dentistry Administration",2,0,0,0,0,0,0,20,0,0,1,0,0,0,0,0,"Le Hew, Charles W",Grad Asst,"Burton, Ashley Lynn",23
 220171,OSCI,"Oral Sciences",598,"Master's Thesis Research",FN,Dentistry,2758,"Dentistry Administration",0,0,0,0,0,0,0,0,0,0,6,0,0,12,0,0,"Kusnoto, Budi",,,18
 220171,OSCI,"Oral Sciences",598,"Master's Thesis Research",FN,Dentistry,2758,"Dentistry Administration",0,0,0,0,0,0,0,2,0,0,0,0,0,9,0,0,"Watanabe, Keiko",,,11
 220171,OT,"Occupational Therapy",511,"Occup Perform in Children",GF,"Applied Health Sciences",2725,"Occupational Therapy",37,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Stoffel, Ashley",,,45
@@ -1674,8 +1674,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,OT,"Occupational Therapy",516,"Psychosoc Aspect of Occ Perf",GF,"Applied Health Sciences",2725,"Occupational Therapy",40,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Januszewski, Celeste","Lee, Jenica",,45
 220171,OT,"Occupational Therapy",519,"Fieldwork Level IA",GF,"Applied Health Sciences",2725,"Occupational Therapy",0,0,0,0,0,0,0,0,1,0,0,0,0,44,0,0,"Januszewski, Celeste","Preissner, Kathy Leigh","Lee, Jenica",45
 220171,OT,"Occupational Therapy",528,"Race and Culture",GF,"Applied Health Sciences",2725,"Occupational Therapy",15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Suarez-Balcazar, Yolanda","Magana, Sandra M",,15
-220171,OT,"Occupational Therapy",548,"Fieldwork Level IIA",GF,"Applied Health Sciences",2725,"Occupational Therapy",0,0,0,0,0,0,0,0,3,0,0,0,0,40,1,0," ,","Preissner, Kathy Leigh",,44
-220171,OT,"Occupational Therapy",549,"Fieldwork Level IIB",GF,"Applied Health Sciences",2725,"Occupational Therapy",0,0,0,0,0,0,0,0,65,0,1,0,0,0,0,1," ,","Preissner, Kathy Leigh",,67
+220171,OT,"Occupational Therapy",548,"Fieldwork Level IIA",GF,"Applied Health Sciences",2725,"Occupational Therapy",0,0,0,0,0,0,0,0,3,0,0,0,0,40,1,0,Grad Asst,"Preissner, Kathy Leigh",,44
+220171,OT,"Occupational Therapy",549,"Fieldwork Level IIB",GF,"Applied Health Sciences",2725,"Occupational Therapy",0,0,0,0,0,0,0,0,65,0,1,0,0,0,0,1,Grad Asst,"Preissner, Kathy Leigh",,67
 220171,OT,"Occupational Therapy",563,"Disability and Global Health",GF,"Applied Health Sciences",2725,"Occupational Therapy",12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mirza, Mansha Parven",,,12
 220171,OT,"Occupational Therapy",590,"Proseminar in OT",GF,"Applied Health Sciences",2725,"Occupational Therapy",0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Hammel, Joy M",,,11
 220171,PA,"Public Administration",100,"Indiv Action & Citizenship",GP,"Urban Planning &Public Affairs",2694,"Public Administration",9,9,2,1,7,0,0,0,1,0,0,0,0,0,0,4,"Healy, Shawn Paul",,,33
@@ -1794,7 +1794,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,PHYS,Physics,561,"Statistical Mechanics",FT,"Liberal Arts & Sciences",2354,Physics,5,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Morr, Dirk K",,,16
 220171,PHYS,Physics,594,TransmissionElectronMicroscopy,FT,"Liberal Arts & Sciences",2354,Physics,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Klie, Robert Friedrich",,,17
 220171,PHYS,Physics,595,"Graduate Seminar",FT,"Liberal Arts & Sciences",2354,Physics,0,0,0,0,0,0,0,0,0,0,0,0,0,36,5,3,"Cavanaugh, Richard",,,44
-220171,PMPR,"Pharmacy Practice",328,"Evidence Based Phytotherapy",FX,Pharmacy,2967,"Pharmacy Practice",19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mahady, Gail B."," ,",,19
+220171,PMPR,"Pharmacy Practice",328,"Evidence Based Phytotherapy",FX,Pharmacy,2967,"Pharmacy Practice",19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mahady, Gail B.",Grad Asst,,19
 220171,PMPR,"Pharmacy Practice",335,"Academic Adv Pharmacy Practice",FX,Pharmacy,2967,"Pharmacy Practice",21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Goliak, Kristen L","Dietrich, Jennifer R",,22
 220171,PMPR,"Pharmacy Practice",336,"Concepts in Drug Development",FX,Pharmacy,2967,"Pharmacy Practice",16,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chiampas, Thomas Dean",,,21
 220171,PMPR,"Pharmacy Practice",345,"Clinical Toxicology",FX,Pharmacy,2967,"Pharmacy Practice",6,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Paloucek, Frank P","Gimbar, Renee Petzel",,17
@@ -1848,9 +1848,9 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,PRCL,"Preclinical Medicine",629,"Career Development",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,0,0,0,196,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",196
 220171,PRCL,"Preclinical Medicine",630,Psychiatry,GA,"Coll Medicine at Chicago - CS",2722,Psychiatry,0,0,0,0,0,0,0,0,0,0,196,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",196
 220171,PRCL,"Preclinical Medicine",633,"General/Systemic Pathology II",GA,"Coll Medicine at Chicago - CS",2219,Pathology,0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,0,"Lin, Amy Yamei","Valyi-Nagy, Tibor G.","Setty, Suman",197
-220171,PRCL,"Preclinical Medicine",635,"Medical Pharmacology II",FZ,"Coll Medicine at Chicago - BS",2494,"Pharmacol & Regenerative Med",0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,0," ,",,,197
+220171,PRCL,"Preclinical Medicine",635,"Medical Pharmacology II",FZ,"Coll Medicine at Chicago - BS",2494,"Pharmacol & Regenerative Med",0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,0,Grad Asst,,,197
 220171,PRCL,"Preclinical Medicine",643,"Clinical Pathophysiology II",GA,"Coll Medicine at Chicago - CS",2219,Pathology,0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",197
-220171,PRCL,"Preclinical Medicine",646,"Essentials Clinical Med 4",FZ,"Coll Medicine at Chicago - BS",2857,"Medical Education",0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,0," ,",,,197
+220171,PRCL,"Preclinical Medicine",646,"Essentials Clinical Med 4",FZ,"Coll Medicine at Chicago - BS",2857,"Medical Education",0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,0,Grad Asst,,,197
 220171,PRCL,"Preclinical Medicine",658,"General/Systemic Pathology II",GE,"College of Medicine Rockford",2352,Pathology,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Pirrello, Jodi L",52
 220171,PRCL,"Preclinical Medicine",659,"Medical Pharmacology II",GE,"College of Medicine Rockford",2614,"Biomedical Science",0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Blevins, Terri Bell",52
 220171,PRCL,"Preclinical Medicine",660,"Clinical Pathophysiology II",GE,"College of Medicine Rockford",2532,"Med & Medical Specialties",0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Pirrello, Jodi L",52

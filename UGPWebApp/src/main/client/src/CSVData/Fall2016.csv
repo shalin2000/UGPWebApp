@@ -272,19 +272,19 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,BIOS,"Biological Sciences",595,"Departmental Seminar",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,"Orenic, Teresa Vales","Dubreuil, Ronald R.",,28
 220168,BIOS,"Biological Sciences",599,"Doctoral Thesis Research",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Brown, Joel S",,,10
 220168,BMS,"Basic Medical Sciences",602,"Medical Biochemistry I",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,128,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Wyant, Julie M",128
-220168,BMS,"Basic Medical Sciences",603,"Medical Genetics",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,128,0,0,0,0,0," ,",,,128
+220168,BMS,"Basic Medical Sciences",603,"Medical Genetics",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,128,0,0,0,0,0,Grad Asst,,,128
 220168,BMS,"Basic Medical Sciences",604,"Physiology I",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,133,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Wyant, Julie M",133
 220168,BMS,"Basic Medical Sciences",606,"Cell & Tissue Biology I",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,133,0,0,0,0,0,"Williams, Benjamin D",,,133
-220168,BMS,"Basic Medical Sciences",608,"Basic Microbiology",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,131,0,0,0,0,0," ,",,,131
+220168,BMS,"Basic Medical Sciences",608,"Basic Microbiology",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,131,0,0,0,0,0,Grad Asst,,,131
 220168,BMS,"Basic Medical Sciences",609,"Medical Scholars Program",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Hall, James Warren",44
 220168,BMS,"Basic Medical Sciences",610,"Foundations of Clinical Med I",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,124,0,0,1,0,0,"Thomas, Dorian E","Grad Asst","Wyant, Julie M",125
 220168,BMS,"Basic Medical Sciences",621,"Founds Rural Medicine I",GD,"College of Medicine at Urbana",2491,"Family Medicine",0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Wyant, Julie M",19
-220168,BMS,"Basic Medical Sciences",622,"Medical Human Anatomy I",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,130,0,0,0,0,0," ,",,,130
-220168,BMS,"Basic Medical Sciences",624,Embryology,GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,129,0,0,0,0,0," ,",,,129
+220168,BMS,"Basic Medical Sciences",622,"Medical Human Anatomy I",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,130,0,0,0,0,0,Grad Asst,,,130
+220168,BMS,"Basic Medical Sciences",624,Embryology,GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,129,0,0,0,0,0,Grad Asst,,,129
 220168,BMS,"Basic Medical Sciences",644,"Med Gross Hum AnatI/Emb I",FZ,"Coll Medicine at Chicago - BS",2387,"Anatomy and Cell Biology",0,0,0,0,0,0,0,0,0,0,198,0,0,0,0,0,"Pescitelli, Maurice",,,198
 220168,BMS,"Basic Medical Sciences",646,"Cell and Tissue Biology",FZ,"Coll Medicine at Chicago - BS",2387,"Anatomy and Cell Biology",0,0,0,0,0,0,0,0,0,0,198,0,0,0,0,0,"Art, Jonathan J",,,198
 220168,BMS,"Basic Medical Sciences",648,"Medical Biochemistry",FZ,"Coll Medicine at Chicago - BS",2509,"Biochem & Molecular Genetics",0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,0,"Ho, Yee-Kin","Ackerman, Steven J",,197
-220168,BMS,"Basic Medical Sciences",653,"Physiology I",FZ,"Coll Medicine at Chicago - BS",2386,"Physiology and Biophysics",0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,0," ,",,,197
+220168,BMS,"Basic Medical Sciences",653,"Physiology I",FZ,"Coll Medicine at Chicago - BS",2386,"Physiology and Biophysics",0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,0,Grad Asst,,,197
 220168,BMS,"Basic Medical Sciences",664,"Career Development",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,0,0,0,198,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",198
 220168,BMS,"Basic Medical Sciences",666,"Essentials Clinical Med I",FZ,"Coll Medicine at Chicago - BS",2857,"Medical Education",0,0,0,0,0,0,0,0,0,0,198,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",198
 220168,BPS,"Biopharmaceutical Sciences",360,"Basic &Clinical Pharmacology I",FX,Pharmacy,2295,"Biopharmaceutical Sciences",16,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tolhurst, Thomas Albert",,,30
@@ -307,7 +307,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,BVIS,"Biomedical Visualization",505,"Vis Learning & Thinking I",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lebowicz, Leah Amanda","Young, Christine Dorothea",,19
 220168,BVIS,"Biomedical Visualization",510,"Anat Visualization",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wellman, Christa A",,,19
 220168,BVIS,"Biomedical Visualization",543,"Animation III",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",3,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Brennan, Kevin Michael",,,11
-220168,BVIS,"Biomedical Visualization",560,"Molecular Pharm for BVIS",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Maizels, Evelyn Tilly"," ,",,16
+220168,BVIS,"Biomedical Visualization",560,"Molecular Pharm for BVIS",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Maizels, Evelyn Tilly",Grad Asst,,16
 220168,BVIS,"Biomedical Visualization",595,"Seminar in Biomed Visual",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,"Daugherty, John M",,,19
 220168,CC,"Campus Courses",120,"Dialogue Seminar",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,"Grad Asst","Floyd, Wendell Danton",,17
 220168,CC,"Campus Courses",120,"Dialogue Seminar",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,"Floyd, Wendell Danton","Whitley, Steven K","Grad Asst",18
@@ -371,7 +371,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,CHEM,Chemistry,343,"Physical Chemistry Lab",FT,"Liberal Arts & Sciences",2458,Chemistry,1,8,29,3,4,0,0,0,0,0,0,0,0,0,0,0,"Tripa, Cornel Emil",,,45
 220168,CHEM,Chemistry,344,"Physical Chem/Biochemists II",FT,"Liberal Arts & Sciences",2458,Chemistry,4,9,7,3,1,0,0,0,0,0,0,0,0,0,0,0,"Papadantonakis, George A",,,24
 220168,CHEM,Chemistry,346,"Physical Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,14,13,31,14,2,0,0,0,1,0,0,0,0,0,0,6,"Hammerich, Audrey Dell",,,81
-220168,CHEM,Chemistry,352,"Introductory Biochemistry",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",3,10,4,1,0,0,0,0,0,0,0,0,0,0,0,3," ,","Jeffery, Constance J",,21
+220168,CHEM,Chemistry,352,"Introductory Biochemistry",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",3,10,4,1,0,0,0,0,0,0,0,0,0,0,0,3,Grad Asst,"Jeffery, Constance J",,21
 220168,CHEM,Chemistry,421,"Instrumental Analysis",FT,"Liberal Arts & Sciences",2458,Chemistry,3,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,"Cologna, Stephanie",,,10
 220168,CHEM,Chemistry,432,"Advanced Organic Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wardrop, Duncan J",,,13
 220168,CHEM,Chemistry,452,"Biochemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,10,11,12,1,0,0,0,0,0,0,0,0,0,0,0,3,"Fung, Leslie Wo-Mei",,,37
@@ -431,26 +431,26 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,CL,Classics,204,"Greek Art & Archaeology",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",2,8,5,1,0,0,0,0,0,0,0,0,0,0,0,1,"Ros, Karen E",,,17
 220168,CL,Classics,208,"Greek Mythology",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",26,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Marinatos, Ourania Nanno",,,33
 220168,CL,Classics,251,"Greek Tragedy",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",5,8,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Papamichos Chronakis, Parmenion",,,17
-220168,CLER,"Clerkship - Medicine",601,"Obstetrics and Gynecology",GA,"Coll Medicine at Chicago - CS",2225,"Obstetrics & Gynecology",0,0,0,0,0,0,0,0,0,0,45,1,0,0,0,0," ,"," ,",,46
-220168,CLER,"Clerkship - Medicine",602,Psychiatry,GA,"Coll Medicine at Chicago - CS",2722,Psychiatry,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,"Blitzstein, Sean Matthew"," ,",,44
+220168,CLER,"Clerkship - Medicine",601,"Obstetrics and Gynecology",GA,"Coll Medicine at Chicago - CS",2225,"Obstetrics & Gynecology",0,0,0,0,0,0,0,0,0,0,45,1,0,0,0,0,Grad Asst,Grad Asst,,46
+220168,CLER,"Clerkship - Medicine",602,Psychiatry,GA,"Coll Medicine at Chicago - CS",2722,Psychiatry,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,"Blitzstein, Sean Matthew",Grad Asst,,44
 220168,CLER,"Clerkship - Medicine",603,Pediatrics,GA,"Coll Medicine at Chicago - CS",2905,Pediatrics,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,"Hupert, Jordan",,,47
-220168,CLER,"Clerkship - Medicine",604,Surgery,GA,"Coll Medicine at Chicago - CS",2271,Surgery,0,0,0,0,0,1,0,0,0,0,45,0,0,0,0,0," ,",,,46
-220168,CLER,"Clerkship - Medicine",605,Medicine,GA,"Coll Medicine at Chicago - CS",2586,Medicine,0,0,0,0,0,0,0,0,0,0,48,2,0,0,0,0,"Khan, Asra R"," ,",,50
-220168,CLER,"Clerkship - Medicine",606,"Family Medicine",GA,"Coll Medicine at Chicago - CS",2675,"Family Medicine",0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0," ,"," ,",,43
-220168,CLER,"Clerkship - Medicine",612,"Medicine Sub-Internship",GA,"Coll Medicine at Chicago - CS",2586,Medicine,0,0,0,0,0,0,0,0,0,0,53,0,1,0,0,0," ,",,,54
+220168,CLER,"Clerkship - Medicine",604,Surgery,GA,"Coll Medicine at Chicago - CS",2271,Surgery,0,0,0,0,0,1,0,0,0,0,45,0,0,0,0,0,Grad Asst,,,46
+220168,CLER,"Clerkship - Medicine",605,Medicine,GA,"Coll Medicine at Chicago - CS",2586,Medicine,0,0,0,0,0,0,0,0,0,0,48,2,0,0,0,0,"Khan, Asra R",Grad Asst,,50
+220168,CLER,"Clerkship - Medicine",606,"Family Medicine",GA,"Coll Medicine at Chicago - CS",2675,"Family Medicine",0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,Grad Asst,Grad Asst,,43
+220168,CLER,"Clerkship - Medicine",612,"Medicine Sub-Internship",GA,"Coll Medicine at Chicago - CS",2586,Medicine,0,0,0,0,0,0,0,0,0,0,53,0,1,0,0,0,Grad Asst,,,54
 220168,CLER,"Clerkship - Medicine",616,"Obstetrics and Gynecology",GC,"College of Medicine at Peoria",2264,"Obstetrics & Gynecology",0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,"Ali, Maqbool Begum",,,22
 220168,CLER,"Clerkship - Medicine",617,Psychiatry,GC,"College of Medicine at Peoria",2500,"Psychiatry & Behavioral Med",0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,"Bruce, Timothy J",,,22
 220168,CLER,"Clerkship - Medicine",618,Pediatrics,GC,"College of Medicine at Peoria",2821,Pediatrics,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,"McLauchlan, Heather M.",,,18
-220168,CLER,"Clerkship - Medicine",619,Surgery,GC,"College of Medicine at Peoria",2848,Surgery,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0," ,",,,17
+220168,CLER,"Clerkship - Medicine",619,Surgery,GC,"College of Medicine at Peoria",2848,Surgery,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,Grad Asst,,,17
 220168,CLER,"Clerkship - Medicine",620,Medicine,GC,"College of Medicine at Peoria",2554,"Internal Medicine",0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,"Aiyer, Meenakshy",,,20
-220168,CLER,"Clerkship - Medicine",621,"Family Practice",GC,"College of Medicine at Peoria",2254,"Family and Community Medicine",0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0," ,",,,21
+220168,CLER,"Clerkship - Medicine",621,"Family Practice",GC,"College of Medicine at Peoria",2254,"Family and Community Medicine",0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,Grad Asst,,,21
 220168,CLER,"Clerkship - Medicine",631,"Obstetrics and Gynecology",GE,"College of Medicine Rockford",2677,"Obstetrics & Gynecology",0,0,0,0,0,0,0,0,0,0,14,3,0,0,0,0,"Durkee, Timothy James",,,17
 220168,CLER,"Clerkship - Medicine",632,Psychiatry,GE,"College of Medicine Rockford",2307,Psychiatry,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,"Garcia, Raymond C",,,14
-220168,CLER,"Clerkship - Medicine",633,Pediatrics,GE,"College of Medicine Rockford",2339,Pediatrics,0,0,0,0,0,1,0,0,0,0,15,0,0,0,0,0," ,",,,16
-220168,CLER,"Clerkship - Medicine",634,Surgery,GE,"College of Medicine Rockford",2285,"Surg/Surgical Specialties",0,0,0,0,0,1,0,0,0,0,12,0,0,0,0,0," ,",,,13
-220168,CLER,"Clerkship - Medicine",635,Medicine,GE,"College of Medicine Rockford",2532,"Med & Medical Specialties",0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0," ,"," ,",,14
+220168,CLER,"Clerkship - Medicine",633,Pediatrics,GE,"College of Medicine Rockford",2339,Pediatrics,0,0,0,0,0,1,0,0,0,0,15,0,0,0,0,0,Grad Asst,,,16
+220168,CLER,"Clerkship - Medicine",634,Surgery,GE,"College of Medicine Rockford",2285,"Surg/Surgical Specialties",0,0,0,0,0,1,0,0,0,0,12,0,0,0,0,0,Grad Asst,,,13
+220168,CLER,"Clerkship - Medicine",635,Medicine,GE,"College of Medicine Rockford",2532,"Med & Medical Specialties",0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,Grad Asst,Grad Asst,,14
 220168,CLER,"Clerkship - Medicine",637,"Family Medicine Clerkship",GE,"College of Medicine Rockford",2636,"Family and Community Medicine",0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Pirrello, Jodi L",13
-220168,CLER,"Clerkship - Medicine",655,Medicine,GD,"College of Medicine at Urbana",2684,"Internal Medicine",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0," ,",,,11
+220168,CLER,"Clerkship - Medicine",655,Medicine,GD,"College of Medicine at Urbana",2684,"Internal Medicine",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,Grad Asst,,,11
 220168,CLER,"Clerkship - Medicine",670,"Career Development",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",59
 220168,CLER,"Clerkship - Medicine",671,"Essent of Clin Pract & Prof 2",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",59
 220168,CLER,"Clerkship - Medicine",672,"Laboratory Medicine",GA,"Coll Medicine at Chicago - CS",2219,Pathology,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,"Lin, Amy Yamei",,,59
@@ -498,7 +498,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,CME,"Civil & Materials Engineering",406,"Bridge Design",FQ,Engineering,2737,"Civil & Materials Engineering",15,10,8,0,0,0,0,0,2,0,0,0,0,0,0,3,"Issa, Mohsen",,,38
 220168,CME,"Civil & Materials Engineering",408,"Traffic Engineer & Design",FQ,Engineering,2737,"Civil & Materials Engineering",36,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Mohammadian, Abolfazl",,,45
 220168,CME,"Civil & Materials Engineering",410,"Prestress Concret Struct Desgn",FQ,Engineering,2737,"Civil & Materials Engineering",24,6,9,1,2,0,0,0,0,0,0,0,0,0,0,0,"Ozevin, Didem",,,42
-220168,CME,"Civil & Materials Engineering",427,"Engineering Hydrology",FQ,Engineering,2737,"Civil & Materials Engineering",14,8,4,0,0,0,0,0,1,0,0,0,0,0,0,1," ,",,,28
+220168,CME,"Civil & Materials Engineering",427,"Engineering Hydrology",FQ,Engineering,2737,"Civil & Materials Engineering",14,8,4,0,0,0,0,0,1,0,0,0,0,0,0,1,Grad Asst,,,28
 220168,CME,"Civil & Materials Engineering",433,"Fracture And Failure I",FQ,Engineering,2737,"Civil & Materials Engineering",7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Chudnovsky, Alexander",,,10
 220168,CME,"Civil & Materials Engineering",434,"Finite Element Analysis I",FQ,Engineering,2737,"Civil & Materials Engineering",30,21,13,6,0,0,0,0,0,0,0,0,0,0,0,5,"Foster, Craig",,,75
 220168,CME,"Civil & Materials Engineering",440,"Cities and Sustainability",FQ,Engineering,2737,"Civil & Materials Engineering",35,15,0,1,0,0,0,0,0,0,0,0,0,0,0,3,"Derrible, Sybil Jean Marie",,,54
@@ -820,7 +820,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,ENGL,English,108,"British Lit & Brtitish Culture",FT,"Liberal Arts & Sciences",2492,English,14,5,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,22
 220168,ENGL,English,109,"Amer Literature & Culture",FT,"Liberal Arts & Sciences",2492,English,3,12,5,1,0,0,0,0,0,0,0,0,0,0,0,1,"Coviello, Peter M",,,22
 220168,ENGL,English,109,"Amer Literature & Culture",FT,"Liberal Arts & Sciences",2492,English,12,5,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"Ashton, Jennifer",,,19
-220168,ENGL,English,109,"Amer Literature & Culture",FT,"Liberal Arts & Sciences",2492,English,13,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0," ,",,,28
+220168,ENGL,English,109,"Amer Literature & Culture",FT,"Liberal Arts & Sciences",2492,English,13,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grad Asst,,,28
 220168,ENGL,English,109,"Amer Literature & Culture",FT,"Liberal Arts & Sciences",2492,English,17,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,23
 220168,ENGL,English,110,"English & Amer Popular Genres",FT,"Liberal Arts & Sciences",2492,English,8,13,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Cassidy, Marsha F",,,23
 220168,ENGL,English,111,"Women & Literature",FT,"Liberal Arts & Sciences",2492,English,4,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Costello, Virginia M",,,16
@@ -919,7 +919,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,ENGL,English,580,"Genres of Lit, Film, Media",FT,"Liberal Arts & Sciences",2492,English,9,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,"Brown, Nicholas Mainey",,,11
 220168,ENGL,English,596,"Independent Study",FT,"Liberal Arts & Sciences",2492,English,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kornbluh, Anna",,,10
 220168,ENGR,Engineering,100,"Engineering Orientation",FQ,Engineering,2284,"Engineering Admin",0,0,0,0,0,0,0,0,0,0,1,0,0,718,6,12,"Kuypers, Christine M",,,737
-220168,ENGR,Engineering,101,"Engineering Success Seminar",FQ,Engineering,2284,"Engineering Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,363,0,2,"Kotche, Miiri Ann"," ,"," ,",365
+220168,ENGR,Engineering,101,"Engineering Success Seminar",FQ,Engineering,2284,"Engineering Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,363,0,2,"Kotche, Miiri Ann",Grad Asst,Grad Asst,365
 220168,ENGR,Engineering,111,"Pract Additive Manufacturing",FQ,Engineering,2284,"Engineering Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,47,7,3,"Pan, Yayue","Muench, James T",,57
 220168,ENGR,Engineering,112,"Pract Subtractive Manufact",FQ,Engineering,2284,"Engineering Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,42,1,0,"Scott, Michael J",,,43
 220168,ENGR,Engineering,289,"Cooperative Engr Practice",FQ,Engineering,2284,"Engineering Admin",0,0,0,0,0,0,0,0,0,0,19,0,0,54,0,0,"Cicero, Thomas J","Coppola-Conroy, Rosemarie",,73
@@ -945,7 +945,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,EPID,Epidemiology,406,"Epidemiologic Computing",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",0,0,0,0,0,0,0,0,1,0,0,0,0,71,0,2,"Rauscher, Garth H",,,74
 220168,EPID,Epidemiology,410,"Epid Infectious Diseases",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",30,18,5,0,0,0,0,0,0,0,0,0,0,0,0,2,"Hershow, Ronald C",,,55
 220168,EPID,Epidemiology,428,"Epidemiology of Violence",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Goldstein, Paul J",,,11
-220168,EPID,Epidemiology,494,"Religion Spirituality & Health",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1," ,",,,10
+220168,EPID,Epidemiology,494,"Religion Spirituality & Health",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Grad Asst,,,10
 220168,EPID,Epidemiology,518,"Pediatric Epidemiology",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bennett, Amanda C",,,11
 220168,EPID,Epidemiology,520,"Genetics in Epidemiology",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Argos, Maria",,,15
 220168,EPID,Epidemiology,591,"Current Epid Literature",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,"Olshansky, Stuart Jay",,,32
@@ -1022,7 +1022,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,FR,French,510,"Seminar in Lit Studies",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",5,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"Robert, Yann F",,,10
 220168,GAMD,"Guaranteed Admissions Medicine",200,"Art & Science of Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,"Chambers, Donald Arthur","Cohen, Rhonna L","Sanders-Marcus, Caryn L",16
 220168,GAMD,"Guaranteed Admissions Medicine",200,"Art & Science of Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,"Sanders-Marcus, Caryn L","Chambers, Donald Arthur","Cohen, Rhonna L",18
-220168,GAMD,"Guaranteed Admissions Medicine",200,"Medicine Health Policy&Society",GA,"Coll Medicine at Chicago - CS",2649,Administration,27,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Girotti, Jorge Alberto","Sanders-Marcus, Caryn L"," ,",33
+220168,GAMD,"Guaranteed Admissions Medicine",200,"Medicine Health Policy&Society",GA,"Coll Medicine at Chicago - CS",2649,Administration,27,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Girotti, Jorge Alberto","Sanders-Marcus, Caryn L",Grad Asst,33
 220168,GC,"Graduate College",470,"Essentials for Animal Research",FS,"Graduate College",2480,"Graduate Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,"Fortman, Jeffrey D",,,27
 220168,GC,"Graduate College",500,"Chicago Metropolitan Exchange",FS,"Graduate College",2480,"Graduate Admin",0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,"Kollenbroich, James Edward","Kragon, Steven P","Aguirre, Araceli",11
 220168,GC,"Graduate College",501,"Scientific Integrity",FS,"Graduate College",2480,"Graduate Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,58,1,0,"Art, Jonathan J",,,59
@@ -1095,7 +1095,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,HIST,History,202,"Ancient Greece",FT,"Liberal Arts & Sciences",2316,History,22,5,1,0,1,0,0,0,0,0,0,0,0,0,0,1,"Papakonstantinou, Zinon",,,30
 220168,HIST,History,211,"The Dawn of European Modernity",FT,"Liberal Arts & Sciences",2316,History,16,19,12,1,1,0,0,0,0,0,0,0,0,0,0,2,"Fountain, Julie A",,,51
 220168,HIST,History,213,"Europe: 1815 -1914",FT,"Liberal Arts & Sciences",2316,History,24,23,4,4,0,0,0,0,0,0,0,0,0,0,0,5,"Abbott, John",,,60
-220168,HIST,History,217,"US Military History",GG,"Armed Forces",2589,"Armed Forces Military Science",13,9,1,2,0,0,0,0,1,0,0,0,0,0,0,1," ,"," ,"," ,",27
+220168,HIST,History,217,"US Military History",GG,"Armed Forces",2589,"Armed Forces Military Science",13,9,1,2,0,0,0,0,1,0,0,0,0,0,0,1,Grad Asst,Grad Asst,Grad Asst,27
 220168,HIST,History,235,"The Rise and Fall of Communism",FT,"Liberal Arts & Sciences",2316,History,28,11,3,1,2,0,0,0,2,0,0,0,0,0,0,3,"Fidelis, Malgorzata",,,50
 220168,HIST,History,239,"20th Century Russia in Film",FT,"Liberal Arts & Sciences",2316,History,15,6,1,1,0,0,0,0,1,0,0,0,0,0,0,2,"Mogilner, Marina",,,26
 220168,HIST,History,247,"African American Hist to 1877",FT,"Liberal Arts & Sciences",2363,"Black Studies",0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,"Blair, Cynthia M",,,17
@@ -1494,7 +1494,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,MBT,"Medical Biotechnology",513,"Research Planning and Design",GE,"College of Medicine Rockford",2614,"Biomedical Science",0,0,0,0,0,0,0,0,1,0,0,0,0,10,0,0,"Kalyanasundaram, Ramaswamy","Sidik, Khalifah B.",,11
 220168,MBT,"Medical Biotechnology",520,"Biotech Product Development",GE,"College of Medicine Rockford",2614,"Biomedical Science",16,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","Sidik, Khalifah B.",,34
 220168,MBT,"Medical Biotechnology",525,"Drug Design and Discovery",GE,"College of Medicine Rockford",2614,"Biomedical Science",0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,"Sidik, Khalifah B.",,,24
-220168,MBT,"Medical Biotechnology",527,"Design & Exectn of Clin Trials",GE,"College of Medicine Rockford",2614,"Biomedical Science",8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Sidik, Khalifah B."," ,",,11
+220168,MBT,"Medical Biotechnology",527,"Design & Exectn of Clin Trials",GE,"College of Medicine Rockford",2614,"Biomedical Science",8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Sidik, Khalifah B.",Grad Asst,,11
 220168,MBT,"Medical Biotechnology",533,"Bio Start-up Entrepreneurship",GE,"College of Medicine Rockford",2614,"Biomedical Science",11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sidik, Khalifah B.",,,13
 220168,MBT,"Medical Biotechnology",595,"Student Seminar Med Biotechnol",GE,"College of Medicine Rockford",2614,"Biomedical Science",0,0,0,0,0,0,0,0,0,0,1,0,0,12,0,0,"Kalyanasundaram, Ramaswamy","Sidik, Khalifah B.",,13
 220168,MBT,"Medical Biotechnology",597,"Master's Project Research",GE,"College of Medicine Rockford",2614,"Biomedical Science",0,0,0,0,0,0,0,0,1,0,0,0,0,15,0,0,"Sidik, Khalifah B.",,,16
@@ -1578,12 +1578,12 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,MHPE,"Medical Education",505,"Intro to Health Prof Education",FZ,"Coll Medicine at Chicago - BS",2857,"Medical Education",0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,"Harris, Ilene B","Tekian, Ara S",,20
 220168,MHPE,"Medical Education",532,"Qualitative Methods",FZ,"Coll Medicine at Chicago - BS",2857,"Medical Education",0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,"Kamin, Carol","Harris, Ilene B",,17
 220168,MHPE,"Medical Education",598,"Thesis Research",FZ,"Coll Medicine at Chicago - BS",2857,"Medical Education",0,0,0,0,0,0,0,1,0,0,17,0,0,0,0,0,"Harris, Ilene B",,,18
-220168,MILS,"Military Science",101,"Leadership and Personal Devel",GG,"Armed Forces",2589,"Armed Forces Military Science",20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2," ,",,,23
-220168,MILS,"Military Science",131,"Military Physical Fitness",GG,"Armed Forces",2589,"Armed Forces Military Science",54,0,0,0,0,0,0,0,1,0,2,0,0,0,0,4," ,"," ,"," ,",61
-220168,MILS,"Military Science",201,"Foundations of Leadership",GG,"Armed Forces",2589,"Armed Forces Military Science",12,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2," ,"," ,",,18
-220168,MILS,"Military Science",217,"US Military History",GG,"Armed Forces",2589,"Armed Forces Military Science",6,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0," ,"," ,"," ,",13
-220168,MILS,"Military Science",301,"Adaptive Team Leadership",GG,"Armed Forces",2589,"Armed Forces Military Science",9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2," ,"," ,"," ,",12
-220168,MILS,"Military Science",401,"Adaptive Leadership",GG,"Armed Forces",2589,"Armed Forces Military Science",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0," ,"," ,"," ,",10
+220168,MILS,"Military Science",101,"Leadership and Personal Devel",GG,"Armed Forces",2589,"Armed Forces Military Science",20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,Grad Asst,,,23
+220168,MILS,"Military Science",131,"Military Physical Fitness",GG,"Armed Forces",2589,"Armed Forces Military Science",54,0,0,0,0,0,0,0,1,0,2,0,0,0,0,4,Grad Asst,Grad Asst,Grad Asst,61
+220168,MILS,"Military Science",201,"Foundations of Leadership",GG,"Armed Forces",2589,"Armed Forces Military Science",12,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Grad Asst,Grad Asst,,18
+220168,MILS,"Military Science",217,"US Military History",GG,"Armed Forces",2589,"Armed Forces Military Science",6,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Grad Asst,Grad Asst,Grad Asst,13
+220168,MILS,"Military Science",301,"Adaptive Team Leadership",GG,"Armed Forces",2589,"Armed Forces Military Science",9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Grad Asst,Grad Asst,Grad Asst,12
+220168,MILS,"Military Science",401,"Adaptive Leadership",GG,"Armed Forces",2589,"Armed Forces Military Science",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grad Asst,Grad Asst,Grad Asst,10
 220168,MIM,"Microbiology and Immunology",595,"Microbiology Seminars",FZ,"Coll Medicine at Chicago - BS",2301,"Microbiology and Immunology",0,0,0,0,0,0,0,0,0,0,0,0,0,12,5,0,"McLachlan, Alan",,,17
 220168,MKTG,Marketing,360,"Introduction to Marketing",FL,"Business Administration",2846,"Managerial Studies",39,26,7,2,3,0,0,0,0,0,0,0,0,0,0,0,"Trampas, Ann E",,,77
 220168,MKTG,Marketing,360,"Introduction to Marketing",FL,"Business Administration",2846,"Managerial Studies",108,117,61,8,3,0,0,0,0,0,0,0,0,0,0,2,"Weidemanis Magi, Anne",,,299
@@ -1680,8 +1680,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,NUPR,"Nursing Practicum",572,"Practicum: Hlth Care of Women",FW,Nursing,2591,"Nursing Administration",19,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Gabzdyl, Elizabeth","Rosenberger, Kelly D","Hinthorne, Summer Alyssa",21
 220168,NUPR,"Nursing Practicum",573,"Practicum: Birth & the Newborn",FW,Nursing,2591,"Nursing Administration",14,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,"Hinthorne, Summer Alyssa","Klima, Carrie","Rosenberger, Kelly D",18
 220168,NURS,"Nursing Core",204,"Professional Nursing 1",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,63,0,0,0,0,3,"Krassa, Teresa J",,,66
-220168,NURS,"Nursing Core",204,"Professional Nursing 1",FW,Nursing,2591,"Nursing Administration",8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Koontz, Sonja L Bolyard","Reese, Cynthia Elliott"," ,",15
-220168,NURS,"Nursing Core",204,"Professional Nursing 1",FW,Nursing,2591,"Nursing Administration",92,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kent, Denise Anne","Martyn-Nemeth, Pamela"," ,",97
+220168,NURS,"Nursing Core",204,"Professional Nursing 1",FW,Nursing,2591,"Nursing Administration",8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Koontz, Sonja L Bolyard","Reese, Cynthia Elliott",Grad Asst,15
+220168,NURS,"Nursing Core",204,"Professional Nursing 1",FW,Nursing,2591,"Nursing Administration",92,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kent, Denise Anne","Martyn-Nemeth, Pamela",Grad Asst,97
 220168,NURS,"Nursing Core",212,"Hlth Assessment /Communication",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,2,"Krassa, Teresa J",,,64
 220168,NURS,"Nursing Core",212,"Hlth Assessment /Communication",FW,Nursing,2591,"Nursing Administration",6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ruppel, Kelly Joann","Reese, Cynthia Elliott","Koontz, Sonja L Bolyard",15
 220168,NURS,"Nursing Core",212,"Hlth Assessment /Communication",FW,Nursing,2591,"Nursing Administration",49,6,1,0,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,59
@@ -1807,15 +1807,15 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,PA,"Public Administration",591,"Managing Your Career",GP,"Urban Planning &Public Affairs",2694,"Public Administration",0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,"Thompson, James R",,,31
 220168,PCOL,Pharmacology,595,"Pharmacology Seminar",FZ,"Coll Medicine at Chicago - BS",2494,"Pharmacol & Regenerative Med",0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,"Cho, Jaehyung","Skidgel, Randal A",,23
 220168,PELE,"Clerkship Electives-Peoria",600,"Elective Clerkship",GC,"College of Medicine at Peoria",2889,"Administration & General",0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,"Bostwick, Brian L","Grad Asst","Thomas, Dorian E",17
-220168,PELE,"Clerkship Electives-Peoria",602,"Anesthesiology/Pain Mgmt",GC,"College of Medicine at Peoria",2848,Surgery,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0," ,",,,12
-220168,PELE,"Clerkship Electives-Peoria",604,"Emergency Medicine",GC,"College of Medicine at Peoria",2848,Surgery,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0," ,",,,14
+220168,PELE,"Clerkship Electives-Peoria",602,"Anesthesiology/Pain Mgmt",GC,"College of Medicine at Peoria",2848,Surgery,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,Grad Asst,,,12
+220168,PELE,"Clerkship Electives-Peoria",604,"Emergency Medicine",GC,"College of Medicine at Peoria",2848,Surgery,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,Grad Asst,,,14
 220168,PELE,"Clerkship Electives-Peoria",606,"Medicine Sub-I Elective",GC,"College of Medicine at Peoria",2554,"Internal Medicine",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,"Kerolus, Ghaly R",,,11
-220168,PELE,"Clerkship Electives-Peoria",606,"Survey of Medical Informatics",GC,"College of Medicine at Peoria",2554,"Internal Medicine",0,0,0,0,0,0,0,0,0,0,13,1,1,0,0,0," ,",,,15
+220168,PELE,"Clerkship Electives-Peoria",606,"Survey of Medical Informatics",GC,"College of Medicine at Peoria",2554,"Internal Medicine",0,0,0,0,0,0,0,0,0,0,13,1,1,0,0,0,Grad Asst,,,15
 220168,PELE,"Clerkship Electives-Peoria",607,Neurology,GC,"College of Medicine at Peoria",2519,Neurology,0,0,0,0,0,1,0,0,0,0,10,0,0,0,0,0,"Kattah, Jorge C",,,11
 220168,PELE,"Clerkship Electives-Peoria",608,Neurosurgery,GC,"College of Medicine at Peoria",2506,Neurosurgery,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,"Tracy, Patrick T","Grad Asst","Thomas, Dorian E",15
 220168,PELE,"Clerkship Electives-Peoria",616,"Diagnostic Radiology",GC,"College of Medicine at Peoria",2806,Radiology,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,"Grad Asst","Grad Asst","Thomas, Dorian E",24
 220168,PELE,"Clerkship Electives-Peoria",618,"Plastic Surgery",GC,"College of Medicine at Peoria",2848,Surgery,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,"Elwood, Eric T",,,14
-220168,PELE,"Clerkship Electives-Peoria",619,Urology,GC,"College of Medicine at Peoria",2848,Surgery,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0," ,",,,10
+220168,PELE,"Clerkship Electives-Peoria",619,Urology,GC,"College of Medicine at Peoria",2848,Surgery,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,Grad Asst,,,10
 220168,PERI,Periodontics,611,"Classic Perio Lit Review",FN,Dentistry,2735,Periodontics,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,"Gajendrareddy, Praveen Kumar","Nares, Salvador","Karateew, Edward Dwayne",13
 220168,PERI,Periodontics,613,"Current Perio Lit Seminar",FN,Dentistry,2735,Periodontics,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,"Nares, Salvador","Gajendrareddy, Praveen Kumar","Karateew, Edward Dwayne",13
 220168,PERI,Periodontics,620,"Periodontics Clinic",FN,Dentistry,2735,Periodontics,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,"Nares, Salvador","Gajendrareddy, Praveen Kumar","Karateew, Edward Dwayne",13
@@ -1949,27 +1949,27 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,POLS,"Political Science",591,"Publishing in Political Sci",FT,"Liberal Arts & Sciences",2734,"Political Science",6,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,"Tepe, Sultan",,,10
 220168,POLS,"Political Science",599,"Dissertation Research",FT,"Liberal Arts & Sciences",2734,"Political Science",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Tepe, Sultan",,,10
 220168,PORT,Portuguese,240,"Rapid Portuguese",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",9,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,"Marin Vaz Amaro, Joao Felipe",,,15
-220168,PRCL,"Preclinical Medicine",603,"Medical Pharmacology I",GC,"College of Medicine at Peoria",2565,"Cancer Biology & Pharmacology",0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0," ,",,,58
+220168,PRCL,"Preclinical Medicine",603,"Medical Pharmacology I",GC,"College of Medicine at Peoria",2565,"Cancer Biology & Pharmacology",0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,Grad Asst,,,58
 220168,PRCL,"Preclinical Medicine",618,"Human Disease 1a",GC,"College of Medicine at Peoria",2254,"Family and Community Medicine",0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,"Lasley, Stephen Michael","Alahi, Peter","Graumlich, James F.",58
 220168,PRCL,"Preclinical Medicine",620,Pathology/Infection/Immunity,GC,"College of Medicine at Peoria",2261,Pathology,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,"Joseph, Pushpa A","Graumlich, James F.","Kowalski, Ronald V",58
 220168,PRCL,"Preclinical Medicine",622,"Human Disease II",GC,"College of Medicine at Peoria",2554,"Internal Medicine",0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,"Pula, John",,,58
 220168,PRCL,"Preclinical Medicine",626,"General/Systemic Pathology I",GA,"Coll Medicine at Chicago - CS",2219,Pathology,0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,1,"Lin, Amy Yamei","Nonn, Larisa","David, Odile",198
-220168,PRCL,"Preclinical Medicine",627,"Clinical Microbiology&Immunol",FZ,"Coll Medicine at Chicago - BS",2301,"Microbiology and Immunology",0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,1," ,",,,198
-220168,PRCL,"Preclinical Medicine",628,"Medical Pharmacology I",FZ,"Coll Medicine at Chicago - BS",2494,"Pharmacol & Regenerative Med",0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,1," ,",,,198
+220168,PRCL,"Preclinical Medicine",627,"Clinical Microbiology&Immunol",FZ,"Coll Medicine at Chicago - BS",2301,"Microbiology and Immunology",0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,1,Grad Asst,,,198
+220168,PRCL,"Preclinical Medicine",628,"Medical Pharmacology I",FZ,"Coll Medicine at Chicago - BS",2494,"Pharmacol & Regenerative Med",0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,1,Grad Asst,,,198
 220168,PRCL,"Preclinical Medicine",629,"Career Development",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,1,"Thomas, Dorian E","Grad Asst","Grad Asst",198
 220168,PRCL,"Preclinical Medicine",641,"Clinical Pathophysiology I",GA,"Coll Medicine at Chicago - CS",2219,Pathology,0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,1,"Zar, Fred A",,,198
-220168,PRCL,"Preclinical Medicine",645,"Essentials Clinical Med 3",FZ,"Coll Medicine at Chicago - BS",2857,"Medical Education",0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,1," ,",,,198
+220168,PRCL,"Preclinical Medicine",645,"Essentials Clinical Med 3",FZ,"Coll Medicine at Chicago - BS",2857,"Medical Education",0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,1,Grad Asst,,,198
 220168,PRCL,"Preclinical Medicine",651,"General & Systemic Pathology I",GE,"College of Medicine Rockford",2352,Pathology,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Pirrello, Jodi L",52
-220168,PRCL,"Preclinical Medicine",652,"Medical Pharmacology I",GE,"College of Medicine Rockford",2614,"Biomedical Science",0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0," ,",,,52
-220168,PRCL,"Preclinical Medicine",653,"Clinical Pathophysiology I",GE,"College of Medicine Rockford",2532,"Med & Medical Specialties",0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0," ,",,,52
-220168,PRCL,"Preclinical Medicine",654,"Essentials Patient Care I",GE,"College of Medicine Rockford",2636,"Family and Community Medicine",0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0," ,",,,52
+220168,PRCL,"Preclinical Medicine",652,"Medical Pharmacology I",GE,"College of Medicine Rockford",2614,"Biomedical Science",0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,Grad Asst,,,52
+220168,PRCL,"Preclinical Medicine",653,"Clinical Pathophysiology I",GE,"College of Medicine Rockford",2532,"Med & Medical Specialties",0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,Grad Asst,,,52
+220168,PRCL,"Preclinical Medicine",654,"Essentials Patient Care I",GE,"College of Medicine Rockford",2636,"Family and Community Medicine",0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,Grad Asst,,,52
 220168,PRCL,"Preclinical Medicine",655,"Clin Microbiology/Immunology I",GE,"College of Medicine Rockford",2614,"Biomedical Science",0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,"Homann, Scott R",,,52
-220168,PRCL,"Preclinical Medicine",656,"Clinical Medical Skills I",GE,"College of Medicine Rockford",2532,"Med & Medical Specialties",0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0," ,",,,52
+220168,PRCL,"Preclinical Medicine",656,"Clinical Medical Skills I",GE,"College of Medicine Rockford",2532,"Med & Medical Specialties",0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,Grad Asst,,,52
 220168,PRCL,"Preclinical Medicine",664,"Family Medicine Experience",GE,"College of Medicine Rockford",2636,"Family and Community Medicine",0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Blevins, Terri Bell",52
 220168,PRCL,"Preclinical Medicine",665,"Founds Rural Fam & Comm Med II",GE,"College of Medicine Rockford",2636,"Family and Community Medicine",0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Pirrello, Jodi L",23
 220168,PRCL,"Preclinical Medicine",675,"Clinical Pathophysiology I",GD,"College of Medicine at Urbana",2684,"Internal Medicine",0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,1,"Thomas, Dorian E","Grad Asst","Wyant, Julie M",28
-220168,PRCL,"Preclinical Medicine",676,Epidemiology,GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0," ,",,,27
-220168,PRCL,"Preclinical Medicine",678,"Medical Pharmacology I",GD,"College of Medicine at Urbana",2816,Pharmacology,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,1," ,",,,28
+220168,PRCL,"Preclinical Medicine",676,Epidemiology,GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,Grad Asst,,,27
+220168,PRCL,"Preclinical Medicine",678,"Medical Pharmacology I",GD,"College of Medicine at Urbana",2816,Pharmacology,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,1,Grad Asst,,,28
 220168,PRCL,"Preclinical Medicine",680,"Foundations of Clinical Med II",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,1,"Thomas, Dorian E","Grad Asst","Hall, James Warren",28
 220168,PRCL,"Preclinical Medicine",688,"Gen/Systemic Path I",GD,"College of Medicine at Urbana",2552,Pathology,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,1,"Thomas, Dorian E","Grad Asst","Hall, James Warren",28
 220168,PROS,Prosthodontics,612,"Dx and Treatment Planning",FN,Dentistry,2800,"Restorative Dentistry",25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Knoernschild, Kent L","Harlow, Rand F",,25
@@ -2091,7 +2091,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,SOC,Sociology,224,"Gender & Society",FT,"Liberal Arts & Sciences",2772,Sociology,33,22,7,4,2,0,0,0,1,0,0,0,0,0,0,1,"Grad Asst","Grad Asst","Grad Asst",70
 220168,SOC,Sociology,225,"Racial and Ethnic Groups",FT,"Liberal Arts & Sciences",2772,Sociology,39,29,7,2,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst","Grad Asst","Grad Asst",80
 220168,SOC,Sociology,229,"Sociology of Latinos",FT,"Liberal Arts & Sciences",2772,Sociology,28,17,2,6,1,0,0,0,1,0,0,0,0,0,0,3,"Grad Asst","Grad Asst",,58
-220168,SOC,Sociology,231,Criminology,FT,"Liberal Arts & Sciences",2909,"Criminology, Law, and Justice",0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,4," ,",,,26
+220168,SOC,Sociology,231,Criminology,FT,"Liberal Arts & Sciences",2909,"Criminology, Law, and Justice",0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,4,Grad Asst,,,26
 220168,SOC,Sociology,244,"Sociology of Work",FT,"Liberal Arts & Sciences",2772,Sociology,22,16,6,0,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,47
 220168,SOC,Sociology,245,"Marriage and Family",FT,"Liberal Arts & Sciences",2772,Sociology,95,16,3,1,3,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst","Grad Asst","Grad Asst",120
 220168,SOC,Sociology,251,"Health and Medicine",FT,"Liberal Arts & Sciences",2772,Sociology,26,11,5,1,1,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,47
@@ -2292,7 +2292,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,UPP,"Urban Planning and Policy",562,"Urb Transportation III: Lab",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",17,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tilahun, Nebiyou Y",,,22
 220168,UPP,"Urban Planning and Policy",565,"Complete Streets",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",9,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Roseberry, Nathan James","Garcia, Gerardo",,16
 220168,UPP,"Urban Planning and Policy",566,"Transportation Project Funding",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",9,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Schlickman, Stephen E",,,13
-220168,UPP,"Urban Planning and Policy",575,"Energy Policy",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wordlaw, Belinda Kay"," ,",,12
+220168,UPP,"Urban Planning and Policy",575,"Energy Policy",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wordlaw, Belinda Kay",Grad Asst,,12
 220168,UPP,"Urban Planning and Policy",590,"Professional Practice Exp",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",0,0,0,0,0,0,0,0,0,0,13,0,0,15,0,0,"Al-Kodmany, Kheir M.",,,28
 220168,UPP,"Urban Planning and Policy",594,"Sharing Economy: Policy & Prac",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Sutton, Stacey A",,,10
 220168,US,"Urban Studies",101,"Intro to Urban Studies",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",52,7,2,0,0,0,0,0,0,0,3,0,0,0,0,3,"Cordova, Teresa L",,,67
