@@ -295,30 +295,46 @@ class ListGrades extends Component {
 
     // returns the total amount of students from adding all the letter grades
     const totalStudentsTaught = totalGradesA+totalGradesB+totalGradesC+totalGradesD+totalGradesF+totalGradesW
+    const totalStudentsTaughtI = totalGradesA+totalGradesB+totalGradesC+totalGradesD+totalGradesF+totalGradesW+totalGradesI
+
 
     // -------------------------------------------------------- State for the three different graphs --------------------------------------------------------
 
     // Maps the grade overall using the data from all semster that the professor has taught
     const overallGradeChart = {
-      labels: ['A', 'B','C', 'D', 'F', 'W'],
+      labels: totalGradesI > 0 ? ['A', 'B','C', 'D', 'F', 'W', 'I'] : ['A', 'B','C', 'D', 'F', 'W'],
       datasets: [
         {
-          label: "Overall Data",
-          backgroundColor: [
+          backgroundColor: totalGradesI > 0 ? [
               'rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 206, 86, 0.2)',
-              'rgba(75, 192, 192, 0.2)', 'rgba(153, 102, 255, 0.2)', 'rgba(255, 159, 64, 0.2)'
+              'rgba(75, 192, 192, 0.2)', 'rgba(153, 102, 255, 0.2)', 'rgba(255, 159, 64, 0.2)',
+              'rgba(214, 47, 227, 0.2)'
+          ] : [
+            'rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 206, 86, 0.2)',
+            'rgba(75, 192, 192, 0.2)', 'rgba(153, 102, 255, 0.2)', 'rgba(255, 159, 64, 0.2)'
           ],
-          borderColor: [
+          borderColor: totalGradesI > 0 ? [
               'rgba(255, 99, 132, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 206, 86, 1)',
-              'rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)', 'rgba(255, 159, 64, 1)'
+              'rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)', 'rgba(255, 159, 64, 1)',
+              'rgba(214, 47, 227, 1)'
+          ] : [
+            'rgba(255, 99, 132, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 206, 86, 1)',
+            'rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)', 'rgba(255, 159, 64, 1)'
           ],
           borderWidth: 2,
-          data: [ parseFloat(((totalGradesA/totalStudentsTaught) * 100).toFixed(2)), parseFloat(((totalGradesB/totalStudentsTaught) * 100).toFixed(2)),
-                  parseFloat(((totalGradesC/totalStudentsTaught) * 100).toFixed(2)), parseFloat(((totalGradesD/totalStudentsTaught) * 100).toFixed(2)), 
-                  parseFloat(((totalGradesF/totalStudentsTaught) * 100).toFixed(2)), parseFloat(((totalGradesW/totalStudentsTaught) * 100).toFixed(2))]
-        },
+          data: totalGradesI > 0 ? [ 
+            parseFloat(((totalGradesA/totalStudentsTaughtI) * 100).toFixed(2)), parseFloat(((totalGradesB/totalStudentsTaughtI) * 100).toFixed(2)),
+            parseFloat(((totalGradesC/totalStudentsTaughtI) * 100).toFixed(2)), parseFloat(((totalGradesD/totalStudentsTaughtI) * 100).toFixed(2)), 
+            parseFloat(((totalGradesF/totalStudentsTaughtI) * 100).toFixed(2)), parseFloat(((totalGradesW/totalStudentsTaughtI) * 100).toFixed(2)),
+            parseFloat(((totalGradesI/totalStudentsTaughtI) * 100).toFixed(2))
+          ] : [ 
+            parseFloat(((totalGradesA/totalStudentsTaught) * 100).toFixed(2)), parseFloat(((totalGradesB/totalStudentsTaught) * 100).toFixed(2)),
+            parseFloat(((totalGradesC/totalStudentsTaught) * 100).toFixed(2)), parseFloat(((totalGradesD/totalStudentsTaught) * 100).toFixed(2)), 
+            parseFloat(((totalGradesF/totalStudentsTaught) * 100).toFixed(2)), parseFloat(((totalGradesW/totalStudentsTaught) * 100).toFixed(2))]
+        }
       ]
     }
+
 
     const overallGradeChart2  = {
       labels: ['Advanced', 'Credit','Deferred', 'Incomplete', 'Non-graded', 'Not Reported', 'Outstanding', 'Proficient', 'Satisfactory', 'Unsatisfactory', 'Withdrawn'],
@@ -361,8 +377,34 @@ class ListGrades extends Component {
               'rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)', 'rgba(255, 159, 64, 1)'
           ],
           borderWidth: 2,
-          data: [parseInt(this.state.A), parseInt(this.state.B), parseInt(this.state.C), 
-                 parseInt(this.state.D), parseInt(this.state.F), parseInt(this.state.W)],
+          data: [
+              parseInt(this.state.A), parseInt(this.state.B), parseInt(this.state.C), 
+              parseInt(this.state.D), parseInt(this.state.F), parseInt(this.state.W)
+          ]
+        }
+      ]
+    }
+
+    //For courses that have letter I in letter grades
+    const letterGradeGraphI = {
+      labels: ['A', 'B','C', 'D', 'F', 'W', 'I'],
+      datasets: [
+        {
+          backgroundColor: [
+              'rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 206, 86, 0.2)',
+              'rgba(75, 192, 192, 0.2)', 'rgba(153, 102, 255, 0.2)', 'rgba(255, 159, 64, 0.2)',
+              'rgba(214, 47, 227, 0.2)'
+          ],
+          borderColor: [
+              'rgba(255, 99, 132, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 206, 86, 1)',
+              'rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)', 'rgba(255, 159, 64, 1)',
+              'rgba(214, 47, 227, 1)'
+          ],
+          borderWidth: 2,
+          data: [
+              parseInt(this.state.A), parseInt(this.state.B), parseInt(this.state.C), 
+              parseInt(this.state.D), parseInt(this.state.F), parseInt(this.state.W), parseInt(this.state.I)
+          ]
         }
       ]
     }
@@ -429,7 +471,7 @@ class ListGrades extends Component {
 
     const displayLetterGraph = <div className='chart-container'>
                                 <Bar
-                                data={letterGradeGraph}
+                                data={totalGradesI > 0 ? letterGradeGraphI : letterGradeGraph}
                                 options={{
                                     title:{
                                         display:true,
@@ -491,8 +533,11 @@ class ListGrades extends Component {
 
     const displayOverAllGraph = <div className='chart-container'>
                                   <Bar
-                                  data={overallLetterGradeCount > 0 ? overallGradeChart : overallGradeChart2}
+                                  data = {overallLetterGradeCount > 0 ? overallGradeChart : overallGradeChart2} 
                                   options={{
+                                      animation: {
+                                        duration: 0
+                                      },
                                       title:{
                                           display:true,
                                           text:'Overall Grade Distribution (%)',

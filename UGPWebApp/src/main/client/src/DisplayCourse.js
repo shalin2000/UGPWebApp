@@ -15,6 +15,7 @@ class DisplayCourse extends Component {
 
       // Sets the data from csv file to myData state when start
     componentDidMount() {
+        window.scrollTo(0, 0);
         this.setState({myData: this.props.location.state.linkState})
     }
 
