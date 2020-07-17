@@ -23,6 +23,16 @@ import spring2013Data from './CSVData/Spr2013.csv';
 import spring2012Data from './CSVData/Spr2012.csv';
 import spring2011Data from './CSVData/Spr2011.csv';
 import spring2010Data from './CSVData/Spr2010.csv';
+import sum2019Data from './CSVData/Sum2019.csv'
+import sum2018Data from './CSVData/Sum2018.csv'
+import sum2017Data from './CSVData/Sum2017.csv'
+import sum2016Data from './CSVData/Sum2016.csv'
+import sum2015Data from './CSVData/Sum2015.csv'
+import sum2014Data from './CSVData/Sum2014.csv'
+import sum2013Data from './CSVData/Sum2013.csv'
+import sum2012Data from './CSVData/Sum2012.csv'
+import sum2011Data from './CSVData/Sum2011.csv'
+import sum2010Data from './CSVData/Sum2010.csv'
 import ScrollUpButton from "react-scroll-up-button";
 import CommentProf from './CommentProf';
 
@@ -35,6 +45,8 @@ class ListGrades extends Component {
         mySpring2014Data: [], mySpring2013Data: [], mySpring2012Data: [], mySpring2011Data: [], mySpring2010Data: [],
         myfall19: [], myfall18: [], myfall17: [], myfall16: [], myfall15: [], 
         myfall14: [], myfall13: [], myfall12: [], myfall11: [], myfall10: [],
+        mySum19: [], mySum18: [], mySum17: [], mySum16: [], mySum15: [], 
+        mySum14: [], mySum13: [], mySum12: [], mySum11: [], mySum10: [],
         // contains what the user selects from the dropdown
         selectVal: " ",
         // grades that are stored depedning on the what semester they have chosen 
@@ -62,11 +74,17 @@ class ListGrades extends Component {
     if (e.target.value === "Fall2019"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.myfall19, selectedbool: true, intialGraph: false });
     }
+    if (e.target.value === "Summer2019"){
+      this.setState({ selectVal: e.target.value, chosenData: this.state.mySum19, selectedbool: true, intialGraph: false });
+    }
     if (e.target.value === "Spring2019"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.mySpring2019Data, selectedbool: true, intialGraph: false });
     }
     if (e.target.value === "Fall2018"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.myfall18, selectedbool: true, intialGraph: false });
+    }
+    if (e.target.value === "Summer2018"){
+      this.setState({ selectVal: e.target.value, chosenData: this.state.mySum18, selectedbool: true, intialGraph: false });
     }
     if (e.target.value === "Spring2018"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.mySpring2018Data, selectedbool: true, intialGraph: false });
@@ -74,11 +92,17 @@ class ListGrades extends Component {
     if (e.target.value === "Fall2017"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.myfall17, selectedbool: true, intialGraph: false });
     }
+    if (e.target.value === "Summer2017"){
+      this.setState({ selectVal: e.target.value, chosenData: this.state.mySum17, selectedbool: true, intialGraph: false });
+    }
     if (e.target.value === "Spring2017"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.mySpring2017Data, selectedbool: true, intialGraph: false});
     }
     if (e.target.value === "Fall2016"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.myfall16, selectedbool: true, intialGraph: false });
+    }
+    if (e.target.value === "Summer2016"){
+      this.setState({ selectVal: e.target.value, chosenData: this.state.mySum16, selectedbool: true, intialGraph: false });
     }
     if (e.target.value === "Spring2016"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.mySpring2016Data, selectedbool: true, intialGraph: false });
@@ -86,11 +110,17 @@ class ListGrades extends Component {
     if (e.target.value === "Fall2015"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.myfall15, selectedbool: true, intialGraph: false });
     }
+    if (e.target.value === "Summer2015"){
+      this.setState({ selectVal: e.target.value, chosenData: this.state.mySum15, selectedbool: true, intialGraph: false });
+    }
     if (e.target.value === "Spring2015"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.mySpring2015Data, selectedbool: true, intialGraph: false });
     }
     if (e.target.value === "Fall2014"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.myfall14, selectedbool: true, intialGraph: false });
+    }
+    if (e.target.value === "Summer2014"){
+      this.setState({ selectVal: e.target.value, chosenData: this.state.mySum14, selectedbool: true, intialGraph: false });
     }
     if (e.target.value === "Spring2014"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.mySpring2014Data, selectedbool: true, intialGraph: false });
@@ -98,11 +128,17 @@ class ListGrades extends Component {
     if (e.target.value === "Fall2013"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.myfall13, selectedbool: true, intialGraph: false });
     }
+    if (e.target.value === "Summer2013"){
+      this.setState({ selectVal: e.target.value, chosenData: this.state.mySum13, selectedbool: true, intialGraph: false });
+    }
     if (e.target.value === "Spring2013"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.mySpring2013Data, selectedbool: true, intialGraph: false });
     }
     if (e.target.value === "Fall2012"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.myfall12, selectedbool: true, intialGraph: false });
+    }
+    if (e.target.value === "Summer2012"){
+      this.setState({ selectVal: e.target.value, chosenData: this.state.mySum12, selectedbool: true, intialGraph: false });
     }
     if (e.target.value === "Spring2012"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.mySpring2012Data, selectedbool: true, intialGraph: false });
@@ -110,11 +146,17 @@ class ListGrades extends Component {
     if (e.target.value === "Fall2011"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.myfall11, selectedbool: true, intialGraph: false });
     }
+    if (e.target.value === "Summer2011"){
+      this.setState({ selectVal: e.target.value, chosenData: this.state.mySum11, selectedbool: true, intialGraph: false });
+    }
     if (e.target.value === "Spring2011"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.mySpring2011Data, selectedbool: true, intialGraph: false });
     }
     if (e.target.value === "Fall2010"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.myfall10, selectedbool: true, intialGraph: false });
+    }
+    if (e.target.value === "Summer2010"){
+      this.setState({ selectVal: e.target.value, chosenData: this.state.mySum10, selectedbool: true, intialGraph: false });
     }
     if (e.target.value === "Spring2010"){
       this.setState({ selectVal: e.target.value, chosenData: this.state.mySpring2010Data, selectedbool: true, intialGraph: false });
@@ -146,13 +188,17 @@ class ListGrades extends Component {
       d3.csv(spring2019Data), d3.csv(spring2018Data), d3.csv(spring2017Data), d3.csv(spring2016Data), d3.csv(spring2015Data),
       d3.csv(spring2014Data), d3.csv(spring2013Data), d3.csv(spring2012Data), d3.csv(spring2011Data), d3.csv(spring2010Data),
       d3.csv(fall2019Data), d3.csv(fall2018Data), d3.csv(fall2017Data), d3.csv(fall2016Data), d3.csv(fall2015Data),
-      d3.csv(fall2014Data), d3.csv(fall2013Data), d3.csv(fall2012Data), d3.csv(fall2011Data), d3.csv(fall2010Data), d3.csv(spring2020Data)
+      d3.csv(fall2014Data), d3.csv(fall2013Data), d3.csv(fall2012Data), d3.csv(fall2011Data), d3.csv(fall2010Data), d3.csv(spring2020Data), 
+      d3.csv(sum2019Data), d3.csv(sum2018Data), d3.csv(sum2017Data), d3.csv(sum2016Data), d3.csv(sum2015Data),
+      d3.csv(sum2014Data), d3.csv(sum2013Data), d3.csv(sum2012Data), d3.csv(sum2011Data), d3.csv(sum2010Data),
     ]).then(files => {
       this.setState({ 
         mySpring2019Data: files[0], mySpring2018Data: files[1], mySpring2017Data: files[2], mySpring2016Data: files[3], mySpring2015Data: files[4], 
         mySpring2014Data: files[5], mySpring2013Data: files[6], mySpring2012Data: files[7], mySpring2011Data: files[8], mySpring2010Data: files[9],
         myfall19: files[10], myfall18: files[11], myfall17: files[12], myfall16: files[13], myfall15: files[14],
         myfall14: files[15], myfall13: files[16], myfall12: files[17], myfall11: files[18], myfall10: files[19], mySpring2020Data: files[20],
+        mySum19: files[21], mySum18: files[22], mySum17: files[23], mySum16: files[24], mySum15: files[25], mySum14: files[26],
+        mySum13: files[27], mySum12: files[28], mySum11: files[29], mySum10: files[30], 
       })
     })
   }
@@ -196,6 +242,16 @@ class ListGrades extends Component {
     const spring2011Arr = this.state.mySpring2011Data.filter(x => x.name1 === (this.props.ProfInfo.name1) && x.CRS_TITLE === (this.props.ProfInfo.CRS_TITLE) && x.CRS_SUBJ_CD === (this.props.ProfInfo.CRS_SUBJ_CD)); 
     const fall2010Arr = this.state.myfall10.filter(x => x.name1 === (this.props.ProfInfo.name1) && x.CRS_TITLE === (this.props.ProfInfo.CRS_TITLE) && x.CRS_SUBJ_CD === (this.props.ProfInfo.CRS_SUBJ_CD)); 
     const spring2010Arr = this.state.mySpring2010Data.filter(x => x.name1 === (this.props.ProfInfo.name1) && x.CRS_TITLE === (this.props.ProfInfo.CRS_TITLE) && x.CRS_SUBJ_CD === (this.props.ProfInfo.CRS_SUBJ_CD));
+    const summer2010Arr = this.state.mySum10.filter(x => x.name1 === (this.props.ProfInfo.name1) && x.CRS_TITLE === (this.props.ProfInfo.CRS_TITLE) && x.CRS_SUBJ_CD === (this.props.ProfInfo.CRS_SUBJ_CD));
+    const summer2011Arr = this.state.mySum11.filter(x => x.name1 === (this.props.ProfInfo.name1) && x.CRS_TITLE === (this.props.ProfInfo.CRS_TITLE) && x.CRS_SUBJ_CD === (this.props.ProfInfo.CRS_SUBJ_CD));
+    const summer2012Arr = this.state.mySum12.filter(x => x.name1 === (this.props.ProfInfo.name1) && x.CRS_TITLE === (this.props.ProfInfo.CRS_TITLE) && x.CRS_SUBJ_CD === (this.props.ProfInfo.CRS_SUBJ_CD));
+    const summer2013Arr = this.state.mySum13.filter(x => x.name1 === (this.props.ProfInfo.name1) && x.CRS_TITLE === (this.props.ProfInfo.CRS_TITLE) && x.CRS_SUBJ_CD === (this.props.ProfInfo.CRS_SUBJ_CD));
+    const summer2014Arr = this.state.mySum14.filter(x => x.name1 === (this.props.ProfInfo.name1) && x.CRS_TITLE === (this.props.ProfInfo.CRS_TITLE) && x.CRS_SUBJ_CD === (this.props.ProfInfo.CRS_SUBJ_CD));
+    const summer2015Arr = this.state.mySum15.filter(x => x.name1 === (this.props.ProfInfo.name1) && x.CRS_TITLE === (this.props.ProfInfo.CRS_TITLE) && x.CRS_SUBJ_CD === (this.props.ProfInfo.CRS_SUBJ_CD));
+    const summer2016Arr = this.state.mySum16.filter(x => x.name1 === (this.props.ProfInfo.name1) && x.CRS_TITLE === (this.props.ProfInfo.CRS_TITLE) && x.CRS_SUBJ_CD === (this.props.ProfInfo.CRS_SUBJ_CD));
+    const summer2017Arr = this.state.mySum17.filter(x => x.name1 === (this.props.ProfInfo.name1) && x.CRS_TITLE === (this.props.ProfInfo.CRS_TITLE) && x.CRS_SUBJ_CD === (this.props.ProfInfo.CRS_SUBJ_CD));
+    const summer2018Arr = this.state.mySum18.filter(x => x.name1 === (this.props.ProfInfo.name1) && x.CRS_TITLE === (this.props.ProfInfo.CRS_TITLE) && x.CRS_SUBJ_CD === (this.props.ProfInfo.CRS_SUBJ_CD));
+    const summer2019Arr = this.state.mySum19.filter(x => x.name1 === (this.props.ProfInfo.name1) && x.CRS_TITLE === (this.props.ProfInfo.CRS_TITLE) && x.CRS_SUBJ_CD === (this.props.ProfInfo.CRS_SUBJ_CD));
 
     // ------------------------------------- combines all the semsters and calculates all the total letter grade for combined -------------------------------------
 
@@ -204,7 +260,9 @@ class ListGrades extends Component {
                               ...fall2017Arr, ...spring2017Arr, ...fall2016Arr, ...spring2016Arr, 
                               ...fall2015Arr, ...spring2015Arr, ...fall2014Arr, ...spring2014Arr, 
                               ...fall2013Arr, ...spring2013Arr, ...fall2012Arr, ...spring2012Arr, 
-                              ...fall2011Arr, ...spring2011Arr, ...fall2010Arr, ...spring2010Arr, ...spring2020Arr];
+                              ...fall2011Arr, ...spring2011Arr, ...fall2010Arr, ...spring2010Arr, ...spring2020Arr, 
+                              ...summer2010Arr, ...summer2011Arr, ...summer2012Arr, ...summer2013Arr, ...summer2014Arr,
+                              ...summer2015Arr, ...summer2016Arr, ...summer2017Arr, ...summer2018Arr, ...summer2019Arr];
     
     // get sum of all A across all objects in array 
     const totalGradesA = allSemCombinedArr.reduce(function(prev, cur) {
@@ -583,24 +641,34 @@ class ListGrades extends Component {
           {/* if the lenght is greater than 0 then it means the professor has taught that semester and will be displayed as an option else it wont be displayed */}
           {spring2020Arr.length > 0 ? <option value="Spring2020">Spring 2020</option> : null}
           {fall2019Arr.length > 0 ? <option value="Fall2019">Fall 2019</option> : null}
+          {summer2019Arr.length > 0 ? <option value="Summer2019">Summer 2019</option> : null}
           {spring2019Arr.length > 0 ? <option value="Spring2019">Spring 2019</option> : null}
           {fall2018Arr.length > 0 ? <option value="Fall2018">Fall 2018</option> : null }
+          {summer2018Arr.length > 0 ? <option value="Summer2018">Summer 2018</option> : null}
           {spring2018Arr.length > 0 ? <option value="Spring2018">Spring 2018</option> : null }
           {fall2017Arr.length > 0 ? <option value="Fall2017">Fall 2017</option> : null }
+          {summer2017Arr.length > 0 ? <option value="Summer2017">Summer 2017</option> : null}
           {spring2017Arr.length > 0 ? <option value="Spring2017">Spring 2017</option> : null }
           {fall2016Arr.length > 0 ? <option value="Fall2016">Fall 2016</option> : null }
+          {summer2016Arr.length > 0 ? <option value="Summer2016">Summer 2016</option> : null}
           {spring2016Arr.length > 0 ? <option value="Spring2016">Spring 2016</option> : null }
           {fall2015Arr.length > 0 ? <option value="Fall2015">Fall 2015</option> : null }
+          {summer2015Arr.length > 0 ? <option value="Summer2015">Summer 2015</option> : null}
           {spring2015Arr.length > 0 ? <option value="Spring2015">Spring 2015</option> : null }
           {fall2014Arr.length > 0 ? <option value="Fall2014">Fall 2014</option> : null }
+          {summer2014Arr.length > 0 ? <option value="Summer2014">Summer 2014</option> : null}
           {spring2014Arr.length > 0 ? <option value="Spring2014">Spring 2014</option> : null }
           {fall2013Arr.length > 0 ? <option value="Fall2013">Fall 2013</option> : null }
+          {summer2013Arr.length > 0 ? <option value="Summer2013">Summer 2013</option> : null}
           {spring2013Arr.length > 0 ? <option value="Spring2013">Spring 2013</option> : null }
           {fall2012Arr.length > 0 ? <option value="Fall2012">Fall 2012</option> : null }
+          {summer2012Arr.length > 0 ? <option value="Summer2012">Summer 2012</option> : null}
           {spring2012Arr.length > 0 ? <option value="Spring2012">Spring 2012</option> : null }
           {fall2011Arr.length > 0 ? <option value="Fall2011">Fall 2011</option> : null }
+          {summer2011Arr.length > 0 ? <option value="Summer2011">Summer 2011</option> : null}
           {spring2011Arr.length > 0 ? <option value="Spring2011">Spring 2011</option> : null }
           {fall2010Arr.length > 0 ? <option value="Fall2010">Fall 2010</option> : null }
+          {summer2010Arr.length > 0 ? <option value="Summer2010">Summer 2010</option> : null}
           {spring2010Arr.length > 0 ? <option value="Spring2010">Spring 2010</option> : null }
         </select>
 
