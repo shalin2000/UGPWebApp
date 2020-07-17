@@ -7,8 +7,8 @@ import com.example.demo.entity.User;
 import com.example.demo.service.UserService;
 
 @RestController
-@RequestMapping("/postgressApp")
-@CrossOrigin(origins="http://localhost:3000") //merge of two ports
+// @RequestMapping("/postgressApp")
+@CrossOrigin(origins="https://grade-pal.web.app") //merge of two ports
 public class ApplicationController {
     @Resource
     UserService userService;
@@ -19,5 +19,9 @@ public class ApplicationController {
     @PostMapping(value = "/createUser") //postRequest
     public void createUser(@RequestBody User emp) {
         userService.insertUser(emp);
+    }
+    @GetMapping("/")
+    public String index() {
+        return "Hello there! GradePal is running.";
     }
 }

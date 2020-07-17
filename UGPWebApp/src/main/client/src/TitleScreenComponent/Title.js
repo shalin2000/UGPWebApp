@@ -31,7 +31,7 @@ class Title extends Component {
         };
         
         // posts info to the backend with that url
-        axios.post("http://localhost:8080/postgressApp/signup-success", info)
+        axios.post("https://gradepal20.herokuapp.com/signup-success", info)
             .then(response => {
                 if(response.data != null) {
                     this.setState({show:true});

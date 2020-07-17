@@ -36,7 +36,7 @@ class CommentProf extends Component {
 
     // when component mounts, we do 'get' method from the url (backend) which sets the state of userList to all the comments that have been made by users
     componentDidMount() {
-        axios.get("http://localhost:8080/postgressApp/userList")
+        axios.get("https://gradepal20.herokuapp.com/userList")
             .then(response => response.data)
             .then((data) => {
                 this.setState({userList: data});
@@ -77,7 +77,7 @@ class CommentProf extends Component {
         };
 
         // post the values in each column to the url below
-        axios.post("http://localhost:8080/postgressApp/createUser", info)
+        axios.post("https://gradepal20.herokuapp.com/createUser", info)
             .then(response => {
                 if(response.data != null) {
                     this.setState({show:true});
