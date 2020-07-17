@@ -1,0 +1,475 @@
+TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DEPT_NAME,A,B,C,D,F,ADV,CR,DFR,I,NG,NR,O,PR,S,U,W,name1,name2,name3,grade_regs
+220105,AAST,"African American Studies",225,"Racial and Ethnic Groups",FT,"Liberal Arts & Sciences",2772,Sociology,3,3,1,1,0,0,0,0,1,0,2,0,0,0,0,0,"Schaffner, Laurie","Grad Asst",,11
+220105,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,10,17,8,2,6,0,0,0,0,0,0,0,0,0,0,5,"Galvan, Abel",,,48
+220105,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,18,20,3,6,2,0,0,0,0,0,0,0,0,0,0,3,"Maksy, Mostafa",,,52
+220105,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,6,5,5,8,2,0,0,0,0,0,0,0,0,0,0,1,"Leventhal, Brian W",,,27
+220105,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,5,11,14,4,1,0,0,0,0,0,2,0,0,0,0,3,"Salama, Yehia A.",,,40
+220105,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,6,10,9,3,1,0,0,0,0,0,0,0,0,0,0,1,"Salama, Yehia A.",,,30
+220105,ACTG,Accounting,355,"Business Law I",FL,"Business Administration",2656,Accounting,8,10,5,0,0,0,0,0,0,0,0,0,0,0,0,1,"Roe, Helen M",,,24
+220105,ACTG,Accounting,355,"Business Law I",FL,"Business Administration",2656,Accounting,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Grad Asst",,,13
+220105,ACTG,Accounting,435,Auditing,FL,"Business Administration",2656,Accounting,6,11,6,2,0,0,0,0,0,0,0,0,0,0,0,1,"Galvan, Abel",,,26
+220105,ACTG,Accounting,445,"Federal Income Tax I",FL,"Business Administration",2656,Accounting,2,10,10,0,0,0,0,0,0,0,0,0,0,0,0,1,"Khan, Feroze",,,23
+220105,ACTG,Accounting,446,"Federal Income Tax II",FL,"Business Administration",2656,Accounting,2,3,4,0,1,0,0,0,0,0,0,0,0,0,0,0,"Kemp, Robert E",,,10
+220105,ACTG,Accounting,474,"Actg Information Systems",FL,"Business Administration",2656,Accounting,12,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Goodman, Charles Joseph",,,21
+220105,ACTG,Accounting,494,"Professional Presence",FL,"Business Administration",2656,Accounting,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Popowits, Michael T",,,21
+220105,ACTG,Accounting,500,"Intro Financial Actg",FL,"Business Administration",2656,Accounting,5,2,1,1,1,0,0,0,0,0,1,0,0,0,0,0,"Leventhal, Brian W",,,11
+220105,ACTG,Accounting,500,"Intro Financial Actg",FL,"Business Administration",2656,Accounting,16,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,"Pandit, Shailendra",,,32
+220105,ACTG,Accounting,506,"Management Accounting",FL,"Business Administration",2656,Accounting,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,"Chalos, Peter",,,43
+220105,ACTG,Accounting,509,"Commercial Transactions",FL,"Business Administration",2656,Accounting,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,"Roe, George",,,37
+220105,ACTG,Accounting,525,"Mgmt Control/Strateg Performnc",FL,"Business Administration",2656,Accounting,3,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chalos, Peter",,,14
+220105,AH,"Art History",100,"Intro to Art &Art History",FR,"Architecture,Design,& the Arts",2910,"Art History",4,9,7,3,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,23
+220105,AH,"Art History",207,"Topics in Arch Art Design",FR,"Architecture,Design,& the Arts",2910,"Art History",5,3,3,1,4,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,18
+220105,AH,"Art History",262,"American Art to 1945",FR,"Architecture,Design,& the Arts",2910,"Art History",3,7,4,0,2,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,16
+220105,AH,"Art History",424,"Architecture in Chicago",FR,"Architecture,Design,& the Arts",2910,"Art History",8,13,3,0,0,0,0,0,1,0,0,0,0,0,0,0,"Mekinda, Jonathan",,,25
+220105,ANTH,Anthropology,100,"Human Adventure",FT,"Liberal Arts & Sciences",2841,Anthropology,21,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,29
+220105,ANTH,Anthropology,101,"World Cultures",FT,"Liberal Arts & Sciences",2841,Anthropology,10,8,7,3,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,29
+220105,ANTH,Anthropology,105,"Human Evolution",FT,"Liberal Arts & Sciences",2841,Anthropology,25,12,6,0,3,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,46
+220105,ANTH,Anthropology,272,"North American Indians",FT,"Liberal Arts & Sciences",2841,Anthropology,8,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hasenstab, Robert John",,,18
+220105,ARAB,Arabic,115,"Intensive Elementary Arabic",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",19,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Awwad, Amer",,,23
+220105,ARAB,Arabic,116,"Intensive Intermed Arabic",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",12,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Kamal, Mustapha",,,15
+220105,ARCH,Architecture,331,"Architecture Seminar",FR,"Architecture,Design,& the Arts",2911,"School of Architecture",0,2,6,0,0,0,0,0,1,0,0,0,0,0,0,1,"McDermott, Adrian Marcel","Kelley, Thomas",,10
+220105,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",15,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Corte, Anthony M",,,19
+220105,BA,"Business Administration",289,"Business Internship Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,"Anderson, John D",,,13
+220105,BA,"Business Administration",589,"Corporate Bus Intern Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,"Karras, John J",,,23
+220105,BCMG,"Biochem & Molecular Genetics",599,"PhD Thesis Research",FZ,"Coll Medicine at Chicago - BS",2509,"Biochem & Molecular Genetics",0,0,0,0,0,0,0,0,0,0,1,0,0,42,0,0,"Katzen, Alisa L","Caffrey, Michael S",,43
+220105,BHIS,"Biomedical &Hlth Info Sciences",437,"Health Care Data",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",25,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Bobis, Kenneth G",,,31
+220105,BHIS,"Biomedical &Hlth Info Sciences",460,"Intro to Hlth Informatics",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,"Patena, Karen R",,,16
+220105,BHIS,"Biomedical &Hlth Info Sciences",499,"Info Sources in BHIS",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,63,0,0,0,0,0,0,0,"Dieter, Michael G",,,63
+220105,BHIS,"Biomedical &Hlth Info Sciences",503,"Comm Skills in HI",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",11,30,6,0,0,0,0,0,3,0,0,0,0,0,0,8,"Walker, Rosemary",,,58
+220105,BHIS,"Biomedical &Hlth Info Sciences",510,"Health Care Info Systems",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,4,"Pawola, Lawrence M.",,,58
+220105,BHIS,"Biomedical &Hlth Info Sciences",511,"Appl of Hlthcare Info Sys",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",33,10,2,0,1,0,0,0,0,0,0,0,0,0,0,1,"Bimmerle, Cathleen",,,47
+220105,BHIS,"Biomedical &Hlth Info Sciences",517,"Health Care Info Security",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,"Stevenson, Greer W.P.",,,40
+220105,BHIS,"Biomedical &Hlth Info Sciences",528,"Consumer Hlth Informatics",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,"Dieter, Michael G",,,11
+220105,BHIS,"Biomedical &Hlth Info Sciences",538,"Health Care IT Admin",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",38,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bobis, Kenneth G",,,42
+220105,BHIS,"Biomedical &Hlth Info Sciences",595,"BHIS Seminar",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,1,"Dieter, Michael G",,,13
+220105,BIOS,"Biological Sciences",100,"Biol of Cells & Organisms",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",8,10,22,1,0,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst","Muller, Michael T",,43
+220105,BIOS,"Biological Sciences",100,"Biol of Cells & Organisms",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",14,17,32,4,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,70
+220105,BIOS,"Biological Sciences",101,"Populations & Communities",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",12,2,5,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","Molumby, Alan J",,20
+220105,BIOS,"Biological Sciences",101,"Populations & Communities",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",19,10,7,0,2,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,38
+220105,BIOS,"Biological Sciences",220,Genetics,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",18,12,25,1,1,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,61
+220105,BIOS,"Biological Sciences",221,"Genetics Lab",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,8,7,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,26
+220105,BIOS,"Biological Sciences",222,"Cell Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",23,28,21,3,1,0,0,0,0,0,0,0,0,0,0,6,"Grad Asst","Gonzalez-Meler, Miquel Angel","Casanovas, Nuria Gomez",82
+220105,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",8,17,10,0,1,0,0,0,1,0,0,0,0,0,0,3,"Nelson, Karin Noel","Grad Asst",,40
+220105,BIOS,"Biological Sciences",240,Homeostasis,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",16,39,30,9,1,0,0,0,0,0,0,0,0,0,0,16,"Malchow, Robert Paul","Warpeha, Katherine Mary","Grad Asst",111
+220105,BIOS,"Biological Sciences",331,"Ecology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",6,10,4,1,0,0,0,0,0,0,1,0,0,0,0,1,"Brown, Joel S",,,23
+220105,BIOS,"Biological Sciences",350,"General Microbiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",18,20,20,8,2,0,0,0,1,0,0,0,0,0,0,1,"Gibbons, Sandra Helen","Grad Asst",,70
+220105,BIOS,"Biological Sciences",351,"Microbiology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",18,18,10,1,2,0,0,0,0,0,1,0,0,0,0,3,"Grad Asst",,,53
+220105,BMS,"Basic Medical Sciences",609,"Medical Scholars Program",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,1,73,0,0,0,0,0,"Instructor, Missing",,,74
+220105,BVIS,"Biomedical Visualization",400,"Clin Sciences for Biomed Vis",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Barrows, Scott Thorn",,,13
+220105,BVIS,"Biomedical Visualization",430,"Surgical Orientation",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Barrows, Scott Thorn",,,14
+220105,BVIS,"Biomedical Visualization",520,"Adv Imaging Applications",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Dixon, Scott Anthony","Barrows, Scott Thorn",,12
+220105,BVIS,"Biomedical Visualization",545,"Computer-based Multimedia",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Blew, Gregory A",,,12
+220105,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,0,0,0,89,0,0,0,0,0,"Instructor, Missing",,,89
+220105,CELE,"Clerkship Electives-Chicago",604,"Emergency  Medicine",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,"Instructor, Missing",,,24
+220105,CELE,"Clerkship Electives-Chicago",616,Radiology,GA,"Coll Medicine at Chicago - CS",2713,Radiology,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,"Instructor, Missing",,,18
+220105,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,5,7,0,1,0,0,0,0,0,0,1,0,0,0,0,3,"Grad Asst","Jursich, Gregory","Widing, Robert W",17
+220105,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,11,9,14,3,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","Papadantonakis, George A",,40
+220105,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,2,5,7,2,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst","Jursich, Gregory","Krooswyk, Joel D",19
+220105,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,4,3,11,1,2,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","Jursich, Gregory","Cobani, Edisa",21
+220105,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,5,21,20,6,4,0,0,0,1,0,0,0,0,0,0,5,"Grad Asst","Jursich, Gregory","Grad Asst",62
+220105,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,2,2,1,0,2,0,0,0,0,0,0,0,0,0,0,11,"Grad Asst","Balch, Melita Morton",,18
+220105,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,10,11,19,11,8,0,0,0,0,0,0,0,0,0,0,34,"Grad Asst","Balch, Melita Morton","Grad Asst",93
+220105,CHEM,Chemistry,130,Survey/Organic&Biochem,FT,"Liberal Arts & Sciences",2458,Chemistry,6,9,5,2,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","Widing, Robert W","Miranda, Neil",22
+220105,CHEM,Chemistry,222,"Analytical Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,4,12,15,0,1,0,0,0,1,0,0,0,0,0,0,0,"Papadantonakis, George A","Grad Asst","Grad Asst",33
+220105,CHEM,Chemistry,232,"Organic Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,18,31,51,24,8,0,0,0,0,0,0,0,0,0,0,19,"Grad Asst","Miranda, Neil",,151
+220105,CHEM,Chemistry,233,"Organic Chemistry Lab I",FT,"Liberal Arts & Sciences",2458,Chemistry,2,3,9,1,0,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst","Landrie, Chad L.","Grad Asst",17
+220105,CHEM,Chemistry,233,"Organic Chemistry Lab I",FT,"Liberal Arts & Sciences",2458,Chemistry,22,15,44,5,5,0,0,0,1,0,0,0,0,0,0,9,"Grad Asst","Landrie, Chad L.",,101
+220105,CHEM,Chemistry,234,"Organic Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,13,21,37,21,22,0,0,0,1,0,0,0,0,0,0,15,"Grad Asst","Miranda, Neil",,130
+220105,CHSC,"Community Health Sciences",401,"Behavioral Sci Pub Health",FY,"School of Public Health",2245,"Community Health Sciences",15,6,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Prohaska, Thomas R",,,24
+220105,CI,"Curriculum and Instruction",428,"Curric & Teaching Secondary Ed",FP,Education,2783,"Curriculum and Instruction",14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mitchener, Carole P",,,15
+220105,CI,"Curriculum and Instruction",450,"Literacy and Society",FP,Education,2783,"Curriculum and Instruction",15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,17
+220105,CI,"Curriculum and Instruction",464,"Bilingualism and Literacy",FP,Education,2783,"Curriculum and Instruction",28,4,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Trost-Shahata, Elisabeth Caroline","Rodriguez-Brown, Flora V",,35
+220105,CI,"Curriculum and Instruction",472,"Testing/ESL Instruction",FP,Education,2783,"Curriculum and Instruction",24,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Vidro, Crescence Mary","Rodriguez-Brown, Flora V",,27
+220105,CI,"Curriculum and Instruction",481,"Foundations Bilingual/ESL Ed",FP,Education,2783,"Curriculum and Instruction",17,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Tanabe, Margaret Ann","Rodriguez-Brown, Flora V",,22
+220105,CI,"Curriculum and Instruction",482,"Testing &Instruct:Bilingualism",FP,Education,2783,"Curriculum and Instruction",31,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","Rodriguez-Brown, Flora V",,34
+220105,CI,"Curriculum and Instruction",484,"Curri & Instruct Middle School",FP,Education,2783,"Curriculum and Instruction",11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Best, Richard L",,,12
+220105,CI,"Curriculum and Instruction",484,"Curri & Instruct Middle School",FP,Education,2783,"Curriculum and Instruction",22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Klonsky, Michael K",,,23
+220105,CI,"Curriculum and Instruction",484,"Curri & Instruct Middle School",FP,Education,2783,"Curriculum and Instruction",34,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Schultz, Brian David",,,39
+220105,CI,"Curriculum and Instruction",504,"Secondary Literacy",FP,Education,2783,"Curriculum and Instruction",26,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Davis, Duane Bernard","Grad Asst",,28
+220105,CI,"Curriculum and Instruction",528,"Literacy Assessment",FP,Education,2783,"Curriculum and Instruction",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Boran, Karen M",,,10
+220105,CI,"Curriculum and Instruction",540,"Linguistics for Teachers",FP,Education,2783,"Curriculum and Instruction",23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Miller, Leah D","Rodriguez-Brown, Flora V",,23
+220105,CL,Classics,101,"Roman Civilization",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",14,12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kershaw, Allan",,,29
+220105,CLER,"Clerkship - Medicine",601,"Obstetrics and Gynecology",GA,"Coll Medicine at Chicago - CS",2225,"Obstetrics & Gynecology",0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,"Instructor, Missing",,,38
+220105,CLER,"Clerkship - Medicine",602,Psychiatry,GA,"Coll Medicine at Chicago - CS",2722,Psychiatry,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,"Instructor, Missing",,,43
+220105,CLER,"Clerkship - Medicine",603,Pediatrics,GA,"Coll Medicine at Chicago - CS",2905,Pediatrics,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,"Instructor, Missing",,,39
+220105,CLER,"Clerkship - Medicine",604,Surgery,GA,"Coll Medicine at Chicago - CS",2271,Surgery,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,"Instructor, Missing",,,39
+220105,CLER,"Clerkship - Medicine",605,Medicine,GA,"Coll Medicine at Chicago - CS",2586,Medicine,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0,"Instructor, Missing",,,41
+220105,CLER,"Clerkship - Medicine",606,"Family Medicine",GA,"Coll Medicine at Chicago - CS",2675,"Family Medicine",0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,"Instructor, Missing",,,50
+220105,CLER,"Clerkship - Medicine",608,"Essent of Clin Pract & Prof",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,"Instructor, Missing",,,168
+220105,CLER,"Clerkship - Medicine",612,"Medicine Sub-Internship",GA,"Coll Medicine at Chicago - CS",2586,Medicine,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,"Instructor, Missing",,,54
+220105,CLER,"Clerkship - Medicine",617,Psychiatry,GC,"College of Medicine at Peoria",2500,"Psychiatry & Behavioral Med",0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,"Instructor, Missing",,,10
+220105,CLER,"Clerkship - Medicine",619,Surgery,GC,"College of Medicine at Peoria",2848,Surgery,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,"Instructor, Missing",,,11
+220105,CLER,"Clerkship - Medicine",634,Surgery,GE,"College of Medicine Rockford",2285,"Surg/Surgical Specialties",0,0,0,0,0,8,0,0,0,0,2,3,0,0,0,0,"Thomas, Dorian E","Grad Asst","Pirrello, Jodi L",13
+220105,CLER,"Clerkship - Medicine",635,Medicine,GE,"College of Medicine Rockford",2532,"Med & Medical Specialties",0,0,0,0,0,7,0,0,0,0,1,6,0,0,0,0,"Thomas, Dorian E","Grad Asst","Blevins, Terri Bell",14
+220105,CLER,"Clerkship - Medicine",637,"Family Medicine Clerkship",GE,"College of Medicine Rockford",2636,"Family and Community Medicine",0,0,0,0,0,22,0,0,0,0,5,17,2,0,0,0,"Thomas, Dorian E","Grad Asst","Pirrello, Jodi L",46
+220105,CLER,"Clerkship - Medicine",641,"Rural Medicine III",GE,"College of Medicine Rockford",2636,"Family and Community Medicine",0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Thomas, Dorian E","Grad Asst","Pirrello, Jodi L",11
+220105,CLJ,"Criminology, Law, and Justice",101,"Intro to Crim, Law, & Justice",FT,"Liberal Arts & Sciences",2909,"Criminology, Law, and Justice",19,12,4,3,1,0,0,0,0,0,0,0,0,0,0,0,"Matoesian, Greg",,,39
+220105,CLJ,"Criminology, Law, and Justice",120,"Crime and Society",FT,"Liberal Arts & Sciences",2909,"Criminology, Law, and Justice",10,25,4,0,0,0,0,0,0,0,2,0,0,0,0,0,"Frohmann, Lisa G",,,41
+220105,CLJ,"Criminology, Law, and Justice",121,"Violence in Society",FT,"Liberal Arts & Sciences",2909,"Criminology, Law, and Justice",9,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Schewe, Paul A",,,16
+220105,CLJ,"Criminology, Law, and Justice",200,"Law in Society",FT,"Liberal Arts & Sciences",2909,"Criminology, Law, and Justice",17,16,5,3,1,0,0,0,0,0,0,0,0,0,0,4,"Matoesian, Greg",,,46
+220105,CLJ,"Criminology, Law, and Justice",210,"Principles of Criminal Law",FT,"Liberal Arts & Sciences",2909,"Criminology, Law, and Justice",8,14,21,1,1,0,0,0,1,0,0,0,0,0,0,1,"Mappa, Jeff A",,,47
+220105,CLJ,"Criminology, Law, and Justice",220,Criminology,FT,"Liberal Arts & Sciences",2909,"Criminology, Law, and Justice",10,8,4,0,1,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,23
+220105,CLJ,"Criminology, Law, and Justice",240,"Criminal Justice Organizations",FT,"Liberal Arts & Sciences",2909,"Criminology, Law, and Justice",15,10,4,2,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,31
+220105,CLJ,"Criminology, Law, and Justice",261,"Research Methods I",FT,"Liberal Arts & Sciences",2909,"Criminology, Law, and Justice",21,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"McCarty, William Patrick",,,34
+220105,CLJ,"Criminology, Law, and Justice",262,"Research Methods II",FT,"Liberal Arts & Sciences",2909,"Criminology, Law, and Justice",13,14,8,2,0,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,40
+220105,CLJ,"Criminology, Law, and Justice",345,"Police in Society",FT,"Liberal Arts & Sciences",2909,"Criminology, Law, and Justice",21,5,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"Buslik, Marc S",,,29
+220105,CLJ,"Criminology, Law, and Justice",492,"Topics: Rule Application",FT,"Liberal Arts & Sciences",2909,"Criminology, Law, and Justice",6,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Aronowitz, Alexis A",,,14
+220105,CME,"Civil & Materials Engineering",201,Statics,FQ,Engineering,2737,"Civil & Materials Engineering",10,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Karpov, Eduard",,,19
+220105,CME,"Civil & Materials Engineering",203,"Strength Of Materials",FQ,Engineering,2737,"Civil & Materials Engineering",20,11,9,2,0,0,0,0,0,0,0,0,0,0,0,2,"Reddy, Krishna R",,,44
+220105,CME,"Civil & Materials Engineering",260,"Properties of Materials",FQ,Engineering,2737,"Civil & Materials Engineering",6,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,"Skipor, Andrew F",,,16
+220105,COMM,Communication,100,"Human Communication",FT,"Liberal Arts & Sciences",2493,Communication,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,11
+220105,COMM,Communication,100,"Human Communication",FT,"Liberal Arts & Sciences",2493,Communication,14,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","Grad Asst",,19
+220105,COMM,Communication,102,"Intro Interpersonal Comm",FT,"Liberal Arts & Sciences",2493,Communication,4,11,15,0,0,0,0,0,1,0,0,0,0,0,0,0,"Jones, John A",,,31
+220105,COMM,Communication,102,"Intro Interpersonal Comm",FT,"Liberal Arts & Sciences",2493,Communication,7,12,8,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,27
+220105,COMM,Communication,103,"Intro to Media",FT,"Liberal Arts & Sciences",2493,Communication,4,6,9,2,1,0,0,0,0,0,0,0,0,0,0,0,"Bui, Diem-My Thi",,,22
+220105,COMM,Communication,200,"Communication Technologies",FT,"Liberal Arts & Sciences",2493,Communication,8,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Danowski, James A",,,17
+220105,COMM,Communication,303,"Communication and Culture",FT,"Liberal Arts & Sciences",2493,Communication,17,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,19
+220105,COMM,Communication,304,"Male-Female Communication",FT,"Liberal Arts & Sciences",2493,Communication,2,12,2,1,0,0,0,0,1,0,0,0,0,0,0,0,"Yale, Camille K",,,18
+220105,COMM,Communication,315,"Group Communication",FT,"Liberal Arts & Sciences",2493,Communication,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jones, John A",,,14
+220105,COMM,Communication,416,"Conflict & Communication",FT,"Liberal Arts & Sciences",2493,Communication,1,5,8,0,0,0,0,0,0,0,0,0,0,0,0,1,"Chang, Hui-Ching",,,15
+220105,CS,"Computer Science",107,"Intro Comp & Programming",FQ,Engineering,2699,"Computer Science",0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,"Grechanik, Mark",,,24
+220105,CS,"Computer Science",109,"Prog for Engineers w/MatLab",FQ,Engineering,2699,"Computer Science",5,5,4,3,1,0,0,0,0,0,2,0,0,0,0,6,"Lillis, John P",,,26
+220105,CS,"Computer Science",201,"Discrete Structures I",FQ,Engineering,2699,"Computer Science",2,7,5,3,1,0,0,0,0,0,0,0,0,0,0,0,"Sistla, Aravinda Prasad",,,18
+220105,CS,"Computer Science",401,"Computer Algorithms I",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",7,5,1,0,0,0,0,0,1,0,0,0,0,0,0,2,"Lowman, Roy Marsh",,,16
+220105,DADM,"Dental Administration",316,"Comprehensive Care II A",FN,Dentistry,2758,"Dentistry Administration",86,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lamb, Courtney C","Ashrafi, Seema Shahid","Knight, George William",99
+220105,DADM,"Dental Administration",319,"Comprehensive Care III-A",FN,Dentistry,2758,"Dentistry Administration",50,35,0,0,3,0,0,0,4,0,1,0,0,0,0,0,"Zeck, Stephen Mark","Jurgens-Toepke, Pamela",,93
+220105,DADM,"Dental Administration",325,"Extramural Clinical Experience",FN,Dentistry,2758,"Dentistry Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,63,0,0,"Evans, Caswell","Noorullah, Khatija",,63
+220105,DADM,"Dental Administration",332,"Comprehensive Care IV-A",FN,Dentistry,2758,"Dentistry Administration",48,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Vankanegan, Kevin E","Knight, George William","Jurgens-Toepke, Pamela",63
+220105,DBSC,"Dental Behavioral Science",310,"Dent Public Hlth &Occup Hlth",FN,Dentistry,2628,"Pediatric Dentistry",89,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hryhorczuk, Christine S",,,93
+220105,DBSC,"Dental Behavioral Science",321,"Dental Ethics",FN,Dentistry,2628,"Pediatric Dentistry",77,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Koerber, Anne",,,93
+220105,DHD,"Disability & Human Development",444,"Assistive Technol in Schools",GF,"Applied Health Sciences",2871,"Disability & Human Development",11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Marsden-Johnson, Jan",,,13
+220105,ECE,"Electrical and Computer Engr",225,"Circuit Analysis",FQ,Engineering,2949,"Electrical & Computer Engr",3,5,9,2,0,0,0,0,0,0,0,0,0,0,0,1,"Laxpati, Sharadbabu",,,20
+220105,ECE,"Electrical and Computer Engr",267,"Computer Organization I",FQ,Engineering,2949,"Electrical & Computer Engr",4,7,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Goncharoff, Vladimir",,,14
+220105,ECE,"Electrical and Computer Engr",310,"Discrete &Cont Signal&Systms",FQ,Engineering,2949,"Electrical & Computer Engr",4,7,7,2,1,0,0,0,0,0,0,0,0,0,0,0,"Priemer, Roland",,,21
+220105,ECE,"Electrical and Computer Engr",311,"Communication Engineering",FQ,Engineering,2949,"Electrical & Computer Engr",4,3,2,1,0,0,0,0,0,0,0,0,0,0,0,1,"Laxpati, Sharadbabu",,,11
+220105,ECE,"Electrical and Computer Engr",340,"Electronics I",FQ,Engineering,2949,"Electrical & Computer Engr",6,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Caliskan, Vahe",,,14
+220105,ECE,"Electrical and Computer Engr",341,"Probabil &Rand Proc for Engr",FQ,Engineering,2949,"Electrical & Computer Engr",3,5,4,2,0,0,0,0,0,0,0,0,0,0,0,2,"Goncharoff, Vladimir",,,16
+220105,ECON,Economics,120,"Principles of Microeconomics",FT,"Liberal Arts & Sciences",2525,Economics,12,13,16,1,3,0,0,0,1,0,0,0,0,0,0,2,"Grad Asst",,,48
+220105,ECON,Economics,121,"Principles of Macroeconomics",FT,"Liberal Arts & Sciences",2525,Economics,11,11,6,2,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,32
+220105,ECON,Economics,218,Microeconomics,FT,"Liberal Arts & Sciences",2525,Economics,34,26,28,3,1,0,0,0,0,0,0,0,0,0,0,3,"Fang, Xin","Martell, Carol",,95
+220105,ECON,Economics,221,Macroeconomics,FT,"Liberal Arts & Sciences",2525,Economics,8,13,7,0,1,0,0,0,2,0,0,0,0,0,0,3,"Grad Asst",,,34
+220105,ECON,Economics,270,"Statistics for Economics",FT,"Liberal Arts & Sciences",2525,Economics,5,6,3,1,1,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,16
+220105,ECON,Economics,331,"Labor Economics",FT,"Liberal Arts & Sciences",2525,Economics,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,15
+220105,ECON,Economics,333,"International Economics",FT,"Liberal Arts & Sciences",2525,Economics,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,3,"Rezavi, Gibran H",,,37
+220105,ECON,Economics,346,Econometrics,FT,"Liberal Arts & Sciences",2525,Economics,7,10,2,0,1,0,0,0,0,0,0,0,0,0,0,7,"Grad Asst",,,27
+220105,ECON,Economics,371,"Intro to Urban Real Estate",FT,"Liberal Arts & Sciences",2525,Economics,2,5,5,0,1,0,0,0,0,0,0,0,0,0,0,1,"Cepon, Margie",,,14
+220105,ECON,Economics,436,"Mathematical Economics",FT,"Liberal Arts & Sciences",2525,Economics,4,4,0,0,1,0,0,0,0,0,0,0,0,0,0,3,"Peck, Richard Merton","Martell, Carol",,12
+220105,ECON,Economics,520,"Microecon for Business",FT,"Liberal Arts & Sciences",2525,Economics,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,"Skorburg, John W",,,33
+220105,ECON,Economics,520,"Microecon for Business",FT,"Liberal Arts & Sciences",2525,Economics,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,"Pieper, Paul J",,,45
+220105,ECON,Economics,520,"Microecon for Business",FT,"Liberal Arts & Sciences",2525,Economics,12,11,7,3,0,0,0,0,0,0,0,0,0,0,0,0,"Bassett, Gilbert W","Tam, Mo-Yin S",,33
+220105,ED,Education,200,"Educ Policy Foundations",FP,Education,2208,Education,13,5,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,20
+220105,ED,Education,210,"Educative Process",FP,Education,2208,Education,8,11,2,0,0,0,0,0,2,0,0,0,0,0,0,0,"Grad Asst",,,23
+220105,ED,Education,257,"Foundations of Literacy",FP,Education,2208,Education,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Trinder, Victoria F.",,,10
+220105,ED,Education,402,"Phil Ed & Urban School Policy",FP,Education,2208,Education,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Weldon, Ward W",,,54
+220105,ED,Education,421,"Advanced Educ Psychology",FP,Education,2208,Education,30,6,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"Grad Asst",,,37
+220105,ED,Education,429,"Practicum: Mid & HS Classrooms",FP,Education,2208,Education,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Mitchener, Carole P",,,15
+220105,ED,Education,430,"Curriculum & Teaching",FP,Education,2208,Education,6,7,3,0,0,0,0,0,0,0,1,0,0,0,0,0,"Watkins, William H",,,17
+220105,ED,Education,445,"Adolescence & Schools",FP,Education,2208,Education,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,19
+220105,ED,Education,500,"Philosophy of Ed Research",FP,Education,2208,Education,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,"Tozer, Steven E",,,14
+220105,ED,Education,503,"Quantitative Inquiry in Ed",FP,Education,2621,"Educational Psychology",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,16
+220105,EDPS,"Educational Policy Studies",581,"Collective Bargaining in Ed",FP,Education,2835,"Educational Policy Studies",22,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"Weldon, Ward W",,,23
+220105,EDPS,"Educational Policy Studies",594,"Special Topics in Ed Policy",FP,Education,2835,"Educational Policy Studies",0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,1,"Danley, Lynette L",,,13
+220105,ENDO,Endodontics,352,"Endodontics Clinic I",FN,Dentistry,2216,Endodontics,37,52,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Barrows, Michael John",,,93
+220105,ENDO,Endodontics,353,"Endodontics Clinic II",FN,Dentistry,2216,Endodontics,48,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Barrows, Michael John",,,63
+220105,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,11
+220105,ENGL,English,102,"Introduction to Film",FT,"Liberal Arts & Sciences",2492,English,5,1,2,0,2,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,10
+220105,ENGL,English,105,"English & American Fiction",FT,"Liberal Arts & Sciences",2492,English,5,5,5,0,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,17
+220105,ENGL,English,107,"Intro to Shakespeare",FT,"Liberal Arts & Sciences",2492,English,10,8,0,0,1,0,0,0,2,0,0,0,0,0,0,1,"Grad Asst",,,22
+220105,ENGL,English,109,"Amer Literature & Culture",FT,"Liberal Arts & Sciences",2492,English,2,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,10
+220105,ENGL,English,113,"Intro Multiethnic Literature",FT,"Liberal Arts & Sciences",2492,English,4,8,2,0,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,16
+220105,ENGL,English,120,"Film and Culture",FT,"Liberal Arts & Sciences",2492,English,11,7,2,2,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,23
+220105,ENGL,English,161,"Academic Writing II",FT,"Liberal Arts & Sciences",2492,English,30,16,2,1,1,0,0,0,2,0,0,0,0,0,0,0,"Grad Asst",,,52
+220105,ENGL,English,212,"Intro Writing of Fiction",FT,"Liberal Arts & Sciences",2492,English,12,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,14
+220105,ENGL,English,222,"Tutoring in Writing Center",FT,"Liberal Arts & Sciences",2492,English,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Saravia, Lydia A.",,,10
+220105,ENGL,English,240,"Lit. and Critical Methods",FT,"Liberal Arts & Sciences",2492,English,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Schaafsma, David W",,,14
+220105,ENGL,English,241,"Eng Lit I",FT,"Liberal Arts & Sciences",2492,English,20,18,1,0,0,0,0,0,0,0,0,0,0,0,0,2,"Bestul, Thomas Howard",,,41
+220105,ENGL,English,242,"Eng Lit II 1660-1900",FT,"Liberal Arts & Sciences",2492,English,11,20,8,0,3,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","Grad Asst",,43
+220105,ENGL,English,243,"American Lit to 1900",FT,"Liberal Arts & Sciences",2492,English,6,10,5,0,1,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,22
+220105,ENGL,English,243,"American Lit to 1900",FT,"Liberal Arts & Sciences",2492,English,8,9,3,0,2,0,0,0,0,0,1,0,0,0,0,0,"Aleksa, Vainis",,,23
+220105,ENGL,English,305,"Studies in Fiction",FT,"Liberal Arts & Sciences",2492,English,5,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Higgins, Brian",,,21
+220105,ENGL,English,486,"Teaching Writing/Mid&Sec Schl",FT,"Liberal Arts & Sciences",2492,English,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Schaafsma, David W",,,12
+220105,ENGR,Engineering,289,"Cooperative Engr Practice",FQ,Engineering,2284,"Engineering Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,1,"Kaplan, Kate Lynn","Pini, Rafaele",,51
+220105,ENTR,Entrepreneurship,300,"Survey of Entrepreneurship",FL,"Business Administration",2846,"Managerial Studies",18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sexton Dorvil, Michele",,,18
+220105,ENTR,Entrepreneurship,554,"Technology Ventures",FL,"Business Administration",2846,"Managerial Studies",0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,"Shrader, Rodney C",,,12
+220105,EOHS,"Environmtl & Occuptnl Hlth Sci",482,"Occupational Safety Science",FY,"School of Public Health",2731,"Environmtl & Occuptnl Hlth Sci",7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Standard, John J",,,13
+220105,EOHS,"Environmtl & Occuptnl Hlth Sci",570,"Hazardous Materials Mgmt",FY,"School of Public Health",2731,"Environmtl & Occuptnl Hlth Sci",9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Franke, John Edward",,,10
+220105,EPID,Epidemiology,426,Pharmacoepidemiology,FY,"School of Public Health",2891,"Epidemiology and Biostatistics",9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lee, Todd A.",,,10
+220105,EPID,Epidemiology,591,"Current Epid Literature",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,"Olshansky, Stuart Jay",,,16
+220105,EPID,Epidemiology,594,"Outbreak Invstgtns/Field Epid",FY,"School of Public Health",2891,"Epidemiology and Biostatistics",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,"Dworkin, Mark Steven",,,11
+220105,EPSY,"Educational Psychology",255,"Child Develop & Elem Ed",FP,Education,2621,"Educational Psychology",11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,11
+220105,EPSY,"Educational Psychology",414,"Develop Prgms Youth Urb Cntxts",FP,Education,2621,"Educational Psychology",13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Horn, Stacey S","Grad Asst",,14
+220105,EPSY,"Educational Psychology",446,"Character Early Adolescence",FP,Education,2621,"Educational Psychology",28,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Roedl, Amy Elizabeth",,,30
+220105,EPSY,"Educational Psychology",446,"Character Early Adolescence",FP,Education,2621,"Educational Psychology",33,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,"Thorkildsen, Theresa A",,,37
+220105,EPSY,"Educational Psychology",522,"Internship in Early Childhood",FP,Education,2621,"Educational Psychology",4,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Abel, Barbara","Main, Catherine M","Jackson, Jonnia",12
+220105,EPSY,"Educational Psychology",526,"Develop Infant & Early Child",FP,Education,2621,"Educational Psychology",12,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Koritsaris, Marian","Main, Catherine M",,16
+220105,EPSY,"Educational Psychology",582,"Collab w/Family-Community",FP,Education,2588,"Special Education",8,5,0,0,0,0,0,0,3,0,0,0,0,0,0,0,"Abel, Barbara","Main, Catherine M","Husband, Patricia",16
+220105,EPSY,"Educational Psychology",582,"Collab w/Family-Community",FP,Education,2588,"Special Education",14,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kessler, Michele Lynn",,,18
+220105,EPSY,"Educational Psychology",594,"Spcl Topics in Ed Psych",FP,Education,2621,"Educational Psychology",6,7,1,0,1,0,0,0,4,0,0,0,0,0,0,0,"Abel, Barbara",,,19
+220105,FIN,Finance,300,"Intro to Managerial Finance",FL,"Business Administration",2691,Finance,4,5,12,6,5,0,0,0,0,0,0,0,0,0,0,4,"Bills, Robert S",,,36
+220105,FIN,Finance,310,Investments,FL,"Business Administration",2691,Finance,8,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,"Hu, Xiaoqing",,,28
+220105,FIN,Finance,320,"Managerial Finance",FL,"Business Administration",2691,Finance,9,10,2,0,1,0,0,0,0,0,0,0,0,0,0,1,"Waite, Stanley",,,23
+220105,FIN,Finance,371,"Intro to Urban Real Estate",FT,"Liberal Arts & Sciences",2525,Economics,5,8,5,0,0,0,0,0,0,0,0,0,0,0,0,3,"Cepon, Margie",,,21
+220105,FIN,Finance,412,"Portfolio Management",FL,"Business Administration",2691,Finance,5,2,2,0,1,0,0,0,0,0,0,0,0,0,0,1,"Chen, Hsiu-Lang",,,11
+220105,FIN,Finance,473,"Intro to Risk Management",FL,"Business Administration",2672,"Information/Decision Sciences",5,9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lee, Yew-Sing Thomas",,,19
+220105,FIN,Finance,500,"Intro to Corp Finance",FL,"Business Administration",2691,Finance,5,13,14,1,0,0,0,0,0,0,0,0,0,0,0,0,"Chen, Hsiu-Lang",,,33
+220105,FIN,Finance,500,"Intro to Corp Finance",FL,"Business Administration",2691,Finance,12,22,5,0,0,0,0,0,0,0,0,0,0,0,0,2,"Binder, John J",,,41
+220105,FIN,Finance,500,"Intro to Corp Finance",FL,"Business Administration",2691,Finance,18,14,9,3,0,0,0,0,0,0,0,0,0,0,0,0,"Guo, Re-Jin Jennifer",,,44
+220105,FIN,Finance,510,Investments,FL,"Business Administration",2691,Finance,15,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Waite, Stanley",,,20
+220105,FIN,Finance,594,"Behavioral Finance",FL,"Business Administration",2691,Finance,21,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Holmer Lewis, Shari R",,,35
+220105,FIN,Finance,594,Equities,FL,"Business Administration",2691,Finance,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,"Barclay, William",,,35
+220105,FIN,Finance,594,"Fixed Income",FL,"Business Administration",2691,Finance,15,16,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Holmer Lewis, Shari R",,,35
+220105,FIN,Finance,594,Investments,FL,"Business Administration",2691,Finance,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,"Barclay, William",,,35
+220105,FIN,Finance,594,"Risk Management",FL,"Business Administration",2691,Finance,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,"Banks, Marcia A",,,33
+220105,FR,French,103,"Intermediate French I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",12,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,21
+220105,FR,French,104,"Intermediate French II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",9,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,19
+220105,FR,French,104,"Intermediate French II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",12,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Guidone, Mary E",,,20
+220105,GER,"Germanic Studies",219,"Myth and Fairy Tales",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",8,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Guillemin, Anna",,,21
+220105,GER,"Germanic Studies",299,"Germanic Study Abroad",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,"Weible, David M",,,17
+220105,GWS,"Gender and Women's Studies",101,"Gender in Everyday Life",FT,"Liberal Arts & Sciences",2369,"Gender and Women's Studies",9,6,2,2,1,0,0,0,0,0,1,0,0,0,0,2,"Schaffner, Laurie",,,23
+220105,GWS,"Gender and Women's Studies",102,"Global Women & Gender",FT,"Liberal Arts & Sciences",2369,"Gender and Women's Studies",14,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Jackson, Lynette A.",,,25
+220105,GWS,"Gender and Women's Studies",224,"Gender & Society",FT,"Liberal Arts & Sciences",2772,Sociology,6,4,0,0,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,12
+220105,HIM,"Health Information Management",410,"Intro to the Hlthcare Sys",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,"Prater, Valerie S","Patena, Karen R",,14
+220105,HIM,"Health Information Management",451,"HIM Theory and Practice",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,3,"Prater, Valerie S","Patena, Karen R",,12
+220105,HIM,"Health Information Management",486,"Foundations of HIM",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,1,0,0,0,69,0,0,0,0,0,0,0,"Hitchcock, Lois Marie","Patena, Karen R",,70
+220105,HIST,History,101,"Western Civ Since 1648",FT,"Liberal Arts & Sciences",2316,History,18,9,7,0,3,0,0,0,0,0,0,0,0,0,0,3,"Sack, James J",,,40
+220105,HIST,History,104,"Amer Civ since 19th Cent",FT,"Liberal Arts & Sciences",2316,History,17,20,4,2,2,0,0,0,0,0,0,0,0,0,0,0,"Schultz, Kevin M",,,45
+220105,HIST,History,217,"US Military History",GG,"Armed Forces",2589,"Armed Forces Military Science",10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Arndt, Jason M","Collins, Jeffrey C","Martinez, Joseph Arnold",20
+220105,HIST,History,222,"England to 1689",FT,"Liberal Arts & Sciences",2316,History,2,11,8,2,3,0,0,0,0,0,0,0,0,0,0,9,"Fanning, Steven C",,,35
+220105,HIST,History,241,"Pre-Colonial Africa",FT,"Liberal Arts & Sciences",2316,History,6,8,0,0,3,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,18
+220105,HIST,History,255,"History of Chicago",FT,"Liberal Arts & Sciences",2316,History,24,34,11,4,3,0,0,0,2,0,0,0,0,0,0,2,"Duis, Perry R",,,80
+220105,HIST,History,300,"Topics in Rsch and Writng",FT,"Liberal Arts & Sciences",2316,History,3,5,3,0,1,0,0,0,4,0,0,0,0,0,0,1,"Daly, Jonathan W.",,,17
+220105,HIST,History,592,ApprtoHistory:RaceSlaveryFredm,FT,"Liberal Arts & Sciences",2316,History,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,"Capers, Corey N.",,,12
+220105,HN,"Human Nutrition",110,Foods,GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",9,13,4,0,1,0,0,0,1,0,0,0,0,0,0,1,"Staver, Michael J",,,29
+220105,HN,"Human Nutrition",202,"Culture and Food",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Staver, Michael J",,,26
+220105,HN,"Human Nutrition",203,"Culture and Food Lab",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Staver, Michael J",,,12
+220105,HN,"Human Nutrition",321,"Clinical Practice I",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,"Shifley, Jamie Alyssa Sutton","Straughan, Kirsten Annika",,18
+220105,HN,"Human Nutrition",421,"Clinical Practice II",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,1,"Shifley, Jamie Alyssa Sutton","Straughan, Kirsten Annika",,19
+220105,HON,"Honors College",222,"Honors Activity",GT,"Honors College",2310,"Honors College",0,0,0,0,0,0,0,8,0,0,0,0,0,4,0,0,"Madia, Janet I","Williams, Stacie L","Duran, Martha E.",12
+220105,HPA,"Health Policy & Administration",400,"Princ of Mgmt in Public Health",FY,"School of Public Health",2399,"Health Policy & Administration",28,3,0,0,0,0,0,0,4,0,0,0,0,0,0,1,"Sewell, Richard Huston",,,36
+220105,HPA,"Health Policy & Administration",402,"Soc Ethics & Public Health",FY,"School of Public Health",2399,"Health Policy & Administration",4,8,0,0,0,0,0,0,1,0,1,0,0,0,0,0,"Swartzman, Daniel",,,14
+220105,HPA,"Health Policy & Administration",403,"US Health Care System",FY,"School of Public Health",2399,"Health Policy & Administration",7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mullner, Ross M",,,11
+220105,HPA,"Health Policy & Administration",472,"Clinical Research Methods I",FY,"School of Public Health",2399,"Health Policy & Administration",9,7,1,0,0,0,0,0,1,0,5,0,0,0,0,0,"Kim, Seijeoung",,,23
+220105,HPA,"Health Policy & Administration",479,"Eval Clinical Interventions",FY,"School of Public Health",2399,"Health Policy & Administration",10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Dobrez, Deborah G.",,,12
+220105,HPA,"Health Policy & Administration",495,"MHA Preceptorship",FY,"School of Public Health",2399,"Health Policy & Administration",0,0,0,0,0,0,0,0,4,0,0,0,0,18,0,0,"Canna, James J",,,22
+220105,HPA,"Health Policy & Administration",564,"GIS App in Public Hlth",FY,"School of Public Health",2399,"Health Policy & Administration",15,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Croke, Kevin G","Bing-Canar, John",,17
+220105,IDS,"Information &Decision Sciences",200,"Intro Mgmt Info Systems",FL,"Business Administration",2672,"Information/Decision Sciences",5,14,9,3,1,0,0,0,0,0,0,0,0,0,0,2,"Potter, Richard E",,,34
+220105,IDS,"Information &Decision Sciences",270,"Business Statistics I",FL,"Business Administration",2672,"Information/Decision Sciences",5,9,5,1,1,0,0,0,0,0,0,0,0,0,0,0,"Sparks, John",,,21
+220105,IDS,"Information &Decision Sciences",270,"Business Statistics I",FL,"Business Administration",2672,"Information/Decision Sciences",16,4,2,0,0,0,0,0,1,0,0,0,0,0,0,0,"Velebit, Milan",,,23
+220105,IDS,"Information &Decision Sciences",355,"Operations Management",FL,"Business Administration",2672,"Information/Decision Sciences",11,23,15,4,0,0,0,0,1,0,0,0,0,0,0,2,"Ouksel, Aris M",,,56
+220105,IDS,"Information &Decision Sciences",371,"Business Statistics II",FL,"Business Administration",2672,"Information/Decision Sciences",4,11,16,6,2,0,0,0,0,0,0,0,0,0,0,4,"Velebit, Milan",,,43
+220105,IDS,"Information &Decision Sciences",371,"Business Statistics II",FL,"Business Administration",2672,"Information/Decision Sciences",14,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Westland, James Christopher",,,21
+220105,IDS,"Information &Decision Sciences",532,"Intro to Operations Mgmt",FL,"Business Administration",2672,"Information/Decision Sciences",14,24,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"Ho, James Kar-Yew",,,41
+220105,IE,"Industrial Engineering",201,"Financial Engineering",FQ,Engineering,2323,"Mechanical & Industrial Engr",14,4,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"Darabi, Houshang",,,21
+220105,IE,"Industrial Engineering",342,"Probability & Stat for Engr",FQ,Engineering,2323,"Mechanical & Industrial Engr",5,6,7,7,2,0,0,0,0,0,0,0,0,0,0,1,"Goodman, Elodie Mathilde",,,28
+220105,IPHS,"Interdisc Public Hlth Sciences",594,"Mthds-Health Disparities Rsrch",FY,"School of Public Health",2592,"School of Public Health",10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Barrett, Richard E","Campbell, Richard T","Kim, Sage Jeehae",12
+220105,IPHS,"Interdisc Public Hlth Sciences",650,"Field Experience In PH",FY,"School of Public Health",2592,"School of Public Health",0,0,0,0,0,0,0,15,0,0,0,0,0,6,0,0,"Turnock, Bernard J",,,21
+220105,KN,Kinesiology,331,"Sport & Exercise Injury Mgmt",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",5,17,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Hamstra-Wright, Karrie Lynn",,,24
+220105,KN,Kinesiology,335,"Exercise Psychology",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,"Coumbe'Lilley, John Edward",,,19
+220105,KN,Kinesiology,352,"Physiology of Exercise",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",7,11,10,2,1,0,0,0,0,0,0,0,0,0,0,1,"Salacinski, Amanda",,,32
+220105,KN,Kinesiology,393,"Undergraduate Internship",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Coumbe'Lilley, John Edward",,,13
+220105,KN,Kinesiology,452,"Adv Exercise Physiology",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",0,2,10,4,3,0,0,0,0,0,0,0,0,0,0,0,"Dugas, Jonathan P.",,,19
+220105,LAS,"Liberal Arts and Sciences",299,"LAS Study Abroad",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,85,0,0,0,0,1,"Ellis, Shannon Leigh",,,86
+220105,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,16,4,2,"Kafka, Calvin C",,,22
+220105,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",6,4,13,4,4,0,0,0,0,0,0,0,0,0,0,1,"Kafka, Calvin C",,,32
+220105,MATH,Mathematics,160,"Finite Math for Business",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",6,4,5,0,0,0,0,0,0,0,0,0,0,0,0,2,"Doyle, Timothy Michael",,,17
+220105,MATH,Mathematics,160,"Finite Math for Business",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",10,4,4,2,4,0,0,0,0,0,0,0,0,0,0,2,"Lowman, Roy Marsh",,,26
+220105,MATH,Mathematics,165,"Calculus for Business",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",5,4,6,3,2,0,0,0,0,0,0,0,0,0,0,1,"Cabrera, David S",,,21
+220105,MATH,Mathematics,180,"Calculus I",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",17,11,16,7,10,0,0,0,0,0,10,0,0,0,0,8,"Slodkowski, Zbigniew",,,79
+220105,MATH,Mathematics,181,"Calculus II",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",15,24,17,4,7,0,0,0,0,0,0,0,0,0,0,6,"Thulin, Frederick A",,,73
+220105,MATH,Mathematics,210,"Calculus III",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",15,24,10,6,7,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,65
+220105,MATH,Mathematics,215,"Intro to Advanced Math",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",5,1,6,0,0,0,0,0,1,0,0,0,0,0,0,3,"Klaff, Benjamin G",,,16
+220105,MATH,Mathematics,220,"Differential Equations I",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",19,16,7,6,5,0,0,0,0,0,0,0,0,0,0,3,"Kobotis, Evangelos",,,56
+220105,MATH,Mathematics,310,"Applied Linear Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",8,10,14,3,2,0,0,0,0,0,0,0,0,0,0,1,"Cohen, Elizabeth Bruce",,,38
+220105,MATH,Mathematics,310,"Applied Linear Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",17,6,7,3,2,0,0,0,0,0,0,0,0,0,0,3,"Kobotis, Evangelos",,,38
+220105,MATH,Mathematics,417,"Complex Analysis",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",18,10,7,2,1,0,0,0,0,0,0,0,0,0,0,2,"Cabrera, David S",,,40
+220105,MBA,"Master of Business Admin",590,"Business Communication",FL,"Business Administration",2785,"Business Administration Admini",1,1,0,0,0,0,0,0,0,0,34,0,0,0,0,0,"Wang, Jie",,,36
+220105,MBA,"Master of Business Admin",590,"Business Communications",FL,"Business Administration",2785,"Business Administration Admini",25,3,0,0,0,0,0,0,0,0,50,0,0,0,0,0,"Wang, Jie",,,78
+220105,MBA,"Master of Business Admin",591,"Doing Business in Brazil",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,"Birkland, Dawn Marie",,,16
+220105,MBA,"Master of Business Admin",594,Logistics,FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,"Sze, Andy",,,51
+220105,MBA,"Master of Business Admin",594,"Sp Topics: Global Leadership",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,"Barlow, Christopher",,,34
+220105,MBA,"Master of Business Admin",594,"Stats for Financial Markets",FL,"Business Administration",2785,"Business Administration Admini",33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sclove, Stanley L",,,33
+220105,ME,"Mechanical Engineering",205,"Intro to Thermodynamics",FQ,Engineering,2323,"Mechanical & Industrial Engr",17,11,4,1,0,0,0,0,0,0,0,0,0,0,0,2,"Manafzadeh, Saeed",,,35
+220105,ME,"Mechanical Engineering",210,"Engineering Dynamics",FQ,Engineering,2323,"Mechanical & Industrial Engr",12,5,1,1,0,0,0,0,0,0,0,0,0,0,0,2,"Manafzadeh, Saeed",,,21
+220105,ME,"Mechanical Engineering",428,"Numerical Methods in ME",FQ,Engineering,2323,"Mechanical & Industrial Engr",14,8,14,1,0,0,0,0,0,0,0,0,0,0,0,1,"Minkowycz, W J",,,38
+220105,MGMT,Management,340,"Intro to Organizations",FL,"Business Administration",2846,"Managerial Studies",15,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,25
+220105,MGMT,Management,350,"External Environment of Bus",FL,"Business Administration",2846,"Managerial Studies",3,15,15,3,1,0,0,0,1,0,0,0,0,0,0,1,"Pagano, Anthony M",,,39
+220105,MGMT,Management,445,"Organizational Theory",FL,"Business Administration",2846,"Managerial Studies",9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,14
+220105,MGMT,Management,452,"Organizational Behavior",FL,"Business Administration",2846,"Managerial Studies",11,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,17
+220105,MGMT,Management,453,"Human Resource Management",FL,"Business Administration",2846,"Managerial Studies",11,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,18
+220105,MGMT,Management,463,"Negotiation &Conflict Resolutn",FL,"Business Administration",2846,"Managerial Studies",29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Barnum, Darold",,,29
+220105,MGMT,Management,495,"Competitive Strategy",FL,"Business Administration",2846,"Managerial Studies",11,11,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,26
+220105,MGMT,Management,495,"Competitive Strategy",FL,"Business Administration",2846,"Managerial Studies",12,16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Miller, Michael T.",,,30
+220105,MGMT,Management,541,"Organizational Behavior",FL,"Business Administration",2846,"Managerial Studies",15,34,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hoobler, Jennifer Marie",,,50
+220105,MGMT,Management,541,"Organizational Behavior",FL,"Business Administration",2846,"Managerial Studies",19,13,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Chaudhry, Anjali",,,35
+220105,MGMT,Management,541,"Organizational Behavior",FL,"Business Administration",2846,"Managerial Studies",21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Albrecht, Maryann",,,23
+220105,MGMT,Management,564,Negotiations,FL,"Business Administration",2846,"Managerial Studies",8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Miller, Michael T.",,,15
+220105,MGMT,Management,590,"Strategic Management",FL,"Business Administration",2846,"Managerial Studies",20,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Shanley, Mark",,,43
+220105,MGMT,Management,590,"Strategic Management",FL,"Business Administration",2846,"Managerial Studies",34,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Barlow, Christopher",,,35
+220105,MGMT,Management,594,Ethics,FL,"Business Administration",2846,"Managerial Studies",23,21,7,0,0,0,0,0,0,0,0,0,0,0,0,0,"McWilliams, Abagail",,,51
+220105,MGMT,Management,594,"Global Innov &Entrepreneurship",FL,"Business Administration",2846,"Managerial Studies",41,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Barlow, Christopher",,,45
+220105,MGMT,Management,594,"Strategic Communications",FL,"Business Administration",2846,"Managerial Studies",22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Gab Kneeland, Joyce V","Holmer Lewis, Shari R",,44
+220105,MHPE,"Medical Education",441,"Clinical Decision Making",FZ,"Coll Medicine at Chicago - BS",2857,"Medical Education",0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,"Schwartz, Alan J",,,14
+220105,MHPE,"Medical Education",503,"Curriculum & Evaluation",FZ,"Coll Medicine at Chicago - BS",2857,"Medical Education",0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,"Instructor, Missing",,,18
+220105,MHPE,"Medical Education",598,"Thesis Research",FZ,"Coll Medicine at Chicago - BS",2857,"Medical Education",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Instructor, Missing",,,15
+220105,MKTG,Marketing,360,"Introduction to Marketing",FL,"Business Administration",2846,"Managerial Studies",0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,"Grad Asst",,,24
+220105,MKTG,Marketing,465,"Strategic Marketing",FL,"Business Administration",2846,"Managerial Studies",22,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Koehler, David",,,25
+220105,MKTG,Marketing,474,"Advertising & Sales Promotion",FL,"Business Administration",2846,"Managerial Studies",12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Koehler, David",,,13
+220105,MKTG,Marketing,500,"Introduction to Marketing",FL,"Business Administration",2846,"Managerial Studies",8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,12
+220105,MKTG,Marketing,500,"Introduction to Marketing",FL,"Business Administration",2846,"Managerial Studies",15,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cherian, Joseph",,,33
+220105,MKTG,Marketing,572,"International Marketing",FL,"Business Administration",2846,"Managerial Studies",0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,"Spanjol, Jelena",,,44
+220105,MTHT,"Mathematics Teaching",468,"Geom w/Appl for Mid Grade Tchr",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",11,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Anderson, Mary P.",,,16
+220105,MTHT,"Mathematics Teaching",491,"Tpcsin Tchng Elem/JHSMath:HIST",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jordan, Steven L",,,15
+220105,MTHT,"Mathematics Teaching",565,"Tchng Geom: Activity Approach",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",14,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Miltner, Daniel S",,,22
+220105,MUS,Music,100,"Introduction To Music I",FR,"Architecture,Design,& the Arts",2947,"Theatre and Music",0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,"Betts, Katherine A.",,,30
+220105,MUS,Music,100,"Introduction To Music I",FR,"Architecture,Design,& the Arts",2947,"Theatre and Music",16,10,2,1,0,0,0,0,0,0,0,0,0,0,0,1,"Lewis, Andrew",,,30
+220105,MUS,Music,107,"Fundamentals Of Music Theory",FR,"Architecture,Design,& the Arts",2947,"Theatre and Music",16,7,4,0,0,0,0,0,0,0,1,0,0,0,0,2,"Huang, Hai Tao",,,30
+220105,MUS,Music,107,"Fundamentals Of Music Theory",FR,"Architecture,Design,& the Arts",2947,"Theatre and Music",17,4,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Collerd, Gene J",,,24
+220105,MUS,Music,114,"Jazz History",FR,"Architecture,Design,& the Arts",2947,"Theatre and Music",17,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mitchell, Nicole",,,20
+220105,MUS,Music,127,"Latin American Music",FR,"Architecture,Design,& the Arts",2947,"Theatre and Music",15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rodriguez-Barilari, Elbio",,,15
+220105,NUMC,"ZZZ Maternal-Child Nursing",513,"Practicum: Peds Prim Care II",FW,Nursing,2842,"Human Development Nursing Sci",12,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,"Mead, Linnea J",,,15
+220105,NUMC,"ZZZ Maternal-Child Nursing",525,"Practicum: Hlth Care of Wmn",FW,Nursing,2842,"Human Development Nursing Sci",28,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,"Klima, Carrie",,,33
+220105,NUMC,"ZZZ Maternal-Child Nursing",528,"Practicum: Birth & Newborn",FW,Nursing,2842,"Human Development Nursing Sci",12,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,"Camune, Barbara",,,18
+220105,NUMS,"ZZZ Medical-Surgical Nursing",522,"NP Pract I:Mgmt Hlth/Ill Adult",FW,Nursing,2462,"Biobehavioral Nursing Science",5,0,0,0,0,0,0,0,16,0,1,0,0,0,0,0,"Corbridge, Susan J","Matthiesen, Valerie","Padwojski, Anne M.",22
+220105,NUPH,"ZZZ Public Health Nursing",541,"Clin Practice Primary Care II",FW,Nursing,2662,"Pop Health Nursing Science",15,13,0,0,0,0,0,0,4,0,0,0,0,0,0,0,"Sefton, Marlene Gail Smith","Sparbel, Kathleen J","Coon, Anita Jajowka",32
+220105,NUSC,"ZZZ Nursing Sciences",250,"Human Devlopment Life Span",FW,Nursing,2591,"Nursing Administration",4,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,"Breitmayer, Bonnie J",,,14
+220105,NUSC,"ZZZ Nursing Sciences",310,"Explrng Comp/Altv Prac",FW,Nursing,2591,"Nursing Administration",6,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Schumacher, Ruth E",,,17
+220105,NUSC,"ZZZ Nursing Sciences",316,"Nursing Informatics",FW,Nursing,2591,"Nursing Administration",11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,14
+220105,NUSC,"ZZZ Nursing Sciences",322,"Intro to Nsg Rsrch/Statistics",FW,Nursing,2591,"Nursing Administration",11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Vincent, Catherine",,,13
+220105,NUSC,"ZZZ Nursing Sciences",385,"Clin Concpt Populatn-Focus Nsg",FW,Nursing,2591,"Nursing Administration",13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tredway, Catherine A",,,15
+220105,NUSC,"ZZZ Nursing Sciences",390,"Nsg Leadershp&Mgmt in Hlthcare",FW,Nursing,2591,"Nursing Administration",16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tredway, Catherine A",,,18
+220105,NUSC,"ZZZ Nursing Sciences",397,"Issues In Nsg Practice",FW,Nursing,2591,"Nursing Administration",21,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,"Andreoni, Vicki A",,,23
+220105,NUSC,"ZZZ Nursing Sciences",422,"IHC Community",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,1,"Cassey, Margaret Z.",,,56
+220105,NUSC,"ZZZ Nursing Sciences",424,"IHC:  Adult/Older Adult",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,1,"Simmons, Barbara",,,56
+220105,NUSC,"ZZZ Nursing Sciences",425,"IHC:  Clinical Practice II",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,1,"Simmons, Barbara",,,56
+220105,NUSC,"ZZZ Nursing Sciences",525,"Intermediate Statistics",FW,Nursing,2591,"Nursing Administration",10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hacker, Eileen",,,15
+220105,NUSC,"ZZZ Nursing Sciences",525,"Intermediate Statistics",FW,Nursing,2591,"Nursing Administration",14,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hill, Pamela D",,,18
+220105,NUSC,"ZZZ Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Matthews, Alicia K",,,15
+220105,NUSC,"ZZZ Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,"Giurgescu, Carmen",,,18
+220105,NUSC,"ZZZ Nursing Sciences",528,"Hlth, Environment & Systems",FW,Nursing,2591,"Nursing Administration",82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Dworak, Donna V",,,83
+220105,NUSC,"ZZZ Nursing Sciences",529,"Issues of Adv Pract in Nsg",FW,Nursing,2591,"Nursing Administration",54,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hill, Pamela D",,,55
+220105,OMDS,"Oral Medicine & Diagnostic Sci",617,"Radiology for Dent Speclist",FN,Dentistry,2319,"Oral Medicine and Diag Sci",26,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Monahan, Richard","Slawinski-L, Sophia",,27
+220105,ORTD,Orthodontics,595,"Seminar in Orthodontics",FN,Dentistry,2978,Orthodontics,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,"Evans, Carlotta A.",,,20
+220105,ORTD,Orthodontics,620,"Orthodontic Clinic II",FN,Dentistry,2978,Orthodontics,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kusnoto, Budi","Evans, Carlotta A.",,10
+220105,OSUR,"Oral and Maxillofacial Surgery",320,"Pain Control I: Local Anesthes",FN,Dentistry,2757,"Oral and Maxillofacial Surgery",62,29,7,0,0,0,0,0,0,0,0,0,0,0,0,0,"Quilitz, Theodore L",,,98
+220105,OSUR,"Oral and Maxillofacial Surgery",332,"Basic Oral & Maxillofac Surg",FN,Dentistry,2757,"Oral and Maxillofacial Surgery",10,41,33,9,0,0,0,0,1,0,0,0,0,0,0,0,"Miloro, Michael",,,94
+220105,OSUR,"Oral and Maxillofacial Surgery",333,"Pain Control II",FN,Dentistry,2757,"Oral and Maxillofacial Surgery",49,34,9,0,0,0,0,0,1,0,0,0,0,0,0,0,"Flick, William G",,,93
+220105,OSUR,"Oral and Maxillofacial Surgery",513,"Craniofacial Deformity Sem",FN,Dentistry,2757,"Oral and Maxillofacial Surgery",0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Miloro, Michael",,,11
+220105,OT,"Occupational Therapy",424,"Contexts of OT Practice",GF,"Applied Health Sciences",2725,"Occupational Therapy",32,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fisher, Gail S",,,38
+220105,OT,"Occupational Therapy",428,"Fieldwork Level I",GF,"Applied Health Sciences",2725,"Occupational Therapy",19,3,0,0,0,0,0,0,16,0,0,0,0,0,0,0,"Preissner, Kathy Leigh",,,38
+220105,OT,"Occupational Therapy",449,"Fieldwork Level IIB",GF,"Applied Health Sciences",2725,"Occupational Therapy",0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,"Preissner, Kathy Leigh",,,13
+220105,OT,"Occupational Therapy",526,"Assistive Technology&Environ",GF,"Applied Health Sciences",2725,"Occupational Therapy",38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,38
+220105,OT,"Occupational Therapy",555,"Synthesis III",GF,"Applied Health Sciences",2725,"Occupational Therapy",0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,"Peterson, Elizabeth Walker","Sen, Supriya",,30
+220105,PA,"Public Administration",410,"Economics for Public Admin",GP,"Urban Planning &Public Affairs",2694,"Public Administration",7,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Snyder, Thomas",,,24
+220105,PA,"Public Administration",415,"Org Theory & Mgmt",GP,"Urban Planning &Public Affairs",2694,"Public Administration",18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Perry, John F",,,21
+220105,PA,"Public Administration",462,"Project Management",GP,"Urban Planning &Public Affairs",2694,"Public Administration",0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,"Gawel, Jeffrey",,,27
+220105,PA,"Public Administration",494,"Special Topics: Policy Topics",GP,"Urban Planning &Public Affairs",2694,"Public Administration",0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,"Luby, Martin J",,,27
+220105,PA,"Public Administration",502,"Legal Context of Public Admin",GP,"Urban Planning &Public Affairs",2694,"Public Administration",0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,"Selbka, Joseph Phillip",,,27
+220105,PA,"Public Administration",503,"Public Personnel Mgmt",GP,"Urban Planning &Public Affairs",2694,"Public Administration",0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,"Laporte, Margaret",,,27
+220105,PA,"Public Administration",504,"Budgeting for Public Admin",GP,"Urban Planning &Public Affairs",2694,"Public Administration",0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,"Abolt, William Francis",,,17
+220105,PA,"Public Administration",506,"Policy Dev, Analysis for PA",GP,"Urban Planning &Public Affairs",2694,"Public Administration",7,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bliss, Daniel Estabrook",,,15
+220105,PA,"Public Administration",521,"Strategic Mgmt:Plng & Msrment",GP,"Urban Planning &Public Affairs",2694,"Public Administration",0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,"Hendrick, Rebecca M",,,27
+220105,PA,"Public Administration",529,"Change & Reform in Public Orgs",GP,"Urban Planning &Public Affairs",2694,"Public Administration",0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,"Thompson, James R",,,27
+220105,PA,"Public Administration",590,"Public Admin Capstone",GP,"Urban Planning &Public Affairs",2694,"Public Administration",0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,"Hendrick, Rebecca M",,,27
+220105,PATH,Pathology,422,"Systemic Pathology - Dental",GA,"Coll Medicine at Chicago - CS",2219,Pathology,64,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Gordon, Sara C","Schwartz, Joel L",,68
+220105,PEDD,"Pediatric Dentistry",334,"Intro to Pediatric Dent",FN,Dentistry,2628,"Pediatric Dentistry",78,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Salzmann, Larry",,,101
+220105,PEDD,"Pediatric Dentistry",335,"Honors Pediatric Dentistry",FN,Dentistry,2628,"Pediatric Dentistry",0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,"Salzmann, Larry",,,13
+220105,PEDD,"Pediatric Dentistry",595,"Pediatric Dent Seminar",FN,Dentistry,2628,"Pediatric Dentistry",0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,"Seidman, Irwin M","Vergotine, Rodney Joseph",,12
+220105,PELE,"Clerkship Electives-Peoria",606,"Survey of Medical Informatics",GC,"College of Medicine at Peoria",2554,"Internal Medicine",0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,"Instructor, Missing",,,16
+220105,PELE,"Clerkship Electives-Peoria",614,"Summer Camp-Kids w/Diabetes",GC,"College of Medicine at Peoria",2821,Pediatrics,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,"Instructor, Missing",,,10
+220105,PERI,Periodontics,351,"Periodontics Clinic I",FN,Dentistry,2735,Periodontics,58,26,6,0,0,0,0,0,3,0,1,0,0,0,0,0,"Crawford, John Miles","Nakib, Nuha M","Ashrafi, Seema Shahid",94
+220105,PERI,Periodontics,361,"Periodontics Clinic IV",FN,Dentistry,2735,Periodontics,45,16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Crawford, John Miles","Nakib, Nuha M","Ashrafi, Seema Shahid",63
+220105,PHAR,Pharmacy,357,"Experiential V - IPPE",FX,Pharmacy,2712,Pharmacy,124,22,1,1,0,0,0,0,14,0,1,0,0,0,0,0,"Goliak, Kristen L","Cannon, Bradley C","Dietrich, Jennifer R",163
+220105,PHIL,Philosophy,100,"Intro to Philosophy",FT,"Liberal Arts & Sciences",2637,Philosophy,17,10,7,2,2,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,42
+220105,PHIL,Philosophy,102,"Introductory Logic",FT,"Liberal Arts & Sciences",2637,Philosophy,30,27,18,3,6,0,0,0,0,0,0,0,0,0,0,8,"Grad Asst",,,92
+220105,PHIL,Philosophy,103,"Introduction to Ethics",FT,"Liberal Arts & Sciences",2637,Philosophy,4,7,4,0,0,0,0,0,1,0,0,0,0,0,0,0,"Grad Asst",,,16
+220105,PHIL,Philosophy,110,"Phil of Love and Sex",FT,"Liberal Arts & Sciences",2637,Philosophy,4,10,7,1,3,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,25
+220105,PHIL,Philosophy,115,Death,FT,"Liberal Arts & Sciences",2637,Philosophy,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,2,"Grad Asst",,,21
+220105,PHYS,Physics,105,"Intro Physics I - Lect",FT,"Liberal Arts & Sciences",2354,Physics,20,25,16,13,6,0,0,0,3,0,0,0,0,0,0,9,"Tillotson, Wilson Andrew",,,92
+220105,PHYS,Physics,106,"Intro Physics I - Lab",FT,"Liberal Arts & Sciences",2354,Physics,45,21,6,0,3,0,0,0,1,0,0,0,0,0,0,9,"Grad Asst",,,85
+220105,PHYS,Physics,107,"Intro Physics II - Lecture",FT,"Liberal Arts & Sciences",2354,Physics,11,14,21,13,4,0,0,0,0,0,0,0,0,0,0,3,"Barkan, Adrian",,,66
+220105,PHYS,Physics,108,"Intro Physics II-Lab",FT,"Liberal Arts & Sciences",2354,Physics,32,23,4,0,1,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,64
+220105,PHYS,Physics,141,"General Physics I",FT,"Liberal Arts & Sciences",2354,Physics,10,12,12,3,2,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst","Majumdar, Rabi",,43
+220105,PHYS,Physics,142,"General Physics II",FT,"Liberal Arts & Sciences",2354,Physics,12,22,23,1,0,0,0,0,0,0,0,0,0,0,0,6,"Grad Asst","Gupta, Bikash Chandra",,64
+220105,PHYS,Physics,244,"General Physics III",FT,"Liberal Arts & Sciences",2354,Physics,9,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","Patel, Shriprakash",,19
+220105,PMPR,"Pharmacy Practice",390,"Spec Project in Pharm Pract",FX,Pharmacy,2967,"Pharmacy Practice",46,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,"Agard, Debra L",,,51
+220105,POL,Polish,115,"Intro to Polish Culture",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kurczaba, Alex Simon",,,15
+220105,POL,Polish,150,"Intro to Polish Cinema",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Gasienica-Byrcyn, Anna",,,10
+220105,POLS,"Political Science",101,"Intro to American Government",FT,"Liberal Arts & Sciences",2734,"Political Science",7,7,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"McKenzie, Evan C",,,17
+220105,POLS,"Political Science",101,"Intro to American Government",FT,"Liberal Arts & Sciences",2734,"Political Science",9,5,2,0,2,0,0,0,0,0,0,0,0,0,0,0,"Bruhl, Robert H",,,18
+220105,POLS,"Political Science",120,"Intro to Political Theory",FT,"Liberal Arts & Sciences",2734,"Political Science",4,8,1,0,0,0,0,0,0,0,0,0,0,0,0,2,"Engelmann, Stephen G",,,15
+220105,POLS,"Political Science",130,"Intro to Comparative Politics",FT,"Liberal Arts & Sciences",2734,"Political Science",10,4,4,1,2,0,0,0,0,0,0,0,0,0,0,0,"Pallares, Amalia V",,,21
+220105,POLS,"Political Science",184,"Intro International Relations",FT,"Liberal Arts & Sciences",2734,"Political Science",15,8,1,1,3,0,0,0,0,0,0,0,0,0,0,0,"Valeriano, Brandon",,,28
+220105,POLS,"Political Science",200,"Methods of Political Science",FT,"Liberal Arts & Sciences",2734,"Political Science",21,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Zhang, Yue",,,26
+220105,POLS,"Political Science",353,"Constitutional Law",FT,"Liberal Arts & Sciences",2734,"Political Science",14,5,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"Lyles, Kevin L",,,22
+220105,PRCL,"Preclinical Medicine",679,"Medical Scholars Program",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,"Instructor, Missing",,,21
+220105,PROS,Prosthodontics,621,"Maxillofacial Prosthetics",FN,Dentistry,2800,"Restorative Dentistry",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,"Knoernschild, Kent L",,,11
+220105,PSCH,Psychology,100,"Introductory Psychology",FT,"Liberal Arts & Sciences",2885,Psychology,30,9,2,0,4,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,46
+220105,PSCH,Psychology,210,"Theories of Personality",FT,"Liberal Arts & Sciences",2885,Psychology,9,19,17,12,11,0,0,0,0,0,1,0,0,0,0,0,"Grad Asst","Grad Asst","Grad Asst",69
+220105,PSCH,Psychology,231,"Community Psychology",FT,"Liberal Arts & Sciences",2885,Psychology,10,9,5,5,3,0,0,1,0,0,0,0,0,0,0,0,"Reyes, Karina","Grad Asst","Grad Asst",33
+220105,PSCH,Psychology,231,"Community Psychology",FT,"Liberal Arts & Sciences",2885,Psychology,10,17,8,1,0,0,0,0,0,0,0,0,0,0,0,1,"Trickett, Edison J.","Grad Asst","Grad Asst",37
+220105,PSCH,Psychology,242,"Intro to Research in Psch",FT,"Liberal Arts & Sciences",2885,Psychology,19,28,15,6,7,0,0,0,1,0,0,0,0,0,0,3,"Grad Asst",,,79
+220105,PSCH,Psychology,270,"Abnormal Psychology",FT,"Liberal Arts & Sciences",2885,Psychology,11,25,22,3,4,0,0,0,0,0,0,0,0,0,0,5,"Noll, Katherine","Grad Asst","Grad Asst",70
+220105,PSCH,Psychology,303,"Writing in Psychology",FT,"Liberal Arts & Sciences",2885,Psychology,16,14,4,1,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,38
+220105,PSCH,Psychology,312,"Social Psychology",FT,"Liberal Arts & Sciences",2885,Psychology,13,11,3,1,0,0,0,0,1,0,0,0,0,0,0,0,"Harmon, Victoria","Grad Asst",,29
+220105,PSCH,Psychology,312,"Social Psychology",FT,"Liberal Arts & Sciences",2885,Psychology,23,17,5,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sargis, Edward George","Grad Asst","Grad Asst",45
+220105,PSCH,Psychology,315,"Psch of Women & Gender",FT,"Liberal Arts & Sciences",2885,Psychology,13,19,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Reyes, Karina","Grad Asst","Grad Asst",35
+220105,PSCH,Psychology,320,"Developmental Psychology",FT,"Liberal Arts & Sciences",2885,Psychology,11,23,7,2,2,0,0,0,0,0,0,0,0,0,0,2,"Noll, Gary A","Grad Asst","Grad Asst",47
+220105,PSCH,Psychology,340,"Psychological Testing",FT,"Liberal Arts & Sciences",2885,Psychology,12,5,5,0,2,0,0,0,1,0,0,0,0,0,0,1,"Grad Asst","Grad Asst",,26
+220105,PSCH,Psychology,343,"Stat Methods in Behav Sci",FT,"Liberal Arts & Sciences",2885,Psychology,38,31,9,9,3,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,94
+220105,PSCH,Psychology,352,"Cognition and Memory",FT,"Liberal Arts & Sciences",2885,Psychology,15,10,16,0,1,0,0,0,0,0,0,0,0,0,0,1,"Storm, Benjamin Casey","Grad Asst","Grad Asst",43
+220105,PSCH,Psychology,381,"Psch of Interviewing",FT,"Liberal Arts & Sciences",2885,Psychology,16,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Engel, Kathryn L","Grad Asst","Grad Asst",26
+220105,PSCH,Psychology,584,"Pract: Clinical Trainees",FT,"Liberal Arts & Sciences",2885,Psychology,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,"Ruderman, Audrey J",,,13
+220105,PSL,"Patient Safety Leadership",403,"Communication & Collaboration",FV,"Coll of Med Office of the Dean",2718,Administration,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,2,"Tekian, Ara S",,,13
+220105,PSL,"Patient Safety Leadership",404,"Org Leadership Health",FV,"Coll of Med Office of the Dean",2718,Administration,9,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"Gunderson, Anne J",,,11
+220105,PT,"Physical Therapy",624,"Therapeutic Applications",GF,"Applied Health Sciences",2827,"Physical Therapy",46,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"McCoy, Jeanne O",,,54
+220105,PT,"Physical Therapy",635,"Cardiopulmunary Dysfunction",GF,"Applied Health Sciences",2827,"Physical Therapy",25,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Phillips, Shane",,,54
+220105,PT,"Physical Therapy",640,"Clinical Internship I",GF,"Applied Health Sciences",2827,"Physical Therapy",0,0,0,0,0,0,0,39,0,0,0,0,0,15,0,0,"McCoy, Jeanne O","Bulanda, Michelle M",,54
+220105,PT,"Physical Therapy",641,"Clinical Internship II",GF,"Applied Health Sciences",2827,"Physical Therapy",0,0,0,0,0,0,0,0,2,0,0,0,0,29,2,0,"McCoy, Jeanne O","Bulanda, Michelle M",,33
+220105,RELE,"Clerkship Electives-Rockford",600,"Elective Clerkship",GE,"College of Medicine Rockford",2445,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,"Instructor, Missing",,,36
+220105,RELE,"Clerkship Electives-Rockford",616,Radiology,GE,"College of Medicine Rockford",2532,"Med & Medical Specialties",0,0,0,0,0,0,0,0,0,0,5,4,1,0,0,0,"Thomas, Dorian E","Grad Asst","Blevins, Terri Bell",10
+220105,REST,"Restorative Dentistry",351,"Restorative Clinic I",FN,Dentistry,2800,"Restorative Dentistry",30,56,2,0,0,0,0,0,5,0,0,0,0,0,0,0,"Vankanegan, Kevin E","Jurgens-Toepke, Pamela",,93
+220105,REST,"Restorative Dentistry",361,"Restorative Clinic IV",FN,Dentistry,2800,"Restorative Dentistry",44,17,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Vankanegan, Kevin E","Jurgens-Toepke, Pamela",,63
+220105,SOC,Sociology,100,"Introduction to Sociology",FT,"Liberal Arts & Sciences",2772,Sociology,5,11,7,5,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst","Grad Asst",,31
+220105,SOC,Sociology,105,"Social Problems",FT,"Liberal Arts & Sciences",2772,Sociology,26,5,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","Grad Asst",,35
+220105,SOC,Sociology,201,"Intro Sociological Statistics",FT,"Liberal Arts & Sciences",2772,Sociology,8,7,11,1,1,0,0,0,0,0,1,0,0,0,0,2,"Grad Asst","Grad Asst",,31
+220105,SOC,Sociology,212,"Human Sexuality",FT,"Liberal Arts & Sciences",2772,Sociology,21,10,2,0,1,0,0,0,1,0,0,0,0,0,0,1,"Grad Asst","Grad Asst",,36
+220105,SOC,Sociology,224,"Gender & Society",FT,"Liberal Arts & Sciences",2772,Sociology,12,14,6,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","Grad Asst",,33
+220105,SOC,Sociology,225,"Racial and Ethnic Groups",FT,"Liberal Arts & Sciences",2772,Sociology,4,13,4,1,0,0,0,0,0,0,0,0,0,0,0,0,"Schaffner, Laurie","Grad Asst",,22
+220105,SOC,Sociology,225,"Racial and Ethnic Groups",FT,"Liberal Arts & Sciences",2772,Sociology,6,9,5,2,3,0,0,0,0,0,1,0,0,0,0,0,"Collins, Sharon M","Grad Asst",,26
+220105,SOC,Sociology,300,"Sociological Research Methods",FT,"Liberal Arts & Sciences",2772,Sociology,2,12,7,1,2,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst","Grad Asst",,27
+220105,SOCW,"Social Work",523,"Drug& Alcohol Social Work",GL,"Social Work",2630,"Jane Addams Social Work",6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kutzen, Stephanie L","Stanfield, Veronica Ann",,13
+220105,SOCW,"Social Work",571,"Field Instruction II",GL,"Social Work",2630,"Jane Addams Social Work",0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,"Coats, Barbara C","McKay-Jackson, Cassandra L.","Stanfield, Veronica Ann",24
+220105,SPAN,Spanish,101,"Elementary Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",32,31,14,6,3,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,90
+220105,SPAN,Spanish,102,"Elementary Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",15,33,17,4,3,0,0,0,0,0,0,0,0,0,0,5,"Grad Asst",,,77
+220105,SPAN,Spanish,103,"Elementary Spanish III",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",27,47,27,2,4,0,0,0,0,0,0,0,0,0,0,9,"Grad Asst",,,116
+220105,SPAN,Spanish,104,"Topics: Span Language &Culture",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",45,45,17,5,2,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,118
+220105,SPAN,Spanish,114,"Spanish Bilingual II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,11
+220105,SPAN,Spanish,202,"Spanish Grammar in Practice",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",7,11,4,3,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,27
+220105,SPAN,Spanish,203,"Composition Non-Native Speakrs",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,10
+220105,SPAN,Spanish,210,"Introduction to Hispanic Texts",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",4,7,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,14
+220105,SPEC,"Specialty Medicine",626,"Basic Specialties",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,0,0,0,133,0,0,0,0,0,"Instructor, Missing",,,133
+220105,SPED,"Special Education",410,"Surv Char Learner w/Disabil",FP,Education,2588,"Special Education",49,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Black, Kathleen W",,,55
+220105,SPED,"Special Education",465,"Cognitive Devel & Disabilities",FP,Education,2588,"Special Education",12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cushing, Lisa Sharon",,,14
+220105,SPED,"Special Education",467,"Social&Emotional Devel&Disabil",FP,Education,2588,"Special Education",17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Talbott, Elizabeth H",,,19
+220105,SPED,"Special Education",481,"Theory Found Bil/ESL SpEd",FP,Education,2588,"Special Education",11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lopez-Reyna, Norma A","Ozga, Janice L",,11
+220105,SPED,"Special Education",481,"Theory Found Bil/ESL SpEd",FP,Education,2588,"Special Education",13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Montes, Jane A","Lopez-Reyna, Norma A","Ozga, Janice L",13
+220105,SPED,"Special Education",572,"Acad & Prosocial Behavior II",FP,Education,2588,"Special Education",14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Getty, James E",,,14
+220105,SPED,"Special Education",573,"Special Ed Research",FP,Education,2588,"Special Education",25,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Donahue, Mavis Louise",,,30
+220105,SPED,"Special Education",576,"Internship in Assessment",FP,Education,2588,"Special Education",7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collado, Cindy Lynn",,,10
+220105,SPED,"Special Education",576,"Internship in Assessment",FP,Education,2588,"Special Education",8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chase, Linda Warchal",,,10
+220105,SPED,"Special Education",578,"Classroom Based iniquiry",FP,Education,2588,"Special Education",11,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,"Hall, Vinni Maria",,,13
+220105,SPED,"Special Education",582,"Collab w/Family Community",FP,Education,2588,"Special Education",18,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kessler, Michele Lynn",,,20
+220105,STAT,Statistics,101,"Introduction to Statistics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",29,12,5,2,6,0,0,0,0,0,0,0,0,0,0,4,"Bronstein, Albert",,,58
+220105,STAT,Statistics,130,"Intro Stat for Life Sciences",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",6,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Embers, Dale Gene",,,10
+220105,STAT,Statistics,381,"Applied Statistical Methods I",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",5,6,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,14
+220105,STAT,Statistics,401,"Intro to Probability",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",1,6,7,3,2,0,0,0,0,0,0,0,0,0,0,2,"Embers, Dale Gene",,,21
+220105,THTR,Theatre,109,"Intro to Theatre",FR,"Architecture,Design,& the Arts",2947,"Theatre and Music",18,8,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"Juntunen, Jacob",,,29
+220105,UPP,"Urban Planning and Policy",202,"Planning Great Cities",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",5,3,1,0,0,0,0,0,2,0,0,0,0,0,0,1,"Daas, Charles Frederick",,,12
+220105,UPP,"Urban Planning and Policy",420,"Great Cities London&Chicago",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,"Nanetti, Raffaella Yvonne",,,22
+220105,UPP,"Urban Planning and Policy",493,"Analysis with Excel",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,"Dieber, William A",,,12
+220105,UPP,"Urban Planning and Policy",493,"Grant Writing",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",23,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"Jenkins, Noah",,,26
+220105,UPP,"Urban Planning and Policy",493,"Intro to Bike Planning",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,"Gomberg, Benjamin A","Barsotti, Edward Louis",,15
+220105,UPP,"Urban Planning and Policy",500,"Hist &Theory of Urban Planning",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",13,5,4,0,0,0,0,0,1,0,1,0,0,0,0,0,"Betancur, John-Jairo",,,24
+220105,UPP,"Urban Planning and Policy",501,"Urban Space Place & Inst",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",14,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,"Winkle, Curtis Richard",,,18
+220105,UPP,"Urban Planning and Policy",507,"Computer Topics Urban Planning",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",12,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,"Al-Kodmany, Kheir M.",,,14
+220105,UPP,"Urban Planning and Policy",590,"Professional Practice Exp",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",0,0,0,0,0,0,0,0,7,0,0,0,0,13,0,0,"Al-Kodmany, Kheir M.",,,20
