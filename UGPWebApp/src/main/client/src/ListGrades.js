@@ -364,20 +364,20 @@ class ListGrades extends Component {
       datasets: [
         {
           backgroundColor: totalGradesI > 0 ? [
-              'rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 206, 86, 0.2)',
-              'rgba(75, 192, 192, 0.2)', 'rgba(153, 102, 255, 0.2)', 'rgba(255, 159, 64, 0.2)',
+              'rgba(47, 238, 17, 0.2)', 'rgba(33, 182, 168, 0.2)', 'rgba(54, 162, 235, 0.2)',
+              'rgba(255, 206, 86, 0.2)', 'rgba(223, 21, 21, 0.2)', 'rgba(255, 69, 0, 0.2)',
               'rgba(214, 47, 227, 0.2)'
           ] : [
-            'rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 206, 86, 0.2)',
-            'rgba(75, 192, 192, 0.2)', 'rgba(153, 102, 255, 0.2)', 'rgba(255, 159, 64, 0.2)'
+              'rgba(47, 238, 17, 0.2)', 'rgba(33, 182, 168, 0.2)', 'rgba(54, 162, 235, 0.2)',
+              'rgba(255, 206, 86, 0.2)', 'rgba(223, 21, 21, 0.2)', 'rgba(255, 69, 0, 0.2)' 
           ],
           borderColor: totalGradesI > 0 ? [
-              'rgba(255, 99, 132, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 206, 86, 1)',
-              'rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)', 'rgba(255, 159, 64, 1)',
+              'rgba(47, 238, 17, 1)', 'rgba(33, 182, 168, 1)', 'rgba(54, 162, 235, 1)',
+              'rgba(255, 206, 86, 1)', 'rgba(223, 21, 21, 1)', 'rgba(255, 69, 0, 1)',
               'rgba(214, 47, 227, 1)'
           ] : [
-            'rgba(255, 99, 132, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 206, 86, 1)',
-            'rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)', 'rgba(255, 159, 64, 1)'
+              'rgba(47, 238, 17, 1)', 'rgba(33, 182, 168, 1)', 'rgba(54, 162, 235, 1)',
+              'rgba(255, 206, 86, 1)', 'rgba(223, 21, 21, 1)', 'rgba(255, 69, 0, 1)'
           ],
           borderWidth: 2,
           data: totalGradesI > 0 ? [ 
@@ -427,12 +427,12 @@ class ListGrades extends Component {
       datasets: [
         {
           backgroundColor: [
-              'rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 206, 86, 0.2)',
-              'rgba(75, 192, 192, 0.2)', 'rgba(153, 102, 255, 0.2)', 'rgba(255, 159, 64, 0.2)'
+            'rgba(47, 238, 17, 0.2)', 'rgba(33, 182, 168, 0.2)', 'rgba(54, 162, 235, 0.2)',
+            'rgba(255, 206, 86, 0.2)', 'rgba(223, 21, 21, 0.2)', 'rgba(255, 69, 0, 0.2)'  
           ],
           borderColor: [
-              'rgba(255, 99, 132, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 206, 86, 1)',
-              'rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)', 'rgba(255, 159, 64, 1)'
+            'rgba(47, 238, 17, 1)', 'rgba(33, 182, 168, 1)', 'rgba(54, 162, 235, 1)',
+            'rgba(255, 206, 86, 1)', 'rgba(223, 21, 21, 1)', 'rgba(255, 69, 0, 1)'
           ],
           borderWidth: 2,
           data: [
@@ -449,14 +449,14 @@ class ListGrades extends Component {
       datasets: [
         {
           backgroundColor: [
-              'rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 206, 86, 0.2)',
-              'rgba(75, 192, 192, 0.2)', 'rgba(153, 102, 255, 0.2)', 'rgba(255, 159, 64, 0.2)',
-              'rgba(214, 47, 227, 0.2)'
+            'rgba(47, 238, 17, 0.2)', 'rgba(33, 182, 168, 0.2)', 'rgba(54, 162, 235, 0.2)',
+            'rgba(255, 206, 86, 0.2)', 'rgba(223, 21, 21, 0.2)', 'rgba(255, 69, 0, 0.2)',
+            'rgba(214, 47, 227, 0.2)'
           ],
           borderColor: [
-              'rgba(255, 99, 132, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 206, 86, 1)',
-              'rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)', 'rgba(255, 159, 64, 1)',
-              'rgba(214, 47, 227, 1)'
+            'rgba(47, 238, 17, 1)', 'rgba(33, 182, 168, 1)', 'rgba(54, 162, 235, 1)',
+            'rgba(255, 206, 86, 1)', 'rgba(223, 21, 21, 1)', 'rgba(255, 69, 0, 1)',
+            'rgba(214, 47, 227, 1)'
           ],
           borderWidth: 2,
           data: [
@@ -517,7 +517,8 @@ class ListGrades extends Component {
                                           },
                                           scaleLabel: {
                                             display: true,
-                                            labelString: 'Student Count'
+                                            labelString: 'Student Count',
+                                            fontSize:15
                                           }
                                       }]
                                     },
@@ -548,7 +549,8 @@ class ListGrades extends Component {
                                           },
                                           scaleLabel: {
                                             display: true,
-                                            labelString: 'Student Count'
+                                            labelString: 'Student Count',
+                                            fontSize:15
                                           }
                                       }]
                                     },
@@ -579,7 +581,8 @@ class ListGrades extends Component {
                                             },
                                             scaleLabel: {
                                               display: true,
-                                              labelString: 'Student Count'
+                                              labelString: 'Student Count',
+                                              fontSize:15
                                             }
                                         }]
                                       },
@@ -621,7 +624,9 @@ class ListGrades extends Component {
                                             },
                                             scaleLabel: {
                                               display: true,
-                                              labelString: 'Student Percentage'
+                                              labelString: 'Student Percentage',
+                                              fontSize:15
+                                              
                                             }
                                         }]
                                       },
@@ -633,11 +638,12 @@ class ListGrades extends Component {
 
     return (
       <div>
+        <br/>
         <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/>
         {/* makes the drop down menu for the sesmters that the professor has taught in these course */}
-        <select className="mdb-select md-form colorful-select dropdown-primary" 
+        <select class="browser-default custom-select" 
         style={{width: '50%', margin:'auto', display:'block'}} onChange={this.handleDropdownChange}>
-          <option value="N/A">Choose your semester</option>
+          <option value="" disabled selected>Choose your semester</option>
           {/* if the lenght is greater than 0 then it means the professor has taught that semester and will be displayed as an option else it wont be displayed */}
           {spring2020Arr.length > 0 ? <option value="Spring2020">Spring 2020</option> : null}
           {fall2019Arr.length > 0 ? <option value="Fall2019">Fall 2019</option> : null}
@@ -673,11 +679,14 @@ class ListGrades extends Component {
         </select>
 
         {/* calls the termselected function which assigns correct data for the term that the user has chosen */}
+        
         <div>{this.state.selectedbool ? this.termSelected() : null}</div>
-
+        <br/>
         {/* creates the chart for semster grade Distribution depending on if there are any letter grades or not*/}
         {/* nested tarnaray operatoer which first diplays letter graph when N/A and then when semster is chosen it will display the other graphs approtiately */}
+        
         {this.state.intialGraph ? displayInitalGraph : this.state.howManyLetterGrades > 0 ? displayLetterGraph : displayNoLetterGraph}
+        <br/>
         {/* displays the overall graph for that course with that specific professor taught */}
         {displayOverAllGraph}
 
@@ -685,7 +694,7 @@ class ListGrades extends Component {
         <header className="major container medium">
           <h2>{this.props.ProfInfo.name1} Reviews</h2>					
         </header>
-        <br></br>
+        <br/>
         
         {/* <div className="overallRating"> */}
           < CommentProf chosenCourseAndProf={this.props.ProfInfo}/>
