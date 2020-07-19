@@ -67,7 +67,7 @@ class ListProfessor extends Component {
 
     return (
        <div>
-         <div class="row font-work-sans">
+         <div class="row rowForCard font-work-sans">
             {displayProfArr}
           </div>
        </div>
