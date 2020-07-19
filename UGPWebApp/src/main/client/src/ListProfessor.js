@@ -54,26 +54,61 @@ class ListProfessor extends Component {
     // });
 
     // map the array which then returns the course number and course title
+    // const displayProfArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => {
+    //   return <div class="col-md-3 font-work-sans" style={{padding: "0px 0px 20px"}}>
+    //             <div class="textOnImg">
+    //               <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx}>
+    //                 <img src={pic01} alt="pic01"/>
+    //                 <h3 class="centered">{data.name1}</h3>
+    //               </Link>
+    //             </div>
+    //         </div>
+    // });
+
+    // map the array which then returns the course number and course title
+    // const displayProfArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => {
+    //   return <div class="card card-custom mx-2 mb-3">
+    //             <div class="textOnImg">
+    //               <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx}>
+    //                 <img src={pic01} alt="pic01"/>
+    //                 <h3 class="centered">{data.name1}</h3>
+    //               </Link>
+    //             </div>
+    //         </div>
+    // });
+
     const displayProfArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => {
-      return <div class="col-md-3 font-work-sans" style={{padding: "0px 0px 20px"}}>
-                <div class="textOnImg">
-                  <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx}>
-                    <img src={pic01} alt="pic01"/>
-                    <h3 class="centered">{data.name1}</h3>
-                  </Link>
+      return <div class="card" style={{width: "18rem"}}>
+                <div class="card-body">
+                  <div className="textOnImg">
+                    <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx}>
+                      <img src={pic01} alt="pic01"/>
+                      <h3 class="centered">{data.name1}</h3>
+                    </Link>
+                  </div>
                 </div>
             </div>
     });
 
     return (
-       <div>
-         <div class="row rowForCard font-work-sans">
-            {displayProfArr}
-          </div>
-       </div>
-       
+      //  <div>
+      //    <div class="row rowForCard font-work-sans">
+      //       {displayProfArr}
+      //     </div>
+      //  </div>
+      // <div class="container" >
+        <div class="row mt-5 justify-content-center">
+          {displayProfArr}
+        </div>
+      // </div>
+      // <div class="card" style={{width: "18rem"}}>
+      //   <div class="card-body">
+      //     <h5 class="card-title">Special title treatment</h5>
+      //     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+      //     <a href="#" class="btn btn-primary">Go somewhere</a>
+      //   </div>
+      // </div>
     );
-
   }
 
 };

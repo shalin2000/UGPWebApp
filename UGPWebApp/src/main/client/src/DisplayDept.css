@@ -151,14 +151,14 @@ a:hover {
 
 /* testing */
 
-.rowForCard {
+/* .rowForCard {
   margin-left: 15px !important;
   margin-right: 15px !important;
   margin-top: 15px !important;
 }
 .font-work-sans {
   font-family: "Work Sans", sans-serif !important;
-}
+} */
 
 .textOnImg {
   position: relative;
@@ -173,3 +173,7 @@ a:hover {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+/* .card-custom {
+  max-width: 200px;
+} */
