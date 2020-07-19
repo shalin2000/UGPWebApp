@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import './DisplayDept.css';
 import * as d3 from 'd3';
 import data from './CSVData/10Year.csv';
-import pic01 from "./TitleScreenComponent/images/pic01.jpg"
+import pic01 from "./TitleScreenComponent/images/Investortools-SS-Site-solid-1px-darkblue@2x.png"
 import { Link } from "react-router-dom";
 
 class ListProfessor extends Component {
@@ -39,23 +39,37 @@ class ListProfessor extends Component {
     const noDupArr = this.removeDup(printArr, x => x.name1);
 
     // map the array which then returns the course number and course title
-    const displayProfArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => {
-      return <div className="Table1">
+    // const displayProfArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => {
+    //   return <div className="Table1">
 
-      <div className="box alt container" style={{border: "1px solid whitesmoke", width: "50%", float: "left"}}>
-          <section className="feature left">
-          <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx} className="image icon solid fa-user"><img src={pic01} alt="pic01"/></Link>
-          <div className="content">
-              <h3>{data.name1}</h3>
-          </div>
-          </section>   
-      </div>
-      </div>
+    //   <div className="box alt container" style={{border: "1px solid whitesmoke", width: "50%", float: "left"}}>
+    //       <section className="feature left">
+    //       <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx} className="image icon solid fa-user"><img src={pic01} alt="pic01"/></Link>
+    //       <div className="content">
+    //           <h3>{data.name1}</h3>
+    //       </div>
+    //       </section>   
+    //   </div>
+    //   </div>
+    // });
+
+    // map the array which then returns the course number and course title
+    const displayProfArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => {
+      return <div class="col-md-3 font-work-sans" style={{padding: "0px 0px 20px"}}>
+                <div class="textOnImg">
+                  <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx}>
+                    <img src={pic01} alt="pic01"/>
+                    <h3 class="centered">{data.name1}</h3>
+                  </Link>
+                </div>
+            </div>
     });
-    
+
     return (
        <div>
-        {displayProfArr}
+         <div class="row font-work-sans">
+            {displayProfArr}
+          </div>
        </div>
        
     );

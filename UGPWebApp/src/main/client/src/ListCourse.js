@@ -86,7 +86,6 @@ class ListCourse extends Component {
                                 wrapperClasses="table-responsive"
                               />
   
-    
     return (
        <div>
         {displayCourseArr}
