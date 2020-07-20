@@ -87,8 +87,11 @@ class ListProfessor extends Component {
                     </Link>
                   </div>
                 </div>
-            </div>
+            </div>     
+
     });
+
+    
 
     return (
       //  <div>
