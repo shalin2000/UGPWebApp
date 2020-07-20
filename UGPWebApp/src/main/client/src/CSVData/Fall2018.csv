@@ -345,8 +345,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220188,BVIS,"Biomedical Visualization",560,"Molecular Pharm for BVIS",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"Maizels, Evelyn Tilly",,,18
 220188,BVIS,"Biomedical Visualization",594,"Special Topics in Biomed Vis",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bond, Samantha G",,,17
 220188,BVIS,"Biomedical Visualization",595,"Seminar in Biomed Visual",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,"Daugherty, John M",,,20
-220188,CC,"Campus Courses",50,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,27,19,2,"Highland, Diane","Michalski, Mary F.",,48
-220188,CC,"Campus Courses",60,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,27,19,2,"Michalski, Mary F.","Censotti, Eileen",,48
+220188,CC,"Campus Courses",050,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,27,19,2,"Highland, Diane","Michalski, Mary F.",,48
+220188,CC,"Campus Courses",060,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,27,19,2,"Michalski, Mary F.","Censotti, Eileen",,48
 220188,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,12,0,0,0,0,30,32,1,10,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",85
 220188,CELE,"Clerkship Electives-Chicago",603,Dermatology,GA,"Coll Medicine at Chicago - CS",2732,Dermatology,0,0,0,0,0,2,0,0,0,0,1,34,1,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",38
 220188,CELE,"Clerkship Electives-Chicago",604,"Advanced Emerg Medicine",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,18,0,0,3,0,6,5,4,0,1,0,"Thomas, Dorian E","Grad Asst","Grad Asst",37

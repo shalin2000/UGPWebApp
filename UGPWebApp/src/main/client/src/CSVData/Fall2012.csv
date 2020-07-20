@@ -333,8 +333,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220128,BVIS,"Biomedical Visualization",535,"Instructional Design",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wurl, Denise Ann","Daugherty, John M",,19
 220128,BVIS,"Biomedical Visualization",542,"Computer Animation",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Blew, Gregory A","Daugherty, John M",,12
 220128,BVIS,"Biomedical Visualization",595,"Seminar in Biomed Visual",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,"Daugherty, John M",,,20
-220128,CC,"Campus Courses",50,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,120,40,6,"Highland, Diane","Michalski, Mary F.",,166
-220128,CC,"Campus Courses",60,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,103,58,6,"Michalski, Mary F.","Censotti, Eileen",,167
+220128,CC,"Campus Courses",050,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,120,40,6,"Highland, Diane","Michalski, Mary F.",,166
+220128,CC,"Campus Courses",060,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,103,58,6,"Michalski, Mary F.","Censotti, Eileen",,167
 220128,CC,"Campus Courses",120,"Dialogue Seminar",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,"Whitley, Steven K",,,10
 220128,CC,"Campus Courses",120,"Dialogue Seminar",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,"Vasquez, Philip L",,,28
 220128,CC,"Campus Courses",120,"Dialogue Seminar",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,76,4,6,"Brown, Robin A",,,86

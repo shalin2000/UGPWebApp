@@ -78,8 +78,8 @@ class ListProfessor extends Component {
     // });
 
     const displayProfArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => {
-      return <div class="card" style={{width: "18rem"}}>
-                <div class="card-body">
+      return <div class="card" style={{width: "18rem", maxHeight: "18rem"}}>
+                <div class="card-body" style={{border: '1px red solid'}}>
                   <div className="textOnImg">
                     <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx}>
                       <img src={pic01} alt="pic01"/>

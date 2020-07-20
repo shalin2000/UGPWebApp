@@ -58,8 +58,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220195,BVIS,"Biomedical Visualization",520,"Modeling II",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lebowicz, Leah Amanda","Daugherty, John M",,21
 220195,BVIS,"Biomedical Visualization",535,"Visual Learning & Thinking II",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Daugherty, John M","Lebowicz, Leah Amanda",,11
 220195,BVIS,"Biomedical Visualization",542,"Animation II",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Twedt, Rex Edwards","Brennan, Kevin Michael","Daugherty, John M",12
-220195,CC,"Campus Courses",50,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,26,7,0,"Michalski, Mary F.",,,33
-220195,CC,"Campus Courses",60,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,26,7,0,"Michalski, Mary F.",,,33
+220195,CC,"Campus Courses",050,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,26,7,0,"Michalski, Mary F.",,,33
+220195,CC,"Campus Courses",060,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,26,7,0,"Michalski, Mary F.",,,33
 220195,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,1,0,0,0,0,31,32,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",64
 220195,CELE,"Clerkship Electives-Chicago",602,Anesthesiology,GA,"Coll Medicine at Chicago - CS",2258,Anesthesiology,0,0,0,0,0,1,0,0,0,0,6,4,0,0,0,0,"Nishioka, Hokuto","Grad Asst","Grad Asst",11
 220195,CELE,"Clerkship Electives-Chicago",603,Dermatology,GA,"Coll Medicine at Chicago - CS",2732,Dermatology,0,0,0,0,0,0,0,0,0,0,2,8,0,0,0,0,"Bain, Michelle B","Grad Asst","Grad Asst",10

@@ -281,8 +281,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220148,BVIS,"Biomedical Visualization",542,"Computer Animation",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Blew, Gregory A","Daugherty, John M","Brennan, Kevin Michael",14
 220148,BVIS,"Biomedical Visualization",560,"Molecular Pharm for BVIS",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",7,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Maizels, Evelyn Tilly","Daugherty, John M","Milkowski, Deborah M",10
 220148,BVIS,"Biomedical Visualization",595,"Seminar in Biomed Visual",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,"Daugherty, John M",,,16
-220148,CC,"Campus Courses",50,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,3,0,0,155,17,5,"Highland, Diane","Michalski, Mary F.",,180
-220148,CC,"Campus Courses",60,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,1,0,0,130,46,5,"Michalski, Mary F.","Censotti, Eileen",,182
+220148,CC,"Campus Courses",050,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,3,0,0,155,17,5,"Highland, Diane","Michalski, Mary F.",,180
+220148,CC,"Campus Courses",060,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,1,0,0,130,46,5,"Michalski, Mary F.","Censotti, Eileen",,182
 220148,CC,"Campus Courses",120,"Dialogue Seminar",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,"Floyd, Wendell Danton","Whitley, Steven K",,12
 220148,CC,"Campus Courses",120,"Dialogue Seminar",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,12,3,0,"Brown, Robin A","Whitley, Steven K",,15
 220148,CC,"Campus Courses",120,"Dialogue Seminar",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,0,"Brown, Robin A",,,44

@@ -290,8 +290,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,BVIS,"Biomedical Visualization",535,"Instructional Design",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wurl, Denise Ann","Daugherty, John M",,19
 220138,BVIS,"Biomedical Visualization",542,"Computer Animation",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Blew, Gregory A","Daugherty, John M","Brennan, Kevin Michael",12
 220138,BVIS,"Biomedical Visualization",595,"Seminar in Biomed Visual",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,"Daugherty, John M",,,20
-220138,CC,"Campus Courses",50,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,151,26,8,"Highland, Diane","Michalski, Mary F.",,185
-220138,CC,"Campus Courses",60,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,141,36,8,"Michalski, Mary F.","Censotti, Eileen",,185
+220138,CC,"Campus Courses",050,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,151,26,8,"Highland, Diane","Michalski, Mary F.",,185
+220138,CC,"Campus Courses",060,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,141,36,8,"Michalski, Mary F.","Censotti, Eileen",,185
 220138,CC,"Campus Courses",120,"Dialogue Seminar",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,"Floyd, Wendell Danton","Vasquez, Philip L",,10
 220138,CC,"Campus Courses",120,"Dialogue Seminar",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Brown, Robin A","Whitley, Steven K",,10
 220138,CC,"Campus Courses",120,"Dialogue Seminar",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Floyd, Wendell Danton","Whitley, Steven K",,10

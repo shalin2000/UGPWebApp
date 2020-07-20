@@ -313,8 +313,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220178,BVIS,"Biomedical Visualization",562,"Advanced Graphic Design",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Hughes, Donna M",,,12
 220178,BVIS,"Biomedical Visualization",594,"Special Topics in Biomed Vis",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bond, Samantha G",,,15
 220178,BVIS,"Biomedical Visualization",595,"Seminar in Biomed Visual",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,"Daugherty, John M",,,22
-220178,CC,"Campus Courses",50,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,1,0,0,31,12,3,"Highland, Diane","Michalski, Mary F.",,47
-220178,CC,"Campus Courses",60,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,35,9,3,"Michalski, Mary F.","Censotti, Eileen",,47
+220178,CC,"Campus Courses",050,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,1,0,0,31,12,3,"Highland, Diane","Michalski, Mary F.",,47
+220178,CC,"Campus Courses",060,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,35,9,3,"Michalski, Mary F.","Censotti, Eileen",,47
 220178,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,7,0,0,0,0,101,31,2,13,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",154
 220178,CELE,"Clerkship Electives-Chicago",603,Dermatology,GA,"Coll Medicine at Chicago - CS",2732,Dermatology,0,0,0,0,0,6,0,0,0,0,3,32,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",41
 220178,CELE,"Clerkship Electives-Chicago",604,"Emergency Medicine",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,16,0,0,0,0,25,7,4,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",52

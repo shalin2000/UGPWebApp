@@ -334,8 +334,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220198,BVIS,"Biomedical Visualization",536,"Interactive Visualization",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bond, Samantha G",,,17
 220198,BVIS,"Biomedical Visualization",543,"Animation III",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Twedt, Rex Edwards","Lebowicz, Leah Amanda",,10
 220198,BVIS,"Biomedical Visualization",595,"Seminar in Biomed Visual",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,"Daugherty, John M",,,19
-220198,CC,"Campus Courses",50,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,50,18,3,"Highland, Diane","Michalski, Mary F.",,71
-220198,CC,"Campus Courses",60,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,48,20,3,"Michalski, Mary F.","Censotti, Eileen",,71
+220198,CC,"Campus Courses",050,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,50,18,3,"Highland, Diane","Michalski, Mary F.",,71
+220198,CC,"Campus Courses",060,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,48,20,3,"Michalski, Mary F.","Censotti, Eileen",,71
 220198,CD,"City Design",504,"Theories of Urban Design",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Yildiz, Sevin",,,11
 220198,CEES,"Central &East European Studies",246,"European Avant-Garde",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",7,5,1,0,1,0,0,0,0,0,1,0,0,0,0,0,"Vaingurt, Julia",,,15
 220198,CEES,"Central &East European Studies",551,"Studies in CEE Literature",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Vaingurt, Julia",,,10

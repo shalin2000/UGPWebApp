@@ -299,8 +299,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220181,BVIS,"Biomedical Visualization",575,"Business Practices",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Daugherty, John M","Young, Christine Dorothea",,19
 220181,BVIS,"Biomedical Visualization",594,"Special Topics in Biomed Vis",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bond, Samantha G","Daugherty, John M",,10
 220181,BVIS,"Biomedical Visualization",597,"Project Research",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,1,0,0,0,0,0,21,0,0,"Daugherty, John M",,,22
-220181,CC,"Campus Courses",50,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,33,14,0,"Highland, Diane","Michalski, Mary F.","Kamowski, Michael G",47
-220181,CC,"Campus Courses",60,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,30,17,0,"Highland, Diane","Michalski, Mary F.",,47
+220181,CC,"Campus Courses",050,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,33,14,0,"Highland, Diane","Michalski, Mary F.","Kamowski, Michael G",47
+220181,CC,"Campus Courses",060,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,30,17,0,"Highland, Diane","Michalski, Mary F.",,47
 220181,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",30
 220181,CELE,"Clerkship Electives-Chicago",602,Anesthesiology,GA,"Coll Medicine at Chicago - CS",2258,Anesthesiology,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",23
 220181,CELE,"Clerkship Electives-Chicago",603,Dermatology,GA,"Coll Medicine at Chicago - CS",2732,Dermatology,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",34

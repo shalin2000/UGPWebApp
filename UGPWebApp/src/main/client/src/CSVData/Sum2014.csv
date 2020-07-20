@@ -58,8 +58,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220145,BVIS,"Biomedical Visualization",520,"Adv Imaging Applications",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",15,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lebowicz, Leah Amanda","Daugherty, John M",,17
 220145,BVIS,"Biomedical Visualization",528,"Surgical Orientation",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",16,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bucher, Karen","Daugherty, John M",,19
 220145,BVIS,"Biomedical Visualization",545,"Computer-based Multimedia",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",15,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Blew, Gregory A","Daugherty, John M","Brennan, Kevin Michael",16
-220145,CC,"Campus Courses",50,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,2,0,0,96,26,4,"Michalski, Mary F.",,,128
-220145,CC,"Campus Courses",60,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,1,0,0,91,37,6,"Michalski, Mary F.",,,135
+220145,CC,"Campus Courses",050,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,2,0,0,96,26,4,"Michalski, Mary F.",,,128
+220145,CC,"Campus Courses",060,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,1,0,0,91,37,6,"Michalski, Mary F.",,,135
 220145,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,0,0,0,74,22,1,0,0,0,"Instructor, Missing",,,97
 220145,CELE,"Clerkship Electives-Chicago",604,"Emergency  Medicine",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,2,0,0,0,0,11,9,0,0,0,0,"Instructor, Missing",,,22
 220145,CELE,"Clerkship Electives-Chicago",616,Radiology,GA,"Coll Medicine at Chicago - CS",2713,Radiology,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,"Instructor, Missing",,,17

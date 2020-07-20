@@ -323,8 +323,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220131,BVIS,"Biomedical Visualization",552,"Graphic Design",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hughes, Donna M","Daugherty, John M",,16
 220131,BVIS,"Biomedical Visualization",575,"Business Practices",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Young, Christine Dorothea","Daugherty, John M",,20
 220131,BVIS,"Biomedical Visualization",597,"Project Research",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,"Daugherty, John M",,,17
-220131,CC,"Campus Courses",50,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,13,0,0,130,27,1,"Highland, Diane","Michalski, Mary F.",,171
-220131,CC,"Campus Courses",60,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,17,0,0,102,54,1,"Highland, Diane","Michalski, Mary F.",,174
+220131,CC,"Campus Courses",050,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,13,0,0,130,27,1,"Highland, Diane","Michalski, Mary F.",,171
+220131,CC,"Campus Courses",060,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,17,0,0,102,54,1,"Highland, Diane","Michalski, Mary F.",,174
 220131,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,20,0,0,0,0,39,31,5,0,0,0,"Instructor, Missing",,,95
 220131,CELE,"Clerkship Electives-Chicago",604,"Clinical Toxicology",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,0,0,0,0,0,4,8,0,0,0,0,"Instructor, Missing",,,12
 220131,CELE,"Clerkship Electives-Chicago",605,"Advanced Family Medicine",GA,"Coll Medicine at Chicago - CS",2675,"Family Medicine",0,0,0,0,0,3,0,0,0,0,5,6,0,0,0,0,"Instructor, Missing",,,14
