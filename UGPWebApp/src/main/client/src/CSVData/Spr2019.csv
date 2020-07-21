@@ -147,19 +147,19 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,ART,Art,402,"Senior Projects: Thesis",FR,"Architecture,Design,& the Arts",2583,Art,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Raaf, Sabrina Kay","Majeed, Faheem","Ischar, Doug",15
 220191,ART,Art,530,"Advanced Graduate Critique",FR,"Architecture,Design,& the Arts",2583,Art,13,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Young, Nathaniel James","Stratman, Deborah Renee","Odunlami, Abiodun",19
 220191,ART,Art,597,"Master's Project",FR,"Architecture,Design,& the Arts",2583,Art,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Geissler, Beate",,,11
-220191,ASP,"Academic Skills Program",21,"Workshop for Precal - LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,"Mankus, Terrance A",,,12
-220191,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,0,"Bonarek, Rebecca L",,,11
-220191,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,19,20,2,Grad Asst,,,41
-220191,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,34,25,2,Grad Asst,,,61
-220191,ASP,"Academic Skills Program",35,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,37,82,4,Grad Asst,,,123
-220191,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,4,16,0,"Zenner, Audrey Marsha",,,20
-220191,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,0,"Grad Asst",,,15
-220191,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,14,36,3,Grad Asst,,,53
-220191,ASP,"Academic Skills Program",37,"English Lab-Social Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,31,10,1,"Grad Asst",,,42
-220191,ASP,"Academic Skills Program",38,"English Lab-Natural Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,5,1,"Grad Asst",,,23
-220191,ASP,"Academic Skills Program",38,"English Lab-Natural Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,16,0,"Schroeder, Lianne E",,,33
-220191,ASP,"Academic Skills Program",55,"Comm Skls-Intl Grad Students",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Zenner, Audrey Marsha",,,10
-220191,ASP,"Academic Skills Program",80,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,1,"Mankus, Terrance A",,,14
+220191,ASP,"Academic Skills Program",021,"Workshop for Precal - LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,"Mankus, Terrance A",,,12
+220191,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,0,"Bonarek, Rebecca L",,,11
+220191,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,19,20,2,Grad Asst,,,41
+220191,ASP,"Academic Skills Program",034,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,34,25,2,Grad Asst,,,61
+220191,ASP,"Academic Skills Program",035,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,37,82,4,Grad Asst,,,123
+220191,ASP,"Academic Skills Program",036,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,4,16,0,"Zenner, Audrey Marsha",,,20
+220191,ASP,"Academic Skills Program",036,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,0,"Grad Asst",,,15
+220191,ASP,"Academic Skills Program",036,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,14,36,3,Grad Asst,,,53
+220191,ASP,"Academic Skills Program",037,"English Lab-Social Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,31,10,1,"Grad Asst",,,42
+220191,ASP,"Academic Skills Program",038,"English Lab-Natural Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,5,1,"Grad Asst",,,23
+220191,ASP,"Academic Skills Program",038,"English Lab-Natural Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,16,0,"Schroeder, Lianne E",,,33
+220191,ASP,"Academic Skills Program",055,"Comm Skls-Intl Grad Students",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Zenner, Audrey Marsha",,,10
+220191,ASP,"Academic Skills Program",080,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,1,"Mankus, Terrance A",,,14
 220191,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,29,10,0,"Warner, Kimberly",,,39
 220191,BA,"Business Administration",190,"Seminar for Bus Scholars",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,106,0,0,0,0,1,"Prazza, Angela J","Durham-Wiersema, Shonta","Sanchez, Mayra",107
 220191,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",13,42,17,4,0,0,0,0,0,0,0,0,0,0,0,4,"Corte, Anthony M",,,80
@@ -1438,8 +1438,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,LING,Linguistics,160,"Language and Society",FT,"Liberal Arts & Sciences",2714,Linguistics,14,5,1,0,1,0,0,0,0,0,0,0,0,0,0,3,"Xiang, Xuehua",,,24
 220191,LING,Linguistics,260,"Acquisition & Billingualism",FT,"Liberal Arts & Sciences",2714,Linguistics,6,5,0,1,1,0,0,0,0,0,0,0,0,0,0,1,"Cameron, Richard R",,,14
 220191,LITH,Lithuanian,115,"Lithuanian Culture",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",9,15,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Subacius, Giedrius",,,27
-220191,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,31,11,5,"Castillo, Gerardo",,,47
-220191,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,1,0,0,20,14,3,"Patterson, Terry",,,38
+220191,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,31,11,5,"Castillo, Gerardo",,,47
+220191,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,1,0,0,20,14,3,"Patterson, Terry",,,38
 220191,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",21,16,11,2,9,0,0,0,0,0,0,0,0,0,0,8,"McNamara, Alycia A",,,67
 220191,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",34,30,20,12,11,0,0,0,1,0,0,0,0,0,0,9,"Tsapara, Irene",,,117
 220191,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",63,25,19,2,6,0,0,0,0,0,0,0,0,0,0,4,"Devi, Shavila",,,119

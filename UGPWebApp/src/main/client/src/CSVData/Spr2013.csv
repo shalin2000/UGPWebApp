@@ -182,9 +182,9 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220131,ASAM,"ZZZ Asian American Studies",125,"Intro Asian Amer Studies",FT,"Liberal Arts & Sciences",2492,English,11,10,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"Kumashiro, Kevin K",,,23
 220131,ASAM,"ZZZ Asian American Studies",230,"Asian American Culture & Food",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",3,15,7,1,1,0,0,0,0,0,0,0,0,0,0,1,"Guevarra, Anna",,,28
 220131,ASAM,"ZZZ Asian American Studies",263,"Asian Amer Gend&Sexual Divers",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",5,7,1,0,0,0,0,0,0,0,2,0,0,0,0,1,"Fugikawa, Laura S",,,16
-220131,ASP,"Academic Skills Program",60,"Stdy/Lrng Across Disciplines",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,1,"Baniasad, Bahar",,,10
-220131,ASP,"Academic Skills Program",92,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,2,"De Leon, Jose",,,13
-220131,ASP,"Academic Skills Program",92,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,3,0,"Baniasad, Bahar",,,13
+220131,ASP,"Academic Skills Program",060,"Stdy/Lrng Across Disciplines",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,1,"Baniasad, Bahar",,,10
+220131,ASP,"Academic Skills Program",092,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,2,"De Leon, Jose",,,13
+220131,ASP,"Academic Skills Program",092,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,3,0,"Baniasad, Bahar",,,13
 220131,ASST,"ZZZ Asian Studies",276,"Modern South Asia",FT,"Liberal Arts & Sciences",2316,History,5,10,0,2,0,0,0,0,0,0,0,0,0,0,0,2,"Mantena, Rama",,,19
 220131,ASST,"ZZZ Asian Studies",279,"South Asian Cultures",FT,"Liberal Arts & Sciences",2841,Anthropology,4,2,2,1,2,0,0,0,0,0,0,0,0,0,0,2,"Reddy, Gayatri",,,13
 220131,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",29,57,4,1,2,0,0,0,0,0,0,0,0,0,0,0,"Wang, Jie",,,93
@@ -1265,8 +1265,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220131,LING,Linguistics,586,"Classroom Testing for TESOL",FT,"Liberal Arts & Sciences",2714,Linguistics,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grgurovic, Maja",,,13
 220131,LING,Linguistics,594,"Internship in TESOL",FT,"Liberal Arts & Sciences",2714,Linguistics,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Grgurovic, Maja",,,15
 220131,LITH,Lithuanian,115,"Lithuanian Culture",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",32,30,11,4,0,0,0,0,0,0,0,0,0,0,0,1,"Subacius, Giedrius",,,78
-220131,MATH,Mathematics,75,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,31,5,1,"Rice, Mary M.","Grad Asst",,37
-220131,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,110,70,10,"Kafka, Calvin C",,,190
+220131,MATH,Mathematics,075,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,31,5,1,"Rice, Mary M.","Grad Asst",,37
+220131,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,110,70,10,"Kafka, Calvin C",,,190
 220131,MATH,Mathematics,118,"Mathematical Reasoning",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",17,16,17,3,8,0,0,0,1,0,0,0,0,0,0,9,"Bronstein, Albert",,,71
 220131,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",9,28,34,29,38,0,0,0,0,0,0,0,0,0,0,5,"Rice, Mary M.",,,143
 220131,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",10,9,26,22,46,0,0,0,0,0,0,0,0,0,0,19,"Cohen, Elizabeth Bruce",,,132

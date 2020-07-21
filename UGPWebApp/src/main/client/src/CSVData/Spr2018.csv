@@ -147,24 +147,24 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220181,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Geissler, Beate",,,10
 220181,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sandlos, Karyn",,,11
 220181,ART,Art,530,"Advanced Graduate Critique",FR,"Architecture,Design,& the Arts",2583,Art,17,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Frid, Dianna","Ischar, Doug","Majeed, Faheem",20
-220181,ASP,"Academic Skills Program",31,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,1,"Mielcarek, Stephanie M",,,10
-220181,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,1,"Grad Asst",,,13
-220181,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,1,"Duke, Trischa Beth",,,15
-220181,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,0,"Carson, Jordan Marie",,,14
-220181,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,16,9,1,"Lombardo, Heidi Ann",,,26
-220181,ASP,"Academic Skills Program",33,"Live, Learn, Grow: Foundation",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,1,Grad Asst,,,11
-220181,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,14,5,0,"Grad Asst",,,19
-220181,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,52,13,0,"Lombardo, Heidi Ann",,,65
-220181,ASP,"Academic Skills Program",35,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,20,12,0,"Mielcarek, Stephanie M",,,32
-220181,ASP,"Academic Skills Program",35,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,36,32,3,"Carson, Jordan Marie",,,71
-220181,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,3,0,"Zenner, Audrey Marsha",,,20
-220181,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,22,23,2,"Duke, Trischa Beth",,,47
-220181,ASP,"Academic Skills Program",37,"English Lab-Social Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,7,1,"Grad Asst",,,25
-220181,ASP,"Academic Skills Program",38,"English Lab-Natural Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,78,0,0,37,4,4,"Grad Asst",,,123
-220181,ASP,"Academic Skills Program",55,"Comm Skls-Intl Grad Students",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,0,"Zenner, Audrey Marsha",,,20
-220181,ASP,"Academic Skills Program",80,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,2,"Mankus, Terrance A",,,16
-220181,ASP,"Academic Skills Program",92,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,0,"De Leon, Jose",,,13
-220181,ASP,"Academic Skills Program",95,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,0,"Zenner, Audrey Marsha",,,12
+220181,ASP,"Academic Skills Program",031,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,1,"Mielcarek, Stephanie M",,,10
+220181,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,1,"Grad Asst",,,13
+220181,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,1,"Duke, Trischa Beth",,,15
+220181,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,0,"Carson, Jordan Marie",,,14
+220181,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,16,9,1,"Lombardo, Heidi Ann",,,26
+220181,ASP,"Academic Skills Program",033,"Live, Learn, Grow: Foundation",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,1,Grad Asst,,,11
+220181,ASP,"Academic Skills Program",034,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,14,5,0,"Grad Asst",,,19
+220181,ASP,"Academic Skills Program",034,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,52,13,0,"Lombardo, Heidi Ann",,,65
+220181,ASP,"Academic Skills Program",035,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,20,12,0,"Mielcarek, Stephanie M",,,32
+220181,ASP,"Academic Skills Program",035,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,36,32,3,"Carson, Jordan Marie",,,71
+220181,ASP,"Academic Skills Program",036,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,3,0,"Zenner, Audrey Marsha",,,20
+220181,ASP,"Academic Skills Program",036,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,22,23,2,"Duke, Trischa Beth",,,47
+220181,ASP,"Academic Skills Program",037,"English Lab-Social Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,7,1,"Grad Asst",,,25
+220181,ASP,"Academic Skills Program",038,"English Lab-Natural Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,78,0,0,37,4,4,"Grad Asst",,,123
+220181,ASP,"Academic Skills Program",055,"Comm Skls-Intl Grad Students",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,0,"Zenner, Audrey Marsha",,,20
+220181,ASP,"Academic Skills Program",080,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,2,"Mankus, Terrance A",,,16
+220181,ASP,"Academic Skills Program",092,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,0,"De Leon, Jose",,,13
+220181,ASP,"Academic Skills Program",095,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,0,"Zenner, Audrey Marsha",,,12
 220181,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,27,5,0,"Warner, Kimberly",,,32
 220181,BA,"Business Administration",190,"Seminar for Bus Scholars",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,123,0,0,0,0,0,"Prazza, Angela J","Sanchez, Mayra","Durham-Wiersema, Shonta",123
 220181,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",14,38,20,4,5,0,0,0,0,0,0,0,0,0,0,1,"Corte, Anthony M",,,82
@@ -1381,8 +1381,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220181,LITH,Lithuanian,130,"Lith Prose Fiction",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",9,3,2,0,1,0,0,0,0,0,0,0,0,0,0,1,"Litvinskaite, Daiva",,,16
 220181,LRSC,"Learning Sciences",503,"Foundatn of Scientific Inquiry",FS,"Graduate College",2480,"Graduate Admin",6,2,0,0,0,0,0,0,2,0,0,0,0,0,0,1,"Wink, Donald J",,,11
 220181,LRSC,"Learning Sciences",540,"Learning Sciences Journal Club",FS,"Graduate College",2480,"Graduate Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,"Stieff, Mike",,,10
-220181,MATH,Mathematics,77,"Math Reasoning Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,4,"Grad Asst",,,17
-220181,MATH,Mathematics,88,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,19,10,2,"Grad Asst",,,31
+220181,MATH,Mathematics,077,"Math Reasoning Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,4,"Grad Asst",,,17
+220181,MATH,Mathematics,088,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,19,10,2,"Grad Asst",,,31
 220181,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,89,49,9,"Castillo, Gerardo",,,147
 220181,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",7,15,15,1,7,0,0,0,0,0,0,0,0,0,0,11,"Ingebretson, Daniel Jordan",,,56
 220181,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",39,29,18,3,6,0,0,0,0,0,0,0,0,0,0,7,"Ross, Jenny",,,102

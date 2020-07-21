@@ -174,9 +174,9 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220121,ASAM,"ZZZ Asian American Studies",210,"Asian American Histories",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",19,4,0,0,2,0,0,0,0,0,0,0,0,0,0,2,"Mariano, Lorena",,,27
 220121,ASAM,"ZZZ Asian American Studies",263,"Asian Amer Gend&Sexual Divers",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",9,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"Thomson, Elizabeth",,,12
 220121,ASAM,"ZZZ Asian American Studies",290,"Special Topics in ASAM",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",13,5,4,0,0,0,0,0,0,0,0,0,0,0,0,4,"Guevarra, Anna",,,26
-220121,ASP,"Academic Skills Program",92,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,1,"Rosa, Ixtaccihuatl Julieta",,,11
-220121,ASP,"Academic Skills Program",92,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,1,0,0,33,2,0,"Koerner, Patrick",,,36
-220121,ASP,"Academic Skills Program",92,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,"De Leon, Jose",,,19
+220121,ASP,"Academic Skills Program",092,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,1,"Rosa, Ixtaccihuatl Julieta",,,11
+220121,ASP,"Academic Skills Program",092,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,1,0,0,33,2,0,"Koerner, Patrick",,,36
+220121,ASP,"Academic Skills Program",092,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,"De Leon, Jose",,,19
 220121,ASST,"ZZZ Asian Studies",109,"East Asian Civ: Ancient China",FT,"Liberal Arts & Sciences",2316,History,12,9,7,2,1,0,0,0,0,0,0,0,0,0,0,0,"Klein, Esther Sunkyung",,,31
 220121,ASST,"ZZZ Asian Studies",232,"Politics/Japan & Korea",FT,"Liberal Arts & Sciences",2734,"Political Science",7,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,"Choi, Seung Whan",,,12
 220121,ASST,"ZZZ Asian Studies",276,"Modern South Asia",FT,"Liberal Arts & Sciences",2316,History,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,3,"Mantena, Rama",,,10
@@ -1238,8 +1238,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220121,LITH,Lithuanian,115,"Lithuanian Culture",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",40,17,1,0,0,0,0,0,0,0,0,0,0,0,0,2,"Subacius, Giedrius",,,60
 220121,LRSC,"Learning Sciences",513,"Individual & Organiztnl Change",FS,"Graduate College",2480,"Graduate Admin",7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Superfine, Alison May","Goldman, Susan R.",,12
 220121,LRSC,"Learning Sciences",540,"Learning Sciences Journal Club",FS,"Graduate College",2480,"Graduate Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Stieff, Mike","Radinsky, Joshua Longstreth",,11
-220121,MATH,Mathematics,75,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,20,22,0,"Rice, Mary M.","Grad Asst",,42
-220121,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,120,106,7,"Kafka, Calvin C",,,233
+220121,MATH,Mathematics,075,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,20,22,0,"Rice, Mary M.","Grad Asst",,42
+220121,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,120,106,7,"Kafka, Calvin C",,,233
 220121,MATH,Mathematics,118,"Mathematical Reasoning",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",25,18,17,4,6,0,0,0,1,0,0,0,0,0,0,9,"Bronstein, Albert",,,80
 220121,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",7,30,37,21,38,0,0,0,1,0,0,0,0,0,0,17,"Rice, Mary M.",,,151
 220121,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",10,19,40,23,30,0,0,0,0,0,0,0,0,0,0,21,"Bird, Katherine Anne",,,143

@@ -132,15 +132,15 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ischar, Doug",,,12
 220171,ART,Art,530,"Advanced Studio Arts & Crit",FR,"Architecture,Design,& the Arts",2583,Art,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Smith, Cauleen","Geissler, Beate","Goulish, Matthew",13
 220171,ART,Art,597,"Master's Project",FR,"Architecture,Design,& the Arts",2583,Art,0,0,0,0,0,0,0,0,6,0,0,0,0,5,0,0,"Metzger, Matthew John",,,11
-220171,ASP,"Academic Skills Program",31,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,2,"Duke, Trischa Beth",,,10
-220171,ASP,"Academic Skills Program",33,"Live, Learn, Grow: Foundation",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,2,"Mielcarek, Stephanie M",,,10
-220171,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,1,"Mielcarek, Stephanie M",,,25
-220171,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,1,"Zenner, Audrey Marsha",,,12
-220171,ASP,"Academic Skills Program",39,"English Lab-Mathematics",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,1,"Ingebretson, Daniel Jordan",,,18
-220171,ASP,"Academic Skills Program",55,"Comm Skls-Intl Grad Students",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,"Zenner, Audrey Marsha",,,10
-220171,ASP,"Academic Skills Program",80,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,1,"Mankus, Terrance A",,,13
-220171,ASP,"Academic Skills Program",92,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,2,"Baniasad, Bahar",,,10
-220171,ASP,"Academic Skills Program",95,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,"Mann, Jon",,,10
+220171,ASP,"Academic Skills Program",031,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,2,"Duke, Trischa Beth",,,10
+220171,ASP,"Academic Skills Program",033,"Live, Learn, Grow: Foundation",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,2,"Mielcarek, Stephanie M",,,10
+220171,ASP,"Academic Skills Program",034,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,1,"Mielcarek, Stephanie M",,,25
+220171,ASP,"Academic Skills Program",036,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,1,"Zenner, Audrey Marsha",,,12
+220171,ASP,"Academic Skills Program",039,"English Lab-Mathematics",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,1,"Ingebretson, Daniel Jordan",,,18
+220171,ASP,"Academic Skills Program",055,"Comm Skls-Intl Grad Students",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,"Zenner, Audrey Marsha",,,10
+220171,ASP,"Academic Skills Program",080,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,1,"Mankus, Terrance A",,,13
+220171,ASP,"Academic Skills Program",092,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,2,"Baniasad, Bahar",,,10
+220171,ASP,"Academic Skills Program",095,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,"Mann, Jon",,,10
 220171,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,12,2,0,"Warner, Kimberly",,,14
 220171,BA,"Business Administration",190,"UIC Business Seminar Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,119,0,0,"Prazza, Angela J",,,119
 220171,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",20,11,3,0,1,0,0,0,0,0,0,0,0,0,0,1,"Thomas, Richard Steven",,,36
@@ -1339,8 +1339,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,LING,Linguistics,586,"Second Language Assessment",FT,"Liberal Arts & Sciences",2714,Linguistics,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grgurovic, Maja",,,12
 220171,LITH,Lithuanian,130,"Lith Prose Fiction",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",9,13,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Grad Asst,,,24
 220171,LRSC,"Learning Sciences",501,"Research Methods",FS,"Graduate College",2480,"Graduate Admin",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Pellegrino, James W.",,,10
-220171,MATH,Mathematics,88,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,18,8,0,"Grad Asst",,,26
-220171,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,2,0,0,66,52,9,"Calamaro, Aviva H",,,129
+220171,MATH,Mathematics,088,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,18,8,0,"Grad Asst",,,26
+220171,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,2,0,0,66,52,9,"Calamaro, Aviva H",,,129
 220171,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",9,15,11,5,2,0,0,0,0,0,0,0,0,0,0,3,"Ross, Jenny",,,45
 220171,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",16,23,17,4,5,0,0,0,0,0,0,0,0,0,0,8,"Gregory, Roberta F",,,73
 220171,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",16,32,28,13,17,0,0,0,0,0,0,0,0,0,0,10,"Calamaro, Aviva H",,,116
