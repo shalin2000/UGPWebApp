@@ -1353,11 +1353,11 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,LING,Linguistics,531,"Grammar for TESOL",FT,"Liberal Arts & Sciences",2714,Linguistics,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Williams, Jessica S",,,18
 220138,LITH,Lithuanian,115,"Lithuanian Culture",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",37,17,0,2,0,0,0,0,0,0,0,0,0,0,0,2,"Subacius, Giedrius",,,58
 220138,LRSC,"Learning Sciences",511,"Analysis Teaching & Learning",FS,"Graduate College",2480,"Graduate Admin",7,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,"Radinsky, Joshua Longstreth",,,10
-220138,MATH,Mathematics,75,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,151,42,6,"Gregory, Roberta F","Grad Asst",,200
-220138,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,70,30,3,"London, Stephen A",,,103
-220138,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,89,39,3,"Doyle, Timothy Michael",,,131
-220138,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,90,28,5,"Cohen, Elizabeth Bruce",,,123
-220138,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,190,69,5,"Calamaro, Aviva H",,,264
+220138,MATH,Mathematics,075,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,151,42,6,"Gregory, Roberta F","Grad Asst",,200
+220138,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,70,30,3,"London, Stephen A",,,103
+220138,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,89,39,3,"Doyle, Timothy Michael",,,131
+220138,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,90,28,5,"Cohen, Elizabeth Bruce",,,123
+220138,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,190,69,5,"Calamaro, Aviva H",,,264
 220138,MATH,Mathematics,118,"Mathematical Reasoning",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",71,55,33,12,4,0,0,0,0,0,0,0,0,0,0,13,"Adrovic, Danko",,,188
 220138,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",13,24,40,23,22,0,0,0,1,0,0,0,0,0,0,15,"Calamaro, Aviva H",,,138
 220138,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",17,23,23,21,17,0,0,0,0,0,0,0,0,0,0,13,"Lukina, Olga",,,114

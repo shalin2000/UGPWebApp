@@ -269,7 +269,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220115,LAS,"Liberal Arts and Sciences",289,"LAS Internship",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,5,0,0,0,0,9,0,0,"Hursey, Robin",,,14
 220115,LAS,"Liberal Arts and Sciences",299,"LAS Study Abroad",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,92,0,0,0,0,0,"Ellis, Shannon Leigh",,,92
 220115,LING,Linguistics,594,"Internship in TESOL",FT,"Liberal Arts & Sciences",2714,Linguistics,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Byrne, Therese Maeanne",,,11
-220115,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,2,"Kafka, Calvin C",,,17
+220115,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,2,"Kafka, Calvin C",,,17
 220115,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",6,7,11,6,1,0,0,0,0,0,0,0,0,0,0,7,"Kafka, Calvin C",,,38
 220115,MATH,Mathematics,141,"Algebraic & Geom Structures",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",6,5,2,1,0,0,0,0,0,0,1,0,0,0,0,0,"Klaff, Benjamin G",,,15
 220115,MATH,Mathematics,160,"Finite Math for Business",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",7,5,7,1,0,0,0,0,0,0,0,0,0,0,0,0,"Dias, Julian P",,,20

@@ -1283,12 +1283,12 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220118,LING,Linguistics,594,"Internship in TESOL",FT,"Liberal Arts & Sciences",2714,Linguistics,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Grgurovic, Maja",,,11
 220118,LITH,Lithuanian,115,"Lithuanian Culture",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",40,14,1,1,1,0,0,0,0,0,0,0,0,0,0,3,"Subacius, Giedrius",,,60
 220118,LRSC,"Learning Sciences",540,"Learning Sciences Journal Club",FS,"Graduate College",2480,"Graduate Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,1,"Wink, Donald J",,,18
-220118,MATH,Mathematics,75,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,44,11,7,"Rice, Mary M.","Grad Asst",,62
-220118,MATH,Mathematics,75,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,56,28,4,"Kafka, Calvin C","Grad Asst",,88
-220118,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,87,48,4,"Kafka, Calvin C",,,139
-220118,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,92,50,5,"Stasi, Despina",,,147
-220118,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,104,38,4,"Rice, Mary M.",,,146
-220118,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,1,0,0,208,78,12,"Dias, Julian P",,,299
+220118,MATH,Mathematics,075,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,44,11,7,"Rice, Mary M.","Grad Asst",,62
+220118,MATH,Mathematics,075,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,56,28,4,"Kafka, Calvin C","Grad Asst",,88
+220118,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,87,48,4,"Kafka, Calvin C",,,139
+220118,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,92,50,5,"Stasi, Despina",,,147
+220118,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,104,38,4,"Rice, Mary M.",,,146
+220118,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,1,0,0,208,78,12,"Dias, Julian P",,,299
 220118,MATH,Mathematics,118,"Mathematical Reasoning",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",35,26,23,5,5,0,0,0,0,0,0,0,0,0,0,2,"London, Stephen A",,,96
 220118,MATH,Mathematics,118,"Mathematical Reasoning",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",71,68,32,8,18,0,0,0,0,0,0,0,0,0,0,15,"Bronstein, Albert",,,212
 220118,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,4,0,0,0,20,0,0,0,0,0,0,0,"Kobotis, Evangelos",,,24

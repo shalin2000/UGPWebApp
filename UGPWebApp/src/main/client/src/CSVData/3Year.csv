@@ -10221,35 +10221,35 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220178,LRSC,"Learning Sciences",511,"Analysis Teaching & Learning",FS,"Graduate College",2480,"Graduate Admin",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Radinsky, Joshua Longstreth",,,10
 220181,LRSC,"Learning Sciences",540,"Learning Sciences Journal Club",FS,"Graduate College",2480,"Graduate Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,"Stieff, Mike",,,10
 220198,LRSC,"Learning Sciences",540,"Learning Sciences Journal Club",FS,"Graduate College",2480,"Graduate Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,"Superfine, Alison May",,,12
-220178,MATH,Mathematics,77,"Math Reasoning Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,13,4,2,"Grad Asst",,,19
-220181,MATH,Mathematics,77,"Math Reasoning Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,4,"Grad Asst",,,17
-220188,MATH,Mathematics,77,"Math Reasoning Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,1,0,0,41,3,2,"Grad Asst",,,48
-220198,MATH,Mathematics,77,"Math Reasoning Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,56,4,5,"Grad Asst",,,65
-220171,MATH,Mathematics,88,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,18,8,0,"Grad Asst",,,26
-220178,MATH,Mathematics,88,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,21,0,0,85,25,9,"Grad Asst",,,140
-220181,MATH,Mathematics,88,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,19,10,2,"Grad Asst",,,31
-220188,MATH,Mathematics,88,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,"Patterson, Terry",,,10
-220188,MATH,Mathematics,88,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,37,15,0,"Grad Asst",,,52
-220198,MATH,Mathematics,88,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,48,22,8,"Grad Asst",,,78
-220201,MATH,Mathematics,88,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,12,3,0,"Grad Asst",,,15
-220171,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,2,0,0,66,52,9,"Calamaro, Aviva H",,,129
-220178,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,50,35,5,"Ross, Jenny",,,90
-220178,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,126,96,9,"Ingebretson, Daniel Jordan",,,231
-220178,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,1,0,0,152,77,18,"Castillo, Gerardo",,,248
-220181,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,89,49,9,"Castillo, Gerardo",,,147
-220188,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,34,10,3,"Ross, Jenny",,,47
-220188,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,75,22,5,"Schubert, Erin Rose",,,102
-220188,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,221,59,12,"Castillo, Gerardo",,,293
-220191,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,31,11,5,"Castillo, Gerardo",,,47
-220191,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,1,0,0,20,14,3,"Patterson, Terry",,,38
-220198,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,18,12,8,"Dean, Robin",,,38
-220198,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,22,5,1,"Kursell, Anita",,,28
-220198,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,29,10,3,"Fox, Zachary S",,,42
-220198,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,39,9,5,"Barajas, Wilson",,,53
-220198,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,62,12,7,"Castillo, Gerardo",,,81
-220198,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,33,12,1,"Simpson, Gilberto",,,47
-220201,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,17,5,2,"Dean, Robin",,,24
-220201,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,26,14,1,"Castillo, Gerardo",,,41
+220178,MATH,Mathematics,077,"Math Reasoning Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,13,4,2,"Grad Asst",,,19
+220181,MATH,Mathematics,077,"Math Reasoning Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,4,"Grad Asst",,,17
+220188,MATH,Mathematics,077,"Math Reasoning Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,1,0,0,41,3,2,"Grad Asst",,,48
+220198,MATH,Mathematics,077,"Math Reasoning Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,56,4,5,"Grad Asst",,,65
+220171,MATH,Mathematics,088,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,18,8,0,"Grad Asst",,,26
+220178,MATH,Mathematics,088,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,21,0,0,85,25,9,"Grad Asst",,,140
+220181,MATH,Mathematics,088,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,19,10,2,"Grad Asst",,,31
+220188,MATH,Mathematics,088,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,"Patterson, Terry",,,10
+220188,MATH,Mathematics,088,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,37,15,0,"Grad Asst",,,52
+220198,MATH,Mathematics,088,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,48,22,8,"Grad Asst",,,78
+220201,MATH,Mathematics,088,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,12,3,0,"Grad Asst",,,15
+220171,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,2,0,0,66,52,9,"Calamaro, Aviva H",,,129
+220178,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,50,35,5,"Ross, Jenny",,,90
+220178,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,126,96,9,"Ingebretson, Daniel Jordan",,,231
+220178,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,1,0,0,152,77,18,"Castillo, Gerardo",,,248
+220181,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,89,49,9,"Castillo, Gerardo",,,147
+220188,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,34,10,3,"Ross, Jenny",,,47
+220188,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,75,22,5,"Schubert, Erin Rose",,,102
+220188,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,221,59,12,"Castillo, Gerardo",,,293
+220191,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,31,11,5,"Castillo, Gerardo",,,47
+220191,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,1,0,0,20,14,3,"Patterson, Terry",,,38
+220198,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,18,12,8,"Dean, Robin",,,38
+220198,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,22,5,1,"Kursell, Anita",,,28
+220198,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,29,10,3,"Fox, Zachary S",,,42
+220198,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,39,9,5,"Barajas, Wilson",,,53
+220198,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,62,12,7,"Castillo, Gerardo",,,81
+220198,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,33,12,1,"Simpson, Gilberto",,,47
+220201,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,17,5,2,"Dean, Robin",,,24
+220201,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,26,14,1,"Castillo, Gerardo",,,41
 220198,MATH,Mathematics,109," College Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,20,4,0,"Ash, William Ray",,,24
 220198,MATH,Mathematics,109," College Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,108,8,7,"Grad Asst",,,123
 220201,MATH,Mathematics,109," College Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,0,"Ash, William Ray",,,14

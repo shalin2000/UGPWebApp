@@ -1405,11 +1405,11 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,LING,Linguistics,483,"Methodology/Second Lang Teach",FT,"Liberal Arts & Sciences",2714,Linguistics,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grgurovic, Maja",,,13
 220168,LING,Linguistics,531,"Grammar for TESOL",FT,"Liberal Arts & Sciences",2714,Linguistics,8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Williams, Jessica S",,,13
 220168,LING,Linguistics,558,"Seminar in Applied Linguistics",FT,"Liberal Arts & Sciences",2714,Linguistics,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Madlener, Karin",,,10
-220168,MATH,Mathematics,75,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,1,0,0,17,5,3,"Gregory, Roberta F","Grad Asst",,26
-220168,MATH,Mathematics,88,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,82,9,5,"Grad Asst",,,96
-220168,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,58,42,5,"Hardwick, John Arthur",,,105
-220168,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,163,87,13,"Calamaro, Aviva H",,,263
-220168,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,95,26,7,"Ross, Jenny",,,129
+220168,MATH,Mathematics,075,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,1,0,0,17,5,3,"Gregory, Roberta F","Grad Asst",,26
+220168,MATH,Mathematics,088,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,82,9,5,"Grad Asst",,,96
+220168,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,58,42,5,"Hardwick, John Arthur",,,105
+220168,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,163,87,13,"Calamaro, Aviva H",,,263
+220168,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,95,26,7,"Ross, Jenny",,,129
 220168,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,130,0,0,0,0,5,"Ross, Jenny",,,135
 220168,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",22,30,38,9,21,0,0,0,0,0,0,0,0,0,0,9,"Calamaro, Aviva H",,,129
 220168,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",30,34,40,15,12,0,0,0,2,0,0,0,0,0,0,13,"Ingebretson, Daniel Jordan",,,146

@@ -269,7 +269,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220105,KN,Kinesiology,393,"Undergraduate Internship",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Coumbe'Lilley, John Edward",,,13
 220105,KN,Kinesiology,452,"Adv Exercise Physiology",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",0,2,10,4,3,0,0,0,0,0,0,0,0,0,0,0,"Dugas, Jonathan P.",,,19
 220105,LAS,"Liberal Arts and Sciences",299,"LAS Study Abroad",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,85,0,0,0,0,1,"Ellis, Shannon Leigh",,,86
-220105,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,16,4,2,"Kafka, Calvin C",,,22
+220105,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,16,4,2,"Kafka, Calvin C",,,22
 220105,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",6,4,13,4,4,0,0,0,0,0,0,0,0,0,0,1,"Kafka, Calvin C",,,32
 220105,MATH,Mathematics,160,"Finite Math for Business",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",6,4,5,0,0,0,0,0,0,0,0,0,0,0,0,2,"Doyle, Timothy Michael",,,17
 220105,MATH,Mathematics,160,"Finite Math for Business",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",10,4,4,2,4,0,0,0,0,0,0,0,0,0,0,2,"Lowman, Roy Marsh",,,26

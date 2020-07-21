@@ -1337,10 +1337,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220148,LING,Linguistics,556,"Second Language Learning",FT,"Liberal Arts & Sciences",2714,Linguistics,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Short, Kara Morgan",,,14
 220148,LITH,Lithuanian,115,"Lithuanian Culture",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",22,10,0,0,1,0,0,0,0,0,0,0,0,0,0,1,"Subacius, Giedrius",,,34
 220148,LRSC,"Learning Sciences",540,"Learning Sciences Journal Club",FS,"Graduate College",2480,"Graduate Admin",0,0,0,0,0,0,0,0,0,0,1,0,0,9,0,0,"Radinsky, Joshua Longstreth",,,10
-220148,MATH,Mathematics,75,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,6,0,0,129,6,2,"Gregory, Roberta F","Grad Asst",,144
-220148,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,117,69,10,"Cohen, Elizabeth Bruce",,,196
-220148,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,165,89,12,"Calamaro, Aviva H",,,266
-220148,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,97,29,5,"Doyle, Timothy Michael",,,132
+220148,MATH,Mathematics,075,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,6,0,0,129,6,2,"Gregory, Roberta F","Grad Asst",,144
+220148,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,117,69,10,"Cohen, Elizabeth Bruce",,,196
+220148,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,165,89,12,"Calamaro, Aviva H",,,266
+220148,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,97,29,5,"Doyle, Timothy Michael",,,132
 220148,MATH,Mathematics,118,"Mathematical Reasoning",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",26,32,54,19,28,0,0,0,2,0,1,0,0,0,0,25,"Pantic, Sanja",,,187
 220148,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",6,40,30,8,23,0,0,0,1,0,0,0,0,0,0,38,"Adrovic, Danko",,,146
 220148,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",6,41,46,13,19,0,0,0,0,0,0,0,0,0,0,14,"Calamaro, Aviva H",,,139

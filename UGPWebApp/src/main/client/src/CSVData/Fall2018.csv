@@ -1561,12 +1561,12 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220188,LING,Linguistics,160,"Language and Society",FT,"Liberal Arts & Sciences",2714,Linguistics,14,4,2,0,0,0,0,0,1,0,0,0,0,0,0,1,"Xiang, Xuehua",,,22
 220188,LING,Linguistics,201,"Classic Etymology in Life Sci",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Burns, Krishni Schaefgen",,,14
 220188,LITH,Lithuanian,115,"Lithuanian Culture",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",20,11,4,0,0,0,0,0,0,0,0,0,0,0,0,2,"Subacius, Giedrius",,,37
-220188,MATH,Mathematics,77,"Math Reasoning Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,1,0,0,41,3,2,"Grad Asst",,,48
-220188,MATH,Mathematics,88,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,"Patterson, Terry",,,10
-220188,MATH,Mathematics,88,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,37,15,0,"Grad Asst",,,52
-220188,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,34,10,3,"Ross, Jenny",,,47
-220188,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,75,22,5,"Schubert, Erin Rose",,,102
-220188,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,221,59,12,"Castillo, Gerardo",,,293
+220188,MATH,Mathematics,077,"Math Reasoning Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,1,0,0,41,3,2,"Grad Asst",,,48
+220188,MATH,Mathematics,088,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,"Patterson, Terry",,,10
+220188,MATH,Mathematics,088,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,37,15,0,"Grad Asst",,,52
+220188,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,34,10,3,"Ross, Jenny",,,47
+220188,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,75,22,5,"Schubert, Erin Rose",,,102
+220188,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,221,59,12,"Castillo, Gerardo",,,293
 220188,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",31,20,27,9,8,0,0,0,0,0,2,0,0,0,0,5,"Srikant, Jenny J",,,102
 220188,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",32,19,21,2,8,0,0,0,0,0,0,0,0,0,0,7,"Ross, Jenny",,,89
 220188,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",37,33,33,10,7,0,0,0,0,0,0,0,0,0,0,11,"McNamara, Alycia A",,,131

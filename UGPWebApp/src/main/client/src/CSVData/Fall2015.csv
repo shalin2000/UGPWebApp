@@ -1371,10 +1371,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220158,LING,Linguistics,483,"Methodology/Second Lang Teach",FT,"Liberal Arts & Sciences",2714,Linguistics,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grgurovic, Maja",,,13
 220158,LING,Linguistics,531,"Grammar for TESOL",FT,"Liberal Arts & Sciences",2714,Linguistics,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Williams, Jessica S",,,13
 220158,LITH,Lithuanian,115,"Lithuanian Culture",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",22,19,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Subacius, Giedrius",,,45
-220158,MATH,Mathematics,75,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,29,0,0,161,19,7,"Gregory, Roberta F","Grad Asst",,216
-220158,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,67,25,2,"Ross, Jenny",,,94
-220158,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,85,41,5,"Cohen, Elizabeth Bruce",,,131
-220158,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,233,130,22,"Calamaro, Aviva H",,,385
+220158,MATH,Mathematics,075,"Beginning Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,29,0,0,161,19,7,"Gregory, Roberta F","Grad Asst",,216
+220158,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,67,25,2,"Ross, Jenny",,,94
+220158,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,85,41,5,"Cohen, Elizabeth Bruce",,,131
+220158,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,233,130,22,"Calamaro, Aviva H",,,385
 220158,MATH,Mathematics,118,"Mathematical Reasoning",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",37,47,75,20,28,0,0,0,0,0,0,0,0,0,0,19,"Lowman, Roy Marsh",,,226
 220158,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",15,51,28,10,16,0,0,0,1,0,0,0,0,0,0,20,"Thulin, Frederick A",,,141
 220158,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",26,52,33,9,3,0,0,0,0,0,0,0,0,0,0,10,"Kashcheyeva, Olga S.",,,133

@@ -261,7 +261,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220125,LAS,"Liberal Arts and Sciences",299,"Global Labor,SocJustice& India",FT,"Liberal Arts & Sciences",2410,"LAS Administration",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Reddy, Gayatri","Guevarra, Anna",,10
 220125,LAS,"Liberal Arts and Sciences",299,"LAS Study Abroad",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,"Ellis, Shannon Leigh",,,84
 220125,LING,Linguistics,594,"Internship in TESOL",FT,"Liberal Arts & Sciences",2714,Linguistics,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Grgurovic, Maja",,,10
-220125,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,17,3,1,"Kafka, Calvin C",,,22
+220125,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,17,3,1,"Kafka, Calvin C",,,22
 220125,MATH,Mathematics,121,"Precalculus Mathematics",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",10,10,19,4,1,0,0,0,0,0,0,0,0,0,0,2,"Kafka, Calvin C",,,46
 220125,MATH,Mathematics,160,"Finite Math for Business",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",5,6,8,2,1,0,0,0,0,0,0,0,0,0,0,0,"Cabrera, David S",,,22
 220125,MATH,Mathematics,160,"Finite Math for Business",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",7,5,2,5,2,0,0,0,0,0,0,0,0,0,0,1,"Lowman, Roy Marsh",,,22

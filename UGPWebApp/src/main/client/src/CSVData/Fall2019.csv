@@ -1566,16 +1566,16 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220198,LING,Linguistics,201,"Classic Etymology in Life Sci",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",8,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Burns, Krishni Schaefgen",,,13
 220198,LITH,Lithuanian,115,"Lithuanian Culture",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",13,12,5,0,2,0,0,0,0,0,0,0,0,0,0,3,"Subacius, Giedrius",,,35
 220198,LRSC,"Learning Sciences",540,"Learning Sciences Journal Club",FS,"Graduate College",2480,"Graduate Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,"Superfine, Alison May",,,12
-220198,MATH,Mathematics,77,"Math Reasoning Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,56,4,5,"Grad Asst",,,65
-220198,MATH,Mathematics,88,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,48,22,8,"Grad Asst",,,78
-220198,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,18,12,8,"Dean, Robin",,,38
-220198,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,22,5,1,"Kursell, Anita",,,28
-220198,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,29,10,3,"Fox, Zachary S",,,42
-220198,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,39,9,5,"Barajas, Wilson",,,53
-220198,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,62,12,7,"Castillo, Gerardo",,,81
-220198,MATH,Mathematics,90,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,33,12,1,"Simpson, Gilberto",,,47
-220198,MATH,Mathematics,109," College Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,20,4,0,"Ash, William Ray",,,24
-220198,MATH,Mathematics,109," College Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,108,8,7,"Grad Asst",,,123
+220198,MATH,Mathematics,077,"Math Reasoning Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,56,4,5,"Grad Asst",,,65
+220198,MATH,Mathematics,088,"Intermediate Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,48,22,8,"Grad Asst",,,78
+220198,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,18,12,8,"Dean, Robin",,,38
+220198,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,22,5,1,"Kursell, Anita",,,28
+220198,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,29,10,3,"Fox, Zachary S",,,42
+220198,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,39,9,5,"Barajas, Wilson",,,53
+220198,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,62,12,7,"Castillo, Gerardo",,,81
+220198,MATH,Mathematics,090,"Intermediate Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,1,0,0,0,0,33,12,1,"Simpson, Gilberto",,,47
+220198,MATH,Mathematics,109,"College Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,20,4,0,"Ash, William Ray",,,24
+220198,MATH,Mathematics,109,"College Algebra Workshop",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",0,0,0,0,0,0,0,0,0,0,0,0,0,108,8,7,"Grad Asst",,,123
 220198,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",19,26,18,8,7,0,0,0,0,0,0,0,0,0,0,10,"Steenbergen, John",,,88
 220198,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",28,28,30,16,14,0,0,0,0,0,0,0,0,0,0,8,"Rogers, Sean",,,124
 220198,MATH,Mathematics,110,"College Algebra",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",38,26,27,12,3,0,0,0,0,0,0,0,0,0,0,4,"Diep, Vi B",,,110
