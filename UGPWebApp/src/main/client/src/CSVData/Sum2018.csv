@@ -14,19 +14,19 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220185,AHS,"Applied Health Sciences",299,"AHS Study Abroad",GF,"Applied Health Sciences",2797,"Applied Health Sciences Admin",0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,"Coumbe-Lilley, John Edward",,,14
 220185,ANTH,Anthropology,100,"Human Adventure",FT,"Liberal Arts & Sciences",2841,Anthropology,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"LaMotta, Vincent",,,11
 220185,ANTH,Anthropology,102,"Intro to Archaeology",FT,"Liberal Arts & Sciences",2841,Anthropology,12,10,1,2,0,0,0,0,0,0,0,0,0,0,0,0,"LaMotta, Vincent",,,25
-220185,ASP,"Academic Skills Program",31,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Mielcarek, Stephanie M",,,11
-220185,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,1,"Carson, Jordan Marie",,,11
-220185,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,0,"Stockman, Matthew William Miller",,,11
-220185,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,0,"Bonarek, Rebecca L",,,15
-220185,ASP,"Academic Skills Program",33,"Live, Learn, Grow: Foundation",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,0,"Bonarek, Rebecca L",,,11
-220185,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,2,0,"Duke, Trischa Beth",,,13
-220185,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,16,3,0,"Carson, Jordan Marie",,,19
-220185,ASP,"Academic Skills Program",35,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,0,"Grad Asst",,,13
-220185,ASP,"Academic Skills Program",35,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,11,0,"Duke, Trischa Beth",,,21
-220185,ASP,"Academic Skills Program",35,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,19,12,2,"Stockman, Matthew William Miller",,,33
-220185,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,1,"Carson, Jordan Marie",,,12
-220185,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,"Duke, Trischa Beth",,,12
-220185,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,Grad Asst,,,12
+220185,ASP,"Academic Skills Program",031,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Mielcarek, Stephanie M",,,11
+220185,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,1,"Carson, Jordan Marie",,,11
+220185,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,0,"Stockman, Matthew William Miller",,,11
+220185,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,0,"Bonarek, Rebecca L",,,15
+220185,ASP,"Academic Skills Program",033,"Live, Learn, Grow: Foundation",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,0,"Bonarek, Rebecca L",,,11
+220185,ASP,"Academic Skills Program",034,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,2,0,"Duke, Trischa Beth",,,13
+220185,ASP,"Academic Skills Program",034,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,16,3,0,"Carson, Jordan Marie",,,19
+220185,ASP,"Academic Skills Program",035,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,0,"Grad Asst",,,13
+220185,ASP,"Academic Skills Program",035,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,11,0,"Duke, Trischa Beth",,,21
+220185,ASP,"Academic Skills Program",035,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,19,12,2,"Stockman, Matthew William Miller",,,33
+220185,ASP,"Academic Skills Program",036,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,1,"Carson, Jordan Marie",,,12
+220185,ASP,"Academic Skills Program",036,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,"Duke, Trischa Beth",,,12
+220185,ASP,"Academic Skills Program",036,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,Grad Asst,,,12
 220185,BA,"Business Administration",299,"CBA Study Abroad",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,"Prazza, Angela J",,,21
 220185,BA,"Business Administration",420,"Professional Presence",FL,"Business Administration",2785,"Business Administration Admini",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Popowits, Michael T",,,10
 220185,BA,"Business Administration",589,"Corporate Bus Intern Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,"Anderson, John D",,,77

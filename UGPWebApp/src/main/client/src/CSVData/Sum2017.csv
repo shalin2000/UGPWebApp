@@ -16,11 +16,11 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220175,AHS,"Applied Health Sciences",299,"AHS Study Abroad",GF,"Applied Health Sciences",2797,"Applied Health Sciences Admin",0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,"Coumbe-Lilley, John Edward",,,14
 220175,ANTH,Anthropology,101,"World Cultures",FT,"Liberal Arts & Sciences",2841,Anthropology,9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Doane, Molly",,,14
 220175,ANTH,Anthropology,102,"Intro to Archaeology",FT,"Liberal Arts & Sciences",2841,Anthropology,2,9,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,14
-220175,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,0,"Duke, Trischa Beth",,,13
-220175,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Mielcarek, Stephanie M",,,15
-220175,ASP,"Academic Skills Program",35,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,18,6,0,"Mielcarek, Stephanie M",,,24
-220175,ASP,"Academic Skills Program",38,"English Lab-Natural Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,0,"Grad Asst",,,12
-220175,ASP,"Academic Skills Program",39,"English Lab-Mathematics",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,"Grad Asst",,,39
+220175,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,0,"Duke, Trischa Beth",,,13
+220175,ASP,"Academic Skills Program",034,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Mielcarek, Stephanie M",,,15
+220175,ASP,"Academic Skills Program",035,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,18,6,0,"Mielcarek, Stephanie M",,,24
+220175,ASP,"Academic Skills Program",038,"English Lab-Natural Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,0,"Grad Asst",,,12
+220175,ASP,"Academic Skills Program",039,"English Lab-Mathematics",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,"Grad Asst",,,39
 220175,BA,"Business Administration",589,"Corporate Bus Intern Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,104,0,0,"Sady, Elizabeth Virginia",,,104
 220175,BCMG,"Biochem & Molecular Genetics",599,"PhD Thesis Research",FZ,"Coll Medicine at Chicago - BS",2509,"Biochem & Molecular Genetics",0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,"Katzen, Alisa L","Caffrey, Michael S",,26
 220175,BHIS,"Biomedical &Hlth Info Sciences",405,"Med Sci & Humn Pathophysiology",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",6,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wencel-Drake, June D",,,17
