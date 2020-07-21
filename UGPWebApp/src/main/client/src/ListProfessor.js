@@ -30,18 +30,16 @@ class ListProfessor extends Component {
     ];
   }
 
-  linking() {
-    const printArr = this.state.myData.filter(x => x.CRS_NBR === (this.props.profInfo.CRS_NBR) && x.CRS_SUBJ_CD === (this.props.profInfo.CRS_SUBJ_CD)); 
-    const noDupArr = this.removeDup(printArr, x => x.name1);
-    
-    noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => (
-            <Link
-              key={idx}
-              to={{pathname: "/displayGrades",
-              state: { linkState: data }}}>
-              </Link> 
-          ))
-  }
+  // linking() {
+        
+  //       return <Link
+  //             // key={idx}
+  //             to={{pathname: "/displayGrades",
+  //             state: { linkState: data }}}>
+                
+  //             </Link> 
+
+  // }
 
   render() {    
 
@@ -78,12 +76,12 @@ class ListProfessor extends Component {
           padding: '16px',
           borderRadius: '25%',
           // boxShadow: 'inset 100px 100px 100px #B3DDF2'
-          background: '#AC1E2D'      
+          // background: '#AC1E2D'      
         }}
       >
        
         <div className="card-body" 
-        onClick={this.linking}
+        // onClick={this.linking}
           style={{
             display: 'flex',
             flexDirection: 'column',
@@ -97,8 +95,10 @@ class ListProfessor extends Component {
       to={{pathname: "/displayGrades",
       state: { linkState: data }}}>
          {/* #5b5b5b */}
-            <h3 style={{margin: 0, color: 'white'}}>{data.name1}</h3>
+            <h3 style={{margin: 0, color: '#5b5b5b', textDecoration: 'underline'}}>{data.name1}</h3>
+            
             </Link>
+
 
         </div>
        
