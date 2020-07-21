@@ -95,14 +95,18 @@ class ListProfessor extends Component {
     {noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => (
       <div className="card"
         style={{
-          width: '18rem',
-          height: '18rem',
+          borderRadius: "25%",
+          boxShadow: 'inset 100px 100px 100px 100px lightsteelblue',
+          width: '13rem',
+          height: '12rem',
           margin: '16px',
-          padding: '16px'
+          padding: '8px'
         }}
       >
         <div className="card-body"
           style={{
+            // border: "10px solid cadetblue",
+            borderRadius: "25%",
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
