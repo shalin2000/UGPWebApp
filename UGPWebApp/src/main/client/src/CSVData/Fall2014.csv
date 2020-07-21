@@ -137,9 +137,9 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220148,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Holmes, Brian",,,15
 220148,ASAM,"ZZZ Asian American Studies",125,"Intro Asian Amer Studies",FT,"Liberal Arts & Sciences",2492,English,8,5,3,0,1,0,0,1,0,0,0,0,0,0,0,2,"Fugikawa, Laura S",,,20
 220148,ASAM,"ZZZ Asian American Studies",210,"Asian American Histories",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",15,6,2,0,0,0,0,0,2,0,0,0,0,0,0,0,"Fugikawa, Laura S",,,25
-220148,ASP,"Academic Skills Program",55,"Comm Skls-Intl Grad Students",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,3,"Zenner, Audrey Marsha",,,22
-220148,ASP,"Academic Skills Program",80,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,"Mankus, Terrance A",,,12
-220148,ASP,"Academic Skills Program",95,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,"Zenner, Audrey Marsha",,,19
+220148,ASP,"Academic Skills Program",055,"Comm Skls-Intl Grad Students",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,3,"Zenner, Audrey Marsha",,,22
+220148,ASP,"Academic Skills Program",080,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,"Mankus, Terrance A",,,12
+220148,ASP,"Academic Skills Program",095,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,"Zenner, Audrey Marsha",,,19
 220148,ASST,"ZZZ Asian Studies",109,"East Asian Civ: Ancient China",FT,"Liberal Arts & Sciences",2316,History,14,5,4,0,2,0,0,0,0,0,0,0,0,0,0,3,"Akcetin, Elif",,,28
 220148,ASST,"ZZZ Asian Studies",275,"History of South Asia to 1857",FT,"Liberal Arts & Sciences",2316,History,2,6,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,10
 220148,BA,"Business Administration",100,"Business Admin Orientation",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,0,"Souri, Ranjit",,,20

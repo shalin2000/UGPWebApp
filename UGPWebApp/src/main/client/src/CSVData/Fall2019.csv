@@ -167,25 +167,25 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220198,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Peterman, Dan",,,11
 220198,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Weber, Claudia",,,11
 220198,ART,Art,530,"Advanced Graduate Critique",FR,"Architecture,Design,& the Arts",2583,Art,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Frid, Dianna","Tasset, Anthony Gerard","Majeed, Faheem",18
-220198,ASP,"Academic Skills Program",21,"Workshop for Precal - LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,2,"Mankus, Terrance A",,,19
-220198,ASP,"Academic Skills Program",31,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,0,"Carson, Jordan Marie",,,10
-220198,ASP,"Academic Skills Program",31,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,0,"May, Kristine H",,,10
-220198,ASP,"Academic Skills Program",31,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Bonarek, Rebecca L",,,10
-220198,ASP,"Academic Skills Program",31,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Mielcarek, Stephanie M",,,10
-220198,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,1,"Mielcarek, Stephanie M",,,13
-220198,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,0,"Bonarek, Rebecca L",,,13
-220198,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,0,"Ramsey, Hannah C",,,13
-220198,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,0,"Carson, Jordan Marie",,,15
-220198,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,23,5,0,"Buendia, Jenna Rashel",,,28
-220198,ASP,"Academic Skills Program",33,"Live, Learn, Grow: Foundation",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,13,0,"Mielcarek, Stephanie M",,,22
-220198,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,13,7,0,"Duke, Trischa Beth",,,20
-220198,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,64,26,0,"May, Kristine H",,,90
-220198,ASP,"Academic Skills Program",35,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,1,"Carson, Jordan Marie",,,11
-220198,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,35,32,1,"Buendia, Jenna Rashel",,,68
-220198,ASP,"Academic Skills Program",37,"English Lab-Social Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,31,5,1,"Grad Asst",,,37
-220198,ASP,"Academic Skills Program",80,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,"Mankus, Terrance A",,,17
-220198,ASP,"Academic Skills Program",86,"Crit Rdg/Thinking I-LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,2,0,0,0,0,17,1,0,"Grad Asst",,,20
-220198,ASP,"Academic Skills Program",88,"Intsv Wrtg Wkshp-LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,1,0,0,0,0,15,0,3,"Grad Asst",,,19
+220198,ASP,"Academic Skills Program",021,"Workshop for Precal - LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,2,"Mankus, Terrance A",,,19
+220198,ASP,"Academic Skills Program",031,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,0,"Carson, Jordan Marie",,,10
+220198,ASP,"Academic Skills Program",031,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,0,"May, Kristine H",,,10
+220198,ASP,"Academic Skills Program",031,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Bonarek, Rebecca L",,,10
+220198,ASP,"Academic Skills Program",031,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Mielcarek, Stephanie M",,,10
+220198,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,1,"Mielcarek, Stephanie M",,,13
+220198,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,0,"Bonarek, Rebecca L",,,13
+220198,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,0,"Ramsey, Hannah C",,,13
+220198,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,0,"Carson, Jordan Marie",,,15
+220198,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,23,5,0,"Buendia, Jenna Rashel",,,28
+220198,ASP,"Academic Skills Program",033,"Live, Learn, Grow: Foundation",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,13,0,"Mielcarek, Stephanie M",,,22
+220198,ASP,"Academic Skills Program",034,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,13,7,0,"Duke, Trischa Beth",,,20
+220198,ASP,"Academic Skills Program",034,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,64,26,0,"May, Kristine H",,,90
+220198,ASP,"Academic Skills Program",035,"Live, Learn, Grow: Learn Track",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,1,"Carson, Jordan Marie",,,11
+220198,ASP,"Academic Skills Program",036,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,35,32,1,"Buendia, Jenna Rashel",,,68
+220198,ASP,"Academic Skills Program",037,"English Lab-Social Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,31,5,1,"Grad Asst",,,37
+220198,ASP,"Academic Skills Program",080,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,"Mankus, Terrance A",,,17
+220198,ASP,"Academic Skills Program",086,"Crit Rdg/Thinking I-LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,2,0,0,0,0,17,1,0,"Grad Asst",,,20
+220198,ASP,"Academic Skills Program",088,"Intsv Wrtg Wkshp-LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,1,0,0,0,0,15,0,3,"Grad Asst",,,19
 220198,BA,"Business Administration",100,"Intro UIC & Prof Dev Bus Schlr",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,"Anderson, Stephanie Leigh",,,35
 220198,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,1,"Souri, Ranjit J",,,19
 220198,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,47,8,3,"Anderson, Stephanie Leigh",,,58

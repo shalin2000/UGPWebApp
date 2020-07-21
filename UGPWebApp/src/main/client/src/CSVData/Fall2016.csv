@@ -146,10 +146,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Reynolds, Laurie Jo",,,12
 220168,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Geissler, Beate",,,15
 220168,ART,Art,530,"Advanced Studio Arts & Crit",FR,"Architecture,Design,& the Arts",2583,Art,6,6,1,0,0,0,0,0,1,0,1,0,0,0,0,0,"Stratman, Deborah Renee","Tasset, Anthony Gerard","Malagrino, Silvia A",15
-220168,ASP,"Academic Skills Program",21,"Workshop for Precal - LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Mankus, Terrance A",,,15
-220168,ASP,"Academic Skills Program",62,"Strategies to Finish Strong",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,0,"Baniasad, Bahar",,,10
-220168,ASP,"Academic Skills Program",80,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Mankus, Terrance A",,,15
-220168,ASP,"Academic Skills Program",95,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,2,"Zenner, Audrey Marsha",,,14
+220168,ASP,"Academic Skills Program",021,"Workshop for Precal - LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Mankus, Terrance A",,,15
+220168,ASP,"Academic Skills Program",062,"Strategies to Finish Strong",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,0,"Baniasad, Bahar",,,10
+220168,ASP,"Academic Skills Program",080,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Mankus, Terrance A",,,15
+220168,ASP,"Academic Skills Program",095,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,2,"Zenner, Audrey Marsha",,,14
 220168,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,1,"Nguyen, Tudo",,,33
 220168,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,0,"Thomas, Richard Steven",,,39
 220168,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,56,2,1,"Souri, Ranjit",,,59

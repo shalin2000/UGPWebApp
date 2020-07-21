@@ -157,25 +157,25 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220178,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,"Kaczynski, Kelly F",,,14
 220178,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,9,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"Durgin, Patrick Fred",,,11
 220178,ART,Art,530,"Advanced Graduate Critique",FR,"Architecture,Design,& the Arts",2583,Art,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Raaf, Sabrina Kay","Peterman, Dan","Reynolds, Laurie Jo",16
-220178,ASP,"Academic Skills Program",31,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,0,"Bonarek, Rebecca L",,,15
-220178,ASP,"Academic Skills Program",31,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,13,4,0,"Mielcarek, Stephanie M",,,17
-220178,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,0,"Duke, Trischa Beth",,,10
-220178,ASP,"Academic Skills Program",32,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,21,18,0,"Carson, Jordan Marie",,,39
-220178,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,6,0,"May, Kristine H",,,23
-220178,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0,"Carson, Jordan Marie",,,24
-220178,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,22,3,0,"Duke, Trischa Beth",,,25
-220178,ASP,"Academic Skills Program",34,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,85,20,1,"Lombardo, Heidi Ann",,,106
-220178,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,0,"Duke, Trischa Beth",,,12
-220178,ASP,"Academic Skills Program",36,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,0,"Zenner, Audrey Marsha",,,13
-220178,ASP,"Academic Skills Program",37,"English Lab-Social Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,6,0,"Zenner, Audrey Marsha",,,17
-220178,ASP,"Academic Skills Program",38,"English Lab-Natural Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,1,0,0,17,7,1,"Schroeder, Lianne E",,,26
-220178,ASP,"Academic Skills Program",38,"English Lab-Natural Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,"Grad Asst",,,15
-220178,ASP,"Academic Skills Program",50,Spkg/Rdg/Wrtg-ESL,JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,1,"De Leon, Jose",,,12
-220178,ASP,"Academic Skills Program",55,"Comm Skls-Intl Grad Students",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,"Zenner, Audrey Marsha",,,21
-220178,ASP,"Academic Skills Program",76,"Workshop Interm Algebra -LARES",JB,"Provost & VC Acad Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,1,"Mankus, Terrance A",,,11
-220178,ASP,"Academic Skills Program",80,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Mankus, Terrance A",,,15
-220178,ASP,"Academic Skills Program",86,"Crit Rdg/Thinking I-LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,1,"Grad Asst",,,14
-220178,ASP,"Academic Skills Program",95,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,0,"Zenner, Audrey Marsha",,,12
+220178,ASP,"Academic Skills Program",031,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,0,"Bonarek, Rebecca L",,,15
+220178,ASP,"Academic Skills Program",031,"Engl for Academic Purposes I",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,13,4,0,"Mielcarek, Stephanie M",,,17
+220178,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,0,"Duke, Trischa Beth",,,10
+220178,ASP,"Academic Skills Program",032,"Engl for Academic Purposes II",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,21,18,0,"Carson, Jordan Marie",,,39
+220178,ASP,"Academic Skills Program",034,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,17,6,0,"May, Kristine H",,,23
+220178,ASP,"Academic Skills Program",034,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0,"Carson, Jordan Marie",,,24
+220178,ASP,"Academic Skills Program",034,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,22,3,0,"Duke, Trischa Beth",,,25
+220178,ASP,"Academic Skills Program",034,"Live, Learn, Grow: Bridge",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,85,20,1,"Lombardo, Heidi Ann",,,106
+220178,ASP,"Academic Skills Program",036,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,0,"Duke, Trischa Beth",,,12
+220178,ASP,"Academic Skills Program",036,"English Lab-Humanities",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,0,"Zenner, Audrey Marsha",,,13
+220178,ASP,"Academic Skills Program",037,"English Lab-Social Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,6,0,"Zenner, Audrey Marsha",,,17
+220178,ASP,"Academic Skills Program",038,"English Lab-Natural Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,1,0,0,17,7,1,"Schroeder, Lianne E",,,26
+220178,ASP,"Academic Skills Program",038,"English Lab-Natural Sciences",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,"Grad Asst",,,15
+220178,ASP,"Academic Skills Program",050,Spkg/Rdg/Wrtg-ESL,JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,1,"De Leon, Jose",,,12
+220178,ASP,"Academic Skills Program",055,"Comm Skls-Intl Grad Students",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,"Zenner, Audrey Marsha",,,21
+220178,ASP,"Academic Skills Program",076,"Workshop Interm Algebra -LARES",JB,"Provost & VC Acad Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,1,"Mankus, Terrance A",,,11
+220178,ASP,"Academic Skills Program",080,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Mankus, Terrance A",,,15
+220178,ASP,"Academic Skills Program",086,"Crit Rdg/Thinking I-LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,1,"Grad Asst",,,14
+220178,ASP,"Academic Skills Program",095,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,0,"Zenner, Audrey Marsha",,,12
 220178,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,18,2,0,"Wilson, Jeffrey Crossen",,,20
 220178,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,33,3,2,"Thomas, Richard Steven",,,38
 220178,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,55,1,0,"Popowits, Michael T",,,56
