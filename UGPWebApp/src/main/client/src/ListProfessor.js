@@ -77,19 +77,49 @@ class ListProfessor extends Component {
     //         </div>
     // });
 
-    const displayProfArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => {
-      return <div class="card" style={{width: "18rem", maxHeight: "18rem"}}>
-                <div class="card-body" style={{border: '1px red solid'}}>
-                  <div className="textOnImg">
-                    <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx}>
-                      <img src={pic01} alt="pic01"/>
-                      <h3 class="centered">{data.name1}</h3>
-                    </Link>
-                  </div>
-                </div>
-            </div>     
+    // const displayProfArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => {
+    //   return <div class="card" style={{width: "18rem", maxHeight: "18rem"}}>
+    //             <div class="card-body" style={{border: '1px red solid'}}>
+    //               <div className="textOnImg">
+    //                 <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx}>
+    //                   <img src={pic01} alt="pic01"/>
+    //                   <h3 class="centered">{data.name1}</h3>
+    //                 </Link>
+    //               </div>
+    //             </div>
+    //         </div>     
 
-    });
+    // });
+
+    const displayProfArr = <div className="row" style={{margin: '30px', justifyContent: 'center'}}>
+    {noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => (
+      <div className="card"
+        style={{
+          width: '18rem',
+          height: '18rem',
+          margin: '16px',
+          padding: '16px'
+        }}
+      >
+        <div className="card-body"
+          style={{
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+            justifyContent: 'center',
+            backgroundImage: `url(${pic01})`
+          }}
+        >
+          <Link
+            key={idx}
+            to={{pathname: "/displayGrades",
+            state: { linkState: data }}}>
+            <h3 style={{margin: 0, color: 'white'}}>{data.name1}</h3>
+          </Link>
+        </div>
+      </div>
+    ))}
+  </div>
 
     
 
@@ -100,7 +130,7 @@ class ListProfessor extends Component {
       //     </div>
       //  </div>
       // <div class="container" >
-        <div class="row mt-5 justify-content-center">
+        <div >
           {displayProfArr}
         </div>
       // </div>
