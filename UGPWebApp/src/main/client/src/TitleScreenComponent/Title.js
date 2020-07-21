@@ -139,11 +139,8 @@ class Title extends Component {
                                 <br />
                                 fellow peers are performing&nbsp;
                                 <br />
-                                in hundreds of courses</h2>					
-                            </header>
-
-                            <header className="major container medium">
-                        
+                                in hundreds of courses</h2>	
+                                <br />
                                 <Select
                                     value={this.state.selectedOptionDept}
                                     onChange={this.handleChangeDept}
@@ -161,9 +158,10 @@ class Title extends Component {
                                     onChange={this.handleChangeProf}
                                     options={uniqueProf}
                                     placeholder="Select Professor"
-                                />
-                                
+                                />   				
                             </header>
+
+                            
 
                             {/* Different containers that are button type which allow the users to choose between 3 options */}
                             <div className="box alt container">

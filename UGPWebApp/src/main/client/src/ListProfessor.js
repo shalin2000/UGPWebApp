@@ -30,6 +30,19 @@ class ListProfessor extends Component {
     ];
   }
 
+  linking() {
+    const printArr = this.state.myData.filter(x => x.CRS_NBR === (this.props.profInfo.CRS_NBR) && x.CRS_SUBJ_CD === (this.props.profInfo.CRS_SUBJ_CD)); 
+    const noDupArr = this.removeDup(printArr, x => x.name1);
+    
+    noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => (
+            <Link
+              key={idx}
+              to={{pathname: "/displayGrades",
+              state: { linkState: data }}}>
+              </Link> 
+          ))
+  }
+
   render() {    
 
     // filters the array so the new array contains only the professor that match the CRS_TITLE that was passed in as the prop (TITLE) from DisplayProfessor
@@ -53,74 +66,42 @@ class ListProfessor extends Component {
     //   </div>
     // });
 
-    // map the array which then returns the course number and course title
-    // const displayProfArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => {
-    //   return <div class="col-md-3 font-work-sans" style={{padding: "0px 0px 20px"}}>
-    //             <div class="textOnImg">
-    //               <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx}>
-    //                 <img src={pic01} alt="pic01"/>
-    //                 <h3 class="centered">{data.name1}</h3>
-    //               </Link>
-    //             </div>
-    //         </div>
-    // });
-
-    // map the array which then returns the course number and course title
-    // const displayProfArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => {
-    //   return <div class="card card-custom mx-2 mb-3">
-    //             <div class="textOnImg">
-    //               <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx}>
-    //                 <img src={pic01} alt="pic01"/>
-    //                 <h3 class="centered">{data.name1}</h3>
-    //               </Link>
-    //             </div>
-    //         </div>
-    // });
-
-    // const displayProfArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => {
-    //   return <div class="card" style={{width: "18rem", maxHeight: "18rem"}}>
-    //             <div class="card-body" style={{border: '1px red solid'}}>
-    //               <div className="textOnImg">
-    //                 <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx}>
-    //                   <img src={pic01} alt="pic01"/>
-    //                   <h3 class="centered">{data.name1}</h3>
-    //                 </Link>
-    //               </div>
-    //             </div>
-    //         </div>     
-
-    // });
-
     const displayProfArr = <div className="row" style={{margin: '30px', justifyContent: 'center'}}>
     {noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => (
+      
+
       <div className="card"
         style={{
-          borderRadius: "25%",
-          boxShadow: 'inset 100px 100px 100px 100px lightsteelblue',
-          width: '13rem',
-          height: '12rem',
+          width: '14rem',
+          height: '14rem',
           margin: '16px',
-          padding: '8px'
+          padding: '16px',
+          borderRadius: '25%',
+          // boxShadow: 'inset 100px 100px 100px #B3DDF2'
+          background: '#AC1E2D'      
         }}
       >
-        <div className="card-body"
+       
+        <div className="card-body" 
+        onClick={this.linking}
           style={{
-            // border: "10px solid cadetblue",
-            borderRadius: "25%",
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
             justifyContent: 'center',
-            backgroundImage: `url(${pic01})`
+            // backgroundImage: `url(${pic01})`
           }}
         >
           <Link
-            key={idx}
-            to={{pathname: "/displayGrades",
-            state: { linkState: data }}}>
+      key={idx}
+      to={{pathname: "/displayGrades",
+      state: { linkState: data }}}>
+         {/* #5b5b5b */}
             <h3 style={{margin: 0, color: 'white'}}>{data.name1}</h3>
-          </Link>
+            </Link>
+
         </div>
+       
       </div>
     ))}
   </div>
@@ -133,18 +114,10 @@ class ListProfessor extends Component {
       //       {displayProfArr}
       //     </div>
       //  </div>
-      // <div class="container" >
         <div >
           {displayProfArr}
         </div>
-      // </div>
-      // <div class="card" style={{width: "18rem"}}>
-      //   <div class="card-body">
-      //     <h5 class="card-title">Special title treatment</h5>
-      //     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-      //     <a href="#" class="btn btn-primary">Go somewhere</a>
-      //   </div>
-      // </div>
+
     );
   }
 
