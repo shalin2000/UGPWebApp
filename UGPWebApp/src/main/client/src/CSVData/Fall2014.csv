@@ -773,18 +773,18 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220148,ENER,"Energy Engineering",429,"Internal Combustion Engines",FQ,Engineering,2323,"Mechanical & Industrial Engr",6,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Baranescu, Rodica A",,,13
 220148,ENER,"Energy Engineering",501,"Engineering Project Coord",FQ,Engineering,2323,"Mechanical & Industrial Engr",24,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Wolfman, Howard L.",,,27
 220148,ENER,"Energy Engineering",553,"Sustainable Energy",FQ,Engineering,2323,"Mechanical & Industrial Engr",19,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A",,,24
-220148,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,0,"Drown, James Remick",,,12
-220148,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3,1,"Young, Andrew P.",,,14
-220148,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2,0,"Williams, Charitianne",,,15
-220148,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,21,5,2,"Romeo, Robert R.",,,28
-220148,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,0,"Drown, James Remick",,,17
-220148,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,31,3,1,"Boulay, Katherine",,,35
-220148,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,32,1,2,"Grad Asst",,,35
-220148,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,1,"Glomski, Christopher C",,,45
-220148,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,43,3,0,"Petrovic, Robin Carole",,,46
-220148,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,48,4,1,"Krall, Aaron Richard",,,53
-220148,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,1,0,0,0,0,10,0,2,"Aleksa, Vainis",,,13
-220148,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,4,0,0,0,0,0,8,0,3,"O'Hara, Mary Ellen",,,15
+220148,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,0,"Drown, James Remick",,,12
+220148,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3,1,"Young, Andrew P.",,,14
+220148,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2,0,"Williams, Charitianne",,,15
+220148,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,21,5,2,"Romeo, Robert R.",,,28
+220148,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,0,"Drown, James Remick",,,17
+220148,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,31,3,1,"Boulay, Katherine",,,35
+220148,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,32,1,2,"Grad Asst",,,35
+220148,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,1,"Glomski, Christopher C",,,45
+220148,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,43,3,0,"Petrovic, Robin Carole",,,46
+220148,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,48,4,1,"Krall, Aaron Richard",,,53
+220148,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,1,0,0,0,0,10,0,2,"Aleksa, Vainis",,,13
+220148,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,4,0,0,0,0,0,8,0,3,"O'Hara, Mary Ellen",,,15
 220148,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,31,22,4,1,2,0,0,0,0,0,1,0,0,0,0,4,"Grad Asst",,,65
 220148,ENGL,English,102,"Introduction to Film",FT,"Liberal Arts & Sciences",2492,English,13,7,5,1,2,0,0,0,0,0,0,0,0,0,0,2,"Dancey, Angela C",,,30
 220148,ENGL,English,103,"English & American Poetry",FT,"Liberal Arts & Sciences",2492,English,5,13,1,1,1,0,0,0,0,0,0,0,0,0,0,2,"Cox, Nicole Dyan",,,23

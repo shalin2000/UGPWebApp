@@ -13,14 +13,18 @@ class Title extends Component {
     constructor(props) {
         super(props);
         this.state = {
+            // For the contact form
             show: false,
             name: '',
             email: '',
             message: '',
+            // For the quick search dropdown
             selectedOptionDept: null,
             selectedOptionProf: null,
             selectedOptionCrsNbr: null,
             myData: [],
+            btnDisable: true,
+            courseSelected: {},
         };
         this.submitContactForm = this.submitContactForm.bind(this);
         this.formChange = this.formChange.bind(this);
@@ -29,6 +33,7 @@ class Title extends Component {
         this.handleChangeProf = this.handleChangeProf.bind(this);
     }
 
+    // when component mounts it stores data from the csv to the myData state
     componentDidMount(){
         d3.csv(data).then(data => {
             this.setState({ myData: data });
@@ -66,16 +71,28 @@ class Title extends Component {
         });
     };
 
+    // when item is selected in DEPT dropdown it sets the state
     handleChangeDept = selectedOptionDept => {
-        this.setState({selectedOptionDept: selectedOptionDept})
+        this.setState(
+          { selectedOptionDept },
+          () => console.log(`Option selected:`, this.state.selectedOptionDept)
+        );
     };
 
+    // when item is selected in CRS_NBR dropdown it sets the state
     handleChangeCrsNbr = selectedOptionCrsNbr => {
-        this.setState({selectedOptionCrsNbr: selectedOptionCrsNbr})
+        this.setState(
+          { selectedOptionCrsNbr },
+          () => console.log(`Option selected:`, this.state.selectedOptionCrsNbr)
+        );
     };
 
+    // when item is selected in PROF dropdown it sets the state
     handleChangeProf = selectedOptionProf => {
-        this.setState({selectedOptionProf: selectedOptionProf})
+        this.setState(
+          { selectedOptionProf },
+          () => console.log(`Option selected:`, this.state.selectedOptionProf)
+        );
     };
 
     // Removes the duplicate value in the object
@@ -87,31 +104,33 @@ class Title extends Component {
         ];
     }
 
+    // when all the dropdown have been selected, it will filter the data to the one that was chosen and remove the dup and 
+    // set the state of the single object data which can be used to send as prop
+    dropDownSelected(){
+        let filteredArr = this.state.myData.filter(x => (x.CRS_NBR === (this.state.selectedOptionCrsNbr.label)) && 
+                                                    (x.CRS_SUBJ_DESC === (this.state.selectedOptionDept.label)) && 
+                                                    (x.name1 === (this.state.selectedOptionProf.label)))
+        let removedDupArr = this.removeDup(filteredArr, x => x.name1)
+        let data = removedDupArr[0]
+        this.setState({btnDisable: false, courseSelected: data})
+    }
+
     render(){
         var today = new Date();
 
         var year = today.getFullYear();
         
-        let deptArr = this.state.myData.map(a => ({label: a.DEPT_NAME}));
-        let uniqueDept = this.removeDup(deptArr, x => x.label);
+        // maps the deptArr with only CRS_SUBJ_DESC element and has key name called label for the dropdown and removes duplicates
+        let deptArr = this.state.myData.map(a => ({label: a.CRS_SUBJ_DESC}));
+        let uniqueDept = this.removeDup(deptArr, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1);
 
+        // maps the crsNbrArr with only CRS_NBR element and has key name called label for the dropdown and removes duplicates
         let courseNbrArr = this.state.myData.map(a => ({label: a.CRS_NBR}));
-        let uniqueCrsNbr = this.removeDup(courseNbrArr, x => x.label);
+        let uniqueCrsNbr = this.removeDup(courseNbrArr, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1);
 
+        // maps the profArr with only name1 element and has key name called label for the dropdown and removes duplicates
         let profArr = this.state.myData.map(a => ({label: a.name1}));
-        let uniqueProf = this.removeDup(profArr, x => x.label);
-
-        // const options = [
-        //     { value: 'chocolate', label: 'Chocolate' },
-        //     { value: 'strawberry', label: 'Strawberry' },
-        //     { value: 'vanilla', label: 'Vanilla' },
-        //     { value: 'vanilla', label: 'Vanilla' },
-        //   ];
-
-        // let testArr = options.map(a => a.value);
-        // console.log(test)
-        // let uniqueTest = [...new Set(test)];
-        // console.log(uniqueTest)
+        let uniqueProf = this.removeDup(profArr, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1);
 
         return (
             <div>
@@ -139,8 +158,10 @@ class Title extends Component {
                                 <br />
                                 fellow peers are performing&nbsp;
                                 <br />
-                                in hundreds of courses</h2>	
+                                in hundreds of courses</h2>		
                                 <br />
+                                
+                                {/* dropdown for easy select with 3 dropdowns */}
                                 <Select
                                     value={this.state.selectedOptionDept}
                                     onChange={this.handleChangeDept}
@@ -158,10 +179,13 @@ class Title extends Component {
                                     onChange={this.handleChangeProf}
                                     options={uniqueProf}
                                     placeholder="Select Professor"
-                                />   				
+                                />
+                                {/* checks if each dropdown is filled and if filled then allows submit button */}
+                                {(this.state.selectedOptionDept !== null) && (this.state.selectedOptionCrsNbr !== null) && (this.state.selectedOptionProf !== null) && (this.state.btnDisable===true) ? this.dropDownSelected() : null}
+                                {/* when submit button pressed it links to displayGrade page with the correct data */}
+                                <Link to={{pathname: "/displayGrades", state: { linkState: this.state.courseSelected }}}> <button disabled={this.state.btnDisable}>Find</button></Link>
+			
                             </header>
-
-                            
 
                             {/* Different containers that are button type which allow the users to choose between 3 options */}
                             <div className="box alt container">

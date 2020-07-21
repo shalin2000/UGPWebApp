@@ -878,16 +878,16 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220188,ENER,"Energy Engineering",424,"Energy Mgmt & Conservation",FQ,Engineering,2323,"Mechanical & Industrial Engr",15,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A",,,17
 220188,ENER,"Energy Engineering",501,"Engineering Project Coord",FQ,Engineering,2323,"Mechanical & Industrial Engr",5,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A","Gawel, Jeffrey",,12
 220188,ENER,"Energy Engineering",553,"Sustainable Energy",FQ,Engineering,2323,"Mechanical & Industrial Engr",20,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A",,,23
-220188,ENGL,English,60,"ESL Composition II",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,1,0,0,0,0,0,10,1,0,"Sheldon, Douglas Harold",,,12
-220188,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,0,"He, Ling",,,12
-220188,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,12,2,0,"Williams, Charitianne",,,14
-220188,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,"Young, Andrew P.",,,16
-220188,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,21,8,2,"Sheldon, Douglas Harold",,,31
-220188,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,0,"Grad Asst",,,12
-220188,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,2,"Young, Andrew P.",,,18
-220188,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,20,7,2,"Glomski, Christopher C",,,29
-220188,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,22,6,3,"Rush, Samuel",,,31
-220188,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,5,0,0,31,4,6,"Gayle, Robin Carole Petrovic",,,46
+220188,ENGL,English,060,"ESL Composition II",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,1,0,0,0,0,0,10,1,0,"Sheldon, Douglas Harold",,,12
+220188,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,0,"He, Ling",,,12
+220188,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,12,2,0,"Williams, Charitianne",,,14
+220188,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,"Young, Andrew P.",,,16
+220188,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,21,8,2,"Sheldon, Douglas Harold",,,31
+220188,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,0,"Grad Asst",,,12
+220188,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,2,"Young, Andrew P.",,,18
+220188,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,20,7,2,"Glomski, Christopher C",,,29
+220188,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,22,6,3,"Rush, Samuel",,,31
+220188,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,5,0,0,31,4,6,"Gayle, Robin Carole Petrovic",,,46
 220188,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,9,8,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Buslik, Gary",,,21
 220188,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,11,7,3,2,0,0,0,0,0,0,0,0,0,0,0,1,"Whalen, Terence James",,,24
 220188,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,14,2,0,0,1,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,21

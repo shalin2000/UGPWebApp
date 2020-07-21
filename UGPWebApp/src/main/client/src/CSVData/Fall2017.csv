@@ -828,17 +828,17 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220178,ENER,"Energy Engineering",501,"Engineering Project Coord",FQ,Engineering,2323,"Mechanical & Industrial Engr",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wolfman, Howard L",,,16
 220178,ENER,"Energy Engineering",553,"Sustainable Energy",FQ,Engineering,2323,"Mechanical & Industrial Engr",15,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A",,,18
 220178,ENER,"Energy Engineering",554,"Nuclear Power Generation",FQ,Engineering,2323,"Mechanical & Industrial Engr",6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grelle, Austin L","Ryan, William A","Aker, Rock",11
-220178,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,0,"Drown, James Remick",,,12
-220178,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Williams, Charitianne",,,15
-220178,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,37,3,0,"Young, Andrew P.",,,40
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,11,5,1,"Grad Asst",,,17
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,0,"Saravia, Lydia A.",,,17
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,1,"O'Hara, Mary Ellen",,,18
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,16,2,0,"Aleksa, Vainis",,,18
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,1,"Rush, Samuel",,,18
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,30,5,1,"Boulay, Katherine",,,36
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,37,8,5,"Glomski, Christopher C",,,50
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,39,5,7,"Gayle, Robin Carole Petrovic",,,51
+220178,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,0,"Drown, James Remick",,,12
+220178,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Williams, Charitianne",,,15
+220178,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,37,3,0,"Young, Andrew P.",,,40
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,11,5,1,"Grad Asst",,,17
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,0,"Saravia, Lydia A.",,,17
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,1,"O'Hara, Mary Ellen",,,18
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,16,2,0,"Aleksa, Vainis",,,18
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,1,"Rush, Samuel",,,18
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,30,5,1,"Boulay, Katherine",,,36
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,37,8,5,"Glomski, Christopher C",,,50
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,39,5,7,"Gayle, Robin Carole Petrovic",,,51
 220178,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,12,5,3,2,0,0,0,0,0,0,0,0,0,0,0,1,"Buslik, Gary",,,23
 220178,ENGL,English,102,"Introduction to Film",FT,"Liberal Arts & Sciences",2492,English,12,7,5,0,5,0,0,0,0,0,0,0,0,0,0,1,"Dancey, Angela C",,,30
 220178,ENGL,English,103,"English & American Poetry",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,"Grad Asst",,,23

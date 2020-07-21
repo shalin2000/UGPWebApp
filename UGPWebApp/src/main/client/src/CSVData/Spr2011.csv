@@ -709,8 +709,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220111,ENER,"Energy Engineering",422,"Building HVAC",FQ,Engineering,2323,"Mechanical & Industrial Engr",8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A",,,12
 220111,ENER,"Energy Engineering",451,"Electric Power Generation",FQ,Engineering,2323,"Mechanical & Industrial Engr",17,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A",,,24
 220111,ENER,"Energy Engineering",552,"Design of Efficient Buildings",FQ,Engineering,2323,"Mechanical & Industrial Engr",17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A","Manaves, John G",,18
-220111,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,0,"Romeo, Robert R.",,,10
-220111,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,25,6,5,"Marincic, David John",,,36
+220111,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,0,"Romeo, Robert R.",,,10
+220111,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,25,6,5,"Marincic, David John",,,36
 220111,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,10,3,1,1,1,0,0,0,0,0,0,0,0,0,0,7,"Jenks, Philip W",,,23
 220111,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,16,5,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"Sherfinski, Todd",,,24
 220111,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,17,3,0,0,1,0,0,0,0,0,0,0,0,0,0,1,"Grunow, Scott Alexander",,,22

@@ -5826,44 +5826,44 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,ENER,"Energy Engineering",555,"Energy Markets and Contracting",FQ,Engineering,2323,"Mechanical & Industrial Engr",8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A","Hemphill, Ross C","Pruitt, Mark John",10
 220171,ENER,"Energy Engineering",594,"Current Topics in Energy Engr",FQ,Engineering,2323,"Mechanical & Industrial Engr",11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Ryan, William A","Pruitt, Mark John",,17
 220181,ENER,"Energy Engineering",594,"Current Topics in Energy Engr",FQ,Engineering,2323,"Mechanical & Industrial Engr",7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Ryan, William A","Hemphill, Ross C","Pruitt, Mark John",13
-220188,ENGL,English,60,"ESL Composition II",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,1,0,0,0,0,0,10,1,0,"Sheldon, Douglas Harold",,,12
-220198,ENGL,English,60,"ESL Composition II",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,"Williams, Charitianne",,,14
-220171,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,1,"Williams, Charitianne",,,15
-220178,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,0,"Drown, James Remick",,,12
-220178,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Williams, Charitianne",,,15
-220178,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,37,3,0,"Young, Andrew P.",,,40
-220181,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,7,2,"Sheldon, Douglas Harold",,,22
-220188,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,0,"He, Ling",,,12
-220188,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,12,2,0,"Williams, Charitianne",,,14
-220188,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,"Young, Andrew P.",,,16
-220188,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,21,8,2,"Sheldon, Douglas Harold",,,31
-220191,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,1,"Williams, Charitianne",,,15
-220198,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,1,"Drown, James Remick",,,13
-220198,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,1,"Hayden, Amy L",,,15
-220198,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,26,3,0,"He, Ling",,,29
-220201,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,2,"He, Ling",,,14
-220201,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,1,"Young, Andrew P.",,,15
-220171,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,2,"Young, Andrew P.",,,32
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,11,5,1,"Grad Asst",,,17
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,0,"Saravia, Lydia A.",,,17
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,1,"O'Hara, Mary Ellen",,,18
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,16,2,0,"Aleksa, Vainis",,,18
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,1,"Rush, Samuel",,,18
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,30,5,1,"Boulay, Katherine",,,36
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,37,8,5,"Glomski, Christopher C",,,50
-220178,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,39,5,7,"Gayle, Robin Carole Petrovic",,,51
-220181,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,25,4,5,"Drown, James Remick",,,34
-220188,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,0,"Grad Asst",,,12
-220188,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,2,"Young, Andrew P.",,,18
-220188,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,20,7,2,"Glomski, Christopher C",,,29
-220188,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,22,6,3,"Rush, Samuel",,,31
-220188,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,5,0,0,31,4,6,"Gayle, Robin Carole Petrovic",,,46
-220191,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,2,"Gayle, Robin Carole Petrovic",,,11
-220198,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,2,"Glomski, Christopher C",,,18
-220198,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,2,"Young, Andrew P.",,,18
-220198,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,31,20,2,"O'Hara, Mary Ellen",,,53
-220198,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,45,5,3,"Gayle, Robin Carole Petrovic",,,53
-220201,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,12,5,1,"Gayle, Robin Carole Petrovic",,,18
+220188,ENGL,English,060,"ESL Composition II",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,1,0,0,0,0,0,10,1,0,"Sheldon, Douglas Harold",,,12
+220198,ENGL,English,060,"ESL Composition II",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,"Williams, Charitianne",,,14
+220171,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,1,"Williams, Charitianne",,,15
+220178,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,0,"Drown, James Remick",,,12
+220178,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Williams, Charitianne",,,15
+220178,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,37,3,0,"Young, Andrew P.",,,40
+220181,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,7,2,"Sheldon, Douglas Harold",,,22
+220188,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,0,"He, Ling",,,12
+220188,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,12,2,0,"Williams, Charitianne",,,14
+220188,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,"Young, Andrew P.",,,16
+220188,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,21,8,2,"Sheldon, Douglas Harold",,,31
+220191,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,1,"Williams, Charitianne",,,15
+220198,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,1,"Drown, James Remick",,,13
+220198,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,1,"Hayden, Amy L",,,15
+220198,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,26,3,0,"He, Ling",,,29
+220201,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,2,"He, Ling",,,14
+220201,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,1,"Young, Andrew P.",,,15
+220171,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,2,"Young, Andrew P.",,,32
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,11,5,1,"Grad Asst",,,17
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,0,"Saravia, Lydia A.",,,17
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,1,"O'Hara, Mary Ellen",,,18
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,16,2,0,"Aleksa, Vainis",,,18
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,1,"Rush, Samuel",,,18
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,30,5,1,"Boulay, Katherine",,,36
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,37,8,5,"Glomski, Christopher C",,,50
+220178,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,39,5,7,"Gayle, Robin Carole Petrovic",,,51
+220181,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,25,4,5,"Drown, James Remick",,,34
+220188,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,0,"Grad Asst",,,12
+220188,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,2,"Young, Andrew P.",,,18
+220188,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,20,7,2,"Glomski, Christopher C",,,29
+220188,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,22,6,3,"Rush, Samuel",,,31
+220188,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,5,0,0,31,4,6,"Gayle, Robin Carole Petrovic",,,46
+220191,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,2,"Gayle, Robin Carole Petrovic",,,11
+220198,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,2,"Glomski, Christopher C",,,18
+220198,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,2,"Young, Andrew P.",,,18
+220198,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,31,20,2,"O'Hara, Mary Ellen",,,53
+220198,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,45,5,3,"Gayle, Robin Carole Petrovic",,,53
+220201,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,12,5,1,"Gayle, Robin Carole Petrovic",,,18
 220171,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,10,9,0,0,3,0,0,0,0,0,0,0,0,0,0,1,"Aleksa, Vainis",,,23
 220171,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,15,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Sherfinski, Todd",,,20
 220178,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,12,5,3,2,0,0,0,0,0,0,0,0,0,0,0,1,"Buslik, Gary",,,23

@@ -792,15 +792,15 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220158,ENER,"Energy Engineering",501,"Engineering Project Coord",FQ,Engineering,2323,"Mechanical & Industrial Engr",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wolfman, Howard L.",,,20
 220158,ENER,"Energy Engineering",553,"Sustainable Energy",FQ,Engineering,2323,"Mechanical & Industrial Engr",18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Ryan, William A",,,24
 220158,ENER,"Energy Engineering",554,"Nuclear Power Generation",FQ,Engineering,2323,"Mechanical & Industrial Engr",7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Braun, Joseph C","Ryan, William A","Lindley, Roy",11
-220158,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,0,"Young, Andrew P.",,,14
-220158,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,"Drown, James Remick",,,13
-220158,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,31,5,0,"Romeo, Robert R.",,,36
-220158,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,2,"Christian, Margena A",,,14
-220158,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,21,7,2,"Boulay, Katherine",,,30
-220158,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,26,4,1,"Glomski, Christopher C",,,31
-220158,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,26,5,1,"Krall, Aaron Richard",,,32
-220158,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,28,4,1,"Khoury, Nicole",,,33
-220158,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,35,5,1,"Gayle, Robin Carole Petrovic",,,41
+220158,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,0,"Young, Andrew P.",,,14
+220158,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,"Drown, James Remick",,,13
+220158,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,31,5,0,"Romeo, Robert R.",,,36
+220158,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,2,"Christian, Margena A",,,14
+220158,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,21,7,2,"Boulay, Katherine",,,30
+220158,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,26,4,1,"Glomski, Christopher C",,,31
+220158,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,26,5,1,"Krall, Aaron Richard",,,32
+220158,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,28,4,1,"Khoury, Nicole",,,33
+220158,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,35,5,1,"Gayle, Robin Carole Petrovic",,,41
 220158,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,14,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Buslik, Gary",,,22
 220158,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,20,17,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,43
 220158,ENGL,English,102,"Introduction to Film",FT,"Liberal Arts & Sciences",2492,English,18,6,4,1,1,0,0,0,0,0,0,0,0,0,0,0,"Dancey, Angela C",,,30

@@ -727,8 +727,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220101,ENER,"Energy Engineering",422,"Building HVAC",FQ,Engineering,2323,"Mechanical & Industrial Engr",12,9,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Ryan, William A",,,23
 220101,ENER,"Energy Engineering",451,"Electric Power Generation",FQ,Engineering,2323,"Mechanical & Industrial Engr",12,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A",,,17
 220101,ENER,"Energy Engineering",552,"Design of Efficient Buildings",FQ,Engineering,2323,"Mechanical & Industrial Engr",21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A","Manaves, John G",,21
-220101,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,16,6,1,"Williams, Charitianne","Romeo, Robert R.",,23
-220101,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,1,0,0,17,7,2,"Culliton, Patrick",,,27
+220101,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,16,6,1,"Williams, Charitianne","Romeo, Robert R.",,23
+220101,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,1,0,0,17,7,2,"Culliton, Patrick",,,27
 220101,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,4,6,5,1,2,0,0,0,0,0,0,0,0,0,0,1,"Lamm, Zachary N",,,19
 220101,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,15,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Baez, Marc J",,,18
 220101,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,16,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sherfinski, Todd",,,20

@@ -775,8 +775,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220171,ENER,"Energy Engineering",451,"Electric Power Generation",FQ,Engineering,2323,"Mechanical & Industrial Engr",16,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Ryan, William A",,,21
 220171,ENER,"Energy Engineering",552,"Design of Efficient Buildings",FQ,Engineering,2323,"Mechanical & Industrial Engr",11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Ryan, William A",,,17
 220171,ENER,"Energy Engineering",594,"Current Topics in Energy Engr",FQ,Engineering,2323,"Mechanical & Industrial Engr",11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Ryan, William A","Pruitt, Mark John",,17
-220171,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,1,"Williams, Charitianne",,,15
-220171,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,2,"Young, Andrew P.",,,32
+220171,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,1,"Williams, Charitianne",,,15
+220171,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,2,"Young, Andrew P.",,,32
 220171,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,10,9,0,0,3,0,0,0,0,0,0,0,0,0,0,1,"Aleksa, Vainis",,,23
 220171,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,15,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Sherfinski, Todd",,,20
 220171,ENGL,English,102,"Introduction to Film",FT,"Liberal Arts & Sciences",2492,English,6,4,4,1,0,0,0,0,0,0,0,0,0,0,0,1,"Grey, Robin Sandra",,,16

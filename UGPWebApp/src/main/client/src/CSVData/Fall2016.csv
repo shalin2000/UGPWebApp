@@ -800,14 +800,14 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,ENER,"Energy Engineering",501,"Engineering Project Coord",FQ,Engineering,2323,"Mechanical & Industrial Engr",17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wolfman, Howard L.",,,17
 220168,ENER,"Energy Engineering",553,"Sustainable Energy",FQ,Engineering,2323,"Mechanical & Industrial Engr",18,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A",,,21
 220168,ENER,"Energy Engineering",554,"Nuclear Power Generation",FQ,Engineering,2323,"Mechanical & Industrial Engr",8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grelle, Austin L","Ryan, William A",,14
-220168,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,0,"Williams, Charitianne",,,14
-220168,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2,0,"Drown, James Remick",,,15
-220168,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,33,8,1,"Young, Andrew P.",,,42
-220168,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2,0,"Aleksa, Vainis",,,15
-220168,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,26,7,3,"Parr, Katherine A.",,,36
-220168,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,40,5,4,"Glomski, Christopher C",,,49
-220168,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,44,7,2,"Khoury, Nicole",,,53
-220168,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,45,7,2,"Gayle, Robin Carole Petrovic",,,54
+220168,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,0,"Williams, Charitianne",,,14
+220168,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2,0,"Drown, James Remick",,,15
+220168,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,33,8,1,"Young, Andrew P.",,,42
+220168,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2,0,"Aleksa, Vainis",,,15
+220168,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,26,7,3,"Parr, Katherine A.",,,36
+220168,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,40,5,4,"Glomski, Christopher C",,,49
+220168,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,44,7,2,"Khoury, Nicole",,,53
+220168,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,45,7,2,"Gayle, Robin Carole Petrovic",,,54
 220168,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Baez, Marc J",,,24
 220168,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,24,8,0,3,4,0,0,2,0,0,0,0,0,0,0,6,"Grad Asst",,,47
 220168,ENGL,English,102,"Introduction to Film",FT,"Liberal Arts & Sciences",2492,English,12,8,3,2,0,0,0,0,0,0,0,0,0,0,0,1,"Dancey, Angela C",,,26

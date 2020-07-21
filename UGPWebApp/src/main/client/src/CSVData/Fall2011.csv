@@ -753,14 +753,14 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220118,ENER,"Energy Engineering",501,"Engineering Project Coord",FQ,Engineering,2323,"Mechanical & Industrial Engr",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wolfman, Howard L.",,,20
 220118,ENER,"Energy Engineering",553,"Sustainable Energy",FQ,Engineering,2323,"Mechanical & Industrial Engr",14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Ryan, William A",,,18
 220118,ENER,"Energy Engineering",554,"Nuclear Power Generation",FQ,Engineering,2323,"Mechanical & Industrial Engr",11,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Stephenson, Peter N","Ryan, William A",,18
-220118,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,2,"Williams, Charitianne",,,19
-220118,ENGL,English,70,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,20,7,4,"Romeo, Robert R.",,,31
-220118,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,"Glomski, Christopher C",,,16
-220118,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,29,4,2,"Petrovic, Robin Carole",,,35
-220118,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,42,5,5,"Drown, James Remick",,,52
-220118,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,3,"Baez, Marc J",,,53
-220118,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,53,1,0,"Krall, Aaron Richard",,,54
-220118,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,18,0,0,15,0,2,"Culliton, Patrick",,,35
+220118,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,2,"Williams, Charitianne",,,19
+220118,ENGL,English,070,"Intro to Acad Writing Nonnat",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,20,7,4,"Romeo, Robert R.",,,31
+220118,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,"Glomski, Christopher C",,,16
+220118,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,29,4,2,"Petrovic, Robin Carole",,,35
+220118,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,42,5,5,"Drown, James Remick",,,52
+220118,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,3,"Baez, Marc J",,,53
+220118,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,53,1,0,"Krall, Aaron Richard",,,54
+220118,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,18,0,0,15,0,2,"Culliton, Patrick",,,35
 220118,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,7,4,2,1,1,0,0,0,1,0,0,0,0,0,0,1,"Buslik, Gary",,,17
 220118,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,48,29,7,3,4,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,94
 220118,ENGL,English,102,"Introduction to Film",FT,"Liberal Arts & Sciences",2492,English,13,11,1,0,0,0,0,0,0,0,0,0,0,0,0,2,"Dancey, Angela C",,,27

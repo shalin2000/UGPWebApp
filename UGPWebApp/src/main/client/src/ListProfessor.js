@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import './DisplayDept.css';
 import * as d3 from 'd3';
 import data from './CSVData/10Year.csv';
-import pic01 from "./TitleScreenComponent/images/Investortools-SS-Site-solid-1px-darkblue@2x.png"
+// import pic01 from "./TitleScreenComponent/images/Investortools-SS-Site-solid-1px-darkblue@2x.png"
 import { Link } from "react-router-dom";
 
 class ListProfessor extends Component {

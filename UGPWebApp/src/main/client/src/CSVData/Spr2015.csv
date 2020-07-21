@@ -767,7 +767,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220151,ENER,"Energy Engineering",422,"Building HVAC",FQ,Engineering,2323,"Mechanical & Industrial Engr",12,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A",,,20
 220151,ENER,"Energy Engineering",451,"Electric Power Generation",FQ,Engineering,2323,"Mechanical & Industrial Engr",18,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A",,,23
 220151,ENER,"Energy Engineering",552,"Design of Efficient Buildings",FQ,Engineering,2323,"Mechanical & Industrial Engr",19,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A","Manaves, John G",,27
-220151,ENGL,English,71,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,0,"Grad Asst",,,11
+220151,ENGL,English,071,"Intro to Academic Writing",FT,"Liberal Arts & Sciences",2492,English,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,0,"Grad Asst",,,11
 220151,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,5,9,5,1,1,0,0,0,0,0,0,0,0,0,0,1,"Reames, Robin",,,22
 220151,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,9,10,3,0,1,0,0,0,0,0,0,0,0,0,0,1,"Buslik, Gary",,,24
 220151,ENGL,English,101,"Understanding Literature",FT,"Liberal Arts & Sciences",2492,English,28,10,1,0,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,41
