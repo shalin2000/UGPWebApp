@@ -5,6 +5,9 @@ import Logo from '../GradePal.png'
 import {Link} from 'react-router-dom';
 import ScrollUpButton from "react-scroll-up-button";
 import axios from 'axios';
+import Select from 'react-select';
+import * as d3 from 'd3';
+import data from '../CSVData/3Year.csv';
 
 class Title extends Component {
     constructor(props) {
@@ -13,10 +16,23 @@ class Title extends Component {
             show: false,
             name: '',
             email: '',
-            message: ''
+            message: '',
+            selectedOptionDept: null,
+            selectedOptionProf: null,
+            selectedOptionCrsNbr: null,
+            myData: [],
         };
         this.submitContactForm = this.submitContactForm.bind(this);
         this.formChange = this.formChange.bind(this);
+        this.handleChangeDept = this.handleChangeDept.bind(this);
+        this.handleChangeCrsNbr = this.handleChangeCrsNbr.bind(this);
+        this.handleChangeProf = this.handleChangeProf.bind(this);
+    }
+
+    componentDidMount(){
+        d3.csv(data).then(data => {
+            this.setState({ myData: data });
+        });
     }
 
     // when user fills the form and submits, it will post the name, message, and email to the /signup-success (backend) which will send email to us and the user
@@ -48,12 +64,55 @@ class Title extends Component {
         this.setState({
             [event.target.name]:event.target.value
         });
+    };
+
+    handleChangeDept = selectedOptionDept => {
+        this.setState({selectedOptionDept: selectedOptionDept})
+    };
+
+    handleChangeCrsNbr = selectedOptionCrsNbr => {
+        this.setState({selectedOptionCrsNbr: selectedOptionCrsNbr})
+    };
+
+    handleChangeProf = selectedOptionProf => {
+        this.setState({selectedOptionProf: selectedOptionProf})
+    };
+
+    // Removes the duplicate value in the object
+    removeDup(data, key) {
+        return [
+        ...new Map(
+            data.map(x=>[key(x), x])
+        ).values(),
+        ];
     }
 
     render(){
         var today = new Date();
 
         var year = today.getFullYear();
+        
+        let deptArr = this.state.myData.map(a => ({label: a.DEPT_NAME}));
+        let uniqueDept = this.removeDup(deptArr, x => x.label);
+
+        let courseNbrArr = this.state.myData.map(a => ({label: a.CRS_NBR}));
+        let uniqueCrsNbr = this.removeDup(courseNbrArr, x => x.label);
+
+        let profArr = this.state.myData.map(a => ({label: a.name1}));
+        let uniqueProf = this.removeDup(profArr, x => x.label);
+
+        // const options = [
+        //     { value: 'chocolate', label: 'Chocolate' },
+        //     { value: 'strawberry', label: 'Strawberry' },
+        //     { value: 'vanilla', label: 'Vanilla' },
+        //     { value: 'vanilla', label: 'Vanilla' },
+        //   ];
+
+        // let testArr = options.map(a => a.value);
+        // console.log(test)
+        // let uniqueTest = [...new Set(test)];
+        // console.log(uniqueTest)
+
         return (
             <div>
                 {/* adds the scrollToTop button */}
@@ -81,6 +140,29 @@ class Title extends Component {
                                 fellow peers are performing&nbsp;
                                 <br />
                                 in hundreds of courses</h2>					
+                            </header>
+
+                            <header className="major container medium">
+                        
+                                <Select
+                                    value={this.state.selectedOptionDept}
+                                    onChange={this.handleChangeDept}
+                                    options={uniqueDept}
+                                    placeholder="Select Dept"
+                                />
+                                <Select
+                                    value={this.state.selectedOptionCrsNbr}
+                                    onChange={this.handleChangeCrsNbr}
+                                    options={uniqueCrsNbr}
+                                    placeholder="Select Course Number"
+                                />
+                                <Select
+                                    value={this.state.selectedOptionProf}
+                                    onChange={this.handleChangeProf}
+                                    options={uniqueProf}
+                                    placeholder="Select Professor"
+                                />
+                                
                             </header>
 
                             {/* Different containers that are button type which allow the users to choose between 3 options */}
