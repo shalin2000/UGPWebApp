@@ -29,11 +29,6 @@ class ListProfessor extends Component {
     ];
   }
 
-  linking() {
-    console.log("hello")
-    return <Link to={{pathname: "/displayGrades", state: { linkState: data }}}></Link> 
-  }
-
   render() {    
 
     // filters the array so the new array contains only the professor that match the CRS_TITLE that was passed in as the prop (TITLE) from DisplayProfessor
@@ -75,12 +70,12 @@ class ListProfessor extends Component {
                               ))}
                             </div>
 
-                          return (
-                            <div >
-                              {displayProfArr}
-                            </div>
-                          );   
-                    }
-                  };
+    return (
+      <div >
+        {displayProfArr}
+      </div>
+    );   
+  }
+};
 
 export default ListProfessor;
