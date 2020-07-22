@@ -38,70 +38,70 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220118,ACTG,Accounting,570,"Ethics for Business Prof",FL,"Business Administration",2656,Accounting,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Roe, George",,,17
 220118,ACTG,Accounting,585,"Corporate Valuation &Actg Info",FL,"Business Administration",2656,Accounting,15,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kirschenheiter, Michael",,,37
 220118,ACTG,Accounting,593,"Actg Res Method&Communicatn",FL,"Business Administration",2656,Accounting,14,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ramakrishnan, Ram T S",,,24
-220118,AD,"ZZZ Art and Design",100,"Intro to Responsive Art",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,4,2,2,1,0,0,0,0,0,1,0,0,0,0,0,"Furman, Christopher",,,18
-220118,AD,"ZZZ Art and Design",100,"Intro to Responsive Art",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",13,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,18
-220118,AD,"ZZZ Art and Design",102,"Drawing I: Beginning",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,5,8,2,0,0,0,0,0,0,0,0,0,0,0,0,"Metzger, Matthew John",,,25
-220118,AD,"ZZZ Art and Design",102,"Drawing I: Beginning",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",35,22,8,1,1,0,0,0,1,0,0,0,0,0,0,3,"Grad Asst",,,71
-220118,AD,"ZZZ Art and Design",110,"Graphic Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",6,10,1,4,2,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,23
-220118,AD,"ZZZ Art and Design",110,"Graphic Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",6,14,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Gibbs, Allyson Darcy",,,23
-220118,AD,"ZZZ Art and Design",110,"Graphic Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,9,4,1,2,0,0,0,0,0,0,0,0,0,0,0,"Preston, Jill",,,23
-220118,AD,"ZZZ Art and Design",110,"Graphic Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",9,8,1,1,1,0,0,0,0,0,0,0,0,0,0,1,"Saclolo, Rebecca Marie",,,21
-220118,AD,"ZZZ Art and Design",120,"Industrial Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,23
-220118,AD,"ZZZ Art and Design",120,"Industrial Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",12,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wilkens, Kimberlee Marie",,,23
-220118,AD,"ZZZ Art and Design",120,"Industrial Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",29,9,2,2,2,0,0,0,0,0,0,0,0,0,0,4,"Andersen, Michael Anthony",,,48
-220118,AD,"ZZZ Art and Design",140,"Sculpture I: Beginning",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Alvendia, Brandon Warren",,,24
-220118,AD,"ZZZ Art and Design",140,"Sculpture I: Beginning",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",36,22,4,0,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,65
-220118,AD,"ZZZ Art and Design",160,"Photography I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",14,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Geissler, Beate",,,19
-220118,AD,"ZZZ Art and Design",160,"Photography I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",32,12,10,1,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,58
-220118,AD,"ZZZ Art and Design",170,"Intro-Time-Based Vis Art",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",35,20,5,2,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,65
-220118,AD,"ZZZ Art and Design",203,"Topics in Drawing",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",4,8,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Fish, Julia Anne",,,16
-220118,AD,"ZZZ Art and Design",203,"Topics in Drawing",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Peterman, Dan",,,13
-220118,AD,"ZZZ Art and Design",205,"Intro Computer Graphics",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Margelis, Christopher Michael",,,18
-220118,AD,"ZZZ Art and Design",205,"Intro Computer Graphics",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",12,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Kalis, Christopher John",,,17
-220118,AD,"ZZZ Art and Design",209,"Color Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",13,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cloud, Michael Lashawn",,,18
-220118,AD,"ZZZ Art and Design",209,"Color Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",13,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Roeger, Oliver L.",,,23
-220118,AD,"ZZZ Art and Design",210,"Graphic Design II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",24,15,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bracamontes-Roeger, Linda",,,45
-220118,AD,"ZZZ Art and Design",219,"Typography I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",15,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Oiga, Sharon",,,22
-220118,AD,"ZZZ Art and Design",220,"Industrial Design II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",4,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cunningham, Christopher",,,20
-220118,AD,"ZZZ Art and Design",220,"Industrial Design II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",14,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Burdett, Theodore Joseph",,,20
-220118,AD,"ZZZ Art and Design",223,"Drawing for Designers",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",5,34,5,0,0,0,0,0,0,0,0,0,0,0,0,1,"Katz, Sabrina L",,,45
-220118,AD,"ZZZ Art and Design",230,"Painting I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Cloud, Michael Lashawn",,,22
-220118,AD,"ZZZ Art and Design",262,"View Camera & Lighting Studio",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,7,4,1,0,0,0,0,1,0,0,0,0,0,0,0,"Minnix, Gary L",,,20
-220118,AD,"ZZZ Art and Design",267,"Digital Photography",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,10,1,1,0,0,0,0,1,0,0,0,0,0,0,1,"Ray, Jennifer",,,21
-220118,AD,"ZZZ Art and Design",267,"Digital Photography",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",18,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Labatte, Jessica",,,19
-220118,AD,"ZZZ Art and Design",268,"Analog Photography",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,5,1,0,0,0,0,0,1,0,0,0,0,0,0,1,"Ischar, Doug",,,18
-220118,AD,"ZZZ Art and Design",271,"16mm Film Production I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Stratman, Deborah Renee",,,15
-220118,AD,"ZZZ Art and Design",275,"Writing for Moving Image",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Reeder, Jennifer K",,,17
-220118,AD,"ZZZ Art and Design",290,"Interdisciplinary Seminar I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",14,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Peterman, Dan",,,19
-220118,AD,"ZZZ Art and Design",290,"Interdisciplinary Seminar I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tasset, Anthony Gerard",,,19
-220118,AD,"ZZZ Art and Design",314,"Graphic Design IV",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,2,2,2,0,0,0,0,0,0,0,0,0,0,0,1,"Oiga, Sharon",,,15
-220118,AD,"ZZZ Art and Design",314,"Graphic Design IV",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Becker, Joerg",,,19
-220118,AD,"ZZZ Art and Design",317,"Digital Media in Graphic Desgn",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",20,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Krohn, Jonathan Austin",,,24
-220118,AD,"ZZZ Art and Design",320,"Industrial Design IV",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",1,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,"Christenen, Gerald Dean",,,10
-220118,AD,"ZZZ Art and Design",320,"Industrial Design IV",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Burdett, Theodore Joseph",,,13
-220118,AD,"ZZZ Art and Design",326,"ID Materials and Methods",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",4,3,15,0,0,0,0,0,0,0,0,0,0,0,0,1,"Melamed, Stephen",,,23
-220118,AD,"ZZZ Art and Design",332,"Topics in Painting",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Metzger, Matthew John",,,18
-220118,AD,"ZZZ Art and Design",342,"Topics in Sculpture",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Frid, Dianna",,,18
-220118,AD,"ZZZ Art and Design",360,"Adv. Projects in Digital Media",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Malagrino, Silvia A",,,15
-220118,AD,"ZZZ Art and Design",362,"Documentary Media",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",9,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Geissler, Beate",,,19
-220118,AD,"ZZZ Art and Design",374,"Motion Graphics II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"McLean, Jesse",,,13
-220118,AD,"ZZZ Art and Design",391,"Interdisciplinary Seminar II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ischar, Doug",,,17
-220118,AD,"ZZZ Art and Design",411,"Graphic Design Prof Prac",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",22,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wahlig, Patricia","Bergh, Donald L",,24
-220118,AD,"ZZZ Art and Design",412,"Graphic Design Thesis",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,9,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"Becker, Joerg",,,22
-220118,AD,"ZZZ Art and Design",414,"Interactivity in Graphic Desgn",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Roeger, Oliver L.",,,23
-220118,AD,"ZZZ Art and Design",420,"Interdis Product Development I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Melamed, Stephen","Starr, April",,10
-220118,AD,"ZZZ Art and Design",420,"Interdis Product Development I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Starr, April","Tharp, Bruce M",,10
-220118,AD,"ZZZ Art and Design",422,"Interactive Product Design II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",15,3,0,1,0,0,0,0,1,0,0,0,0,0,0,0,"Wilkens, Kimberlee Marie",,,20
-220118,AD,"ZZZ Art and Design",424,"Indust Design Indep Study",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",33,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,"Starr, April",,,37
-220118,AD,"ZZZ Art and Design",454,"3D Space I: Modeling",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,2,"Raaf, Sabrina Kay",,,16
-220118,AD,"ZZZ Art and Design",456,"Physical Computing",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sauter, Daniel",,,10
-220118,AD,"ZZZ Art and Design",462,"Advanced Art/Studio Critique",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",12,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Minnix, Gary L","Fish, Julia Anne","McLean, Jesse",21
-220118,AD,"ZZZ Art and Design",499,"Cooperative Education",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,2,0,0,9,0,1,"McLean, Jesse",,,12
-220118,AD,"ZZZ Art and Design",502,"Seminar In Contemp Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ciezadlo, Janina A",,,16
-220118,AD,"ZZZ Art and Design",502,"Seminar In Contemp Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",16,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Neff, John",,,19
-220118,AD,"ZZZ Art and Design",502,"Seminar In Contemp Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Holmes, Brian",,,20
-220118,AD,"ZZZ Art and Design",510,"Adv Graphic Des & Crit",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Gaynor, Matthew S.",,,12
-220118,AD,"ZZZ Art and Design",530,"Advanced Studio Arts &Critique",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tasset, Anthony Gerard","Malagrino, Silvia A","Stratman, Deborah Renee",16
+220118,AD,"Art and Design",100,"Intro to Responsive Art",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,4,2,2,1,0,0,0,0,0,1,0,0,0,0,0,"Furman, Christopher",,,18
+220118,AD,"Art and Design",100,"Intro to Responsive Art",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",13,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,18
+220118,AD,"Art and Design",102,"Drawing I: Beginning",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,5,8,2,0,0,0,0,0,0,0,0,0,0,0,0,"Metzger, Matthew John",,,25
+220118,AD,"Art and Design",102,"Drawing I: Beginning",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",35,22,8,1,1,0,0,0,1,0,0,0,0,0,0,3,"Grad Asst",,,71
+220118,AD,"Art and Design",110,"Graphic Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",6,10,1,4,2,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,23
+220118,AD,"Art and Design",110,"Graphic Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",6,14,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Gibbs, Allyson Darcy",,,23
+220118,AD,"Art and Design",110,"Graphic Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,9,4,1,2,0,0,0,0,0,0,0,0,0,0,0,"Preston, Jill",,,23
+220118,AD,"Art and Design",110,"Graphic Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",9,8,1,1,1,0,0,0,0,0,0,0,0,0,0,1,"Saclolo, Rebecca Marie",,,21
+220118,AD,"Art and Design",120,"Industrial Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,23
+220118,AD,"Art and Design",120,"Industrial Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",12,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wilkens, Kimberlee Marie",,,23
+220118,AD,"Art and Design",120,"Industrial Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",29,9,2,2,2,0,0,0,0,0,0,0,0,0,0,4,"Andersen, Michael Anthony",,,48
+220118,AD,"Art and Design",140,"Sculpture I: Beginning",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Alvendia, Brandon Warren",,,24
+220118,AD,"Art and Design",140,"Sculpture I: Beginning",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",36,22,4,0,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,65
+220118,AD,"Art and Design",160,"Photography I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",14,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Geissler, Beate",,,19
+220118,AD,"Art and Design",160,"Photography I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",32,12,10,1,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,58
+220118,AD,"Art and Design",170,"Intro-Time-Based Vis Art",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",35,20,5,2,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,65
+220118,AD,"Art and Design",203,"Topics in Drawing",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",4,8,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Fish, Julia Anne",,,16
+220118,AD,"Art and Design",203,"Topics in Drawing",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Peterman, Dan",,,13
+220118,AD,"Art and Design",205,"Intro Computer Graphics",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Margelis, Christopher Michael",,,18
+220118,AD,"Art and Design",205,"Intro Computer Graphics",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",12,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Kalis, Christopher John",,,17
+220118,AD,"Art and Design",209,"Color Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",13,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cloud, Michael Lashawn",,,18
+220118,AD,"Art and Design",209,"Color Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",13,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Roeger, Oliver L.",,,23
+220118,AD,"Art and Design",210,"Graphic Design II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",24,15,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bracamontes-Roeger, Linda",,,45
+220118,AD,"Art and Design",219,"Typography I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",15,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Oiga, Sharon",,,22
+220118,AD,"Art and Design",220,"Industrial Design II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",4,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cunningham, Christopher",,,20
+220118,AD,"Art and Design",220,"Industrial Design II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",14,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Burdett, Theodore Joseph",,,20
+220118,AD,"Art and Design",223,"Drawing for Designers",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",5,34,5,0,0,0,0,0,0,0,0,0,0,0,0,1,"Katz, Sabrina L",,,45
+220118,AD,"Art and Design",230,"Painting I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Cloud, Michael Lashawn",,,22
+220118,AD,"Art and Design",262,"View Camera & Lighting Studio",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,7,4,1,0,0,0,0,1,0,0,0,0,0,0,0,"Minnix, Gary L",,,20
+220118,AD,"Art and Design",267,"Digital Photography",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,10,1,1,0,0,0,0,1,0,0,0,0,0,0,1,"Ray, Jennifer",,,21
+220118,AD,"Art and Design",267,"Digital Photography",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",18,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Labatte, Jessica",,,19
+220118,AD,"Art and Design",268,"Analog Photography",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,5,1,0,0,0,0,0,1,0,0,0,0,0,0,1,"Ischar, Doug",,,18
+220118,AD,"Art and Design",271,"16mm Film Production I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Stratman, Deborah Renee",,,15
+220118,AD,"Art and Design",275,"Writing for Moving Image",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Reeder, Jennifer K",,,17
+220118,AD,"Art and Design",290,"Interdisciplinary Seminar I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",14,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Peterman, Dan",,,19
+220118,AD,"Art and Design",290,"Interdisciplinary Seminar I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tasset, Anthony Gerard",,,19
+220118,AD,"Art and Design",314,"Graphic Design IV",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,2,2,2,0,0,0,0,0,0,0,0,0,0,0,1,"Oiga, Sharon",,,15
+220118,AD,"Art and Design",314,"Graphic Design IV",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Becker, Joerg",,,19
+220118,AD,"Art and Design",317,"Digital Media in Graphic Desgn",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",20,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Krohn, Jonathan Austin",,,24
+220118,AD,"Art and Design",320,"Industrial Design IV",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",1,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,"Christenen, Gerald Dean",,,10
+220118,AD,"Art and Design",320,"Industrial Design IV",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Burdett, Theodore Joseph",,,13
+220118,AD,"Art and Design",326,"ID Materials and Methods",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",4,3,15,0,0,0,0,0,0,0,0,0,0,0,0,1,"Melamed, Stephen",,,23
+220118,AD,"Art and Design",332,"Topics in Painting",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Metzger, Matthew John",,,18
+220118,AD,"Art and Design",342,"Topics in Sculpture",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Frid, Dianna",,,18
+220118,AD,"Art and Design",360,"Adv. Projects in Digital Media",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Malagrino, Silvia A",,,15
+220118,AD,"Art and Design",362,"Documentary Media",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",9,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Geissler, Beate",,,19
+220118,AD,"Art and Design",374,"Motion Graphics II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"McLean, Jesse",,,13
+220118,AD,"Art and Design",391,"Interdisciplinary Seminar II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ischar, Doug",,,17
+220118,AD,"Art and Design",411,"Graphic Design Prof Prac",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",22,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wahlig, Patricia","Bergh, Donald L",,24
+220118,AD,"Art and Design",412,"Graphic Design Thesis",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,9,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"Becker, Joerg",,,22
+220118,AD,"Art and Design",414,"Interactivity in Graphic Desgn",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Roeger, Oliver L.",,,23
+220118,AD,"Art and Design",420,"Interdis Product Development I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Melamed, Stephen","Starr, April",,10
+220118,AD,"Art and Design",420,"Interdis Product Development I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Starr, April","Tharp, Bruce M",,10
+220118,AD,"Art and Design",422,"Interactive Product Design II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",15,3,0,1,0,0,0,0,1,0,0,0,0,0,0,0,"Wilkens, Kimberlee Marie",,,20
+220118,AD,"Art and Design",424,"Indust Design Indep Study",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",33,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,"Starr, April",,,37
+220118,AD,"Art and Design",454,"3D Space I: Modeling",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,2,"Raaf, Sabrina Kay",,,16
+220118,AD,"Art and Design",456,"Physical Computing",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sauter, Daniel",,,10
+220118,AD,"Art and Design",462,"Advanced Art/Studio Critique",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",12,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Minnix, Gary L","Fish, Julia Anne","McLean, Jesse",21
+220118,AD,"Art and Design",499,"Cooperative Education",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,2,0,0,9,0,1,"McLean, Jesse",,,12
+220118,AD,"Art and Design",502,"Seminar In Contemp Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ciezadlo, Janina A",,,16
+220118,AD,"Art and Design",502,"Seminar In Contemp Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",16,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Neff, John",,,19
+220118,AD,"Art and Design",502,"Seminar In Contemp Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Holmes, Brian",,,20
+220118,AD,"Art and Design",510,"Adv Graphic Des & Crit",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Gaynor, Matthew S.",,,12
+220118,AD,"Art and Design",530,"Advanced Studio Arts &Critique",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tasset, Anthony Gerard","Malagrino, Silvia A","Stratman, Deborah Renee",16
 220118,AH,"Art History",100,"Intro to Art &Art History",FR,"Architecture,Design,& the Arts",2910,"Art History",4,21,9,0,1,0,0,0,0,0,1,0,0,0,0,1,"Grossman, Heather E",,,37
 220118,AH,"Art History",100,"Intro to Art &Art History",FR,"Architecture,Design,& the Arts",2910,"Art History",6,14,21,10,3,0,0,0,1,0,0,0,0,0,0,4,"Grad Asst",,,59
 220118,AH,"Art History",100,"Intro to Art &Art History",FR,"Architecture,Design,& the Arts",2910,"Art History",17,27,17,3,3,0,0,0,0,0,0,0,0,0,0,2,"Denny, Margaret",,,69
@@ -178,10 +178,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220118,ARCH,Architecture,574,"Architectural Structures II",FR,"Architecture,Design,& the Arts",2911,"School of Architecture",15,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Mojekwu, Eugene Chukwunonso",,,27
 220118,ARCH,Architecture,585,"Arch Theory & History III",FR,"Architecture,Design,& the Arts",2911,"School of Architecture",16,15,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"Lehnerer, Alexander",,,32
 220118,ARST,"Archaeological Studies",210,"Art/Archaeology of Egypt",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",11,5,3,2,0,0,0,0,0,0,0,0,0,0,0,1,"Tobin, Jennifer L",,,22
-220118,ASAM,"ZZZ Asian American Studies",125,"Intro Asian Amer Studies",FT,"Liberal Arts & Sciences",2492,English,3,5,3,0,0,0,0,0,0,0,0,0,0,0,0,3,"Malik, Surbhi",,,14
-220118,ASAM,"ZZZ Asian American Studies",125,"Intro Asian Amer Studies",FT,"Liberal Arts & Sciences",2492,English,6,7,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"Mariano, Lorena",,,17
-220118,ASAM,"ZZZ Asian American Studies",228,"Asia and Asian Americans",FT,"Liberal Arts & Sciences",2772,Sociology,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Nititham, Diane Sabenacio","Grad Asst",,10
-220118,ASAM,"ZZZ Asian American Studies",263,"Asian Amer Gend&Sexual Divers",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Thomson, Elizabeth",,,11
+220118,ASAM,"Asian American Studies",125,"Intro Asian Amer Studies",FT,"Liberal Arts & Sciences",2492,English,3,5,3,0,0,0,0,0,0,0,0,0,0,0,0,3,"Malik, Surbhi",,,14
+220118,ASAM,"Asian American Studies",125,"Intro Asian Amer Studies",FT,"Liberal Arts & Sciences",2492,English,6,7,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"Mariano, Lorena",,,17
+220118,ASAM,"Asian American Studies",228,"Asia and Asian Americans",FT,"Liberal Arts & Sciences",2772,Sociology,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Nititham, Diane Sabenacio","Grad Asst",,10
+220118,ASAM,"Asian American Studies",263,"Asian Amer Gend&Sexual Divers",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Thomson, Elizabeth",,,11
 220118,ASP,"Academic Skills Program",021,"Workshop for Precal - LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Mankus, Terrance A",,,10
 220118,ASP,"Academic Skills Program",055,"Comm Skls-Intl Grad Students",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,27,8,0,"Zenner, Audrey Marsha",,,35
 220118,ASP,"Academic Skills Program",076,"Workshop Interm Algebra -LARES",JB,"Provost & VC Acad Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,1,"Mankus, Terrance A",,,16
@@ -190,9 +190,9 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220118,ASP,"Academic Skills Program",092,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,25,4,2,"Koerner, Patrick",,,31
 220118,ASP,"Academic Skills Program",092,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,1,0,0,0,0,17,4,1,"De Leon, Jose",,,23
 220118,ASP,"Academic Skills Program",095,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,4,"Zenner, Audrey Marsha",,,27
-220118,ASST,"ZZZ Asian Studies",228,"Asia and Asian Americans",FT,"Liberal Arts & Sciences",2772,Sociology,5,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Nititham, Diane Sabenacio","Grad Asst",,10
-220118,ASST,"ZZZ Asian Studies",270,"Asian Cultures and Societies",FT,"Liberal Arts & Sciences",2991,"Asian Studies",17,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"Klein, Esther Sunkyung",,,21
-220118,ASST,"ZZZ Asian Studies",271,"Late Imperial China",FT,"Liberal Arts & Sciences",2316,History,3,6,5,1,0,0,0,0,0,0,0,0,0,0,0,2,"Hostetler, Laura E",,,17
+220118,ASST,"Asian Studies",228,"Asia and Asian Americans",FT,"Liberal Arts & Sciences",2772,Sociology,5,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Nititham, Diane Sabenacio","Grad Asst",,10
+220118,ASST,"Asian Studies",270,"Asian Cultures and Societies",FT,"Liberal Arts & Sciences",2991,"Asian Studies",17,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"Klein, Esther Sunkyung",,,21
+220118,ASST,"Asian Studies",271,"Late Imperial China",FT,"Liberal Arts & Sciences",2316,History,3,6,5,1,0,0,0,0,0,0,0,0,0,0,0,2,"Hostetler, Laura E",,,17
 220118,BA,"Business Administration",100,"Business Admin Orientation",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,3,0,0,0,0,13,2,0,"Walters, Stacey Lynn","Anderson, John D",,18
 220118,BA,"Business Administration",100,"Business Admin Orientation",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,3,0,0,0,0,22,0,0,"Walters, Stacey Lynn","Clemens, Annette J",,25
 220118,BA,"Business Administration",100,"Business Admin Orientation",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,3,0,0,0,0,41,0,3,"Downey, Marcia L","Warner, Tracy L",,47

@@ -132,15 +132,15 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220151,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Tasset, Anthony Gerard",,,12
 220151,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Gude, Olivia M",,,14
 220151,ART,Art,597,"Master's Project",FR,"Architecture,Design,& the Arts",2583,Art,0,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,"Tasset, Anthony Gerard",,,10
-220151,ASAM,"ZZZ Asian American Studies",105,"ASAM Seminar",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Su, Karen",,,14
-220151,ASAM,"ZZZ Asian American Studies",125,"Intro Asian Amer Studies",FT,"Liberal Arts & Sciences",2492,English,13,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fugikawa, Laura S",,,20
-220151,ASAM,"ZZZ Asian American Studies",230,"Asian American Culture & Food",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",12,4,4,0,0,0,0,0,1,0,0,0,0,0,0,3,"Guevarra, Anna",,,24
-220151,ASAM,"ZZZ Asian American Studies",263,"Asian Amer Gend&Sexual Divers",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",11,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"Fugikawa, Laura S",,,15
+220151,ASAM,"Asian American Studies",105,"ASAM Seminar",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Su, Karen",,,14
+220151,ASAM,"Asian American Studies",125,"Intro Asian Amer Studies",FT,"Liberal Arts & Sciences",2492,English,13,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fugikawa, Laura S",,,20
+220151,ASAM,"Asian American Studies",230,"Asian American Culture & Food",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",12,4,4,0,0,0,0,0,1,0,0,0,0,0,0,3,"Guevarra, Anna",,,24
+220151,ASAM,"Asian American Studies",263,"Asian Amer Gend&Sexual Divers",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",11,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"Fugikawa, Laura S",,,15
 220151,ASP,"Academic Skills Program",021,"Workshop for Precal - LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,3,"Mankus, Terrance A",,,11
 220151,ASP,"Academic Skills Program",055,"Comm Skls-Intl Grad Students",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,4,"Zenner, Audrey Marsha",,,16
 220151,ASP,"Academic Skills Program",088,"Intsv Wrtg Wkshp-LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,1,"Ramos, Mitzi",,,13
-220151,ASST,"ZZZ Asian Studies",125,"Asian Art and Architecture",FR,"Architecture,Design,& the Arts",2910,"Art History",4,6,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"Becker, Catherine",,,14
-220151,ASST,"ZZZ Asian Studies",271,"Late Imperial China",FT,"Liberal Arts & Sciences",2316,History,9,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Akcetin, Elif",,,17
+220151,ASST,"Asian Studies",125,"Asian Art and Architecture",FR,"Architecture,Design,& the Arts",2910,"Art History",4,6,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"Becker, Catherine",,,14
+220151,ASST,"Asian Studies",271,"Late Imperial China",FT,"Liberal Arts & Sciences",2316,History,9,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Akcetin, Elif",,,17
 220151,BA,"Business Administration",190,"UIC Business Seminar Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,"Prazza, Angela J",,,58
 220151,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",11,58,15,0,4,0,0,0,1,0,0,0,0,0,0,1,"Corte, Anthony M",,,90
 220151,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",30,46,4,0,1,0,0,0,0,0,0,0,0,0,0,1,"Kohler, William Russell",,,82

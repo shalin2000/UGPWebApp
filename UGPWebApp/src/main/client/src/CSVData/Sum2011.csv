@@ -22,7 +22,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220115,ANTH,Anthropology,272,"North American Indians",FT,"Liberal Arts & Sciences",2841,Anthropology,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Hasenstab, Robert John",,,19
 220115,ARAB,Arabic,115,"Intensive Elementary Arabic",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Bronson, Catherine Lynn",,,17
 220115,ARAB,Arabic,116,"Intensive Intermed Arabic",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kamal, Mustapha",,,14
-220115,ASST,"ZZZ Asian Studies",272,"China Since 1911",FT,"Liberal Arts & Sciences",2316,History,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hostetler, Laura E",,,11
+220115,ASST,"Asian Studies",272,"China Since 1911",FT,"Liberal Arts & Sciences",2316,History,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hostetler, Laura E",,,11
 220115,BA,"Business Administration",289,"Business Internship Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,"Anderson, John D",,,21
 220115,BA,"Business Administration",589,"Corporate Bus Intern Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,"Karras, John J",,,22
 220115,BCMG,"Biochem & Molecular Genetics",599,"PhD Thesis Research",FZ,"Coll Medicine at Chicago - BS",2509,"Biochem & Molecular Genetics",0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,"Katzen, Alisa L","Caffrey, Michael S",,39

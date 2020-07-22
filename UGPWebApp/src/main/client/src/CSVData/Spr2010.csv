@@ -45,72 +45,72 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220101,ACTG,Accounting,593,"Actg Res Method&Communicatn",FL,"Business Administration",2656,Accounting,7,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ramakrishnan, Ram T S",,,15
 220101,ACTG,Accounting,594,"Advanced Financial Accounting",FL,"Business Administration",2656,Accounting,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Galvan, Abel",,,11
 220101,ACTG,Accounting,594,"Special Topics Actg-Grad",FL,"Business Administration",2656,Accounting,4,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Khan, Feroze",,,13
-220101,AD,"ZZZ Art and Design",102,"Drawing I: Beginning",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",57,14,1,2,3,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,80
-220101,AD,"ZZZ Art and Design",110,"Graphic Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,4,2,0,0,0,0,0,1,0,0,0,0,0,0,2,"Leithauser, Anna Lanier",,,20
-220101,AD,"ZZZ Art and Design",110,"Graphic Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",24,17,7,1,3,0,0,0,1,0,1,0,0,0,0,1,"Grad Asst",,,55
-220101,AD,"ZZZ Art and Design",120,"Industrial Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",19,8,8,2,0,0,0,0,1,0,0,0,0,0,0,1,"Andersen, Michael Anthony",,,39
-220101,AD,"ZZZ Art and Design",120,"Industrial Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",19,16,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,38
-220101,AD,"ZZZ Art and Design",140,"Sculpture I: Beginning",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,8,3,2,0,0,0,0,0,0,0,0,0,0,0,0,"Frid, Dianna",,,20
-220101,AD,"ZZZ Art and Design",140,"Sculpture I: Beginning",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",41,11,1,1,2,0,0,1,0,0,0,0,0,0,0,1,"Grad Asst",,,58
-220101,AD,"ZZZ Art and Design",160,"Photography I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",15,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Malagrino, Silvia A",,,20
-220101,AD,"ZZZ Art and Design",160,"Photography I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",40,16,1,2,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,61
-220101,AD,"ZZZ Art and Design",170,"Intro-Time-Based Vis Art",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",13,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Reeder, Jennifer K",,,20
-220101,AD,"ZZZ Art and Design",170,"Intro-Time-Based Vis Art",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",42,11,3,0,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,59
-220101,AD,"ZZZ Art and Design",203,"Topics in Drawing",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Fish, Julia Anne",,,10
-220101,AD,"ZZZ Art and Design",203,"Topics in Drawing",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Frid, Dianna",,,11
-220101,AD,"ZZZ Art and Design",205,"Intro Computer Graphics",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",9,10,2,0,0,0,0,0,0,0,0,0,0,0,0,2,"Tsoupikova, Daria",,,23
-220101,AD,"ZZZ Art and Design",205,"Intro Computer Graphics",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Roeger, Oliver L.",,,21
-220101,AD,"ZZZ Art and Design",206,"Computer Graphics",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Tsoupikova, Daria",,,19
-220101,AD,"ZZZ Art and Design",209,"Color Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",16,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Fraser, Pamela",,,19
-220101,AD,"ZZZ Art and Design",209,"Color Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",19,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Roeger, Oliver L.",,,27
-220101,AD,"ZZZ Art and Design",211,"Graphic Design III",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Kugeler, Henry A.",,,21
-220101,AD,"ZZZ Art and Design",211,"Graphic Design III",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",17,6,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"Graw, Renata Siqueira",,,26
-220101,AD,"ZZZ Art and Design",219,"Typography I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",13,9,0,0,0,0,0,0,1,0,1,0,0,0,0,0,"Burton, Philip C",,,24
-220101,AD,"ZZZ Art and Design",221,"Industrial Design III",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",12,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,"Harris, Michael",,,16
-220101,AD,"ZZZ Art and Design",230,"Painting I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,"Yun-Feng-Yu, Craig",,,18
-220101,AD,"ZZZ Art and Design",261,"Color Photography",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",6,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Minnix, Gary L",,,19
-220101,AD,"ZZZ Art and Design",267,"Digital Photography",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Geissler, Beate",,,17
-220101,AD,"ZZZ Art and Design",268,"Analog Photography",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Minnix, Gary L",,,17
-220101,AD,"ZZZ Art and Design",274,"Motion Graphics I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",13,5,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"Mack, Jodie",,,21
-220101,AD,"ZZZ Art and Design",276,Audio,FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",9,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Stratman, Deborah Renee",,,13
-220101,AD,"ZZZ Art and Design",281,"Foundations Of Art Educ",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Gude, Olivia M",,,10
-220101,AD,"ZZZ Art and Design",290,"Interdisciplinary Seminar I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Neff, John",,,25
-220101,AD,"ZZZ Art and Design",304,"Advanced Topics in Drawing",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Fish, Julia Anne",,,10
-220101,AD,"ZZZ Art and Design",315,"Graphic Design V",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",12,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Oiga, Sharon",,,16
-220101,AD,"ZZZ Art and Design",315,"Graphic Design V",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",17,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Becker, Joerg",,,23
-220101,AD,"ZZZ Art and Design",317,"Digital Media in Graphic Desgn",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,10,4,1,0,0,0,0,0,0,0,0,0,0,0,0,"Young, Caroline C",,,23
-220101,AD,"ZZZ Art and Design",321,"Industrial Design V",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Boyd, Carl Jay",,,10
-220101,AD,"ZZZ Art and Design",321,"Industrial Design V",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,"Pulik, Linda",,,13
-220101,AD,"ZZZ Art and Design",322,"Interactive Product Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Run, Michael",,,10
-220101,AD,"ZZZ Art and Design",322,"Interactive Product Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",3,8,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"Christenen, Gerald Dean",,,15
-220101,AD,"ZZZ Art and Design",332,"Topics in Painting",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",14,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fish, Julia Anne",,,21
-220101,AD,"ZZZ Art and Design",342,"Topics in Sculpture",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",14,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Peterman, Dan",,,20
-220101,AD,"ZZZ Art and Design",362,"Documentary Media",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Ischar, Doug",,,10
-220101,AD,"ZZZ Art and Design",374,"Motion Graphics II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,"Bodunrin, Adebukola",,,12
-220101,AD,"ZZZ Art and Design",378,"Moving Image II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"McLean, Jesse",,,15
-220101,AD,"ZZZ Art and Design",391,"Interdisciplinary Seminar II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",23,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jinks, Mathew Paul",,,25
-220101,AD,"ZZZ Art and Design",406,"Adv Special Topics in A&D",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,4,0,0,3,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,22
-220101,AD,"ZZZ Art and Design",411,"Graphic Design Prof Prac",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lausen, Marcia E","Wahlig, Patricia",,16
-220101,AD,"ZZZ Art and Design",412,"Graphic Design Thesis",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Gaynor, Matthew S.",,,15
-220101,AD,"ZZZ Art and Design",415,"Design Colloquium",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,1,"Burton, Philip C",,,11
-220101,AD,"ZZZ Art and Design",415,"Design Colloquium",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",42,6,1,0,0,0,0,0,0,0,1,0,0,0,0,1,"Lausen, Marcia E",,,51
-220101,AD,"ZZZ Art and Design",421,"Interdis Product Develpment II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Melamed, Stephen",,,10
-220101,AD,"ZZZ Art and Design",421,"Interdis Product Develpment II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tharp, Stephanie Munson",,,11
-220101,AD,"ZZZ Art and Design",423,"Industrial Design Thesis",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,"Burdett, Theodore Joseph",,,16
-220101,AD,"ZZZ Art and Design",424,"Indust Design Indep Study",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",6,4,5,1,0,0,0,0,0,0,0,0,0,0,0,4,"Cunningham, Christopher",,,20
-220101,AD,"ZZZ Art and Design",424,"Indust Design Indep Study",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Katz, Sabrina L",,,17
-220101,AD,"ZZZ Art and Design",463,"Art/Studio Thesis",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",30,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Peterman, Dan","Malagrino, Silvia A","Staples, William",35
-220101,AD,"ZZZ Art and Design",499,"Cooperative Education",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Fraser, Pamela",,,11
-220101,AD,"ZZZ Art and Design",502,"Seminar In Contemp Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Ischar, Doug",,,17
-220101,AD,"ZZZ Art and Design",502,"Seminar In Contemp Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"Stewart, Lorelei","Elms, Anthony",,17
-220101,AD,"ZZZ Art and Design",502,"Seminar In Contemp Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Pulik, Linda",,,16
-220101,AD,"ZZZ Art and Design",502,"Seminar In Contemp Theory:Icon",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,1,"Burton, Philip C",,,11
-220101,AD,"ZZZ Art and Design",508,"Adv Electronic Vis & Crit",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Raaf, Sabrina Kay",,,10
-220101,AD,"ZZZ Art and Design",510,"Adv Graphic Des & Crit",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,1,"Burton, Philip C",,,11
-220101,AD,"ZZZ Art and Design",511,"Advanced Graphic Design",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,1,"Burton, Philip C",,,11
-220101,AD,"ZZZ Art and Design",511,"Advanced Graphic Design",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Becker, Joerg",,,15
-220101,AD,"ZZZ Art and Design",530,"Advanced Studio Arts &Critique",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Fraser, Pamela","Tasset, Anthony Gerard","Stratman, Deborah Renee",15
-220101,AD,"ZZZ Art and Design",597,"Master's Project",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,0,0,0,29,4,0,"Reeder, Jennifer K",,,33
+220101,AD,"Art and Design",102,"Drawing I: Beginning",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",57,14,1,2,3,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,80
+220101,AD,"Art and Design",110,"Graphic Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,4,2,0,0,0,0,0,1,0,0,0,0,0,0,2,"Leithauser, Anna Lanier",,,20
+220101,AD,"Art and Design",110,"Graphic Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",24,17,7,1,3,0,0,0,1,0,1,0,0,0,0,1,"Grad Asst",,,55
+220101,AD,"Art and Design",120,"Industrial Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",19,8,8,2,0,0,0,0,1,0,0,0,0,0,0,1,"Andersen, Michael Anthony",,,39
+220101,AD,"Art and Design",120,"Industrial Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",19,16,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,38
+220101,AD,"Art and Design",140,"Sculpture I: Beginning",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,8,3,2,0,0,0,0,0,0,0,0,0,0,0,0,"Frid, Dianna",,,20
+220101,AD,"Art and Design",140,"Sculpture I: Beginning",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",41,11,1,1,2,0,0,1,0,0,0,0,0,0,0,1,"Grad Asst",,,58
+220101,AD,"Art and Design",160,"Photography I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",15,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Malagrino, Silvia A",,,20
+220101,AD,"Art and Design",160,"Photography I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",40,16,1,2,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,61
+220101,AD,"Art and Design",170,"Intro-Time-Based Vis Art",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",13,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Reeder, Jennifer K",,,20
+220101,AD,"Art and Design",170,"Intro-Time-Based Vis Art",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",42,11,3,0,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,59
+220101,AD,"Art and Design",203,"Topics in Drawing",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Fish, Julia Anne",,,10
+220101,AD,"Art and Design",203,"Topics in Drawing",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Frid, Dianna",,,11
+220101,AD,"Art and Design",205,"Intro Computer Graphics",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",9,10,2,0,0,0,0,0,0,0,0,0,0,0,0,2,"Tsoupikova, Daria",,,23
+220101,AD,"Art and Design",205,"Intro Computer Graphics",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Roeger, Oliver L.",,,21
+220101,AD,"Art and Design",206,"Computer Graphics",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Tsoupikova, Daria",,,19
+220101,AD,"Art and Design",209,"Color Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",16,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Fraser, Pamela",,,19
+220101,AD,"Art and Design",209,"Color Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",19,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Roeger, Oliver L.",,,27
+220101,AD,"Art and Design",211,"Graphic Design III",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Kugeler, Henry A.",,,21
+220101,AD,"Art and Design",211,"Graphic Design III",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",17,6,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"Graw, Renata Siqueira",,,26
+220101,AD,"Art and Design",219,"Typography I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",13,9,0,0,0,0,0,0,1,0,1,0,0,0,0,0,"Burton, Philip C",,,24
+220101,AD,"Art and Design",221,"Industrial Design III",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",12,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,"Harris, Michael",,,16
+220101,AD,"Art and Design",230,"Painting I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,"Yun-Feng-Yu, Craig",,,18
+220101,AD,"Art and Design",261,"Color Photography",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",6,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Minnix, Gary L",,,19
+220101,AD,"Art and Design",267,"Digital Photography",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Geissler, Beate",,,17
+220101,AD,"Art and Design",268,"Analog Photography",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Minnix, Gary L",,,17
+220101,AD,"Art and Design",274,"Motion Graphics I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",13,5,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"Mack, Jodie",,,21
+220101,AD,"Art and Design",276,Audio,FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",9,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Stratman, Deborah Renee",,,13
+220101,AD,"Art and Design",281,"Foundations Of Art Educ",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Gude, Olivia M",,,10
+220101,AD,"Art and Design",290,"Interdisciplinary Seminar I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Neff, John",,,25
+220101,AD,"Art and Design",304,"Advanced Topics in Drawing",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Fish, Julia Anne",,,10
+220101,AD,"Art and Design",315,"Graphic Design V",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",12,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Oiga, Sharon",,,16
+220101,AD,"Art and Design",315,"Graphic Design V",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",17,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Becker, Joerg",,,23
+220101,AD,"Art and Design",317,"Digital Media in Graphic Desgn",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,10,4,1,0,0,0,0,0,0,0,0,0,0,0,0,"Young, Caroline C",,,23
+220101,AD,"Art and Design",321,"Industrial Design V",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Boyd, Carl Jay",,,10
+220101,AD,"Art and Design",321,"Industrial Design V",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,"Pulik, Linda",,,13
+220101,AD,"Art and Design",322,"Interactive Product Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Run, Michael",,,10
+220101,AD,"Art and Design",322,"Interactive Product Design I",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",3,8,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"Christenen, Gerald Dean",,,15
+220101,AD,"Art and Design",332,"Topics in Painting",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",14,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fish, Julia Anne",,,21
+220101,AD,"Art and Design",342,"Topics in Sculpture",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",14,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Peterman, Dan",,,20
+220101,AD,"Art and Design",362,"Documentary Media",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Ischar, Doug",,,10
+220101,AD,"Art and Design",374,"Motion Graphics II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,"Bodunrin, Adebukola",,,12
+220101,AD,"Art and Design",378,"Moving Image II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"McLean, Jesse",,,15
+220101,AD,"Art and Design",391,"Interdisciplinary Seminar II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",23,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jinks, Mathew Paul",,,25
+220101,AD,"Art and Design",406,"Adv Special Topics in A&D",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,4,0,0,3,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,22
+220101,AD,"Art and Design",411,"Graphic Design Prof Prac",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lausen, Marcia E","Wahlig, Patricia",,16
+220101,AD,"Art and Design",412,"Graphic Design Thesis",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",10,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Gaynor, Matthew S.",,,15
+220101,AD,"Art and Design",415,"Design Colloquium",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,1,"Burton, Philip C",,,11
+220101,AD,"Art and Design",415,"Design Colloquium",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",42,6,1,0,0,0,0,0,0,0,1,0,0,0,0,1,"Lausen, Marcia E",,,51
+220101,AD,"Art and Design",421,"Interdis Product Develpment II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Melamed, Stephen",,,10
+220101,AD,"Art and Design",421,"Interdis Product Develpment II",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tharp, Stephanie Munson",,,11
+220101,AD,"Art and Design",423,"Industrial Design Thesis",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,"Burdett, Theodore Joseph",,,16
+220101,AD,"Art and Design",424,"Indust Design Indep Study",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",6,4,5,1,0,0,0,0,0,0,0,0,0,0,0,4,"Cunningham, Christopher",,,20
+220101,AD,"Art and Design",424,"Indust Design Indep Study",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Katz, Sabrina L",,,17
+220101,AD,"Art and Design",463,"Art/Studio Thesis",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",30,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Peterman, Dan","Malagrino, Silvia A","Staples, William",35
+220101,AD,"Art and Design",499,"Cooperative Education",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Fraser, Pamela",,,11
+220101,AD,"Art and Design",502,"Seminar In Contemp Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Ischar, Doug",,,17
+220101,AD,"Art and Design",502,"Seminar In Contemp Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",11,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"Stewart, Lorelei","Elms, Anthony",,17
+220101,AD,"Art and Design",502,"Seminar In Contemp Theory",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Pulik, Linda",,,16
+220101,AD,"Art and Design",502,"Seminar In Contemp Theory:Icon",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,1,"Burton, Philip C",,,11
+220101,AD,"Art and Design",508,"Adv Electronic Vis & Crit",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Raaf, Sabrina Kay",,,10
+220101,AD,"Art and Design",510,"Adv Graphic Des & Crit",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,1,"Burton, Philip C",,,11
+220101,AD,"Art and Design",511,"Advanced Graphic Design",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,1,"Burton, Philip C",,,11
+220101,AD,"Art and Design",511,"Advanced Graphic Design",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Becker, Joerg",,,15
+220101,AD,"Art and Design",530,"Advanced Studio Arts &Critique",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Fraser, Pamela","Tasset, Anthony Gerard","Stratman, Deborah Renee",15
+220101,AD,"Art and Design",597,"Master's Project",FR,"Architecture,Design,& the Arts",2702,"School of Art and Design",0,0,0,0,0,0,0,0,0,0,0,0,0,29,4,0,"Reeder, Jennifer K",,,33
 220101,AH,"Art History",100,"Intro to Art &Art History",FR,"Architecture,Design,& the Arts",2910,"Art History",62,32,10,6,4,0,0,0,1,0,0,0,0,0,0,8,"Grad Asst",,,123
 220101,AH,"Art History",111,"Art History II",FR,"Architecture,Design,& the Arts",2910,"Art History",50,99,58,23,10,0,0,0,0,0,1,0,0,0,0,14,"Grad Asst",,,255
 220101,AH,"Art History",122,"Chicago Architecture",FR,"Architecture,Design,& the Arts",2910,"Art History",11,19,12,1,1,0,0,0,0,0,0,0,0,0,0,3,"Bruegmann, Robert",,,47
@@ -186,7 +186,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220101,ARCH,Architecture,586,"Arch Theory & History IV",FR,"Architecture,Design,& the Arts",2911,"School of Architecture",4,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Pedret, Annie",,,11
 220101,ARCH,Architecture,586,"Arch Theory & History IV",FR,"Architecture,Design,& the Arts",2911,"School of Architecture",10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lehnerer, Alexander",,,16
 220101,ARST,"Archaeological Studies",210,"Art/Archaeology of Egypt",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",12,5,0,1,0,0,0,0,0,0,0,0,0,0,0,2,"Tobin, Jennifer L",,,20
-220101,ASAM,"ZZZ Asian American Studies",125,"Intro Asian Amer Studies",FT,"Liberal Arts & Sciences",2492,English,12,10,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"Su, Karen",,,25
+220101,ASAM,"Asian American Studies",125,"Intro Asian Amer Studies",FT,"Liberal Arts & Sciences",2492,English,12,10,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"Su, Karen",,,25
 220101,ASP,"Academic Skills Program",055,"Comm Skls-Intl Grad Students",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,13,3,0,"Zenner, Audrey Marsha",,,16
 220101,ASP,"Academic Skills Program",060,"Stdy/Lrng Across Disciplines",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,2,0,"Koerner, Patrick",,,13
 220101,ASP,"Academic Skills Program",062,"Topc Lrng Supprt Instrct",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,1,"Garcia, Myrna",,,18
@@ -195,8 +195,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220101,ASP,"Academic Skills Program",092,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,3,"Koerner, Patrick",,,15
 220101,ASP,"Academic Skills Program",092,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,29,7,5,"De Leon, Jose",,,41
 220101,ASP,"Academic Skills Program",095,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,0,"Zenner, Audrey Marsha",,,11
-220101,ASST,"ZZZ Asian Studies",109,"East Asian Civ: China",FT,"Liberal Arts & Sciences",2316,History,9,3,2,0,2,0,0,0,0,0,0,0,0,0,0,1,"Klein, Esther Sunkyung",,,17
-220101,ASST,"ZZZ Asian Studies",272,"China Since 1911",FT,"Liberal Arts & Sciences",2316,History,1,6,7,1,0,0,0,0,0,0,0,0,0,0,0,1,"Hostetler, Laura E",,,16
+220101,ASST,"Asian Studies",109,"East Asian Civ: China",FT,"Liberal Arts & Sciences",2316,History,9,3,2,0,2,0,0,0,0,0,0,0,0,0,0,1,"Klein, Esther Sunkyung",,,17
+220101,ASST,"Asian Studies",272,"China Since 1911",FT,"Liberal Arts & Sciences",2316,History,1,6,7,1,0,0,0,0,0,0,0,0,0,0,0,1,"Hostetler, Laura E",,,16
 220101,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",8,7,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Garza, Alejandra",,,17
 220101,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",35,55,9,6,1,0,0,0,0,0,0,0,0,0,0,3,"Corte, Anthony M",,,109
 220101,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",46,34,6,0,1,0,0,0,0,0,0,0,0,0,0,5,"Wang, Jie",,,92
@@ -1451,82 +1451,82 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220101,NATS,"Natural Sciences",103,"Biological World",FT,"Liberal Arts & Sciences",2931,"Natural Science",12,31,12,1,1,0,0,0,0,0,0,0,0,0,0,1,"Muller, Michael T","Ashley, Mary Virginia",,58
 220101,NATS,"Natural Sciences",104,"Project-Based Sem in Nat Sci",FT,"Liberal Arts & Sciences",2931,"Natural Science",17,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wink, Donald J","Nishimura, Marlynne K",,24
 220101,NEUS,Neuroscience,595,"Seminar in Neuroscience",FS,"Graduate College",2480,"Graduate Admin",0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,"Unnerstall, James R",,,21
-220101,NUAS,"ZZZ Admin Studies in Nursing",502,"Stratgc Planning/Outcomes Eval",FW,Nursing,2662,"Pop Health Nursing Science",15,2,0,0,0,0,0,0,0,0,1,0,0,0,0,1,"Stogis, Sheryl L.",,,19
-220101,NUAS,"ZZZ Admin Studies in Nursing",512,"Healthcare Human Resource Mgmt",FW,Nursing,2662,"Pop Health Nursing Science",11,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fitzpatrick, Therese",,,14
-220101,NUMC,"ZZZ Maternal-Child Nursing",508,"Bio Basis Wmn Hlth/Perinatl II",FW,Nursing,2842,"Human Development Nursing Sci",15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Griffin, Terry Lee",,,30
-220101,NUMC,"ZZZ Maternal-Child Nursing",510,"Adv Nsg Care Infant/Child/Adol",FW,Nursing,2842,"Human Development Nursing Sci",17,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mead, Linnea J","Walsh, Susan",,24
-220101,NUMC,"ZZZ Maternal-Child Nursing",512,"Practicum: Peds Prim Care I",FW,Nursing,2842,"Human Development Nursing Sci",18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Orth, Mary L","Mead, Linnea J","Nelson, Celeste",19
-220101,NUMC,"ZZZ Maternal-Child Nursing",514,"Practicum: Peds Prim Care III",FW,Nursing,2842,"Human Development Nursing Sci",12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Walsh, Susan",,,12
-220101,NUMC,"ZZZ Maternal-Child Nursing",515,"Adv Parent-Infant Nsg",FW,Nursing,2842,"Human Development Nursing Sci",18,19,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Obrecht, Jennifer","Studer, Terrence M","Mead, Linnea J",41
-220101,NUMC,"ZZZ Maternal-Child Nursing",518,"Health Care of Women II",FW,Nursing,2842,"Human Development Nursing Sci",22,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Gabzdyl, Elizabeth","Camune, Barbara",,31
-220101,NUMC,"ZZZ Maternal-Child Nursing",524,"Dimens/Midwifery&Wmn Hlth Prac",FW,Nursing,2842,"Human Development Nursing Sci",25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Klima, Carrie","Schoenfeld, Catherine F",,27
-220101,NUMC,"ZZZ Maternal-Child Nursing",525,"Practicum: Hlth Care of Wmn",FW,Nursing,2842,"Human Development Nursing Sci",40,3,0,0,0,0,0,2,0,0,0,0,0,0,0,1,"Dunniway, Diane","Camune, Barbara","Gabzdyl, Elizabeth",46
-220101,NUMC,"ZZZ Maternal-Child Nursing",528,"Practicum: Birth & Newborn",FW,Nursing,2842,"Human Development Nursing Sci",11,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"Camune, Barbara","Studer, Terrence M","Orth, Mary L",13
-220101,NUMS,"ZZZ Medical-Surgical Nursing",515,"Pathophysio Basis of Disease",FW,Nursing,2462,"Biobehavioral Nursing Science",24,19,2,0,0,0,0,0,0,0,0,0,0,0,0,2,"Pogue, Nancy J","Briones, Teresita L",,47
-220101,NUMS,"ZZZ Medical-Surgical Nursing",520,"Mgt Hlth&Ill I: Adv Pract AN",FW,Nursing,2591,"Nursing Administration",18,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Gruss, Valerie A",,,41
-220101,NUMS,"ZZZ Medical-Surgical Nursing",524,"Nrs Prac II:Hlth & Ill Adults",FW,Nursing,2591,"Nursing Administration",32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Corbridge, Susan J","Matthiesen, Valerie","Padwojski, Anne M.",33
-220101,NUMS,"ZZZ Medical-Surgical Nursing",526,"Nrs Pract III: Hlth & Ill Adu",FW,Nursing,2591,"Nursing Administration",29,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Corbridge, Susan J","Matthiesen, Valerie","Padwojski, Anne M.",31
-220101,NUPH,"ZZZ Public Health Nursing",501,"Ed Perspective in School Nursg",FW,Nursing,2662,"Pop Health Nursing Science",14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Belmonte-Mann, Frances","Yonkaitis, Catherine Falusi",,14
-220101,NUPH,"ZZZ Public Health Nursing",502,"School Nursing Theory/Trends",FW,Nursing,2662,"Pop Health Nursing Science",11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Belmonte-Mann, Frances","Yonkaitis, Catherine Falusi",,11
-220101,NUPH,"ZZZ Public Health Nursing",519,"School Nursing Internship",FW,Nursing,2662,"Pop Health Nursing Science",24,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Yonkaitis, Catherine Falusi",,,26
-220101,NUPH,"ZZZ Public Health Nursing",539,"Health Mgmt Primary Care I",FW,Nursing,2662,"Pop Health Nursing Science",16,15,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Sefton, Marlene Gail Smith","Sparbel, Kathleen J","Berry, Jean K",32
-220101,NUPH,"ZZZ Public Health Nursing",540,"Clinical Pract Primary Care I",FW,Nursing,2662,"Pop Health Nursing Science",24,5,0,0,0,0,0,0,3,0,0,0,0,0,0,0,"Sefton, Marlene Gail Smith","Sparbel, Kathleen J","Coon, Anita Jajowka",32
-220101,NUPH,"ZZZ Public Health Nursing",544,"Health Mgmt Primary Care III",FW,Nursing,2662,"Pop Health Nursing Science",26,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"McDevitt, Judith","Coon, Anita Jajowka","Yingling, Charles",31
-220101,NUPH,"ZZZ Public Health Nursing",545,"Adv Clin Prac Primary Care II",FW,Nursing,2662,"Pop Health Nursing Science",27,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Yingling, Charles","Coon, Anita Jajowka","Pycior, Noel Marie",31
-220101,NUSC,"ZZZ Nursing Sciences",217,"Pathophysiol/Pharmacology II",FW,Nursing,2591,"Nursing Administration",30,33,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mills, Jean L",,,64
-220101,NUSC,"ZZZ Nursing Sciences",217,"Pathophysiol/Pharmacology II",FW,Nursing,2591,"Nursing Administration",37,30,7,0,0,0,0,0,0,0,0,0,0,0,0,0,"Schwind, Julie Ann",,,74
-220101,NUSC,"ZZZ Nursing Sciences",250,"Human Devlopment Life Span",FW,Nursing,2591,"Nursing Administration",10,32,16,6,0,0,0,0,1,0,1,0,0,0,0,3,"Breitmayer, Bonnie J",,,69
-220101,NUSC,"ZZZ Nursing Sciences",312,"Ethical-Legal Issues/Nsg",FW,Nursing,2591,"Nursing Administration",11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Krassa, Teresa J",,,11
-220101,NUSC,"ZZZ Nursing Sciences",335,"Clin Concepts/Processes Adults",FW,Nursing,2591,"Nursing Administration",24,20,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"King, Maripat",,,46
-220101,NUSC,"ZZZ Nursing Sciences",335,"Clin Concepts/Processes Adults",FW,Nursing,2591,"Nursing Administration",50,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mills, Jean L",,,62
-220101,NUSC,"ZZZ Nursing Sciences",345,"Clin Concept&Proc Wmn&Fam Hlth",FW,Nursing,2591,"Nursing Administration",15,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Irle, Linda L",,,32
-220101,NUSC,"ZZZ Nursing Sciences",345,"Clin Concept&Proc Wmn&Fam Hlth",FW,Nursing,2591,"Nursing Administration",15,32,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sonneveld, Geraldine M.",,,49
-220101,NUSC,"ZZZ Nursing Sciences",355,"Clin Concpt&Proc Chld&Fam Hlth",FW,Nursing,2591,"Nursing Administration",4,19,5,0,0,0,0,0,0,0,0,0,0,0,0,0,"Boyer, Sue Gail","Fahrenwald, Carol Suzanne",,28
-220101,NUSC,"ZZZ Nursing Sciences",355,"Clin Concpt&Proc Chld&Fam Hlth",FW,Nursing,2591,"Nursing Administration",18,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kitchen, Lianne Marie","Hopkins, Amanda Faye",,30
-220101,NUSC,"ZZZ Nursing Sciences",365,"Clin Concpt&Proc Mental Hlth",FW,Nursing,2591,"Nursing Administration",19,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Simpson, Kimberly Ann",,,23
-220101,NUSC,"ZZZ Nursing Sciences",365,"Clin Concpt&Proc Mental Hlth",FW,Nursing,2591,"Nursing Administration",45,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Painter, Susan","Snyder, Marsha","Daye, Mona C",54
-220101,NUSC,"ZZZ Nursing Sciences",375,"Concpt&Proc Older Adult Health",FW,Nursing,2591,"Nursing Administration",132,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Marren, Kathryn","Gruss, Valerie A",,139
-220101,NUSC,"ZZZ Nursing Sciences",385,"Clin Concpt Populatn-Focus Nsg",FW,Nursing,2591,"Nursing Administration",9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Tredway, Catherine A",,,10
-220101,NUSC,"ZZZ Nursing Sciences",385,"Clin Concpt Populatn-Focus Nsg",FW,Nursing,2591,"Nursing Administration",29,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jones, Krista Lynn",,,32
-220101,NUSC,"ZZZ Nursing Sciences",385,"Clin Concpt Populatn-Focus Nsg",FW,Nursing,2591,"Nursing Administration",46,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cassey, Margaret Z.",,,52
-220101,NUSC,"ZZZ Nursing Sciences",390,"Nsg Leadershp&Mgmt in Hlthcare",FW,Nursing,2591,"Nursing Administration",40,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kitchen, Lianne Marie","Burke, Sandra D",,54
-220101,NUSC,"ZZZ Nursing Sciences",390,"Nsg Leadershp&Mgmt in Hlthcare",FW,Nursing,2591,"Nursing Administration",78,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Schumacher, Ruth E","Sonneveld, Geraldine M.",,83
-220101,NUSC,"ZZZ Nursing Sciences",397,"Issues In Nsg Practice",FW,Nursing,2591,"Nursing Administration",27,54,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Breitmayer, Bonnie J",,,83
-220101,NUSC,"ZZZ Nursing Sciences",397,"Issues In Nsg Practice",FW,Nursing,2591,"Nursing Administration",54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Irle, Linda L",,,54
-220101,NUSC,"ZZZ Nursing Sciences",419,"IHC: Clinical Practice I",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,1,0,0,0,0,55,0,0,"Simmons, Barbara","Gilkerson, Clyda Cheryl","Stout, Marcia",56
-220101,NUSC,"ZZZ Nursing Sciences",420,"Patho & Pharm I",FW,Nursing,2591,"Nursing Administration",20,30,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fritschi, Cynthia","Vuckovic, Karen Mary",,56
-220101,NUSC,"ZZZ Nursing Sciences",421,"IHC:  Concepts/Skills",FW,Nursing,2591,"Nursing Administration",43,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"MacSwain, Tracy",,,56
-220101,NUSC,"ZZZ Nursing Sciences",423,"Patho & Pharm II",FW,Nursing,2591,"Nursing Administration",27,26,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fritschi, Cynthia","Vuckovic, Karen Mary",,56
-220101,NUSC,"ZZZ Nursing Sciences",426,"Cult Fluency/Comm",FW,Nursing,2591,"Nursing Administration",56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Gorman, Geraldine","Smith, Carrol A.",,56
-220101,NUSC,"ZZZ Nursing Sciences",429,"IHC:  Clinical Synthesis",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,"White, Julie A","McGowan, Noreen A.","Gilkerson, Clyda Cheryl",43
-220101,NUSC,"ZZZ Nursing Sciences",432,Bioethics,FW,Nursing,2591,"Nursing Administration",43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Anderson-Shaw, Lisa K",,,43
-220101,NUSC,"ZZZ Nursing Sciences",434,"Leadership Prof Practice",FW,Nursing,2591,"Nursing Administration",40,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"White, Julie A",,,43
-220101,NUSC,"ZZZ Nursing Sciences",503,"Evidence-Based Practice",FW,Nursing,2591,"Nursing Administration",9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Burke, Sandra D",,,16
-220101,NUSC,"ZZZ Nursing Sciences",503,"Evidence-Based Practice",FW,Nursing,2591,"Nursing Administration",9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, Catherine",,,15
-220101,NUSC,"ZZZ Nursing Sciences",503,"Evidence-Based Practice",FW,Nursing,2591,"Nursing Administration",12,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Berger, Barbara E",,,16
-220101,NUSC,"ZZZ Nursing Sciences",506,"Thry&Thry Dev for Nsg Rsch",FW,Nursing,2591,"Nursing Administration",8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Vincent, Catherine",,,10
-220101,NUSC,"ZZZ Nursing Sciences",507,"Promtg Hlth: Transl Sci/Prac",FW,Nursing,2591,"Nursing Administration",14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Camune, Barbara",,,14
-220101,NUSC,"ZZZ Nursing Sciences",511,"Advanced Research Design",FW,Nursing,2591,"Nursing Administration",9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Corte, Colleen",,,10
-220101,NUSC,"ZZZ Nursing Sciences",525,"Intermediate Statistics",FW,Nursing,2591,"Nursing Administration",23,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Ford, Susan Anne","Hacker, Eileen",,31
-220101,NUSC,"ZZZ Nursing Sciences",526,"Nursing Inquiry I",FW,Nursing,2591,"Nursing Administration",15,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,"Heinschel, Judith A",,,22
-220101,NUSC,"ZZZ Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",10,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"Lee, Eunice Eunkyung",,,13
-220101,NUSC,"ZZZ Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",11,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Anderson, Mary Ann",,,23
-220101,NUSC,"ZZZ Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",18,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Krassa, Teresa J",,,26
-220101,NUSC,"ZZZ Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Matthews, Alicia K",,,22
-220101,NUSC,"ZZZ Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Padwojski, Anne M.",,,26
-220101,NUSC,"ZZZ Nursing Sciences",528,"Hlth, Environment & Systems",FW,Nursing,2591,"Nursing Administration",36,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,"Dworak, Donna V","Stogis, Sheryl L.",,38
-220101,NUSC,"ZZZ Nursing Sciences",529,"Issues of Adv Pract in Nsg",FW,Nursing,2591,"Nursing Administration",36,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Sparbel, Kathleen J",,,44
-220101,NUSC,"ZZZ Nursing Sciences",529,"Issues of Adv Pract in Nsg",FW,Nursing,2591,"Nursing Administration",43,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hill, Pamela D",,,45
-220101,NUSC,"ZZZ Nursing Sciences",531,"Pharmacotherapeutics APN",FW,Nursing,2591,"Nursing Administration",33,28,1,0,0,0,0,1,0,0,0,0,0,0,0,4,"Schwertz, Dorie W",,,67
-220101,NUSC,"ZZZ Nursing Sciences",532,"Comprehensv Hlth Assesmnt APN",FW,Nursing,2591,"Nursing Administration",18,11,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Berger, Barbara E","Stout, Marcia","Kociak, Kathleen",31
-220101,NUSC,"ZZZ Nursing Sciences",535,"Biological Basis of Disease",FW,Nursing,2591,"Nursing Administration",7,10,0,0,1,0,0,0,0,0,0,0,0,0,0,2,"Quinn, Lauretta T","Andreoni, Vicki A",,20
-220101,NUSC,"ZZZ Nursing Sciences",542,"Curric Processes Nsg Hlth Sci",FW,Nursing,2591,"Nursing Administration",11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson, Joyce Helena",,,11
-220101,NUSC,"ZZZ Nursing Sciences",571,"Leadrshp International Health",FW,Nursing,2591,"Nursing Administration",9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Kim, Mi Ja",,,10
-220101,NUSC,"ZZZ Nursing Sciences",585,"Advanced Research Seminar",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Dancy, Barbara L",,,10
-220101,NUSC,"ZZZ Nursing Sciences",585,"Advanced Research Seminar",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Wilkie, Diana",,,10
-220101,NUSC,"ZZZ Nursing Sciences",596,"Indpndent Study: Graduate",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,1,"Klima, Carrie",,,25
-220101,NUSC,"ZZZ Nursing Sciences",597,"Master's Project",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Hamilton, Rebekah",,,11
-220101,NUSC,"ZZZ Nursing Sciences",597,"Master's Project",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,2,0,0,1,0,0,10,0,0,"Anderson, Mary Ann",,,13
+220101,NUAS,"Admin Studies in Nursing",502,"Stratgc Planning/Outcomes Eval",FW,Nursing,2662,"Pop Health Nursing Science",15,2,0,0,0,0,0,0,0,0,1,0,0,0,0,1,"Stogis, Sheryl L.",,,19
+220101,NUAS,"Admin Studies in Nursing",512,"Healthcare Human Resource Mgmt",FW,Nursing,2662,"Pop Health Nursing Science",11,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fitzpatrick, Therese",,,14
+220101,NUMC,"Maternal-Child Nursing",508,"Bio Basis Wmn Hlth/Perinatl II",FW,Nursing,2842,"Human Development Nursing Sci",15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Griffin, Terry Lee",,,30
+220101,NUMC,"Maternal-Child Nursing",510,"Adv Nsg Care Infant/Child/Adol",FW,Nursing,2842,"Human Development Nursing Sci",17,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mead, Linnea J","Walsh, Susan",,24
+220101,NUMC,"Maternal-Child Nursing",512,"Practicum: Peds Prim Care I",FW,Nursing,2842,"Human Development Nursing Sci",18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Orth, Mary L","Mead, Linnea J","Nelson, Celeste",19
+220101,NUMC,"Maternal-Child Nursing",514,"Practicum: Peds Prim Care III",FW,Nursing,2842,"Human Development Nursing Sci",12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Walsh, Susan",,,12
+220101,NUMC,"Maternal-Child Nursing",515,"Adv Parent-Infant Nsg",FW,Nursing,2842,"Human Development Nursing Sci",18,19,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Obrecht, Jennifer","Studer, Terrence M","Mead, Linnea J",41
+220101,NUMC,"Maternal-Child Nursing",518,"Health Care of Women II",FW,Nursing,2842,"Human Development Nursing Sci",22,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Gabzdyl, Elizabeth","Camune, Barbara",,31
+220101,NUMC,"Maternal-Child Nursing",524,"Dimens/Midwifery&Wmn Hlth Prac",FW,Nursing,2842,"Human Development Nursing Sci",25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Klima, Carrie","Schoenfeld, Catherine F",,27
+220101,NUMC,"Maternal-Child Nursing",525,"Practicum: Hlth Care of Wmn",FW,Nursing,2842,"Human Development Nursing Sci",40,3,0,0,0,0,0,2,0,0,0,0,0,0,0,1,"Dunniway, Diane","Camune, Barbara","Gabzdyl, Elizabeth",46
+220101,NUMC,"Maternal-Child Nursing",528,"Practicum: Birth & Newborn",FW,Nursing,2842,"Human Development Nursing Sci",11,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"Camune, Barbara","Studer, Terrence M","Orth, Mary L",13
+220101,NUMS,"Medical-Surgical Nursing",515,"Pathophysio Basis of Disease",FW,Nursing,2462,"Biobehavioral Nursing Science",24,19,2,0,0,0,0,0,0,0,0,0,0,0,0,2,"Pogue, Nancy J","Briones, Teresita L",,47
+220101,NUMS,"Medical-Surgical Nursing",520,"Mgt Hlth&Ill I: Adv Pract AN",FW,Nursing,2591,"Nursing Administration",18,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Gruss, Valerie A",,,41
+220101,NUMS,"Medical-Surgical Nursing",524,"Nrs Prac II:Hlth & Ill Adults",FW,Nursing,2591,"Nursing Administration",32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Corbridge, Susan J","Matthiesen, Valerie","Padwojski, Anne M.",33
+220101,NUMS,"Medical-Surgical Nursing",526,"Nrs Pract III: Hlth & Ill Adu",FW,Nursing,2591,"Nursing Administration",29,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Corbridge, Susan J","Matthiesen, Valerie","Padwojski, Anne M.",31
+220101,NUPH,"Public Health Nursing",501,"Ed Perspective in School Nursg",FW,Nursing,2662,"Pop Health Nursing Science",14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Belmonte-Mann, Frances","Yonkaitis, Catherine Falusi",,14
+220101,NUPH,"Public Health Nursing",502,"School Nursing Theory/Trends",FW,Nursing,2662,"Pop Health Nursing Science",11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Belmonte-Mann, Frances","Yonkaitis, Catherine Falusi",,11
+220101,NUPH,"Public Health Nursing",519,"School Nursing Internship",FW,Nursing,2662,"Pop Health Nursing Science",24,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Yonkaitis, Catherine Falusi",,,26
+220101,NUPH,"Public Health Nursing",539,"Health Mgmt Primary Care I",FW,Nursing,2662,"Pop Health Nursing Science",16,15,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Sefton, Marlene Gail Smith","Sparbel, Kathleen J","Berry, Jean K",32
+220101,NUPH,"Public Health Nursing",540,"Clinical Pract Primary Care I",FW,Nursing,2662,"Pop Health Nursing Science",24,5,0,0,0,0,0,0,3,0,0,0,0,0,0,0,"Sefton, Marlene Gail Smith","Sparbel, Kathleen J","Coon, Anita Jajowka",32
+220101,NUPH,"Public Health Nursing",544,"Health Mgmt Primary Care III",FW,Nursing,2662,"Pop Health Nursing Science",26,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"McDevitt, Judith","Coon, Anita Jajowka","Yingling, Charles",31
+220101,NUPH,"Public Health Nursing",545,"Adv Clin Prac Primary Care II",FW,Nursing,2662,"Pop Health Nursing Science",27,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Yingling, Charles","Coon, Anita Jajowka","Pycior, Noel Marie",31
+220101,NUSC,"Nursing Sciences",217,"Pathophysiol/Pharmacology II",FW,Nursing,2591,"Nursing Administration",30,33,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mills, Jean L",,,64
+220101,NUSC,"Nursing Sciences",217,"Pathophysiol/Pharmacology II",FW,Nursing,2591,"Nursing Administration",37,30,7,0,0,0,0,0,0,0,0,0,0,0,0,0,"Schwind, Julie Ann",,,74
+220101,NUSC,"Nursing Sciences",250,"Human Devlopment Life Span",FW,Nursing,2591,"Nursing Administration",10,32,16,6,0,0,0,0,1,0,1,0,0,0,0,3,"Breitmayer, Bonnie J",,,69
+220101,NUSC,"Nursing Sciences",312,"Ethical-Legal Issues/Nsg",FW,Nursing,2591,"Nursing Administration",11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Krassa, Teresa J",,,11
+220101,NUSC,"Nursing Sciences",335,"Clin Concepts/Processes Adults",FW,Nursing,2591,"Nursing Administration",24,20,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"King, Maripat",,,46
+220101,NUSC,"Nursing Sciences",335,"Clin Concepts/Processes Adults",FW,Nursing,2591,"Nursing Administration",50,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mills, Jean L",,,62
+220101,NUSC,"Nursing Sciences",345,"Clin Concept&Proc Wmn&Fam Hlth",FW,Nursing,2591,"Nursing Administration",15,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Irle, Linda L",,,32
+220101,NUSC,"Nursing Sciences",345,"Clin Concept&Proc Wmn&Fam Hlth",FW,Nursing,2591,"Nursing Administration",15,32,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sonneveld, Geraldine M.",,,49
+220101,NUSC,"Nursing Sciences",355,"Clin Concpt&Proc Chld&Fam Hlth",FW,Nursing,2591,"Nursing Administration",4,19,5,0,0,0,0,0,0,0,0,0,0,0,0,0,"Boyer, Sue Gail","Fahrenwald, Carol Suzanne",,28
+220101,NUSC,"Nursing Sciences",355,"Clin Concpt&Proc Chld&Fam Hlth",FW,Nursing,2591,"Nursing Administration",18,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kitchen, Lianne Marie","Hopkins, Amanda Faye",,30
+220101,NUSC,"Nursing Sciences",365,"Clin Concpt&Proc Mental Hlth",FW,Nursing,2591,"Nursing Administration",19,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Simpson, Kimberly Ann",,,23
+220101,NUSC,"Nursing Sciences",365,"Clin Concpt&Proc Mental Hlth",FW,Nursing,2591,"Nursing Administration",45,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Painter, Susan","Snyder, Marsha","Daye, Mona C",54
+220101,NUSC,"Nursing Sciences",375,"Concpt&Proc Older Adult Health",FW,Nursing,2591,"Nursing Administration",132,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Marren, Kathryn","Gruss, Valerie A",,139
+220101,NUSC,"Nursing Sciences",385,"Clin Concpt Populatn-Focus Nsg",FW,Nursing,2591,"Nursing Administration",9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Tredway, Catherine A",,,10
+220101,NUSC,"Nursing Sciences",385,"Clin Concpt Populatn-Focus Nsg",FW,Nursing,2591,"Nursing Administration",29,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jones, Krista Lynn",,,32
+220101,NUSC,"Nursing Sciences",385,"Clin Concpt Populatn-Focus Nsg",FW,Nursing,2591,"Nursing Administration",46,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cassey, Margaret Z.",,,52
+220101,NUSC,"Nursing Sciences",390,"Nsg Leadershp&Mgmt in Hlthcare",FW,Nursing,2591,"Nursing Administration",40,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kitchen, Lianne Marie","Burke, Sandra D",,54
+220101,NUSC,"Nursing Sciences",390,"Nsg Leadershp&Mgmt in Hlthcare",FW,Nursing,2591,"Nursing Administration",78,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Schumacher, Ruth E","Sonneveld, Geraldine M.",,83
+220101,NUSC,"Nursing Sciences",397,"Issues In Nsg Practice",FW,Nursing,2591,"Nursing Administration",27,54,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Breitmayer, Bonnie J",,,83
+220101,NUSC,"Nursing Sciences",397,"Issues In Nsg Practice",FW,Nursing,2591,"Nursing Administration",54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Irle, Linda L",,,54
+220101,NUSC,"Nursing Sciences",419,"IHC: Clinical Practice I",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,1,0,0,0,0,55,0,0,"Simmons, Barbara","Gilkerson, Clyda Cheryl","Stout, Marcia",56
+220101,NUSC,"Nursing Sciences",420,"Patho & Pharm I",FW,Nursing,2591,"Nursing Administration",20,30,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fritschi, Cynthia","Vuckovic, Karen Mary",,56
+220101,NUSC,"Nursing Sciences",421,"IHC:  Concepts/Skills",FW,Nursing,2591,"Nursing Administration",43,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"MacSwain, Tracy",,,56
+220101,NUSC,"Nursing Sciences",423,"Patho & Pharm II",FW,Nursing,2591,"Nursing Administration",27,26,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fritschi, Cynthia","Vuckovic, Karen Mary",,56
+220101,NUSC,"Nursing Sciences",426,"Cult Fluency/Comm",FW,Nursing,2591,"Nursing Administration",56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Gorman, Geraldine","Smith, Carrol A.",,56
+220101,NUSC,"Nursing Sciences",429,"IHC:  Clinical Synthesis",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,"White, Julie A","McGowan, Noreen A.","Gilkerson, Clyda Cheryl",43
+220101,NUSC,"Nursing Sciences",432,Bioethics,FW,Nursing,2591,"Nursing Administration",43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Anderson-Shaw, Lisa K",,,43
+220101,NUSC,"Nursing Sciences",434,"Leadership Prof Practice",FW,Nursing,2591,"Nursing Administration",40,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"White, Julie A",,,43
+220101,NUSC,"Nursing Sciences",503,"Evidence-Based Practice",FW,Nursing,2591,"Nursing Administration",9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Burke, Sandra D",,,16
+220101,NUSC,"Nursing Sciences",503,"Evidence-Based Practice",FW,Nursing,2591,"Nursing Administration",9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, Catherine",,,15
+220101,NUSC,"Nursing Sciences",503,"Evidence-Based Practice",FW,Nursing,2591,"Nursing Administration",12,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Berger, Barbara E",,,16
+220101,NUSC,"Nursing Sciences",506,"Thry&Thry Dev for Nsg Rsch",FW,Nursing,2591,"Nursing Administration",8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Vincent, Catherine",,,10
+220101,NUSC,"Nursing Sciences",507,"Promtg Hlth: Transl Sci/Prac",FW,Nursing,2591,"Nursing Administration",14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Camune, Barbara",,,14
+220101,NUSC,"Nursing Sciences",511,"Advanced Research Design",FW,Nursing,2591,"Nursing Administration",9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Corte, Colleen",,,10
+220101,NUSC,"Nursing Sciences",525,"Intermediate Statistics",FW,Nursing,2591,"Nursing Administration",23,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Ford, Susan Anne","Hacker, Eileen",,31
+220101,NUSC,"Nursing Sciences",526,"Nursing Inquiry I",FW,Nursing,2591,"Nursing Administration",15,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,"Heinschel, Judith A",,,22
+220101,NUSC,"Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",10,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"Lee, Eunice Eunkyung",,,13
+220101,NUSC,"Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",11,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Anderson, Mary Ann",,,23
+220101,NUSC,"Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",18,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Krassa, Teresa J",,,26
+220101,NUSC,"Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Matthews, Alicia K",,,22
+220101,NUSC,"Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Padwojski, Anne M.",,,26
+220101,NUSC,"Nursing Sciences",528,"Hlth, Environment & Systems",FW,Nursing,2591,"Nursing Administration",36,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,"Dworak, Donna V","Stogis, Sheryl L.",,38
+220101,NUSC,"Nursing Sciences",529,"Issues of Adv Pract in Nsg",FW,Nursing,2591,"Nursing Administration",36,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Sparbel, Kathleen J",,,44
+220101,NUSC,"Nursing Sciences",529,"Issues of Adv Pract in Nsg",FW,Nursing,2591,"Nursing Administration",43,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hill, Pamela D",,,45
+220101,NUSC,"Nursing Sciences",531,"Pharmacotherapeutics APN",FW,Nursing,2591,"Nursing Administration",33,28,1,0,0,0,0,1,0,0,0,0,0,0,0,4,"Schwertz, Dorie W",,,67
+220101,NUSC,"Nursing Sciences",532,"Comprehensv Hlth Assesmnt APN",FW,Nursing,2591,"Nursing Administration",18,11,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Berger, Barbara E","Stout, Marcia","Kociak, Kathleen",31
+220101,NUSC,"Nursing Sciences",535,"Biological Basis of Disease",FW,Nursing,2591,"Nursing Administration",7,10,0,0,1,0,0,0,0,0,0,0,0,0,0,2,"Quinn, Lauretta T","Andreoni, Vicki A",,20
+220101,NUSC,"Nursing Sciences",542,"Curric Processes Nsg Hlth Sci",FW,Nursing,2591,"Nursing Administration",11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson, Joyce Helena",,,11
+220101,NUSC,"Nursing Sciences",571,"Leadrshp International Health",FW,Nursing,2591,"Nursing Administration",9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Kim, Mi Ja",,,10
+220101,NUSC,"Nursing Sciences",585,"Advanced Research Seminar",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Dancy, Barbara L",,,10
+220101,NUSC,"Nursing Sciences",585,"Advanced Research Seminar",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Wilkie, Diana",,,10
+220101,NUSC,"Nursing Sciences",596,"Indpndent Study: Graduate",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,1,"Klima, Carrie",,,25
+220101,NUSC,"Nursing Sciences",597,"Master's Project",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Hamilton, Rebekah",,,11
+220101,NUSC,"Nursing Sciences",597,"Master's Project",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,2,0,0,1,0,0,10,0,0,"Anderson, Mary Ann",,,13
 220101,OMDS,"Oral Medicine & Diagnostic Sci",334,"Clinical Oral Path & Medicine",FN,Dentistry,2319,"Oral Medicine and Diag Sci",43,38,7,1,0,0,0,0,0,0,0,0,0,0,0,0,"Sroussi, Herve Y","Fischer, Dena J.",,89
 220101,OMDS,"Oral Medicine & Diagnostic Sci",336,"Intro to Geriatric Dentistry",FN,Dentistry,2319,"Oral Medicine and Diag Sci",83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Toepke, Timothy Raymond Schweda",,,83
 220101,OMDS,"Oral Medicine & Diagnostic Sci",337,"Radiology Clinic II",FN,Dentistry,2319,"Oral Medicine and Diag Sci",85,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Monahan, Richard","Slawinski-L, Sophia",,87

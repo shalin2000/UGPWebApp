@@ -326,27 +326,27 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220105,MUS,Music,107,"Fundamentals Of Music Theory",FR,"Architecture,Design,& the Arts",2947,"Theatre and Music",17,4,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Collerd, Gene J",,,24
 220105,MUS,Music,114,"Jazz History",FR,"Architecture,Design,& the Arts",2947,"Theatre and Music",17,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mitchell, Nicole",,,20
 220105,MUS,Music,127,"Latin American Music",FR,"Architecture,Design,& the Arts",2947,"Theatre and Music",15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rodriguez-Barilari, Elbio",,,15
-220105,NUMC,"ZZZ Maternal-Child Nursing",513,"Practicum: Peds Prim Care II",FW,Nursing,2842,"Human Development Nursing Sci",12,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,"Mead, Linnea J",,,15
-220105,NUMC,"ZZZ Maternal-Child Nursing",525,"Practicum: Hlth Care of Wmn",FW,Nursing,2842,"Human Development Nursing Sci",28,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,"Klima, Carrie",,,33
-220105,NUMC,"ZZZ Maternal-Child Nursing",528,"Practicum: Birth & Newborn",FW,Nursing,2842,"Human Development Nursing Sci",12,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,"Camune, Barbara",,,18
-220105,NUMS,"ZZZ Medical-Surgical Nursing",522,"NP Pract I:Mgmt Hlth/Ill Adult",FW,Nursing,2462,"Biobehavioral Nursing Science",5,0,0,0,0,0,0,0,16,0,1,0,0,0,0,0,"Corbridge, Susan J","Matthiesen, Valerie","Padwojski, Anne M.",22
-220105,NUPH,"ZZZ Public Health Nursing",541,"Clin Practice Primary Care II",FW,Nursing,2662,"Pop Health Nursing Science",15,13,0,0,0,0,0,0,4,0,0,0,0,0,0,0,"Sefton, Marlene Gail Smith","Sparbel, Kathleen J","Coon, Anita Jajowka",32
-220105,NUSC,"ZZZ Nursing Sciences",250,"Human Devlopment Life Span",FW,Nursing,2591,"Nursing Administration",4,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,"Breitmayer, Bonnie J",,,14
-220105,NUSC,"ZZZ Nursing Sciences",310,"Explrng Comp/Altv Prac",FW,Nursing,2591,"Nursing Administration",6,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Schumacher, Ruth E",,,17
-220105,NUSC,"ZZZ Nursing Sciences",316,"Nursing Informatics",FW,Nursing,2591,"Nursing Administration",11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,14
-220105,NUSC,"ZZZ Nursing Sciences",322,"Intro to Nsg Rsrch/Statistics",FW,Nursing,2591,"Nursing Administration",11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Vincent, Catherine",,,13
-220105,NUSC,"ZZZ Nursing Sciences",385,"Clin Concpt Populatn-Focus Nsg",FW,Nursing,2591,"Nursing Administration",13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tredway, Catherine A",,,15
-220105,NUSC,"ZZZ Nursing Sciences",390,"Nsg Leadershp&Mgmt in Hlthcare",FW,Nursing,2591,"Nursing Administration",16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tredway, Catherine A",,,18
-220105,NUSC,"ZZZ Nursing Sciences",397,"Issues In Nsg Practice",FW,Nursing,2591,"Nursing Administration",21,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,"Andreoni, Vicki A",,,23
-220105,NUSC,"ZZZ Nursing Sciences",422,"IHC Community",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,1,"Cassey, Margaret Z.",,,56
-220105,NUSC,"ZZZ Nursing Sciences",424,"IHC:  Adult/Older Adult",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,1,"Simmons, Barbara",,,56
-220105,NUSC,"ZZZ Nursing Sciences",425,"IHC:  Clinical Practice II",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,1,"Simmons, Barbara",,,56
-220105,NUSC,"ZZZ Nursing Sciences",525,"Intermediate Statistics",FW,Nursing,2591,"Nursing Administration",10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hacker, Eileen",,,15
-220105,NUSC,"ZZZ Nursing Sciences",525,"Intermediate Statistics",FW,Nursing,2591,"Nursing Administration",14,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hill, Pamela D",,,18
-220105,NUSC,"ZZZ Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Matthews, Alicia K",,,15
-220105,NUSC,"ZZZ Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,"Giurgescu, Carmen",,,18
-220105,NUSC,"ZZZ Nursing Sciences",528,"Hlth, Environment & Systems",FW,Nursing,2591,"Nursing Administration",82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Dworak, Donna V",,,83
-220105,NUSC,"ZZZ Nursing Sciences",529,"Issues of Adv Pract in Nsg",FW,Nursing,2591,"Nursing Administration",54,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hill, Pamela D",,,55
+220105,NUMC,"Maternal-Child Nursing",513,"Practicum: Peds Prim Care II",FW,Nursing,2842,"Human Development Nursing Sci",12,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,"Mead, Linnea J",,,15
+220105,NUMC,"Maternal-Child Nursing",525,"Practicum: Hlth Care of Wmn",FW,Nursing,2842,"Human Development Nursing Sci",28,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,"Klima, Carrie",,,33
+220105,NUMC,"Maternal-Child Nursing",528,"Practicum: Birth & Newborn",FW,Nursing,2842,"Human Development Nursing Sci",12,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,"Camune, Barbara",,,18
+220105,NUMS,"Medical-Surgical Nursing",522,"NP Pract I:Mgmt Hlth/Ill Adult",FW,Nursing,2462,"Biobehavioral Nursing Science",5,0,0,0,0,0,0,0,16,0,1,0,0,0,0,0,"Corbridge, Susan J","Matthiesen, Valerie","Padwojski, Anne M.",22
+220105,NUPH,"Public Health Nursing",541,"Clin Practice Primary Care II",FW,Nursing,2662,"Pop Health Nursing Science",15,13,0,0,0,0,0,0,4,0,0,0,0,0,0,0,"Sefton, Marlene Gail Smith","Sparbel, Kathleen J","Coon, Anita Jajowka",32
+220105,NUSC,"Nursing Sciences",250,"Human Devlopment Life Span",FW,Nursing,2591,"Nursing Administration",4,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,"Breitmayer, Bonnie J",,,14
+220105,NUSC,"Nursing Sciences",310,"Explrng Comp/Altv Prac",FW,Nursing,2591,"Nursing Administration",6,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Schumacher, Ruth E",,,17
+220105,NUSC,"Nursing Sciences",316,"Nursing Informatics",FW,Nursing,2591,"Nursing Administration",11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,14
+220105,NUSC,"Nursing Sciences",322,"Intro to Nsg Rsrch/Statistics",FW,Nursing,2591,"Nursing Administration",11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Vincent, Catherine",,,13
+220105,NUSC,"Nursing Sciences",385,"Clin Concpt Populatn-Focus Nsg",FW,Nursing,2591,"Nursing Administration",13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tredway, Catherine A",,,15
+220105,NUSC,"Nursing Sciences",390,"Nsg Leadershp&Mgmt in Hlthcare",FW,Nursing,2591,"Nursing Administration",16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tredway, Catherine A",,,18
+220105,NUSC,"Nursing Sciences",397,"Issues In Nsg Practice",FW,Nursing,2591,"Nursing Administration",21,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,"Andreoni, Vicki A",,,23
+220105,NUSC,"Nursing Sciences",422,"IHC Community",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,1,"Cassey, Margaret Z.",,,56
+220105,NUSC,"Nursing Sciences",424,"IHC:  Adult/Older Adult",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,1,"Simmons, Barbara",,,56
+220105,NUSC,"Nursing Sciences",425,"IHC:  Clinical Practice II",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,1,"Simmons, Barbara",,,56
+220105,NUSC,"Nursing Sciences",525,"Intermediate Statistics",FW,Nursing,2591,"Nursing Administration",10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hacker, Eileen",,,15
+220105,NUSC,"Nursing Sciences",525,"Intermediate Statistics",FW,Nursing,2591,"Nursing Administration",14,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hill, Pamela D",,,18
+220105,NUSC,"Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Matthews, Alicia K",,,15
+220105,NUSC,"Nursing Sciences",527,"Nursing Inquiry II",FW,Nursing,2591,"Nursing Administration",12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,"Giurgescu, Carmen",,,18
+220105,NUSC,"Nursing Sciences",528,"Hlth, Environment & Systems",FW,Nursing,2591,"Nursing Administration",82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Dworak, Donna V",,,83
+220105,NUSC,"Nursing Sciences",529,"Issues of Adv Pract in Nsg",FW,Nursing,2591,"Nursing Administration",54,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hill, Pamela D",,,55
 220105,OMDS,"Oral Medicine & Diagnostic Sci",617,"Radiology for Dent Speclist",FN,Dentistry,2319,"Oral Medicine and Diag Sci",26,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Monahan, Richard","Slawinski-L, Sophia",,27
 220105,ORTD,Orthodontics,595,"Seminar in Orthodontics",FN,Dentistry,2978,Orthodontics,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,"Evans, Carlotta A.",,,20
 220105,ORTD,Orthodontics,620,"Orthodontic Clinic II",FN,Dentistry,2978,Orthodontics,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kusnoto, Budi","Evans, Carlotta A.",,10
