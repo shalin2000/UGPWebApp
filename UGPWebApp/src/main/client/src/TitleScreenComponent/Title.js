@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import "./assets/css/main.css"
 import pic01 from "./images/pic01.jpg"
-import Logo from '../GradePal.png'
+// import Logo from '../GradePal.png'
 import {Link} from 'react-router-dom';
 import ScrollUpButton from "react-scroll-up-button";
 import axios from 'axios';
