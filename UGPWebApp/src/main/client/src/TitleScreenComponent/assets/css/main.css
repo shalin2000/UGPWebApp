@@ -2976,6 +2976,11 @@ input, select, textarea {
 					line-height: 1.65em;
 				}
 
+			#main {
+				/* QASIM CHANGED THIS MARGIN*/
+				margin-top: -110px;
+			}
+
 	}
 
 /* Normal */
@@ -3070,6 +3075,8 @@ input, select, textarea {
 		/* Main */
 
 			#main {
+				/* QASIM CHANGED THIS MARGIN*/
+				margin-top: -70px;
 				padding: 4em 0 3em 0;
 			}
 
@@ -3083,6 +3090,10 @@ input, select, textarea {
 
 			body, input, select, textarea {
 				font-size: 12pt;
+			}
+			#main {
+				/* QASIM ADDED MARGIN */
+				margin-top: -65px;
 			}
 
 	}
@@ -3101,6 +3112,11 @@ input, select, textarea {
 			footer.major {
 				padding-left: 2em;
 				padding-right: 2em;
+			}
+
+			#main {
+				/* QASIM ADDED MARGIN */
+				margin-top: -65px;
 			}
 
 	}
@@ -3230,6 +3246,8 @@ input, select, textarea {
 		/* Main */
 
 			#main {
+				/* QASIM ADDED MARGIN */
+				margin-top: -32px;
 				padding: 2em 0 2em 0;
 			}
 

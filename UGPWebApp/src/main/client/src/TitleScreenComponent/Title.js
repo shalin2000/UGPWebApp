@@ -8,6 +8,8 @@ import axios from 'axios';
 import Select from 'react-select';
 import * as d3 from 'd3';
 import data from '../CSVData/10Year.csv';
+import Header from '../Header';
+
 
 class Title extends Component {
     constructor(props) {
@@ -150,25 +152,24 @@ class Title extends Component {
         return (
             <div>
                 {/* adds the scrollToTop button */}
-                <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/>
+                {/* <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/> */}
                 <head>
                     <title>GradePal</title>
                     <meta charset="utf-8" />
                     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
                     <link rel="stylesheet" href="assets/css/main.css" />
                 </head>
-                
+                <Header/>
                 <body className="is-preload">
 
-                        <div id="header">
+                        {/* <div id="header">
                         
                         <img className="logo" src={Logo} alt="logo" />  
                             
-                        </div>
-
-                        <div id="main">
-
-                            <header className="major container medium">
+                        </div> */}
+                        <br/>
+                        <br/>
+                        <header className="major container medium">
                                 <h2>Check out how your&nbsp;
                                 <br />
                                 fellow peers are performing&nbsp;
@@ -206,10 +207,10 @@ class Title extends Component {
                                 {(this.state.selectedOptionDept !== null) && (this.state.selectedOptionCrsNbr !== null) && (this.state.selectedOptionProf !== null) && (this.state.btnDisable===true) ? this.dropDownSelected() : null}
                                 {/* when submit button pressed it links to displayGrade page with the correct data */}
                                 <br/>
-                                <Link to={{pathname: "/displayGrades", state: { linkState: this.state.courseSelected }}}> <button disabled={this.state.btnDisable}  class="button" >Quick Search</button></Link>
-			
-                            </header>
+                                <Link to={{pathname: "/displayGrades", state: { linkState: this.state.courseSelected }}}> <button disabled={this.state.btnDisable}  class="button" >Quick Search</button></Link>    
+                                </header>
 
+                        <div id="main">
                             {/* Different containers that are button type which allow the users to choose between 3 options */}
                             <div className="box alt container">
                                 {/* link to displayDept */}
@@ -297,6 +298,8 @@ class Title extends Component {
                         <script src="assets/js/main.js"></script>
 
                 </body>
+                <ScrollUpButton style={{ outline:'none', backgroundColor: '#AC1E2D', borderRadius: '8px', padding: '4px',}}/>
+
             </div>
         )
     }
