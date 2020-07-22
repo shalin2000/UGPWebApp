@@ -78,7 +78,7 @@ class Title extends Component {
     // when item is selected in DEPT dropdown it will find all the crs_nbr for that dept and list that for the next dropdown
     handleChangeDept = selectedOptionDept => {
         if (selectedOptionDept === null){
-            this.setState({selectedOptionDept: null, selectedOptionCrsNbr: null, selectedOptionProf: null, deptSelected: true, crsNbrSelected: true})
+            this.setState({selectedOptionDept: null, selectedOptionCrsNbr: null, selectedOptionProf: null, deptSelected: true, crsNbrSelected: true, btnDisable: true})
             return
         }
         let specificDeptCRSNBR = this.state.myData.filter(x => x.CRS_SUBJ_DESC === selectedOptionDept.label)
@@ -90,7 +90,7 @@ class Title extends Component {
     // when item is selected in CRS_NBR dropdown it will find all the prof for that dept and crs_nbr and list that for the next dropdown
     handleChangeCrsNbr = selectedOptionCrsNbr => {
         if (selectedOptionCrsNbr === null){
-            this.setState({selectedOptionCrsNbr: null, selectedOptionProf: null, crsNbrSelected: true})
+            this.setState({selectedOptionCrsNbr: null, selectedOptionProf: null, crsNbrSelected: true, btnDisable: true})
             return
         }
         let specificCRSNBR = this.state.myData.filter(x => x.CRS_NBR === selectedOptionCrsNbr.label && x.CRS_SUBJ_DESC === this.state.selectedOptionDept.label)
