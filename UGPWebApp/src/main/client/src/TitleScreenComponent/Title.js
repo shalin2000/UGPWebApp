@@ -78,7 +78,7 @@ class Title extends Component {
     // when item is selected in DEPT dropdown it will find all the crs_nbr for that dept and list that for the next dropdown
     handleChangeDept = selectedOptionDept => {
         if (selectedOptionDept === null){
-            this.setState({selectedOptionDept: null, selectedOptionCrsNbr: null, selectedOptionProf: null, deptSelected: true})
+            this.setState({selectedOptionDept: null, selectedOptionCrsNbr: null, selectedOptionProf: null, deptSelected: true, crsNbrSelected: true})
             return
         }
         let specificDeptCRSNBR = this.state.myData.filter(x => x.CRS_SUBJ_DESC === selectedOptionDept.label)
