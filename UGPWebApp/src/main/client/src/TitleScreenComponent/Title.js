@@ -166,12 +166,13 @@ class Title extends Component {
                                 in hundreds of courses</h2>		
                                 <br />
                                 
+                                <div style={{textAlign: 'left'}}>
                                 {/* dropdown for easy select with 3 dropdowns */}
                                 <Select
                                     value={this.state.selectedOptionDept}
                                     onChange={this.handleChangeDept}
                                     options={uniqueDept}
-                                    placeholder="Select Dept"
+                                    placeholder="Select Department"
                                     isClearable={true}
                                 />
                                 <Select
@@ -190,11 +191,12 @@ class Title extends Component {
                                     isClearable={true}
                                     isDisabled={this.state.crsNbrSelected}
                                 />
+                                </div>
                                 {/* checks if each dropdown is filled and if filled then allows submit button */}
                                 {(this.state.selectedOptionDept !== null) && (this.state.selectedOptionCrsNbr !== null) && (this.state.selectedOptionProf !== null) && (this.state.btnDisable===true) ? this.dropDownSelected() : null}
                                 {/* when submit button pressed it links to displayGrade page with the correct data */}
                                 <br/>
-                                <Link to={{pathname: "/displayGrades", state: { linkState: this.state.courseSelected }}}> <button disabled={this.state.btnDisable}  class="button" >Search</button></Link>
+                                <Link to={{pathname: "/displayGrades", state: { linkState: this.state.courseSelected }}}> <button disabled={this.state.btnDisable}  class="button" >Quick Seach</button></Link>
 			
                             </header>
 
