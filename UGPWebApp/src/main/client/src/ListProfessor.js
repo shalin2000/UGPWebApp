@@ -30,16 +30,10 @@ class ListProfessor extends Component {
     ];
   }
 
-  // linking() {
-        
-  //       return <Link
-  //             // key={idx}
-  //             to={{pathname: "/displayGrades",
-  //             state: { linkState: data }}}>
-                
-  //             </Link> 
-
-  // }
+  linking() {
+    console.log("hello")
+    return <Link to={{pathname: "/displayGrades", state: { linkState: data }}}></Link> 
+  }
 
   render() {    
 
@@ -79,29 +73,20 @@ class ListProfessor extends Component {
           // background: '#AC1E2D'      
         }}
       >
-       
         <div className="card-body" 
-        // onClick={this.linking}
-          style={{
-            display: 'flex',
-            flexDirection: 'column',
-            alignItems: 'center',
-            justifyContent: 'center',
-            // backgroundImage: `url(${pic01})`
-          }}
+          onClick={this.linking}
+            style={{
+              display: 'flex',
+              flexDirection: 'column',
+              alignItems: 'center',
+              justifyContent: 'center',
+              // backgroundImage: `url(${pic01})`
+            }}
         >
-          <Link
-      key={idx}
-      to={{pathname: "/displayGrades",
-      state: { linkState: data }}}>
-         {/* #5b5b5b */}
+          <Link key={idx} to={{pathname: "/displayGrades", state: { linkState: data }}}>
             <h3 style={{margin: 0, color: '#5b5b5b', textDecoration: 'underline'}}>{data.name1}</h3>
-            
-            </Link>
-
-
+          </Link>
         </div>
-       
       </div>
     ))}
   </div>

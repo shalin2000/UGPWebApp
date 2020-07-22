@@ -7,7 +7,7 @@ import ScrollUpButton from "react-scroll-up-button";
 import axios from 'axios';
 import Select from 'react-select';
 import * as d3 from 'd3';
-import data from '../CSVData/3Year.csv';
+import data from '../CSVData/10Year.csv';
 
 class Title extends Component {
     constructor(props) {
@@ -25,6 +25,8 @@ class Title extends Component {
             myData: [],
             btnDisable: true,
             courseSelected: {},
+            uniqueCrsNbr: [],
+            uniqueProf: [],
         };
         this.submitContactForm = this.submitContactForm.bind(this);
         this.formChange = this.formChange.bind(this);
@@ -71,28 +73,25 @@ class Title extends Component {
         });
     };
 
-    // when item is selected in DEPT dropdown it sets the state
+    // when item is selected in DEPT dropdown it will find all the crs_nbr for that dept and list that for the next dropdown
     handleChangeDept = selectedOptionDept => {
-        this.setState(
-          { selectedOptionDept },
-          () => console.log(`Option selected:`, this.state.selectedOptionDept)
-        );
+        let specificDeptCRSNBR = this.state.myData.filter(x => x.CRS_SUBJ_DESC === selectedOptionDept.label)
+        let allCrsNbrForDept = specificDeptCRSNBR.map(a => ({label: a.CRS_NBR}))
+        let removedDupArr = this.removeDup(allCrsNbrForDept, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1)
+        this.setState({selectedOptionDept: selectedOptionDept, uniqueCrsNbr: removedDupArr})
     };
 
-    // when item is selected in CRS_NBR dropdown it sets the state
+    // when item is selected in CRS_NBR dropdown it will find all the prof for that dept and crs_nbr and list that for the next dropdown
     handleChangeCrsNbr = selectedOptionCrsNbr => {
-        this.setState(
-          { selectedOptionCrsNbr },
-          () => console.log(`Option selected:`, this.state.selectedOptionCrsNbr)
-        );
+        let specificCRSNBR = this.state.myData.filter(x => x.CRS_NBR === selectedOptionCrsNbr.label && x.CRS_SUBJ_DESC === this.state.selectedOptionDept.label)
+        let allProfForCRSNBR = specificCRSNBR.map(a => ({label: a.name1}))
+        let removedDupArr = this.removeDup(allProfForCRSNBR, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1)
+        this.setState({selectedOptionCrsNbr: selectedOptionCrsNbr, uniqueProf :removedDupArr})
     };
 
     // when item is selected in PROF dropdown it sets the state
     handleChangeProf = selectedOptionProf => {
-        this.setState(
-          { selectedOptionProf },
-          () => console.log(`Option selected:`, this.state.selectedOptionProf)
-        );
+        this.setState({selectedOptionProf: selectedOptionProf})
     };
 
     // Removes the duplicate value in the object
@@ -123,14 +122,6 @@ class Title extends Component {
         // maps the deptArr with only CRS_SUBJ_DESC element and has key name called label for the dropdown and removes duplicates
         let deptArr = this.state.myData.map(a => ({label: a.CRS_SUBJ_DESC}));
         let uniqueDept = this.removeDup(deptArr, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1);
-
-        // maps the crsNbrArr with only CRS_NBR element and has key name called label for the dropdown and removes duplicates
-        let courseNbrArr = this.state.myData.map(a => ({label: a.CRS_NBR}));
-        let uniqueCrsNbr = this.removeDup(courseNbrArr, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1);
-
-        // maps the profArr with only name1 element and has key name called label for the dropdown and removes duplicates
-        let profArr = this.state.myData.map(a => ({label: a.name1}));
-        let uniqueProf = this.removeDup(profArr, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1);
 
         return (
             <div>
@@ -171,13 +162,13 @@ class Title extends Component {
                                 <Select
                                     value={this.state.selectedOptionCrsNbr}
                                     onChange={this.handleChangeCrsNbr}
-                                    options={uniqueCrsNbr}
+                                    options={this.state.uniqueCrsNbr}
                                     placeholder="Select Course Number"
                                 />
                                 <Select
                                     value={this.state.selectedOptionProf}
                                     onChange={this.handleChangeProf}
-                                    options={uniqueProf}
+                                    options={this.state.uniqueProf}
                                     placeholder="Select Professor"
                                 />
                                 {/* checks if each dropdown is filled and if filled then allows submit button */}
