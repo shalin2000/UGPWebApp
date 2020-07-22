@@ -19,14 +19,16 @@ class Title extends Component {
             email: '',
             message: '',
             // For the quick search dropdown
-            selectedOptionDept: null,
-            selectedOptionProf: null,
-            selectedOptionCrsNbr: null,
+            selectedOptionDept: null, selectedOptionProf: null, selectedOptionCrsNbr: null,
+            // store 10year data
             myData: [],
             btnDisable: true,
+            // data that is being set when 3 dropdown optiosn have been selected
             courseSelected: {},
-            uniqueCrsNbr: [],
-            uniqueProf: [],
+            // stores the crs and prof based on the previous dropdown option selected
+            uniqueCrsNbr: [], uniqueProf: [],
+            // used for disable
+            deptSelected: true, crsNbrSelected: true,
         };
         this.submitContactForm = this.submitContactForm.bind(this);
         this.formChange = this.formChange.bind(this);
@@ -75,22 +77,34 @@ class Title extends Component {
 
     // when item is selected in DEPT dropdown it will find all the crs_nbr for that dept and list that for the next dropdown
     handleChangeDept = selectedOptionDept => {
+        if (selectedOptionDept === null){
+            this.setState({selectedOptionDept: null, selectedOptionCrsNbr: null, selectedOptionProf: null, deptSelected: true})
+            return
+        }
         let specificDeptCRSNBR = this.state.myData.filter(x => x.CRS_SUBJ_DESC === selectedOptionDept.label)
         let allCrsNbrForDept = specificDeptCRSNBR.map(a => ({label: a.CRS_NBR, value: a.CRS_NBR}))
         let removedDupArr = this.removeDup(allCrsNbrForDept, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1)
-        this.setState({selectedOptionDept: selectedOptionDept, uniqueCrsNbr: removedDupArr})
+        this.setState({selectedOptionDept: selectedOptionDept, uniqueCrsNbr: removedDupArr, deptSelected: false})
     };
 
     // when item is selected in CRS_NBR dropdown it will find all the prof for that dept and crs_nbr and list that for the next dropdown
     handleChangeCrsNbr = selectedOptionCrsNbr => {
+        if (selectedOptionCrsNbr === null){
+            this.setState({selectedOptionCrsNbr: null, selectedOptionProf: null, crsNbrSelected: true})
+            return
+        }
         let specificCRSNBR = this.state.myData.filter(x => x.CRS_NBR === selectedOptionCrsNbr.label && x.CRS_SUBJ_DESC === this.state.selectedOptionDept.label)
         let allProfForCRSNBR = specificCRSNBR.map(a => ({label: a.name1, value: a.name1}))
         let removedDupArr = this.removeDup(allProfForCRSNBR, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1)
-        this.setState({selectedOptionCrsNbr: selectedOptionCrsNbr, uniqueProf :removedDupArr})
+        this.setState({selectedOptionCrsNbr: selectedOptionCrsNbr, uniqueProf :removedDupArr, crsNbrSelected: false})
     };
 
     // when item is selected in PROF dropdown it sets the state
     handleChangeProf = selectedOptionProf => {
+        if (selectedOptionProf === null){
+            this.setState({selectedOptionProf: null})
+            return
+        }
         this.setState({selectedOptionProf: selectedOptionProf})
     };
 
@@ -158,18 +172,23 @@ class Title extends Component {
                                     onChange={this.handleChangeDept}
                                     options={uniqueDept}
                                     placeholder="Select Dept"
+                                    isClearable={true}
                                 />
                                 <Select
                                     value={this.state.selectedOptionCrsNbr}
                                     onChange={this.handleChangeCrsNbr}
                                     options={this.state.uniqueCrsNbr}
                                     placeholder="Select Course Number"
+                                    isClearable={true}
+                                    isDisabled={this.state.deptSelected}
                                 />
                                 <Select
                                     value={this.state.selectedOptionProf}
                                     onChange={this.handleChangeProf}
                                     options={this.state.uniqueProf}
                                     placeholder="Select Professor"
+                                    isClearable={true}
+                                    isDisabled={this.state.crsNbrSelected}
                                 />
                                 {/* checks if each dropdown is filled and if filled then allows submit button */}
                                 {(this.state.selectedOptionDept !== null) && (this.state.selectedOptionCrsNbr !== null) && (this.state.selectedOptionProf !== null) && (this.state.btnDisable===true) ? this.dropDownSelected() : null}
