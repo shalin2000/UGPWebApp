@@ -206,7 +206,7 @@ class Title extends Component {
                                 {(this.state.selectedOptionDept !== null) && (this.state.selectedOptionCrsNbr !== null) && (this.state.selectedOptionProf !== null) && (this.state.btnDisable===true) ? this.dropDownSelected() : null}
                                 {/* when submit button pressed it links to displayGrade page with the correct data */}
                                 <br/>
-                                <Link to={{pathname: "/displayGrades", state: { linkState: this.state.courseSelected }}}> <button disabled={this.state.btnDisable}  class="button" >Quick Seach</button></Link>
+                                <Link to={{pathname: "/displayGrades", state: { linkState: this.state.courseSelected }}}> <button disabled={this.state.btnDisable}  class="button" >Quick Search</button></Link>
 			
                             </header>
 
