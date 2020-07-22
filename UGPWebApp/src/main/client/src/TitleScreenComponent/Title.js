@@ -76,7 +76,7 @@ class Title extends Component {
     // when item is selected in DEPT dropdown it will find all the crs_nbr for that dept and list that for the next dropdown
     handleChangeDept = selectedOptionDept => {
         let specificDeptCRSNBR = this.state.myData.filter(x => x.CRS_SUBJ_DESC === selectedOptionDept.label)
-        let allCrsNbrForDept = specificDeptCRSNBR.map(a => ({label: a.CRS_NBR}))
+        let allCrsNbrForDept = specificDeptCRSNBR.map(a => ({label: a.CRS_NBR, value: a.CRS_NBR}))
         let removedDupArr = this.removeDup(allCrsNbrForDept, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1)
         this.setState({selectedOptionDept: selectedOptionDept, uniqueCrsNbr: removedDupArr})
     };
@@ -84,7 +84,7 @@ class Title extends Component {
     // when item is selected in CRS_NBR dropdown it will find all the prof for that dept and crs_nbr and list that for the next dropdown
     handleChangeCrsNbr = selectedOptionCrsNbr => {
         let specificCRSNBR = this.state.myData.filter(x => x.CRS_NBR === selectedOptionCrsNbr.label && x.CRS_SUBJ_DESC === this.state.selectedOptionDept.label)
-        let allProfForCRSNBR = specificCRSNBR.map(a => ({label: a.name1}))
+        let allProfForCRSNBR = specificCRSNBR.map(a => ({label: a.name1, value: a.name1}))
         let removedDupArr = this.removeDup(allProfForCRSNBR, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1)
         this.setState({selectedOptionCrsNbr: selectedOptionCrsNbr, uniqueProf :removedDupArr})
     };
@@ -120,9 +120,8 @@ class Title extends Component {
         var year = today.getFullYear();
         
         // maps the deptArr with only CRS_SUBJ_DESC element and has key name called label for the dropdown and removes duplicates
-        let deptArr = this.state.myData.map(a => ({label: a.CRS_SUBJ_DESC}));
+        let deptArr = this.state.myData.map(a => ({label: a.CRS_SUBJ_DESC, value: a.CRS_SUBJ_DESC}));
         let uniqueDept = this.removeDup(deptArr, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1);
-
 
         return (
             <div>
@@ -154,23 +153,19 @@ class Title extends Component {
                                 <br />
                                 
                                 {/* dropdown for easy select with 3 dropdowns */}
-                                
                                 <Select
-                                    styles={{outline: 'none !important'}}
                                     value={this.state.selectedOptionDept}
                                     onChange={this.handleChangeDept}
                                     options={uniqueDept}
-                                    placeholder="Select Department"
+                                    placeholder="Select Dept"
                                 />
                                 <Select
-                                    styles={{outline: 'none !important'}}
                                     value={this.state.selectedOptionCrsNbr}
                                     onChange={this.handleChangeCrsNbr}
                                     options={this.state.uniqueCrsNbr}
                                     placeholder="Select Course Number"
                                 />
                                 <Select
-                                styles={{outline: 'none !important'}}
                                     value={this.state.selectedOptionProf}
                                     onChange={this.handleChangeProf}
                                     options={this.state.uniqueProf}
@@ -181,6 +176,7 @@ class Title extends Component {
                                 {/* when submit button pressed it links to displayGrade page with the correct data */}
                                 <br/>
                                 <Link to={{pathname: "/displayGrades", state: { linkState: this.state.courseSelected }}}> <button disabled={this.state.btnDisable}  class="button" >Search</button></Link>
+			
                             </header>
 
                             {/* Different containers that are button type which allow the users to choose between 3 options */}
