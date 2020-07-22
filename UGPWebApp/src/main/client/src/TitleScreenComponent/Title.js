@@ -77,13 +77,14 @@ class Title extends Component {
 
     // when item is selected in DEPT dropdown it will find all the crs_nbr for that dept and list that for the next dropdown
     handleChangeDept = selectedOptionDept => {
+        // if clear button is pressed
         if (selectedOptionDept === null){
             this.setState({selectedOptionDept: null, selectedOptionCrsNbr: null, selectedOptionProf: null, deptSelected: true, crsNbrSelected: true, btnDisable: true})
             return
         }
-        this.setState(
-            { selectedOptionCrsNbr: null, selectedOptionProf: null, crsNbrSelected: true, btnDisable: true  }
-        )
+        // if option is changed then make the other options null
+        this.setState({ selectedOptionCrsNbr: null, selectedOptionProf: null, crsNbrSelected: true, btnDisable: true  })
+        // filters the array to the crsNbr corrseponding the dept chosen
         let specificDeptCRSNBR = this.state.myData.filter(x => x.CRS_SUBJ_DESC === selectedOptionDept.label)
         let allCrsNbrForDept = specificDeptCRSNBR.map(a => ({label: a.CRS_NBR, value: a.CRS_NBR}))
         let removedDupArr = this.removeDup(allCrsNbrForDept, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1)
@@ -92,13 +93,14 @@ class Title extends Component {
 
     // when item is selected in CRS_NBR dropdown it will find all the prof for that dept and crs_nbr and list that for the next dropdown
     handleChangeCrsNbr = selectedOptionCrsNbr => {
+        // if clear button is pressed
         if (selectedOptionCrsNbr === null){
             this.setState({selectedOptionCrsNbr: null, selectedOptionProf: null, crsNbrSelected: true, btnDisable: true})
             return
         }
-        this.setState(
-            { selectedOptionCrsNbr: null, selectedOptionProf: null, btnDisable: true  }
-        )
+        // if option is changed then make the other options null
+        this.setState({ selectedOptionProf: null, btnDisable: true  })
+        // filters the array to the prof corrseponding the dept and crsnbr chosen
         let specificCRSNBR = this.state.myData.filter(x => x.CRS_NBR === selectedOptionCrsNbr.label && x.CRS_SUBJ_DESC === this.state.selectedOptionDept.label)
         let allProfForCRSNBR = specificCRSNBR.map(a => ({label: a.name1, value: a.name1}))
         let removedDupArr = this.removeDup(allProfForCRSNBR, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1)
@@ -107,14 +109,13 @@ class Title extends Component {
 
     // when item is selected in PROF dropdown it sets the state
     handleChangeProf = selectedOptionProf => {
+        // if clear button is pressed
         if (selectedOptionProf === null){
             this.setState({selectedOptionProf: null})
             return
         }
-        this.setState(
-            {selectedOptionProf: null, btnDisable: true }
-        )
-        this.setState({selectedOptionProf: selectedOptionProf})
+        // if option is changed then make the prof option that is chosen and open the button for submission
+        this.setState({selectedOptionProf: selectedOptionProf, btnDisable: true })
     };
 
     // Removes the duplicate value in the object
