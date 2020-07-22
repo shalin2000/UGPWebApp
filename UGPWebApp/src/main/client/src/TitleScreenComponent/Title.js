@@ -123,6 +123,7 @@ class Title extends Component {
         let deptArr = this.state.myData.map(a => ({label: a.CRS_SUBJ_DESC}));
         let uniqueDept = this.removeDup(deptArr, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1);
 
+
         return (
             <div>
                 {/* adds the scrollToTop button */}
@@ -153,19 +154,23 @@ class Title extends Component {
                                 <br />
                                 
                                 {/* dropdown for easy select with 3 dropdowns */}
+                                
                                 <Select
+                                    styles={{outline: 'none !important'}}
                                     value={this.state.selectedOptionDept}
                                     onChange={this.handleChangeDept}
                                     options={uniqueDept}
-                                    placeholder="Select Dept"
+                                    placeholder="Select Department"
                                 />
                                 <Select
+                                    styles={{outline: 'none !important'}}
                                     value={this.state.selectedOptionCrsNbr}
                                     onChange={this.handleChangeCrsNbr}
                                     options={this.state.uniqueCrsNbr}
                                     placeholder="Select Course Number"
                                 />
                                 <Select
+                                styles={{outline: 'none !important'}}
                                     value={this.state.selectedOptionProf}
                                     onChange={this.handleChangeProf}
                                     options={this.state.uniqueProf}
@@ -174,8 +179,8 @@ class Title extends Component {
                                 {/* checks if each dropdown is filled and if filled then allows submit button */}
                                 {(this.state.selectedOptionDept !== null) && (this.state.selectedOptionCrsNbr !== null) && (this.state.selectedOptionProf !== null) && (this.state.btnDisable===true) ? this.dropDownSelected() : null}
                                 {/* when submit button pressed it links to displayGrade page with the correct data */}
-                                <Link to={{pathname: "/displayGrades", state: { linkState: this.state.courseSelected }}}> <button disabled={this.state.btnDisable}>Find</button></Link>
-			
+                                <br/>
+                                <Link to={{pathname: "/displayGrades", state: { linkState: this.state.courseSelected }}}> <button disabled={this.state.btnDisable}  class="button" >Search</button></Link>
                             </header>
 
                             {/* Different containers that are button type which allow the users to choose between 3 options */}

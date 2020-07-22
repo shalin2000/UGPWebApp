@@ -3,7 +3,6 @@ import React, { Component } from 'react';
 import './DisplayDept.css';
 import * as d3 from 'd3';
 import data from './CSVData/10Year.csv';
-// import pic01 from "./TitleScreenComponent/images/Investortools-SS-Site-solid-1px-darkblue@2x.png"
 import { Link } from "react-router-dom";
 
 class ListProfessor extends Component {
@@ -44,68 +43,44 @@ class ListProfessor extends Component {
     const noDupArr = this.removeDup(printArr, x => x.name1);
 
     // map the array which then returns the course number and course title
-    // const displayProfArr = noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => {
-    //   return <div className="Table1">
+    const displayProfArr = <div className="row" 
+                            style={{
+                              margin: '30px', 
+                              justifyContent: 'center'
+                              }}
+                           >
+                              {noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => (
+                                  <div className="card"
+                                    style={{
+                                      width: '14rem',
+                                      height: '14rem',
+                                      margin: '16px',
+                                      padding: '16px',
+                                      borderRadius: '25%',      
+                                    }}
+                                  >
+                                    <Link className="card-body" 
+                                      key={idx} to={{pathname: "/displayGrades", state: { linkState: data }}}
+                                      onClick={this.linking}
+                                      style={{
+                                        display: 'flex',
+                                        flexDirection: 'column',
+                                        alignItems: 'center',
+                                        justifyContent: 'center',
+                                      }}
+                                    >
+                                      <h3 style={{margin: 0, color: '#5b5b5b'}}>{data.name1}</h3> 
+                                    </Link>
+                                  </div>
+                              ))}
+                            </div>
 
-    //   <div className="box alt container" style={{border: "1px solid whitesmoke", width: "50%", float: "left"}}>
-    //       <section className="feature left">
-    //       <Link to={{pathname: "/displayGrades", state: { linkState: data }}} key={idx} className="image icon solid fa-user"><img src={pic01} alt="pic01"/></Link>
-    //       <div className="content">
-    //           <h3>{data.name1}</h3>
-    //       </div>
-    //       </section>   
-    //   </div>
-    //   </div>
-    // });
-
-    const displayProfArr = <div className="row" style={{margin: '30px', justifyContent: 'center'}}>
-    {noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => (
-      
-
-      <div className="card"
-        style={{
-          width: '14rem',
-          height: '14rem',
-          margin: '16px',
-          padding: '16px',
-          borderRadius: '25%',
-          // boxShadow: 'inset 100px 100px 100px #B3DDF2'
-          // background: '#AC1E2D'      
-        }}
-      >
-        <div className="card-body" 
-          onClick={this.linking}
-            style={{
-              display: 'flex',
-              flexDirection: 'column',
-              alignItems: 'center',
-              justifyContent: 'center',
-              // backgroundImage: `url(${pic01})`
-            }}
-        >
-          <Link key={idx} to={{pathname: "/displayGrades", state: { linkState: data }}}>
-            <h3 style={{margin: 0, color: '#5b5b5b', textDecoration: 'underline'}}>{data.name1}</h3>
-          </Link>
-        </div>
-      </div>
-    ))}
-  </div>
-
-    
-
-    return (
-      //  <div>
-      //    <div class="row rowForCard font-work-sans">
-      //       {displayProfArr}
-      //     </div>
-      //  </div>
-        <div >
-          {displayProfArr}
-        </div>
-
-    );
-  }
-
-};
+                          return (
+                            <div >
+                              {displayProfArr}
+                            </div>
+                          );   
+                    }
+                  };
 
 export default ListProfessor;

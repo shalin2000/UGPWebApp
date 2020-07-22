@@ -158,31 +158,6 @@ a:hover {
   overflow-y: scroll;
 }
 
-/* testing */
-
-/* .rowForCard {
-  margin-left: 15px !important;
-  margin-right: 15px !important;
-  margin-top: 15px !important;
-}
-.font-work-sans {
-  font-family: "Work Sans", sans-serif !important;
-} */
-
-.textOnImg {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-
-.centered{
-  color: white;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
