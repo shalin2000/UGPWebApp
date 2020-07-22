@@ -81,6 +81,9 @@ class Title extends Component {
             this.setState({selectedOptionDept: null, selectedOptionCrsNbr: null, selectedOptionProf: null, deptSelected: true, crsNbrSelected: true, btnDisable: true})
             return
         }
+        this.setState(
+            { selectedOptionCrsNbr: null, selectedOptionProf: null, crsNbrSelected: true, btnDisable: true  }
+        )
         let specificDeptCRSNBR = this.state.myData.filter(x => x.CRS_SUBJ_DESC === selectedOptionDept.label)
         let allCrsNbrForDept = specificDeptCRSNBR.map(a => ({label: a.CRS_NBR, value: a.CRS_NBR}))
         let removedDupArr = this.removeDup(allCrsNbrForDept, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1)
@@ -93,6 +96,9 @@ class Title extends Component {
             this.setState({selectedOptionCrsNbr: null, selectedOptionProf: null, crsNbrSelected: true, btnDisable: true})
             return
         }
+        this.setState(
+            { selectedOptionCrsNbr: null, selectedOptionProf: null, btnDisable: true  }
+        )
         let specificCRSNBR = this.state.myData.filter(x => x.CRS_NBR === selectedOptionCrsNbr.label && x.CRS_SUBJ_DESC === this.state.selectedOptionDept.label)
         let allProfForCRSNBR = specificCRSNBR.map(a => ({label: a.name1, value: a.name1}))
         let removedDupArr = this.removeDup(allProfForCRSNBR, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1)
@@ -105,6 +111,9 @@ class Title extends Component {
             this.setState({selectedOptionProf: null})
             return
         }
+        this.setState(
+            {selectedOptionProf: null, btnDisable: true }
+        )
         this.setState({selectedOptionProf: selectedOptionProf})
     };
 
