@@ -177,9 +177,8 @@ class Title extends Component {
                                 fellow peers are performing&nbsp;
                                 <br />
                                 in hundreds of courses</h2>		
-                                <br />
                                 
-                                <div style={{textAlign: 'left', zIndex: '999', position: "relative"}}>
+                                <div style={{textAlign: 'left', zIndex: '999', position: "relative", marginBottom: "20px", marginTop: "20px"}}>
                                 {/* dropdown for easy select with 3 dropdowns */}
                                 <Select
                                     value={this.state.selectedOptionDept}
@@ -188,6 +187,7 @@ class Title extends Component {
                                     placeholder="Select Department"
                                     isClearable={true}
                                 />
+                                
                                 <Select
                                     value={this.state.selectedOptionCrsNbr}
                                     onChange={this.handleChangeCrsNbr}
@@ -196,6 +196,7 @@ class Title extends Component {
                                     isClearable={true}
                                     isDisabled={this.state.deptSelected}
                                 />
+                                 
                                 <Select
                                     value={this.state.selectedOptionProf}
                                     onChange={this.handleChangeProf}
@@ -208,7 +209,7 @@ class Title extends Component {
                                 {/* checks if each dropdown is filled and if filled then allows submit button */}
                                 {(this.state.selectedOptionDept !== null) && (this.state.selectedOptionCrsNbr !== null) && (this.state.selectedOptionProf !== null) && (this.state.btnDisable===true) ? this.dropDownSelected() : null}
                                 {/* when submit button pressed it links to displayGrade page with the correct data */}
-                                <br/>
+                                
                                 <Link to={{pathname: "/displayGrades", state: { linkState: this.state.courseSelected }}}> <button disabled={this.state.btnDisable}  class="button" >Quick Search</button></Link>    
                                 </header>
 
