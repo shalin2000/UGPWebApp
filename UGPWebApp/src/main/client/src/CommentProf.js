@@ -216,7 +216,6 @@ class CommentProf extends Component {
                                     </Tooltip>
                                 </Col>
                             </div>
-                            <hr/>
                         </Col>
                         : null }
 
@@ -316,7 +315,7 @@ class CommentProf extends Component {
                             </div>
                         </Col>
                     </div>
-                {/* <hr/>     */}
+                { byProf.length > 0 ? <hr/> : null}   
                 </div>
 
                 <br/>                
