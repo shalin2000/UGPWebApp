@@ -153,7 +153,7 @@ class CommentProf extends Component {
                 {/* displays the overall avg of all cateorgies by showing the star being filled out*/}
                 <div className="overallRating">
                     <div className="row">
-                        
+                        {/* this will not be displayed if there are no reviews made */}
                         { byProf.length > 0 ? 
                         <Col sm>
                             <div className="row">   
@@ -216,9 +216,9 @@ class CommentProf extends Component {
                                     </Tooltip>
                                 </Col>
                             </div>
+                            <hr/>
                         </Col>
                         : null }
-
 
                         {/* displays the amount of students who reviewed this professor */}
                         <Col sm>
@@ -316,7 +316,7 @@ class CommentProf extends Component {
                             </div>
                         </Col>
                     </div>
-                <hr/>    
+                {/* <hr/>     */}
                 </div>
 
                 <br/>                
