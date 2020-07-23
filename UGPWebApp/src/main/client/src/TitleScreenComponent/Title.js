@@ -174,7 +174,7 @@ class Title extends Component {
                         <header className="major container medium">
                                 <h2>Check out how your&nbsp;
                                 <br />
-                                fellow peers are performing&nbsp;
+                                fellow UIC peers are performing&nbsp;
                                 <br />
                                 in hundreds of courses</h2>		
                                 
