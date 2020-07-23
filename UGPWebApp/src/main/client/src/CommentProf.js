@@ -152,7 +152,7 @@ class CommentProf extends Component {
             <div className="reviewSystem">
                 {/* displays the overall avg of all cateorgies by showing the star being filled out*/}
                 <div className="overallRating">
-                    <div className="row">
+                    <div className="row" style={{marginTop: '-50px'}}>
                         {/* this will not be displayed if there are no reviews made */}
                         { byProf.length > 0 ? 
                         <Col sm>
