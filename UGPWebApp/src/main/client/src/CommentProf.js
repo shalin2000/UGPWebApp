@@ -8,6 +8,11 @@ import Rater from 'react-rater'
 import 'react-rater/lib/react-rater.css'
 
 import { Link } from "react-router-dom";
+
+import 'react-tippy/dist/tippy.css';
+import {
+    Tooltip,
+  } from 'react-tippy';
   
 class CommentProf extends Component {
     constructor(props) {
@@ -148,13 +153,17 @@ class CommentProf extends Component {
                 {/* displays the overall avg of all cateorgies by showing the star being filled out*/}
                 <div className="overallRating">
                     <div className="row">
+                        
+                        { byProf.length > 0 ? 
                         <Col sm>
                             <div className="row">   
                                 <Col xs={6}>
                                     <h5 style={{textAlign: 'right'}}>Overall </h5>
                                 </Col>
                                 <Col xs={6}>
-                                    <Rater total={5} rating={overallAvg} interactive={false}/> 
+                                    <Tooltip title={overallAvg + " out of 5"} followCursor >
+                                        <Rater total={5} rating={overallAvg} interactive={false}/>
+                                    </Tooltip>
                                 </Col>
                             </div>
                             <div className="row">
@@ -162,7 +171,9 @@ class CommentProf extends Component {
                                     <h5 style={{textAlign: 'right'}}>Easiness </h5>
                                 </Col>
                                 <Col xs={6}>
-                                    <Rater total={5} rating={overallEasy} interactive={false}/>
+                                    <Tooltip title={overallEasy + " out of 5"} followCursor >
+                                        <Rater total={5} rating={overallEasy} interactive={false}/>
+                                    </Tooltip>
                                 </Col>
                             </div>
                             <div className="row">
@@ -170,7 +181,9 @@ class CommentProf extends Component {
                                     <h5 style={{textAlign: 'right'}}>Helpfulness </h5>
                                 </Col>
                                 <Col xs={6}>
-                                    <Rater total={5} rating={overallHelp} interactive={false}/> 
+                                    <Tooltip title={overallHelp + " out of 5"} followCursor >
+                                        <Rater total={5} rating={overallHelp} interactive={false}/> 
+                                    </Tooltip>
                                 </Col>
                             </div>
                             <div className="row">
@@ -178,7 +191,9 @@ class CommentProf extends Component {
                                     <h5 style={{textAlign: 'right'}}>Clarity </h5>
                                 </Col>
                                 <Col xs={6}>
-                                    <Rater total={5} rating={overallClarity} interactive={false}/> 
+                                    <Tooltip title={overallClarity + " out of 5"} followCursor >
+                                        <Rater total={5} rating={overallClarity} interactive={false}/> 
+                                    </Tooltip>
                                 </Col>
                             </div>
                             <div className="row">
@@ -186,7 +201,9 @@ class CommentProf extends Component {
                                     <h5 style={{textAlign: 'right'}}>WorkLoad </h5>
                                 </Col>
                                 <Col xs={6}>
-                                    <Rater total={5} rating={overallWorkload} interactive={false}/> 
+                                    <Tooltip title={overallWorkload + " out of 5"} followCursor >
+                                        <Rater total={5} rating={overallWorkload} interactive={false}/> 
+                                    </Tooltip>
                                 </Col>
                             </div>
                             <div className="row">
@@ -194,10 +211,14 @@ class CommentProf extends Component {
                                     <h5 style={{textAlign: 'right'}}>Grading </h5>
                                 </Col>
                                 <Col xs={6}>
-                                    <Rater total={5} rating={overallGrading} interactive={false}/>
+                                    <Tooltip title={overallGrading + " out of 5"} followCursor >
+                                        <Rater total={5} rating={overallGrading} interactive={false}/>
+                                    </Tooltip>
                                 </Col>
                             </div>
                         </Col>
+                        : null }
+
 
                         {/* displays the amount of students who reviewed this professor */}
                         <Col sm>
