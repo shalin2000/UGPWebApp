@@ -177,7 +177,7 @@ class Title extends Component {
                                 in hundreds of courses</h2>		
                                 <br />
                                 
-                                <div style={{textAlign: 'left'}}>
+                                <div style={{textAlign: 'left', zIndex: '999', position: "relative"}}>
                                 {/* dropdown for easy select with 3 dropdowns */}
                                 <Select
                                     value={this.state.selectedOptionDept}
