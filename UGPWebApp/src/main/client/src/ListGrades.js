@@ -1,40 +1,21 @@
 import React, { Component } from 'react';
 import {Bar} from 'react-chartjs-2';
 import './DisplayDept.css';
-import * as d3 from 'd3';
-import fall2019Data from './CSVData/Fall2019.csv'
-import fall2018Data from './CSVData/Fall2018.csv'
-import fall2017Data from './CSVData/Fall2017.csv'
-import fall2016Data from './CSVData/Fall2016.csv'
-import fall2015Data from './CSVData/Fall2015.csv'
-import fall2014Data from './CSVData/Fall2014.csv'
-import fall2013Data from './CSVData/Fall2013.csv'
-import fall2012Data from './CSVData/Fall2012.csv'
-import fall2011Data from './CSVData/Fall2011.csv'
-import fall2010Data from './CSVData/Fall2010.csv'
-import spring2020Data from './CSVData/Spr2020.csv';
-import spring2019Data from './CSVData/Spr2019.csv';
-import spring2018Data from './CSVData/Spr2018.csv';
-import spring2017Data from './CSVData/Spr2017.csv';
-import spring2016Data from './CSVData/Spr2016.csv';
-import spring2015Data from './CSVData/Spr2015.csv';
-import spring2014Data from './CSVData/Spr2014.csv';
-import spring2013Data from './CSVData/Spr2013.csv';
-import spring2012Data from './CSVData/Spr2012.csv';
-import spring2011Data from './CSVData/Spr2011.csv';
-import spring2010Data from './CSVData/Spr2010.csv';
-import sum2019Data from './CSVData/Sum2019.csv'
-import sum2018Data from './CSVData/Sum2018.csv'
-import sum2017Data from './CSVData/Sum2017.csv'
-import sum2016Data from './CSVData/Sum2016.csv'
-import sum2015Data from './CSVData/Sum2015.csv'
-import sum2014Data from './CSVData/Sum2014.csv'
-import sum2013Data from './CSVData/Sum2013.csv'
-import sum2012Data from './CSVData/Sum2012.csv'
-import sum2011Data from './CSVData/Sum2011.csv'
-import sum2010Data from './CSVData/Sum2010.csv'
 import ScrollUpButton from "react-scroll-up-button";
 import CommentProf from './CommentProf';
+// csv data
+import * as d3 from 'd3';
+import fall2019Data from './CSVData/Fall2019.csv'; import fall2018Data from './CSVData/Fall2018.csv'; import fall2017Data from './CSVData/Fall2017.csv';
+import fall2016Data from './CSVData/Fall2016.csv'; import fall2015Data from './CSVData/Fall2015.csv'; import fall2014Data from './CSVData/Fall2014.csv';
+import fall2013Data from './CSVData/Fall2013.csv'; import fall2012Data from './CSVData/Fall2012.csv'; import fall2011Data from './CSVData/Fall2011.csv';
+import fall2010Data from './CSVData/Fall2010.csv'; import spring2020Data from './CSVData/Spr2020.csv'; import spring2019Data from './CSVData/Spr2019.csv';
+import spring2018Data from './CSVData/Spr2018.csv'; import spring2017Data from './CSVData/Spr2017.csv'; import spring2016Data from './CSVData/Spr2016.csv';
+import spring2015Data from './CSVData/Spr2015.csv'; import spring2014Data from './CSVData/Spr2014.csv'; import spring2013Data from './CSVData/Spr2013.csv';
+import spring2012Data from './CSVData/Spr2012.csv'; import spring2011Data from './CSVData/Spr2011.csv'; import spring2010Data from './CSVData/Spr2010.csv';
+import sum2019Data from './CSVData/Sum2019.csv'; import sum2018Data from './CSVData/Sum2018.csv'; import sum2017Data from './CSVData/Sum2017.csv';
+import sum2016Data from './CSVData/Sum2016.csv'; import sum2015Data from './CSVData/Sum2015.csv'; import sum2014Data from './CSVData/Sum2014.csv';
+import sum2013Data from './CSVData/Sum2013.csv'; import sum2012Data from './CSVData/Sum2012.csv'; import sum2011Data from './CSVData/Sum2011.csv';
+import sum2010Data from './CSVData/Sum2010.csv';
 
 class ListGrades extends Component {
   constructor(props) {
@@ -203,21 +184,48 @@ class ListGrades extends Component {
     })
   }
 
-  render() {
-    
-    // -------------------- used to determine the other courses that are taught by this professor and links the course to that specifc course --------------------
-    
-    // filters and maps the courses that is taught by the same professors in the selected semester
-    // const coursesTaught = this.state.chosenData.filter( x => x.name1 === (this.props.ProfInfo.name1)).map((obj, idx) => {
-    //   return <Link to={{pathname: "/displayProfessor", state: { linkState: obj }}} key={idx}>
-    //           <li className={'DeptList'}>
-    //           {obj.CRS_SUBJ_CD} {obj.CRS_NBR} - {obj.CRS_TITLE}
-    //           </li>
-    //       </Link>;
-    // });
-      
-    // const cT_Element = coursesTaught.length > 0 ? <div> <h1><u>Courses taught by {this.props.ProfInfo.name1} in - {this.state.selectVal}</u></h1> {coursesTaught} </div> : null
+  // this calculates the total letters from all semester 
+  calculateForAllLetter(arr, letter){
+    return arr.reduce(function(prev, cur) {
+      return prev + parseInt(cur[letter]);
+    }, 0);
+  }
 
+  makeGraph(data){
+    return <div className='chart-container'>
+            <Bar
+            data={data}
+            options={{
+                title:{
+                    display:true,
+                    text:'Semester Grade Distribution',
+                    fontSize:20
+                },
+                legend:{
+                  display:false,
+                  position:'right'
+                },
+                // makes y-axis start at 0 
+                scales: {
+                  yAxes: [{
+                      ticks: {
+                          beginAtZero: true
+                      },
+                      scaleLabel: {
+                        display: true,
+                        labelString: 'Student Count',
+                        fontSize:15
+                      }
+                  }]
+                },
+                responsive: true, 
+                maintainAspectRatio: false
+            }}
+            />
+          </div>
+  }
+
+  render() {
     // --------------------------- filters all the csv data for each semster by the professor that is currently chosen ---------------------------
     
     // filter the original data to only have the data for the specific professor and course title which can later be used to see if the professor has taught that course that semester
@@ -262,88 +270,27 @@ class ListGrades extends Component {
                               ...fall2013Arr, ...spring2013Arr, ...fall2012Arr, ...spring2012Arr, 
                               ...fall2011Arr, ...spring2011Arr, ...fall2010Arr, ...spring2010Arr, ...spring2020Arr, 
                               ...summer2010Arr, ...summer2011Arr, ...summer2012Arr, ...summer2013Arr, ...summer2014Arr,
-                              ...summer2015Arr, ...summer2016Arr, ...summer2017Arr, ...summer2018Arr, ...summer2019Arr];
+                              ...summer2015Arr, ...summer2016Arr, ...summer2017Arr, ...summer2018Arr, ...summer2019Arr
+                              ];
     
-    // get sum of all A across all objects in array 
-    const totalGradesA = allSemCombinedArr.reduce(function(prev, cur) {
-      return prev + parseInt(cur.A);
-    }, 0);
+    // calls calculateForAllLetter with approiate letter grades which will return total of each letter from all semester
+    const totalGradesA = this.calculateForAllLetter(allSemCombinedArr, "A")
+    const totalGradesB = this.calculateForAllLetter(allSemCombinedArr, "B")
+    const totalGradesC = this.calculateForAllLetter(allSemCombinedArr, "C")
+    const totalGradesD = this.calculateForAllLetter(allSemCombinedArr, "D")
+    const totalGradesF = this.calculateForAllLetter(allSemCombinedArr, "F")
+    const totalGradesW = this.calculateForAllLetter(allSemCombinedArr, "W")
+    const totalGradesADV = this.calculateForAllLetter(allSemCombinedArr, "ADV")
+    const totalGradesCR = this.calculateForAllLetter(allSemCombinedArr, "CR")
+    const totalGradesDFR = this.calculateForAllLetter(allSemCombinedArr, "DFR")
+    const totalGradesI = this.calculateForAllLetter(allSemCombinedArr, "I")
+    const totalGradesNG = this.calculateForAllLetter(allSemCombinedArr, "NG")
+    const totalGradesNR = this.calculateForAllLetter(allSemCombinedArr, "NR")
+    const totalGradesO = this.calculateForAllLetter(allSemCombinedArr, "O")
+    const totalGradesPR = this.calculateForAllLetter(allSemCombinedArr, "PR")
+    const totalGradesS = this.calculateForAllLetter(allSemCombinedArr, "S")
+    const totalGradesU = this.calculateForAllLetter(allSemCombinedArr, "U")
 
-    // get sum of all B across all objects in array 
-    const totalGradesB = allSemCombinedArr.reduce(function(prev, cur) {
-    return prev + parseInt(cur.B);
-    } , 0);    
-
-    // get sum of all C across all objects in array 
-    const totalGradesC = allSemCombinedArr.reduce(function(prev, cur) {
-      return prev + parseInt(cur.C);
-    }, 0);
-
-    // get sum of all D across all objects in array 
-    const totalGradesD = allSemCombinedArr.reduce(function(prev, cur) {
-    return prev + parseInt(cur.D);
-    } , 0);
-
-    // get sum of all F across all objects in array 
-    const totalGradesF = allSemCombinedArr.reduce(function(prev, cur) {
-      return prev + parseInt(cur.F);
-    }, 0);
-
-    // get sum of all W across all objects in array 
-    const totalGradesW = allSemCombinedArr.reduce(function(prev, cur) {
-      return prev + parseInt(cur.W);
-    } , 0);
-
-    // get sum of all ADV across all objects in array 
-    const totalGradesADV = allSemCombinedArr.reduce(function(prev, cur) {
-      return prev + parseInt(cur.ADV);
-    } , 0);
-
-    // get sum of all CR across all objects in array 
-    const totalGradesCR = allSemCombinedArr.reduce(function(prev, cur) {
-      return prev + parseInt(cur.CR);
-    } , 0);
-
-    // get sum of all DFR across all objects in array 
-    const totalGradesDFR = allSemCombinedArr.reduce(function(prev, cur) {
-      return prev + parseInt(cur.DFR);
-    } , 0);
-
-    // get sum of all I across all objects in array 
-    const totalGradesI = allSemCombinedArr.reduce(function(prev, cur) {
-      return prev + parseInt(cur.I);
-    } , 0);
-
-    // get sum of all NG across all objects in array 
-    const totalGradesNG = allSemCombinedArr.reduce(function(prev, cur) {
-      return prev + parseInt(cur.NG);
-    } , 0);
-
-    // get sum of all NR across all objects in array 
-    const totalGradesNR = allSemCombinedArr.reduce(function(prev, cur) {
-      return prev + parseInt(cur.NR);
-    } , 0);
-
-    // get sum of all O across all objects in array 
-    const totalGradesO = allSemCombinedArr.reduce(function(prev, cur) {
-      return prev + parseInt(cur.O);
-    } , 0);
-
-    // get sum of all PR across all objects in array 
-    const totalGradesPR = allSemCombinedArr.reduce(function(prev, cur) {
-      return prev + parseInt(cur.PR);
-    } , 0);
-
-    // get sum of all S across all objects in array 
-    const totalGradesS = allSemCombinedArr.reduce(function(prev, cur) {
-      return prev + parseInt(cur.S);
-    } , 0);
-
-    // get sum of all U across all objects in array 
-    const totalGradesU = allSemCombinedArr.reduce(function(prev, cur) {
-      return prev + parseInt(cur.U);
-    } , 0);
-    
     //returns the total amount of students for credit courses
     const totalStudentsTaught2 = totalGradesADV+totalGradesI+totalGradesO+totalGradesU+totalGradesCR+totalGradesNG+totalGradesPR
     +totalGradesW+totalGradesDFR+totalGradesNR+totalGradesS;
@@ -496,101 +443,11 @@ class ListGrades extends Component {
 
     // -------------------------------------------------------- Display the three different graphs --------------------------------------------------------
 
-    const displayInitalGraph = <div className='chart-container'>
-                                <Bar
-                                data={letterGradeGraph}
-                                options={{
-                                    title:{
-                                        display:true,
-                                        text:'Semester Grade Distribution',
-                                        fontSize:20
-                                    },
-                                    legend:{
-                                      display:false,
-                                      position:'right'
-                                    },
-                                    // makes y-axis start at 0 
-                                    scales: {
-                                      yAxes: [{
-                                          ticks: {
-                                              beginAtZero: true
-                                          },
-                                          scaleLabel: {
-                                            display: true,
-                                            labelString: 'Student Count',
-                                            fontSize:15
-                                          }
-                                      }]
-                                    },
-                                    responsive: true, 
-                                    maintainAspectRatio: false
-                                }}
-                                />
-                              </div>
+    const displayInitalGraph =  this.makeGraph(letterGradeGraph)
 
-    const displayLetterGraph = <div className='chart-container'>
-                                <Bar
-                                data={totalGradesI > 0 ? letterGradeGraphI : letterGradeGraph}
-                                options={{
-                                    title:{
-                                        display:true,
-                                        text:'Semester Grade Distribution',
-                                        fontSize:20
-                                    },
-                                    legend:{
-                                      display:false,
-                                      position:'right'
-                                    },
-                                    // makes y-axis start at 0 
-                                    scales: {
-                                      yAxes: [{
-                                          ticks: {
-                                              beginAtZero: true
-                                          },
-                                          scaleLabel: {
-                                            display: true,
-                                            labelString: 'Student Count',
-                                            fontSize:15
-                                          }
-                                      }]
-                                    },
-                                    responsive: true, 
-                                    maintainAspectRatio: false
-                                }}
-                                />
-                              </div>
+    const displayLetterGraph = this.makeGraph(totalGradesI > 0 ? letterGradeGraphI : letterGradeGraph)
 
-    const displayNoLetterGraph = <div className='chart-container'>
-                                  <Bar
-                                  data={noLetterGradeGraph}
-                                  options={{
-                                      title:{
-                                          display:true,
-                                          text:'Semester Grade Distribution',
-                                          fontSize:20
-                                      },
-                                      legend:{
-                                        display:false,
-                                        position:'bottom'
-                                      },
-                                      // makes y-axis start at 0 
-                                      scales: {
-                                        yAxes: [{
-                                            ticks: {
-                                                beginAtZero: true
-                                            },
-                                            scaleLabel: {
-                                              display: true,
-                                              labelString: 'Student Count',
-                                              fontSize:15
-                                            }
-                                        }]
-                                      },
-                                      responsive: true, 
-                                      maintainAspectRatio: false
-                                  }}
-                                  />
-                                </div>
+    const displayNoLetterGraph = this.makeGraph(noLetterGradeGraph)
 
     const displayOverAllGraph = <div className='chart-container'>
                                   <Bar
