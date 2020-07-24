@@ -283,10 +283,10 @@ class Title extends Component {
                                 
                                 {/* social media icons */}
                                 <ul className="icons">
-                                    <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.google.com/" target="_blank" rel="noopener noreferrer" className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
-                                    <li><a href="https://www.twitter.com/share?url=https://www.google.com/" target="_blank" rel="noopener noreferrer" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
-                                    <li><a href="http://www.reddit.com/submit?url=https://www.google.com/" target="_blank" rel="noopener noreferrer" className="icon brands fa-reddit-alien"><span className="label">Reddit</span></a></li>
-                                    <li><a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.google.com/" target="_blank" rel="noopener noreferrer" className="icon brands fa-linkedin-in"><span className="label">LinkedIn</span></a></li>
+                                    <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://gradepal.net/" target="_blank" rel="noopener noreferrer" className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
+                                    <li><a href="https://www.twitter.com/share?url=https://gradepal.net/" target="_blank" rel="noopener noreferrer" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
+                                    <li><a href="http://www.reddit.com/submit?url=https://gradepal.net/" target="_blank" rel="noopener noreferrer" className="icon brands fa-reddit-alien"><span className="label">Reddit</span></a></li>
+                                    <li><a href="https://www.linkedin.com/sharing/share-offsite/?url=https://gradepal.net/" target="_blank" rel="noopener noreferrer" className="icon brands fa-linkedin-in"><span className="label">LinkedIn</span></a></li>
                                 </ul>
 
                                 <ul className="copyright">

@@ -8,7 +8,7 @@ import com.example.demo.service.UserService;
 
 @RestController
 // @RequestMapping("/postgressApp")
-@CrossOrigin(origins="https://grade-pal.web.app") //merge of two ports
+@CrossOrigin(origins="https://gradepal.net") //merge of two ports
 public class ApplicationController {
     @Resource
     UserService userService;

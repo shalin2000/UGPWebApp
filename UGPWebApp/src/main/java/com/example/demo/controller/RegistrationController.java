@@ -15,7 +15,7 @@ import com.example.demo.service.NotificationService;
 
 @RestController
 // @RequestMapping("/postgressApp")
-@CrossOrigin(origins="https://grade-pal.web.app")
+@CrossOrigin(origins="https://gradepal.net")
 public class RegistrationController {
 	
 	private Logger logger = LoggerFactory.getLogger(RegistrationController.class);
