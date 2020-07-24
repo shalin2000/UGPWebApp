@@ -14,12 +14,15 @@ class ListDept extends Component {
       myData: [],
     };
   }
+  
+  // when component mounts it will set state from 3year to our state
   componentDidMount() {
     d3.csv(data).then(data => {
         this.setState({ myData: data });
       });
   }
 
+  // formats the row in each table in which when item presesd in row, it will link to displayCourse
   CellFormatter(cell, row) {
     return (
       <div>
@@ -39,7 +42,39 @@ class ListDept extends Component {
     ];
   }
 
-  
+  // function which will generate the table
+  generateTable(arr){
+    const columns = [{
+      dataField: 'CRS_SUBJ_CD',
+      formatter: this.CellFormatter,
+    }, {
+      dataField: 'CRS_SUBJ_DESC',
+      formatter: this.CellFormatter,
+    }];
+    const defaultSorted = [{
+      dataField: 'CRS_SUBJ_CD',
+      order: 'asc'
+    }];
+    return <div className="react-bootstrap-table-wrapper">
+                            <BootstrapTable
+                              bootstrap4
+                              keyField="CRS_SUBJ_CD"
+                              data={ arr }
+                              columns={ columns } 
+                              defaultSorted={ defaultSorted } 
+                              hover
+                            />
+      </div>
+  }
+
+  // displays the tables in return
+  displayDeptByLetter(letter, arr){
+    return <div className="col-sm-4">
+              <h2>{letter}</h2>
+              {arr}
+          </div>
+  }
+
   render() {    
     // removes dup entires that have the same CRS_SUBJ_CD and store it in noDup array
     const noDupArr = this.removeDup(this.state.myData, x => x.CRS_SUBJ_CD);
@@ -66,328 +101,56 @@ class ListDept extends Component {
     const arrT = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('T')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
     const arrU = noDupArr.filter(x => x.CRS_SUBJ_CD.startsWith('U')).sort((a,b) => a.CRS_SUBJ_CD > b.CRS_SUBJ_CD ? 1 : -1);
 
-    const columns = [{
-      dataField: 'CRS_SUBJ_CD',
-      formatter: this.CellFormatter,
-    }, {
-      dataField: 'CRS_SUBJ_DESC',
-      formatter: this.CellFormatter,
-    }];
-
-    const defaultSorted = [{
-      dataField: 'CRS_SUBJ_CD',
-      order: 'asc'
-    }];
-    
-    const displayDeptArrA = <div className="react-bootstrap-table-wrapper">
-                            <BootstrapTable
-                              bootstrap4
-                              keyField="CRS_SUBJ_CD"
-                              data={ arrA }
-                              columns={ columns } 
-                              defaultSorted={ defaultSorted } 
-                              hover
-                            />
-                          </div>
-
-    const displayDeptArrB = <div className="react-bootstrap-table-wrapper">
-                            <BootstrapTable
-                              bootstrap4
-                              keyField="CRS_SUBJ_CD"
-                              data={ arrB }
-                              columns={ columns } 
-                              defaultSorted={ defaultSorted } 
-                              hover
-                            />
-                            </div>
-    const displayDeptArrC = <div className="react-bootstrap-table-wrapper">
-                            <BootstrapTable
-                              bootstrap4
-                              keyField="CRS_SUBJ_CD"
-                              data={ arrC }
-                              columns={ columns } 
-                              defaultSorted={ defaultSorted } 
-                              hover
-                            />
-                          </div>
-    const displayDeptArrD = <div className="react-bootstrap-table-wrapper">
-                            <BootstrapTable
-                              bootstrap4
-                              keyField="CRS_SUBJ_CD"
-                              data={ arrD }
-                              columns={ columns } 
-                              defaultSorted={ defaultSorted } 
-                              hover
-                            />
-                            </div>
-    const displayDeptArrE = <div className="react-bootstrap-table-wrapper">
-                              <BootstrapTable
-                                bootstrap4
-                                keyField="CRS_SUBJ_CD"
-                                data={ arrE }
-                                columns={ columns } 
-                                defaultSorted={ defaultSorted } 
-                                hover
-                              />
-                            </div>
-    const displayDeptArrF = <div className="react-bootstrap-table-wrapper">
-                              <BootstrapTable
-                                bootstrap4
-                                keyField="CRS_SUBJ_CD"
-                                data={ arrF }
-                                columns={ columns } 
-                                defaultSorted={ defaultSorted } 
-                                hover
-                              />
-                            </div>
-    const displayDeptArrG = <div className="react-bootstrap-table-wrapper">
-                              <BootstrapTable
-                                bootstrap4
-                                keyField="CRS_SUBJ_CD"
-                                data={ arrG }
-                                columns={ columns } 
-                                defaultSorted={ defaultSorted } 
-                                hover
-                              />
-                            </div>
-    const displayDeptArrH = <div className="react-bootstrap-table-wrapper">
-                              <BootstrapTable
-                                bootstrap4
-                                keyField="CRS_SUBJ_CD"
-                                data={ arrH }
-                                columns={ columns } 
-                                defaultSorted={ defaultSorted } 
-                                hover
-                              />
-                            </div>
-    const displayDeptArrI = <div className="react-bootstrap-table-wrapper">
-                              <BootstrapTable
-                                bootstrap4
-                                keyField="CRS_SUBJ_CD"
-                                data={ arrI }
-                                columns={ columns } 
-                                defaultSorted={ defaultSorted } 
-                                hover
-                              />
-                            </div>
-    const displayDeptArrJ = <div className="react-bootstrap-table-wrapper">
-                              <BootstrapTable
-                                bootstrap4
-                                keyField="CRS_SUBJ_CD"
-                                data={ arrJ }
-                                columns={ columns } 
-                                defaultSorted={ defaultSorted } 
-                                hover
-                              />
-                            </div>
-    const displayDeptArrK = <div className="react-bootstrap-table-wrapper">
-                            <BootstrapTable
-                              bootstrap4
-                              keyField="CRS_SUBJ_CD"
-                              data={ arrK }
-                              columns={ columns } 
-                              defaultSorted={ defaultSorted } 
-                              hover
-                            />
-                            </div>
-    const displayDeptArrL = <div className="react-bootstrap-table-wrapper">
-                            <BootstrapTable
-                              bootstrap4
-                              keyField="CRS_SUBJ_CD"
-                              data={ arrL }
-                              columns={ columns } 
-                              defaultSorted={ defaultSorted } 
-                              hover
-                            />
-                            </div>
-    const displayDeptArrM = <div className="react-bootstrap-table-wrapper">
-                          <BootstrapTable
-                            bootstrap4
-                            keyField="CRS_SUBJ_CD"
-                            data={ arrM }
-                            columns={ columns } 
-                            defaultSorted={ defaultSorted } 
-                            hover
-                          />
-                          </div>
-    const displayDeptArrN = <div className="react-bootstrap-table-wrapper">
-                            <BootstrapTable
-                              bootstrap4
-                              keyField="CRS_SUBJ_CD"
-                              data={ arrN }
-                              columns={ columns } 
-                              defaultSorted={ defaultSorted } 
-                              hover
-                            />
-                            </div>
-    const displayDeptArrO = <div className="react-bootstrap-table-wrapper">
-                            <BootstrapTable
-                              bootstrap4
-                              keyField="CRS_SUBJ_CD"
-                              data={ arrO }
-                              columns={ columns } 
-                              defaultSorted={ defaultSorted } 
-                              hover
-                            />
-                            </div>
-    const displayDeptArrP = <div className="react-bootstrap-table-wrapper">
-                              <BootstrapTable
-                                bootstrap4
-                                keyField="CRS_SUBJ_CD"
-                                data={ arrP }
-                                columns={ columns } 
-                                defaultSorted={ defaultSorted } 
-                                hover
-                              />
-                            </div>
-    const displayDeptArrR = <div className="react-bootstrap-table-wrapper">
-                              <BootstrapTable
-                                bootstrap4
-                                keyField="CRS_SUBJ_CD"
-                                data={ arrR }
-                                columns={ columns } 
-                                defaultSorted={ defaultSorted } 
-                                hover
-                              />
-                            </div>
-    const displayDeptArrS = <div className="react-bootstrap-table-wrapper">
-                              <BootstrapTable
-                                bootstrap4
-                                keyField="CRS_SUBJ_CD"
-                                data={ arrS }
-                                columns={ columns } 
-                                defaultSorted={ defaultSorted } 
-                                hover
-                              />
-                            </div>
-    const displayDeptArrT = <div className="react-bootstrap-table-wrapper">
-                              <BootstrapTable
-                                bootstrap4
-                                keyField="CRS_SUBJ_CD"
-                                data={ arrT }
-                                columns={ columns } 
-                                defaultSorted={ defaultSorted } 
-                                hover
-                              />
-                            </div>
-    const displayDeptArrU = <div className="react-bootstrap-table-wrapper">
-                              <BootstrapTable
-                                bootstrap4
-                                keyField="CRS_SUBJ_CD"
-                                data={ arrU }
-                                columns={ columns } 
-                                defaultSorted={ defaultSorted } 
-                                hover
-                              />
-                            </div>
+    // makes the table and columsn in the table with the data from the arrays above
+    const displayDeptArrA = this.generateTable(arrA);
+    const displayDeptArrB = this.generateTable(arrB);
+    const displayDeptArrC = this.generateTable(arrC);
+    const displayDeptArrD = this.generateTable(arrD);
+    const displayDeptArrE = this.generateTable(arrE);
+    const displayDeptArrF = this.generateTable(arrF);
+    const displayDeptArrG = this.generateTable(arrG);
+    const displayDeptArrH = this.generateTable(arrH);
+    const displayDeptArrI = this.generateTable(arrI);
+    const displayDeptArrJ = this.generateTable(arrJ);
+    const displayDeptArrK = this.generateTable(arrK);
+    const displayDeptArrL = this.generateTable(arrL);
+    const displayDeptArrM = this.generateTable(arrM);
+    const displayDeptArrN = this.generateTable(arrN);
+    const displayDeptArrO = this.generateTable(arrO);
+    const displayDeptArrP = this.generateTable(arrP);
+    const displayDeptArrR = this.generateTable(arrR);
+    const displayDeptArrS = this.generateTable(arrS);
+    const displayDeptArrT = this.generateTable(arrT);
+    const displayDeptArrU = this.generateTable(arrU);
 
     return (
       <div>
         <div className='Table1'>
         {/* Using bootstrap to generate a 3 col layout and printing all the DEPT by using the ImportCsvFile class */}
           <div class="row">
-            <div className="col-sm-4">
-              <h2>A</h2>
-              {displayDeptArrA}
-            </div>
-            
-            <div className="col-sm-4">
-              <h2>B</h2>
-              {displayDeptArrB}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>C</h2>
-              {displayDeptArrC}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>D</h2>
-              {displayDeptArrD}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>E</h2>
-              {displayDeptArrE}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>F</h2>
-              {displayDeptArrF}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>G</h2>
-              {displayDeptArrG}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>H</h2>
-              {displayDeptArrH}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>I</h2>
-              {displayDeptArrI}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>J</h2>
-              {displayDeptArrJ}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>K</h2>
-              {displayDeptArrK}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>L</h2>
-              {displayDeptArrL}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>M</h2>
-              {displayDeptArrM}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>N</h2>
-              {displayDeptArrN}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>O</h2>
-              {displayDeptArrO}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>P</h2>
-              {displayDeptArrP}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>R</h2>
-              {displayDeptArrR}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>S</h2>
-              {displayDeptArrS}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>T</h2>
-              {displayDeptArrT}
-            </div>
-
-            <div className="col-sm-4">
-              <h2>U</h2>
-              {displayDeptArrU}
-            </div>
+            {this.displayDeptByLetter("A", displayDeptArrA)}
+            {this.displayDeptByLetter("B", displayDeptArrB)}
+            {this.displayDeptByLetter("C", displayDeptArrC)}
+            {this.displayDeptByLetter("D", displayDeptArrD)}
+            {this.displayDeptByLetter("E", displayDeptArrE)}
+            {this.displayDeptByLetter("F", displayDeptArrF)}
+            {this.displayDeptByLetter("G", displayDeptArrG)}
+            {this.displayDeptByLetter("H", displayDeptArrH)}
+            {this.displayDeptByLetter("I", displayDeptArrI)}
+            {this.displayDeptByLetter("J", displayDeptArrJ)}
+            {this.displayDeptByLetter("K", displayDeptArrK)}
+            {this.displayDeptByLetter("L", displayDeptArrL)}
+            {this.displayDeptByLetter("M", displayDeptArrM)}
+            {this.displayDeptByLetter("N", displayDeptArrN)}
+            {this.displayDeptByLetter("O", displayDeptArrO)}
+            {this.displayDeptByLetter("P", displayDeptArrP)}
+            {this.displayDeptByLetter("R", displayDeptArrR)}
+            {this.displayDeptByLetter("S", displayDeptArrS)}
+            {this.displayDeptByLetter("T", displayDeptArrT)}
+            {this.displayDeptByLetter("U", displayDeptArrU)}
           </div>
-         </div>
-       </div>
+        </div>
+      </div>
     );
 
   }

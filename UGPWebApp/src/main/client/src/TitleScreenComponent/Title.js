@@ -87,7 +87,7 @@ class Title extends Component {
         // if option is changed then make the other options null
         this.setState({ selectedOptionCrsNbr: null, selectedOptionProf: null, crsNbrSelected: true, btnDisable: true  })
         // filters the array to the crsNbr corrseponding the dept chosen
-        let specificDeptCRSNBR = this.state.myData.filter(x => x.CRS_SUBJ_DESC === selectedOptionDept.label)
+        let specificDeptCRSNBR = this.state.myData.filter(x => x.CRS_SUBJ_CD + ' - ' + x.CRS_SUBJ_DESC === selectedOptionDept.label)
         let allCrsNbrForDept = specificDeptCRSNBR.map(a => ({label: a.CRS_SUBJ_CD + ' - ' + a.CRS_NBR, value: a.CRS_NBR}))
         let removedDupArr = this.removeDup(allCrsNbrForDept, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1)
         this.setState({selectedOptionDept: selectedOptionDept, uniqueCrsNbr: removedDupArr, deptSelected: false})
@@ -103,7 +103,7 @@ class Title extends Component {
         // if option is changed then make the other options null
         this.setState({ selectedOptionProf: null, btnDisable: true  })
         // filters the array to the prof corrseponding the dept and crsnbr chosen
-        let specificCRSNBR = this.state.myData.filter(x => (x.CRS_SUBJ_CD + ' - ' + x.CRS_NBR === selectedOptionCrsNbr.label) && (x.CRS_SUBJ_DESC === this.state.selectedOptionDept.label))
+        let specificCRSNBR = this.state.myData.filter(x => (x.CRS_SUBJ_CD + ' - ' + x.CRS_NBR === selectedOptionCrsNbr.label) && (x.CRS_SUBJ_CD + ' - ' + x.CRS_SUBJ_DESC === this.state.selectedOptionDept.label))
         let allProfForCRSNBR = specificCRSNBR.map(a => ({label: a.name1, value: a.name1}))
         let removedDupArr = this.removeDup(allProfForCRSNBR, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1)
         this.setState({selectedOptionCrsNbr: selectedOptionCrsNbr, uniqueProf :removedDupArr, crsNbrSelected: false})
@@ -133,9 +133,10 @@ class Title extends Component {
     // set the state of the single object data which can be used to send as prop
     dropDownSelected(){
         // removes the CRS_SUBJ_CD before the CRS_NBR for the filter to compare properly
-        let removeTheSpace = this.state.selectedOptionCrsNbr.label.split(" ").pop()
-        let filteredArr = this.state.myData.filter(x => (x.CRS_NBR === (removeTheSpace)) && 
-                                                    (x.CRS_SUBJ_DESC === (this.state.selectedOptionDept.label)) && 
+        let removeTheSpaceCrsNbr = this.state.selectedOptionCrsNbr.label.split(" ").pop()
+        let removeTheSpaceDept = this.state.selectedOptionDept.label.split(" ").pop()
+        let filteredArr = this.state.myData.filter(x => (x.CRS_NBR === (removeTheSpaceCrsNbr)) && 
+                                                    (x.CRS_SUBJ_DESC === (removeTheSpaceDept)) && 
                                                     (x.name1 === (this.state.selectedOptionProf.label)))
         let removedDupArr = this.removeDup(filteredArr, x => x.name1)
         let data = removedDupArr[0]
@@ -148,7 +149,7 @@ class Title extends Component {
         var year = today.getFullYear();
         
         // maps the deptArr with only CRS_SUBJ_DESC element and has key name called label for the dropdown and removes duplicates
-        let deptArr = this.state.myData.map(a => ({label: a.CRS_SUBJ_DESC, value: a.CRS_SUBJ_DESC}));
+        let deptArr = this.state.myData.map(a => ({label: a.CRS_SUBJ_CD + ' - ' + a.CRS_SUBJ_DESC, value: a.CRS_SUBJ_DESC}));
         let uniqueDept = this.removeDup(deptArr, x => x.label).sort((a,b) => a.label > b.label ? 1 : -1);
 
         return (
