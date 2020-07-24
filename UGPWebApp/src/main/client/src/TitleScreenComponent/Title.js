@@ -134,11 +134,12 @@ class Title extends Component {
     dropDownSelected(){
         // removes the CRS_SUBJ_CD before the CRS_NBR for the filter to compare properly
         let removeTheSpaceCrsNbr = this.state.selectedOptionCrsNbr.label.split(" ").pop()
-        let removeTheSpaceDept = this.state.selectedOptionDept.label.split(" ").pop()
+        let removeTheSpaceDept = this.state.selectedOptionDept.label.substring(this.state.selectedOptionDept.label.indexOf("-") + 2)
         let filteredArr = this.state.myData.filter(x => (x.CRS_NBR === (removeTheSpaceCrsNbr)) && 
                                                     (x.CRS_SUBJ_DESC === (removeTheSpaceDept)) && 
                                                     (x.name1 === (this.state.selectedOptionProf.label)))
         let removedDupArr = this.removeDup(filteredArr, x => x.name1)
+
         let data = removedDupArr[0]
         this.setState({btnDisable: false, courseSelected: data})
     }
