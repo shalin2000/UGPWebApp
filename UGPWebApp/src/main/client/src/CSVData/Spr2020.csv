@@ -8,17 +8,17 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,AAST,"African American Studies",242,"Modern Africa",FT,"Liberal Arts & Sciences",2316,History,3,11,6,3,6,0,0,0,0,0,0,0,0,0,0,1,"Hoppe, Kirk A",,,30
 220201,AAST,"African American Studies",247,"African American Hist to 1877",FT,"Liberal Arts & Sciences",2363,"Black Studies",14,5,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"Jones, Julius Langston",,,22
 220201,AAST,"African American Studies",258,"Race and Urban Life",FT,"Liberal Arts & Sciences",2363,"Black Studies",6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Forman, Tyrone A",,,10
-220201,AAST,"African American Studies",262,"Black Music and Black Feminism",FT,"Liberal Arts & Sciences",2363,"Black Studies",7,6,1,1,1,0,0,0,0,0,0,0,0,0,0,1,"Jabir, Johari",,,17
+220201,AAST,"African American Studies",262,"Black Cultural Studies",FT,"Liberal Arts & Sciences",2363,"Black Studies",7,6,1,1,1,0,0,0,0,0,0,0,0,0,0,1,"Jabir, Johari",,,17
 220201,AAST,"African American Studies",266,"African Literature",FT,"Liberal Arts & Sciences",2363,"Black Studies",12,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,"Brown, Nicholas Mainey",,,15
 220201,AAST,"African American Studies",271,"Afr Amer & Politcs Incarceratn",FT,"Liberal Arts & Sciences",2363,"Black Studies",18,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,20
 220201,AAST,"African American Studies",501,"Interdisciplinary Seminar BLST",FT,"Liberal Arts & Sciences",2363,"Black Studies",13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Richie, Beth E",,,13
-220201,ACTG,Accounting,210,"Intro Fin Acct Non-Actg Majors",FL,"Business Administration",2656,Accounting,63,90,32,2,1,0,0,0,0,0,0,0,0,0,0,8,"Eccher, Elizabeth",,,196
-220201,ACTG,Accounting,210,"Intro Fin Acct for Actg Majors",FL,"Business Administration",2656,Accounting,10,12,5,1,4,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.","Kirschenheiter, Michael",,32
-220201,ACTG,Accounting,210,"Intro Fin Acct for Actg Majors",FL,"Business Administration",2656,Accounting,23,24,13,0,7,0,0,0,0,0,0,0,0,0,0,2,"Salama, Yehia A.",,,69
-220201,ACTG,Accounting,211,"Intr Man Actg for Bus Scholars",FL,"Business Administration",2656,Accounting,10,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Martin, Melissa",,,25
+220201,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,63,90,32,2,1,0,0,0,0,0,0,0,0,0,0,8,"Eccher, Elizabeth",,,196
+220201,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,10,12,5,1,4,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.","Kirschenheiter, Michael",,32
+220201,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,23,24,13,0,7,0,0,0,0,0,0,0,0,0,0,2,"Salama, Yehia A.",,,69
+220201,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,10,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Martin, Melissa",,,25
 220201,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,50,87,44,13,7,0,0,0,0,0,0,0,0,0,0,5,"Kemp, Robert E",,,206
-220201,ACTG,Accounting,211,"Intro Mang Acct for Actg Major",FL,"Business Administration",2656,Accounting,27,30,19,6,2,0,0,0,1,0,0,0,0,0,0,0,"Martin, Melissa",,,85
-220201,ACTG,Accounting,211,"Intro Mgrl Actg for BBA online",FL,"Business Administration",2656,Accounting,18,7,5,0,1,0,0,0,0,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,31
+220201,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,27,30,19,6,2,0,0,0,1,0,0,0,0,0,0,0,"Martin, Melissa",,,85
+220201,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,18,7,5,0,1,0,0,0,0,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,31
 220201,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,25,34,13,0,1,0,0,0,0,0,0,0,0,0,0,3,"Nekrasov, Alexander",,,76
 220201,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,21,38,15,2,2,0,0,0,0,0,0,0,0,0,0,0,"Zhong, Rong",,,78
 220201,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,20,15,19,1,3,0,0,0,0,0,0,0,0,0,0,2,"Hart, Daphne","Jastrzebski, Ronald J",,60
@@ -37,7 +37,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,ACTG,Accounting,500,"Intro Financial Actg",FL,"Business Administration",2656,Accounting,13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lord Pearson, Eva Marie",,,17
 220201,ACTG,Accounting,500,"Intro Financial Actg",FL,"Business Administration",2656,Accounting,30,9,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"Atatsi, Joseph",,,42
 220201,ACTG,Accounting,506,"Management Accounting",FL,"Business Administration",2656,Accounting,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,11
-220201,ACTG,Accounting,509,"Business Law",FL,"Business Administration",2656,Accounting,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Scully, George",,,10
+220201,ACTG,Accounting,509,"Commercial Transactions",FL,"Business Administration",2656,Accounting,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Scully, George",,,10
 220201,ACTG,Accounting,537,"Fraud Examination",FL,"Business Administration",2656,Accounting,6,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Popowits, Michael T",,,10
 220201,ACTG,Accounting,585,"Corporate Valuation &Actg Info",FL,"Business Administration",2656,Accounting,20,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Pandit, Shailendra",,,28
 220201,AH,"Art History",100,"Intro to Art &Art History",FR,"Architecture,Design,& the Arts",2910,"Art History",40,14,8,1,3,0,0,0,3,0,0,0,0,0,0,3,"Grad Asst",,,72
@@ -49,7 +49,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,AH,"Art History",205,"Roman Art and Archaeology",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ros, Karen E",,,12
 220201,AH,"Art History",206,"Museum & Exhibition in Motion",FR,"Architecture,Design,& the Arts",2910,"Art History",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,10
 220201,AH,"Art History",208,"Mod/Contemp Latin American Art",FR,"Architecture,Design,& the Arts",2910,"Art History",14,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,21
-220201,AH,"Art History",218,"Pompeii: Everyday Life",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",4,3,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"Ros, Karen E",,,10
+220201,AH,"Art History",218,"Pompeii: Everyday Life in a Roman Town",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",4,3,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"Ros, Karen E",,,10
 220201,AH,"Art History",219,"Art &Architecture of East Asia",FR,"Architecture,Design,& the Arts",2910,"Art History",14,5,1,1,1,0,0,0,4,0,0,0,0,0,0,1,"Becker, Catherine",,,27
 220201,AH,"Art History",233,"Film History II: WWII-Present",FT,"Liberal Arts & Sciences",2492,English,2,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Rubin, Martin L.","Grad Asst",,12
 220201,AH,"Art History",236,"History of Design II",FR,"Architecture,Design,& the Arts",2895,"School of Design",2,9,5,0,1,0,0,0,2,0,0,0,0,0,0,0,"Mekinda, Jonathan",,,19
@@ -140,10 +140,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,ART,Art,160,"Intro to Digital Photo",FR,"Architecture,Design,& the Arts",2583,Art,17,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bernblum, Iris R",,,20
 220201,ART,Art,160,"Intro to Digital Photo",FR,"Architecture,Design,& the Arts",2583,Art,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,20
 220201,ART,Art,160,"Intro to Digital Photo",FR,"Architecture,Design,& the Arts",2583,Art,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Washington, Zuri Aqeela",,,20
-220201,ART,Art,170,"Introduction to  Filmmaking",FR,"Architecture,Design,& the Arts",2583,Art,33,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,"Malmed, Jesse",,,38
+220201,ART,Art,170,"Introduction to Filmmaking",FR,"Architecture,Design,& the Arts",2583,Art,33,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,"Malmed, Jesse",,,38
 220201,ART,Art,170,"Introduction to Filmmaking",FR,"Architecture,Design,& the Arts",2583,Art,28,4,4,0,2,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,38
-220201,ART,Art,190,#love#chicago#art?...#followme,FR,"Architecture,Design,& the Arts",2583,Art,15,9,1,1,0,0,0,0,0,0,0,0,0,0,0,2,"Majeed, Faheem",,,28
-220201,ART,Art,190,"Hip-Hop Studies",FR,"Architecture,Design,& the Arts",2583,Art,38,6,3,1,0,0,0,0,1,0,0,0,0,0,0,2,"Lee, Lisa Yun","Coval, Kevin",,51
+220201,ART,Art,190,"Intro to Socially Engaged Art",FR,"Architecture,Design,& the Arts",2583,Art,15,9,1,1,0,0,0,0,0,0,0,0,0,0,0,2,"Majeed, Faheem",,,28
+220201,ART,Art,190,"Intro to Socially Engaged Art",FR,"Architecture,Design,& the Arts",2583,Art,38,6,3,1,0,0,0,0,1,0,0,0,0,0,0,2,"Lee, Lisa Yun","Coval, Kevin",,51
 220201,ART,Art,212,"Topics in Drawing I",FR,"Architecture,Design,& the Arts",2583,Art,18,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bae, Gregory Byung",,,20
 220201,ART,Art,230,"Topics in Painting I",FR,"Architecture,Design,& the Arts",2583,Art,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,"Metzger, Matthew John",,,15
 220201,ART,Art,240,"Working Wood in Sculpture",FR,"Architecture,Design,& the Arts",2583,Art,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Young, Nathaniel James",,,12
@@ -183,7 +183,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,40,6,0,"Warner, Kimberly",,,46
 220201,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,1,0,0,0,0,37,6,2,"Anderson, Stephanie Leigh",,,46
 220201,BA,"Business Administration",190,"Seminar for Bus Scholars",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,110,0,0,"Prazza, Angela J","Durham-Wiersema, Shonta","Sanchez, Mayra",110
-220201,BA,"Business Administration",200," Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",15,9,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Wang, Jie",,,27
+220201,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",15,9,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Wang, Jie",,,27
 220201,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",19,16,11,5,3,0,0,0,0,0,1,0,0,0,0,1,"Duros, Sally",,,56
 220201,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",27,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Souri, Ranjit J",,,28
 220201,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",27,38,11,3,4,0,0,0,0,0,0,0,0,0,0,1,"Corte, Anthony M",,,84
@@ -195,13 +195,13 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,BA,"Business Administration",220,"Business Prof Dev II",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,62,2,0,"Rodriguez, Paul",,,64
 220201,BA,"Business Administration",220,"Business Prof Dev II",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,80,2,0,"Wilson, Jeffrey Crossen",,,82
 220201,BA,"Business Administration",220,"Business Prof Dev II",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,1,0,0,0,0,61,3,0,"Lord, Morgan",,,65
-220201,BA,"Business Administration",220,"Business Prof Development II",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,38,3,1,"Warner, Kimberly",,,42
+220201,BA,"Business Administration",220,"Business Prof Dev II",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,38,3,1,"Warner, Kimberly",,,42
 220201,BA,"Business Administration",289,"Business Internship Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,32,1,0,"Bieliauskas, Rita Maria","Bernal, Nicolas Antonio","Lacy, Virginia",33
-220201,BA,"Business Administration",300,"Adv Mgrl Comm for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",17,10,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Atchley, Cindy J",,,30
+220201,BA,"Business Administration",300,"Adv Mngrl Comm for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",17,10,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Atchley, Cindy J",,,30
 220201,BA,"Business Administration",300,"Adv Mngrl Comm for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",10,15,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Atchley, Cindy J",,,28
 220201,BA,"Business Administration",320,"Civic Engagement",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,"Wilson, Jeffrey Crossen",,,41
 220201,BA,"Business Administration",320,"Civic Engagement",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,1,0,0,61,0,0,"Lloyd, Anna K",,,62
-220201,BA,"Business Administration",320,"Civic Engmt for Bus Scholars",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Wilson, Jeffrey Crossen",,,15
+220201,BA,"Business Administration",320,"Civic Engagement",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Wilson, Jeffrey Crossen",,,15
 220201,BA,"Business Administration",330,"Bus Dec Mkng for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",25,20,2,0,2,0,0,0,0,0,0,0,0,0,0,0,"Adams, Vangeliya Pavlova",,,49
 220201,BA,"Business Administration",420,"Professional Presence",FL,"Business Administration",2785,"Business Administration Admini",23,12,1,0,1,0,0,0,0,0,0,0,0,0,0,1,"Warner, Kimberly",,,38
 220201,BA,"Business Administration",420,"Professional Presence",FL,"Business Administration",2785,"Business Administration Admini",45,7,4,0,1,0,0,0,0,0,0,0,0,0,0,1,"Wilson, Jeffrey Crossen",,,58
@@ -211,7 +211,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,BA,"Business Administration",420,"Professional Presence",FL,"Business Administration",2785,"Business Administration Admini",57,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rodriguez, Paul",,,60
 220201,BA,"Business Administration",494,"Strat Analys & Rprt for BBA",FL,"Business Administration",2785,"Business Administration Admini",6,9,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"Porter, Brian Ernst",,,18
 220201,BA,"Business Administration",495,"Bus Strategy for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",15,12,1,2,0,0,0,0,0,0,0,0,0,0,0,0,"Trampas, Ann E",,,30
-220201,BA,"Business Administration",495,"Bus Strtgy for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",14,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sauerwald, Steve",,,28
+220201,BA,"Business Administration",495,"Bus Strategy for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",14,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sauerwald, Steve",,,28
 220201,BA,"Business Administration",520,"Improvisation and Leadership",FL,"Business Administration",2785,"Business Administration Admini",9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Warner, Kimberly",,,10
 220201,BA,"Business Administration",520,"Improvisation and Leadership",FL,"Business Administration",2785,"Business Administration Admini",21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Popowits, Michael T",,,21
 220201,BCMG,"Biochem & Molecular Genetics",515,"Journal Club",FZ,"Coll Medicine at Chicago - BS",2509,"Biochem & Molecular Genetics",7,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"Benevolenskaya, Elizaveta V","Ho, Yee-Kin",,11
@@ -675,12 +675,12 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,DES,Design,322,"Design Research Methods",FR,"Architecture,Design,& the Arts",2895,"School of Design",18,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Stirling, Susan",,,23
 220201,DES,Design,331,"Industrial Design V",FR,"Architecture,Design,& the Arts",2895,"School of Design",8,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,"O'Keefe, Thomas Joseph",,,12
 220201,DES,Design,331,"Industrial Design V",FR,"Architecture,Design,& the Arts",2895,"School of Design",15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Susani, Marco",,,15
-220201,DES,Design,400,"Contemporary Product Form",FR,"Architecture,Design,& the Arts",2895,"School of Design",7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wangerin, Noah Martin",,,12
-220201,DES,Design,400,"Exhibition: Furniture",FR,"Architecture,Design,& the Arts",2895,"School of Design",7,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jang, Sung B",,,13
+220201,DES,Design,400,"Independent Study in GD",FR,"Architecture,Design,& the Arts",2895,"School of Design",7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wangerin, Noah Martin",,,12
+220201,DES,Design,400,"Independent Study in GD",FR,"Architecture,Design,& the Arts",2895,"School of Design",7,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jang, Sung B",,,13
 220201,DES,Design,410,"Senior Design Colloquium I",FR,"Architecture,Design,& the Arts",2895,"School of Design",26,36,5,2,0,0,0,0,0,0,0,0,0,0,0,0,"Melamed, Stephen","Wandro, Jennifer Marie","Grad Asst",69
 220201,DES,Design,411,"Senior Design Colloquium II",FR,"Architecture,Design,& the Arts",2895,"School of Design",26,36,5,2,0,0,0,0,0,0,0,0,0,0,0,0,"Melamed, Stephen","Wandro, Jennifer Marie","Grad Asst",69
-220201,DES,Design,421,"Mobile App Design II",FR,"Architecture,Design,& the Arts",2895,"School of Design",10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tsoupikova, Daria",,,16
-220201,DES,Design,431,"EPD II",FR,"Architecture,Design,& the Arts",2895,"School of Design",12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Burdett, Theodore Joseph",,,12
+220201,DES,Design,421,"Professional Practice II",FR,"Architecture,Design,& the Arts",2895,"School of Design",10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tsoupikova, Daria",,,16
+220201,DES,Design,431,"IPD II",FR,"Architecture,Design,& the Arts",2895,"School of Design",12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Burdett, Theodore Joseph",,,12
 220201,DES,Design,441,"Design Thinking II",FR,"Architecture,Design,& the Arts",2895,"School of Design",16,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Zolna, Robert",,,18
 220201,DES,Design,471,"Industrial Design Thesis II",FR,"Architecture,Design,& the Arts",2895,"School of Design",9,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jang, Sung B",,,17
 220201,DES,Design,471,"Industrial Design Thesis II",FR,"Architecture,Design,& the Arts",2895,"School of Design",10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ferrone, Felicia",,,13
@@ -732,7 +732,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,EAES,"Earth & Environmental Sciences",494,"Weather,Climate,&ClimateChange",FT,"Liberal Arts & Sciences",2474,"Earth & Environmental Sciences",10,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,"Malone, Andrew",,,20
 220201,EAES,"Earth & Environmental Sciences",518,Geobiology,FT,"Liberal Arts & Sciences",2474,"Earth & Environmental Sciences",9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Meyer-Dombard, D'Arcy",,,10
 220201,EAES,"Earth & Environmental Sciences",595,"Departmental Seminar",FT,"Liberal Arts & Sciences",2474,"Earth & Environmental Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,"Stein, Carol A",,,17
-220201,ECE,"Electrical and Computer Engr",115,IntroElec&CmptrEng,FQ,Engineering,2949,"Electrical & Computer Engr",35,32,25,11,19,0,0,0,0,0,0,0,0,0,0,8,"Caliskan, Vahe",,,130
+220201,ECE,"Electrical and Computer Engr",115,"Intro to Elec & Cmptr Eng",FQ,Engineering,2949,"Electrical & Computer Engr",35,32,25,11,19,0,0,0,0,0,0,0,0,0,0,8,"Caliskan, Vahe",,,130
 220201,ECE,"Electrical and Computer Engr",210,"Electric Circuit Analysis",FQ,Engineering,2949,"Electrical & Computer Engr",87,53,13,0,4,0,0,0,0,0,0,0,0,0,0,2,"Fitzgerald, Kimberly Marie","Kosmach, James",,159
 220201,ECE,"Electrical and Computer Engr",225,"Circuit Analysis",FQ,Engineering,2949,"Electrical & Computer Engr",47,14,18,12,7,0,0,0,0,0,0,0,0,0,0,0,"Kosmach, James",,,98
 220201,ECE,"Electrical and Computer Engr",265,"Intro to Logic Design",FQ,Engineering,2949,"Electrical & Computer Engr",30,28,18,6,0,0,0,0,0,0,0,0,0,0,0,1,"Fitzgerald, Kimberly Marie","Trivedi, Amit",,83
@@ -964,7 +964,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,ENGL,English,241,"Eng Lit I",FT,"Liberal Arts & Sciences",2492,English,33,20,8,6,2,0,0,0,0,0,0,0,0,0,0,2,"Magarik, Raphael Solomon Safron",,,71
 220201,ENGL,English,242,"Eng Lit II 1660-1900",FT,"Liberal Arts & Sciences",2492,English,51,16,0,1,1,0,0,0,0,0,0,0,0,0,0,1,"Mufti, Nasser",,,70
 220201,ENGL,English,243,"American Lit to 1900",FT,"Liberal Arts & Sciences",2492,English,71,12,1,0,0,0,0,0,0,0,0,0,0,0,0,3,"Coviello, Peter M",,,87
-220201,ENGL,English,262,"Black Music and Black Feminism",FT,"Liberal Arts & Sciences",2363,"Black Studies",7,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"Jabir, Johari",,,12
+220201,ENGL,English,262,"Black Cultural Studies",FT,"Liberal Arts & Sciences",2363,"Black Studies",7,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"Jabir, Johari",,,12
 220201,ENGL,English,302,"The Moving Image",FT,"Liberal Arts & Sciences",2492,English,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,"Cassidy, Marsha F",,,15
 220201,ENGL,English,305,"Studies in Fiction",FT,"Liberal Arts & Sciences",2492,English,10,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Schaafsma, David W",,,20
 220201,ENGL,English,341,"Lit and Popular Culture",FT,"Liberal Arts & Sciences",2492,English,11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mohanraj, Mary Anne",,,16
@@ -1040,10 +1040,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,EPSY,"Educational Psychology",561,"Assess /Measurement Pro",FP,Education,2621,"Educational Psychology",21,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,"Dai, Ting",,,24
 220201,EPSY,"Educational Psychology",584,"Hierarchical Linear Model",FP,Education,2621,"Educational Psychology",15,3,0,0,0,0,0,0,2,0,0,0,0,0,0,1,"Yin, Yue",,,21
 220201,EPSY,"Educational Psychology",594,"Spcl Topics in Ed Psych",FP,Education,2621,"Educational Psychology",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Thomas, Michael K",,,10
-220201,FIN,Finance,300,"Intro to Fin for BBA Online",FL,"Business Administration",2691,Finance,22,17,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Guo, Re-Jin Jennifer",,,43
+220201,FIN,Finance,300,"Intro to Finance",FL,"Business Administration",2691,Finance,22,17,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Guo, Re-Jin Jennifer",,,43
 220201,FIN,Finance,301,"Intro to Managerial Finance",FL,"Business Administration",2691,Finance,117,126,40,1,2,0,0,0,0,0,0,0,0,0,0,5,"Hu, Xiaoqing",,,291
 220201,FIN,Finance,301,"Intro to Managerial Finance",FL,"Business Administration",2691,Finance,172,101,12,6,9,0,0,0,0,0,0,0,0,0,0,2,"Healy, Thomas Charles",,,302
-220201,FIN,Finance,302,"Intro to Invst for Bus Scholar",FL,"Business Administration",2691,Finance,20,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Arslan Ayaydin, Ozgur",,,26
+220201,FIN,Finance,302,"Introduction to Investments",FL,"Business Administration",2691,Finance,20,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Arslan Ayaydin, Ozgur",,,26
 220201,FIN,Finance,302,"Introduction to Investments",FL,"Business Administration",2691,Finance,118,90,31,12,0,0,0,0,0,0,0,0,0,0,0,2,"Lin, Jerchern",,,253
 220201,FIN,Finance,302,"Introduction to Investments",FL,"Business Administration",2691,Finance,128,121,35,11,7,0,0,0,0,0,0,0,0,0,0,2,"Genc, Egemen",,,304
 220201,FIN,Finance,310,Investments,FL,"Business Administration",2691,Finance,14,14,10,4,0,0,0,0,0,0,0,0,0,0,0,1,"Bondarenko, Oleg P",,,43
@@ -1300,13 +1300,13 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,HUM,Humanities,101,"Humanities: Indiv and Society",FT,"Liberal Arts & Sciences",2903,Humanities,8,4,1,3,1,0,0,0,0,0,0,0,0,0,0,1,"Rosenberg, Ruth Emily",,,18
 220201,HUM,Humanities,101,"Humanities: Indiv and Society",FT,"Liberal Arts & Sciences",2903,Humanities,8,5,0,0,1,0,0,0,0,0,0,0,0,0,0,2,"Jones, Steven G",,,16
 220201,IDEA,"Interdisc Educ in the Arts",120,"Digital Practices Design/Arts",FR,"Architecture,Design,& the Arts",2745,"Art and Art History Admin",17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Funk, Tiffany Ann",,,17
-220201,IDS,"Information &Decision Sciences",200,"Intro MIS for BBA Online",FL,"Business Administration",2672,"Information/Decision Sciences",14,25,1,3,1,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,44
-220201,IDS,"Information &Decision Sciences",200,"Intro MIS for Bus Scholars",FL,"Business Administration",2672,"Information/Decision Sciences",9,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,"Lundquist, Doug E",,,20
+220201,IDS,"Information &Decision Sciences",200,"Intro Mgmt Info Systems",FL,"Business Administration",2672,"Information/Decision Sciences",14,25,1,3,1,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,44
+220201,IDS,"Information &Decision Sciences",200,"Intro Mgmt Info Systems",FL,"Business Administration",2672,"Information/Decision Sciences",9,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,"Lundquist, Doug E",,,20
 220201,IDS,"Information &Decision Sciences",200,"Intro Mgmt Info Systems",FL,"Business Administration",2672,"Information/Decision Sciences",23,27,28,57,0,0,0,0,5,0,0,0,0,0,0,4,"Lundquist, Doug E",,,144
 220201,IDS,"Information &Decision Sciences",200,"Intro Mgmt Info Systems",FL,"Business Administration",2672,"Information/Decision Sciences",62,68,58,22,6,0,0,0,0,0,0,0,0,0,0,3,"Fyfe, John",,,219
 220201,IDS,"Information &Decision Sciences",201,"Intro to Business Programming",FL,"Business Administration",2672,"Information/Decision Sciences",5,17,16,10,0,0,0,0,1,0,0,0,0,0,0,5,"Lundquist, Doug E",,,54
 220201,IDS,"Information &Decision Sciences",270,"Business Statistics I",FL,"Business Administration",2672,"Information/Decision Sciences",112,101,86,21,32,0,0,0,2,0,0,0,0,0,0,7,"Sparks, John",,,361
-220201,IDS,"Information &Decision Sciences",312,"Bus Proj Mgmt for BBA online",FL,"Business Administration",2672,"Information/Decision Sciences",15,8,4,0,0,0,0,0,0,0,0,0,0,0,0,1,"Gawel, Jeffrey",,,28
+220201,IDS,"Information &Decision Sciences",312,"Business Project Management",FL,"Business Administration",2672,"Information/Decision Sciences",15,8,4,0,0,0,0,0,0,0,0,0,0,0,0,1,"Gawel, Jeffrey",,,28
 220201,IDS,"Information &Decision Sciences",312,"Business Project Management",FL,"Business Administration",2672,"Information/Decision Sciences",3,20,19,3,0,0,0,0,0,0,0,0,0,0,0,2,"Potter, Richard E",,,47
 220201,IDS,"Information &Decision Sciences",331,"Spreadsheet Analysis",FL,"Business Administration",2672,"Information/Decision Sciences",32,32,16,5,2,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst","Grad Asst",,90
 220201,IDS,"Information &Decision Sciences",355,"Operations Management",FL,"Business Administration",2672,"Information/Decision Sciences",67,67,43,19,2,0,0,0,0,0,0,0,0,0,0,2,"Ouksel, Aris M",,,200
@@ -1359,7 +1359,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,IE,"Industrial Engineering",342,"Probability & Stat for Engr",FQ,Engineering,2323,"Mechanical & Industrial Engr",19,58,14,8,1,0,0,0,0,0,0,0,0,0,0,1,"He, David Weihua",,,101
 220201,IE,"Industrial Engineering",342,"Probability & Stat for Engr",FQ,Engineering,2323,"Mechanical & Industrial Engr",35,35,16,7,1,0,0,0,0,0,0,0,0,0,0,2,"Reckinger, Scott J",,,96
 220201,IE,"Industrial Engineering",380,"Manufacturing Process Princ",FQ,Engineering,2323,"Mechanical & Industrial Engr",2,6,3,1,0,0,0,0,0,0,0,0,0,0,0,1,"Shahbazian-Yassar, Reza",,,13
-220201,IE,"Industrial Engineering",397,"Senior Design Il",FQ,Engineering,2323,"Mechanical & Industrial Engr",29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Brown, Michael A",,,29
+220201,IE,"Industrial Engineering",397,"Senior Design II",FQ,Engineering,2323,"Mechanical & Industrial Engr",29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Brown, Michael A",,,29
 220201,IE,"Industrial Engineering",441,"Ergonomics & Human Factors",FQ,Engineering,2323,"Mechanical & Industrial Engr",20,11,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Jeong, Heejin",,,34
 220201,IE,"Industrial Engineering",442,"Design &Analysis of Experiment",FQ,Engineering,2323,"Mechanical & Industrial Engr",33,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Pan, Yayue",,,42
 220201,IE,"Industrial Engineering",446,"Quality Control & Reliability",FQ,Engineering,2323,"Mechanical & Industrial Engr",27,11,4,3,0,0,0,0,0,0,0,0,0,0,0,1,"Williams, Quintin Levurn",,,46
@@ -1379,9 +1379,9 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,INST,"International Studies",130,"Intro to Comparative Politics",FT,"Liberal Arts & Sciences",2734,"Political Science",4,2,2,2,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,11
 220201,INST,"International Studies",184,"Intro International Relations",FT,"Liberal Arts & Sciences",2734,"Political Science",8,6,3,2,2,0,0,0,0,0,0,0,0,0,0,0,"Floros, Katharine",,,21
 220201,INST,"International Studies",301,"Seminar International Studies",FT,"Liberal Arts & Sciences",2410,"LAS Administration",11,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Sen, Neslihan",,,16
-220201,IPHS,"Interdisc Public Hlth Sciences",403,"Cohort A-PH Systems and Policy",FY,"School of Public Health",2592,"School of Public Health",44,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Shapiro-Berkson, Stephanie B","Cliff, Elizabeth",,48
-220201,IPHS,"Interdisc Public Hlth Sciences",403,"Cohort B-PH Syst and Policy",FY,"School of Public Health",2592,"School of Public Health",34,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Govia, Carlo M","Jeremiah, Rohan Dexter",,39
-220201,IPHS,"Interdisc Public Hlth Sciences",403,"PH Systems and Policy",FY,"School of Public Health",2592,"School of Public Health",48,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2,"Shapiro-Berkson, Stephanie B","Chan, Kee",,53
+220201,IPHS,"Interdisc Public Hlth Sciences",403,"Public Health Systems, Management and Community Health Methods",FY,"School of Public Health",2592,"School of Public Health",44,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Shapiro-Berkson, Stephanie B","Cliff, Elizabeth",,48
+220201,IPHS,"Interdisc Public Hlth Sciences",403,"Public Health Systems, Management and Community Health Methods",FY,"School of Public Health",2592,"School of Public Health",34,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Govia, Carlo M","Jeremiah, Rohan Dexter",,39
+220201,IPHS,"Interdisc Public Hlth Sciences",403,"Public Health Systems, Management and Community Health Methods",FY,"School of Public Health",2592,"School of Public Health",48,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2,"Shapiro-Berkson, Stephanie B","Chan, Kee",,53
 220201,IPHS,"Interdisc Public Hlth Sciences",405,"PH Analytic & Research II",FY,"School of Public Health",2592,"School of Public Health",24,11,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Cambron, Jerrilyn Arlene","Wang, Heng",,37
 220201,IPHS,"Interdisc Public Hlth Sciences",410,"Global Public Health Solutions",FY,"School of Public Health",2592,"School of Public Health",14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Zeigler, Donald",,,15
 220201,IPHS,"Interdisc Public Hlth Sciences",420,"Interprofessional Education",FY,"School of Public Health",2592,"School of Public Health",0,0,0,0,0,0,0,1,2,0,1,0,0,72,0,0,"Kapadia, Devangna Alpesh",,,76
@@ -1626,8 +1626,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,ME,"Mechanical Engineering",370,"Mechanical Engineering Design",FQ,Engineering,2323,"Mechanical & Industrial Engr",14,22,28,6,6,0,0,0,0,0,0,0,0,0,0,0,"Roy, Tamal",,,76
 220201,ME,"Mechanical Engineering",380,"Manufacturing Process Princ",FQ,Engineering,2323,"Mechanical & Industrial Engr",11,15,7,1,2,0,0,0,0,0,0,0,0,0,0,0,"Shahbazian-Yassar, Reza",,,36
 220201,ME,"Mechanical Engineering",380,"Manufacturing Process Princ",FQ,Engineering,2323,"Mechanical & Industrial Engr",34,17,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"Abiade, Jeremiah T",,,54
-220201,ME,"Mechanical Engineering",397,"Senior Design Il",FQ,Engineering,2323,"Mechanical & Industrial Engr",48,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Komperda, Jonathan",,,58
-220201,ME,"Mechanical Engineering",397,"Senior Design Il",FQ,Engineering,2323,"Mechanical & Industrial Engr",98,15,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Brown, Michael A",,,115
+220201,ME,"Mechanical Engineering",397,"Senior Design II",FQ,Engineering,2323,"Mechanical & Industrial Engr",48,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Komperda, Jonathan",,,58
+220201,ME,"Mechanical Engineering",397,"Senior Design II",FQ,Engineering,2323,"Mechanical & Industrial Engr",98,15,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Brown, Michael A",,,115
 220201,ME,"Mechanical Engineering",415,"Propulsion Theory",FQ,Engineering,2323,"Mechanical & Industrial Engr",7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Brezinsky, Kenneth",,,10
 220201,ME,"Mechanical Engineering",422,"Heating Vent&Air Conditioning",FQ,Engineering,2323,"Mechanical & Industrial Engr",62,14,9,1,0,0,0,0,0,0,0,0,0,0,0,0,"Ryan, William A",,,86
 220201,ME,"Mechanical Engineering",428,"Numerical Methods in ME",FQ,Engineering,2323,"Mechanical & Industrial Engr",5,5,8,0,1,0,0,0,0,0,0,0,0,0,0,0,"Aggarwal, Suresh K",,,19
@@ -1643,7 +1643,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,ME,"Mechanical Engineering",599,"PhD Thesis Research",FQ,Engineering,2323,"Mechanical & Industrial Engr",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,"Shahbazian-Yassar, Reza",,,11
 220201,MENG,"Master of Engineering",401,"Engineering Management",FQ,Engineering,2284,"Engineering Admin",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Wolfman, Howard L",,,11
 220201,MGMT,Management,340,"Intro to Organizations",FL,"Business Administration",2846,"Managerial Studies",280,64,44,24,19,0,0,0,0,0,0,0,0,0,0,3,"Thompson, Peter B",,,434
-220201,MGMT,Management,340,"Intro to Orgs for Bus Scholars",FL,"Business Administration",2846,"Managerial Studies",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Tarasievich, Renata A.",,,21
+220201,MGMT,Management,340,"Intro to Organizations",FL,"Business Administration",2846,"Managerial Studies",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Tarasievich, Renata A.",,,21
 220201,MGMT,Management,350,"External Environment of Bus",FL,"Business Administration",2846,"Managerial Studies",47,97,80,18,9,0,0,0,0,0,0,0,0,0,0,1,"Miller, Michael T.",,,252
 220201,MGMT,Management,350,"External Environment of Bus",FL,"Business Administration",2846,"Managerial Studies",56,44,18,14,0,0,0,0,0,0,0,0,0,0,0,2,"Leitzinger, Jocelyn",,,134
 220201,MGMT,Management,445,"Organizational Theory",FL,"Business Administration",2846,"Managerial Studies",92,12,2,1,0,0,0,0,0,0,0,0,0,0,0,1,"Puranik, Harshad Girish",,,108
@@ -1651,7 +1651,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,MGMT,Management,453,"Human Resource Management",FL,"Business Administration",2846,"Managerial Studies",71,5,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"Barlow, Christopher",,,78
 220201,MGMT,Management,454,"Labor-Mgmt Relations",FL,"Business Administration",2846,"Managerial Studies",23,18,4,0,0,0,0,0,0,0,0,0,0,0,0,1,"Bujas, Dan",,,46
 220201,MGMT,Management,455,"Talent Management & Global HR",FL,"Business Administration",2846,"Managerial Studies",17,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Martin, David",,,23
-220201,MGMT,Management,460,"Bus, Soc & Glbl Econ for BBA",FL,"Business Administration",2846,"Managerial Studies",23,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Adams, Vangeliya Pavlova",,,30
+220201,MGMT,Management,460,"Bus, Society & Global Economy",FL,"Business Administration",2846,"Managerial Studies",23,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Adams, Vangeliya Pavlova",,,30
 220201,MGMT,Management,460,"Bus, Society & Global Economy",FL,"Business Administration",2846,"Managerial Studies",15,19,8,1,3,0,0,0,0,0,0,0,0,0,0,2,"Miller, Michael T.",,,48
 220201,MGMT,Management,460,"Bus, Society & Global Economy",FL,"Business Administration",2846,"Managerial Studies",35,24,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Pagano, Anthony M",,,60
 220201,MGMT,Management,463,"Negotiation &Conflict Resolutn",FL,"Business Administration",2846,"Managerial Studies",25,10,12,0,0,0,0,1,0,0,0,0,0,0,0,0,"Bujas, Dan",,,48
@@ -1659,7 +1659,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,MGMT,Management,466,"Mgmt Effectiv Thru Diversity",FL,"Business Administration",2846,"Managerial Studies",57,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tarasievich, Renata A.",,,70
 220201,MGMT,Management,470,"Personnel Training & Dev",FL,"Business Administration",2846,"Managerial Studies",38,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"Cooper, James Wesley",,,45
 220201,MGMT,Management,480,"Transportation Systems Mgmt",FL,"Business Administration",2846,"Managerial Studies",36,7,1,0,1,0,0,0,1,0,0,0,0,0,0,0,"Pagano, Anthony M",,,46
-220201,MGMT,Management,495,"Comp Strgy for Business Schlrs",FL,"Business Administration",2846,"Managerial Studies",16,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Miller, Michael T.",,,20
+220201,MGMT,Management,495,"Competitive Strategy",FL,"Business Administration",2846,"Managerial Studies",16,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Miller, Michael T.",,,20
 220201,MGMT,Management,495,"Competitive Strategy",FL,"Business Administration",2846,"Managerial Studies",12,20,10,6,0,0,0,0,0,0,0,0,0,0,0,0,"Miller, Michael T.",,,48
 220201,MGMT,Management,495,"Competitive Strategy",FL,"Business Administration",2846,"Managerial Studies",20,19,5,1,0,0,0,0,0,0,0,0,0,0,0,0,"Trampas, Ann E",,,45
 220201,MGMT,Management,495,"Competitive Strategy",FL,"Business Administration",2846,"Managerial Studies",32,47,55,12,1,0,0,0,0,0,0,0,0,0,0,3,"Cooper, James Wesley",,,150
@@ -1700,12 +1700,12 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,MKTG,Marketing,469,"Global Marketing",FL,"Business Administration",2846,"Managerial Studies",16,43,11,3,2,0,0,0,0,0,2,0,0,0,0,2,"Smith, Andre",,,79
 220201,MKTG,Marketing,469,"Global Marketing",FL,"Business Administration",2846,"Managerial Studies",23,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,"Atchley, Cindy J",,,30
 220201,MKTG,Marketing,469,"Global Marketing",FL,"Business Administration",2846,"Managerial Studies",127,65,18,4,2,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,218
-220201,MKTG,Marketing,469,"Global Marketing - Online",FL,"Business Administration",2846,"Managerial Studies",20,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Atchley, Cindy J",,,29
-220201,MKTG,Marketing,469,"Global Mktg for BBA Online",FL,"Business Administration",2846,"Managerial Studies",23,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Atchley, Cindy J",,,32
+220201,MKTG,Marketing,469,"Global Marketing",FL,"Business Administration",2846,"Managerial Studies",20,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Atchley, Cindy J",,,29
+220201,MKTG,Marketing,469,"Global Marketing",FL,"Business Administration",2846,"Managerial Studies",23,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Atchley, Cindy J",,,32
 220201,MKTG,Marketing,470,"Brand Management",FL,"Business Administration",2846,"Managerial Studies",21,18,5,2,0,0,0,0,0,0,0,0,0,0,0,2,"Moon, Kim",,,48
 220201,MKTG,Marketing,474,"Advertising & Sales Promotion",FL,"Business Administration",2846,"Managerial Studies",16,17,0,2,0,0,0,0,0,0,1,0,0,0,0,0,"Smith, Andre",,,36
 220201,MKTG,Marketing,475,"Product Management",FL,"Business Administration",2846,"Managerial Studies",13,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Cui, Anna Shaojie",,,21
-220201,MKTG,Marketing,478,"Interdiscplinary Prod Dev II",FL,"Business Administration",2846,"Managerial Studies",18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moon, Kim",,,18
+220201,MKTG,Marketing,478,"Interdisciplinary Prod Dev II",FL,"Business Administration",2846,"Managerial Studies",18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moon, Kim",,,18
 220201,MKTG,Marketing,479,"Digital & Social Media Mktg",FL,"Business Administration",2846,"Managerial Studies",41,5,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"Razi, Sajna",,,48
 220201,MKTG,Marketing,481,"Sales Management",FL,"Business Administration",2846,"Managerial Studies",1,15,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Trampas, Ann E",,,19
 220201,MKTG,Marketing,500,"Introduction to Marketing",FL,"Business Administration",2846,"Managerial Studies",8,24,8,0,0,0,0,0,0,0,0,0,0,0,0,0,"Karsaklian, Eliane",,,40
@@ -2244,13 +2244,13 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,SOCW,"Social Work",411,"Social Work in Multicult Soc",GL,"Social Work",2630,"Jane Addams Social Work",22,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Diaz-Strong, Daysi Ximena","Brown, Hazel Melisa","Oyelola, Rachel Funke",23
 220201,SOCW,"Social Work",411,"Social Work in Multicult Soc",GL,"Social Work",2630,"Jane Addams Social Work",24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wilson, Robert","Brown, Hazel Melisa","Oyelola, Rachel Funke",24
 220201,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",16,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hinton, Krista Marie","Brown, Hazel Melisa","Oyelola, Rachel Funke",18
-220201,SOCW,"Social Work",431,"Pract II: Fam., Grps & Comm",GL,"Social Work",2630,"Jane Addams Social Work",19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Greene, Perrin Dwayne","Oyelola, Rachel Funke","Brown, Hazel Melisa",20
-220201,SOCW,"Social Work",431,"Pract II: Fam., Grps & Comm",GL,"Social Work",2630,"Jane Addams Social Work",21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Doyle, Otima","Brown, Hazel Melisa","Oyelola, Rachel Funke",21
-220201,SOCW,"Social Work",431,"Pract II: Fam., Grps & Comm",GL,"Social Work",2630,"Jane Addams Social Work",25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tumiel, Elizabeth Ann","Brown, Hazel Melisa","Oyelola, Rachel Funke",25
-220201,SOCW,"Social Work",431,"Pract II: Fam., Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","Oyelola, Rachel Funke","Brown, Hazel Melisa",19
-220201,SOCW,"Social Work",431,"Practice II:Families, Grp&Comm",GL,"Social Work",2630,"Jane Addams Social Work",16,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,"Doyle, Otima","Oyelola, Rachel Funke","Brown, Hazel Melisa",18
-220201,SOCW,"Social Work",431,"Practice II:Families, Grp&Comm",GL,"Social Work",2630,"Jane Addams Social Work",21,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Hill, JaShawn Deborah","Oyelola, Rachel Funke","Brown, Hazel Melisa",23
-220201,SOCW,"Social Work",431,"Practice II:Families, Grp&Comm",GL,"Social Work",2630,"Jane Addams Social Work",22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Huffman-Gottschling, Kristen Suzanne","Oyelola, Rachel Funke","Brown, Hazel Melisa",22
+220201,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Greene, Perrin Dwayne","Oyelola, Rachel Funke","Brown, Hazel Melisa",20
+220201,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Doyle, Otima","Brown, Hazel Melisa","Oyelola, Rachel Funke",21
+220201,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tumiel, Elizabeth Ann","Brown, Hazel Melisa","Oyelola, Rachel Funke",25
+220201,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","Oyelola, Rachel Funke","Brown, Hazel Melisa",19
+220201,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",16,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,"Doyle, Otima","Oyelola, Rachel Funke","Brown, Hazel Melisa",18
+220201,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",21,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Hill, JaShawn Deborah","Oyelola, Rachel Funke","Brown, Hazel Melisa",23
+220201,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Huffman-Gottschling, Kristen Suzanne","Oyelola, Rachel Funke","Brown, Hazel Melisa",22
 220201,SOCW,"Social Work",460,"Research I: Social Work Resrch",GL,"Social Work",2630,"Jane Addams Social Work",13,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Payton, April C","Oyelola, Rachel Funke","Brown, Hazel Melisa",20
 220201,SOCW,"Social Work",460,"Research I: Social Work Resrch",GL,"Social Work",2630,"Jane Addams Social Work",16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lewis, Dara Juliana","Oyelola, Rachel Funke","Brown, Hazel Melisa",18
 220201,SOCW,"Social Work",460,"Research I: Social Work Resrch",GL,"Social Work",2630,"Jane Addams Social Work",17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","Oyelola, Rachel Funke","Brown, Hazel Melisa",17

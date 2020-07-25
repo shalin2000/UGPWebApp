@@ -7,15 +7,15 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,AAST,"African American Studies",242,"Modern Africa",FT,"Liberal Arts & Sciences",2316,History,7,5,8,3,0,0,0,0,2,0,0,0,0,0,0,1,"Hoppe, Kirk A",,,26
 220191,AAST,"African American Studies",247,"African American Hist to 1877",FT,"Liberal Arts & Sciences",2363,"Black Studies",6,8,1,0,0,0,0,0,1,0,0,0,0,0,0,2,"Grad Asst",,,18
 220191,AAST,"African American Studies",258,"Race and Urban Life",FT,"Liberal Arts & Sciences",2363,"Black Studies",2,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson, Cedric",,,13
-220191,AAST,"African American Studies",262,"Black Music and Feminism",FT,"Liberal Arts & Sciences",2363,"Black Studies",0,6,2,0,1,0,0,0,0,0,0,0,0,0,0,3,"Jabir, Johari",,,12
+220191,AAST,"African American Studies",262,"Black Cultural Studies",FT,"Liberal Arts & Sciences",2363,"Black Studies",0,6,2,0,1,0,0,0,0,0,0,0,0,0,0,3,"Jabir, Johari",,,12
 220191,AAST,"African American Studies",263,"Afr Amer Intellectual History",FT,"Liberal Arts & Sciences",2363,"Black Studies",7,5,0,0,0,0,0,0,2,0,0,0,0,0,0,2,"Clarke, Ainsworth A.",,,16
 220191,AAST,"African American Studies",272,"Race, Gender, and Sexuality",FT,"Liberal Arts & Sciences",2363,"Black Studies",7,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,"Richie, Beth E",,,10
-220191,ACTG,Accounting,210,"Intro Fin Acct for Actg Majors",FL,"Business Administration",2656,Accounting,22,29,24,9,3,0,0,0,0,0,1,0,0,0,0,4,"Eccher, Elizabeth",,,92
+220191,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,22,29,24,9,3,0,0,0,0,0,1,0,0,0,0,4,"Eccher, Elizabeth",,,92
 220191,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,23,51,68,18,21,0,0,0,0,0,0,0,0,0,0,33,"Galvan, Abel",,,214
-220191,ACTG,Accounting,211,"Intr Man Actg for Bus Scholars",FL,"Business Administration",2656,Accounting,8,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Martin, Melissa",,,22
+220191,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,8,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Martin, Melissa",,,22
 220191,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,23,27,34,40,13,0,0,0,1,0,0,0,0,0,0,16,"Kemp, Robert E",,,154
-220191,ACTG,Accounting,211,"Intro Mang Acct for Actg Major",FL,"Business Administration",2656,Accounting,17,27,26,3,3,0,0,0,1,0,0,0,0,0,0,3,"Martin, Melissa",,,80
-220191,ACTG,Accounting,211,"Intro Mgrl Actg for BBA online",FL,"Business Administration",2656,Accounting,23,10,6,2,0,0,0,0,0,0,0,0,0,0,0,1,"Jastrzebski, Ronald J",,,42
+220191,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,17,27,26,3,3,0,0,0,1,0,0,0,0,0,0,3,"Martin, Melissa",,,80
+220191,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,23,10,6,2,0,0,0,0,0,0,0,0,0,0,0,1,"Jastrzebski, Ronald J",,,42
 220191,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,21,27,25,11,0,0,0,0,1,0,0,0,0,0,0,1,"Nekrasov, Alexander",,,86
 220191,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,11,16,23,5,1,0,0,0,0,0,0,0,0,0,0,3,"Salama, Yehia A.",,,59
 220191,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,14,20,15,5,1,0,0,0,0,0,0,0,0,0,0,2,"Hart, Daphne",,,57
@@ -33,7 +33,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,ACTG,Accounting,494,"Enterprise Accting Systems",FL,"Business Administration",2656,Accounting,13,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Akinosho, Michael","Kupchek, Michael J",,16
 220191,ACTG,Accounting,500,"Intro Financial Actg",FL,"Business Administration",2656,Accounting,31,30,2,0,0,0,0,0,1,0,0,0,0,0,0,0,"Goodman, Charles Joseph",,,64
 220191,ACTG,Accounting,506,"Management Accounting",FL,"Business Administration",2656,Accounting,9,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Das, Somnath",,,21
-220191,ACTG,Accounting,509,"Business Law",FL,"Business Administration",2656,Accounting,4,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Scully, George",,,10
+220191,ACTG,Accounting,509,"Commercial Transactions",FL,"Business Administration",2656,Accounting,4,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Scully, George",,,10
 220191,ACTG,Accounting,516,"Financial Statement Analysis",FL,"Business Administration",2656,Accounting,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Ramakrishnan, Ram T S",,,11
 220191,ACTG,Accounting,525,"Mgmt Control/Strateg Performnc",FL,"Business Administration",2656,Accounting,12,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Balachandran, Sudhakar V",,,22
 220191,ACTG,Accounting,537,"Fraud Examination",FL,"Business Administration",2656,Accounting,8,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Popowits, Michael T",,,15
@@ -48,7 +48,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,AH,"Art History",208,"Topics Modern Arch, Art&Design",FR,"Architecture,Design,& the Arts",2910,"Art History",7,8,5,2,1,0,0,0,2,0,0,0,0,0,0,0,"Archias, S Elise",,,25
 220191,AH,"Art History",208,"Topics Modern Arch, Art&Design",FR,"Architecture,Design,& the Arts",2910,"Art History",15,8,2,1,0,0,0,0,0,0,0,0,0,0,0,1,"Ortega, Emmanuel",,,27
 220191,AH,"Art History",209,"Near Eastern Archaeology",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",10,4,5,0,0,0,0,0,0,0,0,0,0,0,0,1,"Tobin, Jennifer L",,,20
-220191,AH,"Art History",218,Pompeii,FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",3,4,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Ros, Karen E",,,10
+220191,AH,"Art History",218,"Pompeii: Everyday Life in a Roman Town",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",3,4,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Ros, Karen E",,,10
 220191,AH,"Art History",250,"Italian Renaissance Art",FR,"Architecture,Design,& the Arts",2910,"Art History",4,4,5,4,1,0,0,0,0,0,0,0,0,0,0,2,"Pollak, Martha",,,20
 220191,AH,"Art History",263,"Latin Amer Colonial Art",FR,"Architecture,Design,& the Arts",2910,"Art History",6,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Ortega, Emmanuel",,,10
 220191,AH,"Art History",273,"Visual Culture Ancient Andes",FR,"Architecture,Design,& the Arts",2910,"Art History",7,9,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Finegold, Andrew",,,19
@@ -125,8 +125,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,ART,Art,160,"Intro to Digital Photo",FR,"Architecture,Design,& the Arts",2583,Art,14,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Condo, Sara A",,,18
 220191,ART,Art,160,"Intro to Digital Photo",FR,"Architecture,Design,& the Arts",2583,Art,17,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Miller, Nathan A",,,21
 220191,ART,Art,160,"Intro to Digital Photo",FR,"Architecture,Design,& the Arts",2583,Art,29,6,2,0,1,0,0,0,1,0,0,0,0,0,0,1,"Grad Asst",,,40
-220191,ART,Art,170,"Introduction to  Filmmaking",FR,"Architecture,Design,& the Arts",2583,Art,7,4,3,2,2,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,20
-220191,ART,Art,170,"Introduction to  Filmmaking",FR,"Architecture,Design,& the Arts",2583,Art,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,"Hutchinson, Zachary Odell",,,19
+220191,ART,Art,170,"Introduction to Filmmaking",FR,"Architecture,Design,& the Arts",2583,Art,7,4,3,2,2,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,20
+220191,ART,Art,170,"Introduction to Filmmaking",FR,"Architecture,Design,& the Arts",2583,Art,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,"Hutchinson, Zachary Odell",,,19
 220191,ART,Art,170,"Introduction to Filmmaking",FR,"Architecture,Design,& the Arts",2583,Art,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,1,"Malmed, Jesse",,,20
 220191,ART,Art,170,"Introduction to Filmmaking",FR,"Architecture,Design,& the Arts",2583,Art,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mausert-Mooney, Andrew",,,16
 220191,ART,Art,170,"Introduction to Filmmaking",FR,"Architecture,Design,& the Arts",2583,Art,14,4,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"Mackenzie, Kera Krystine",,,20
@@ -172,10 +172,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,BA,"Business Administration",220,"Business Prof Dev II",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,51,8,0,"Rodriguez, Paul",,,59
 220191,BA,"Business Administration",220,"Business Prof Dev II",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,53,6,0,"Warner, Kimberly",,,59
 220191,BA,"Business Administration",220,"Business Prof Dev II",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,54,4,0,"Souri, Ranjit J",,,58
-220191,BA,"Business Administration",220,"Prof Dev II for Bus Scholars",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,"Wilson, Jeffrey Crossen",,,19
+220191,BA,"Business Administration",220,"Business Prof Dev II",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,"Wilson, Jeffrey Crossen",,,19
 220191,BA,"Business Administration",289,"Business Internship Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,"Anderson, John D",,,51
 220191,BA,"Business Administration",299,"CBA Study Abroad",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,Grad Asst,,,13
-220191,BA,"Business Administration",300,"Adv Mgrl Comm for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Lum, Jason Kai Ming",,,25
+220191,BA,"Business Administration",300,"Adv Mngrl Comm for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Lum, Jason Kai Ming",,,25
 220191,BA,"Business Administration",320,"Civic Engagement",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,"Lloyd, Anna K",,,17
 220191,BA,"Business Administration",320,"Civic Engagement",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,"Wilson, Jeffrey Crossen",,,19
 220191,BA,"Business Administration",330,"Bus Dec Mkng for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",20,26,1,1,1,0,0,0,0,0,0,0,0,0,0,1,"Adams, Vangeliya Pavlova",,,50
@@ -185,7 +185,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,BA,"Business Administration",420,"Professional Presence",FL,"Business Administration",2785,"Business Administration Admini",47,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Anderson, Stephanie Leigh",,,58
 220191,BA,"Business Administration",420,"Professional Presence",FL,"Business Administration",2785,"Business Administration Admini",76,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"Rodriguez, Paul",,,81
 220191,BA,"Business Administration",494,"Multi Cultl Mgmt - BBA Online",FL,"Business Administration",2785,"Business Administration Admini",23,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"Atchley, Cindy J",,,27
-220191,BA,"Business Administration",495,"Bus Strtgy for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",17,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Sauerwald, Steve",,,25
+220191,BA,"Business Administration",495,"Bus Strategy for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",17,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Sauerwald, Steve",,,25
 220191,BA,"Business Administration",520,"Improvisation and Leadership",FL,"Business Administration",2785,"Business Administration Admini",13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Popowits, Michael T",,,13
 220191,BCMG,"Biochem & Molecular Genetics",515,"Journal Club",FZ,"Coll Medicine at Chicago - BS",2509,"Biochem & Molecular Genetics",9,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,"Benevolenskaya, Elizaveta V","Ho, Yee-Kin",,12
 220191,BCMG,"Biochem & Molecular Genetics",595,"Student Research Seminars",FZ,"Coll Medicine at Chicago - BS",2509,"Biochem & Molecular Genetics",0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,"Moser, Bettina Anita",,,18
@@ -315,7 +315,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,CELE,"Clerkship Electives-Chicago",602,Anesthesiology,GA,"Coll Medicine at Chicago - CS",2258,Anesthesiology,0,0,0,0,0,13,0,0,0,0,0,10,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",23
 220191,CELE,"Clerkship Electives-Chicago",603,Dermatology,GA,"Coll Medicine at Chicago - CS",2732,Dermatology,0,0,0,0,0,4,0,0,0,0,1,32,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",37
 220191,CELE,"Clerkship Electives-Chicago",604,"Core Emerg Medicine Elective",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,44,0,0,0,0,0,15,16,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",75
-220191,CELE,"Clerkship Electives-Chicago",604,"Emergency Ultrasound",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,9,0,0,0,0,0,10,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",19
+220191,CELE,"Clerkship Electives-Chicago",604,"Core Emerg Medicine Elective",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,9,0,0,0,0,0,10,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",19
 220191,CELE,"Clerkship Electives-Chicago",607,"Special Topics-Neurology",GA,"Coll Medicine at Chicago - CS",2843,"Neurology and Rehab Medicine",0,0,0,0,0,7,0,0,0,0,0,9,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",16
 220191,CELE,"Clerkship Electives-Chicago",610,Ophthalmology,GA,"Coll Medicine at Chicago - CS",2539,"Ophthalmology & Visual Sci",0,0,0,0,0,6,0,0,0,0,0,9,0,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",15
 220191,CELE,"Clerkship Electives-Chicago",616,Radiology,GA,"Coll Medicine at Chicago - CS",2713,Radiology,0,0,0,0,0,12,0,0,0,0,0,9,3,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",24
@@ -593,10 +593,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,DAOB,"Dent-Applied Oral & Behav Sci",333,"Applied Oral and BehavSci VIII",FN,Dentistry,2758,"Dentistry Administration",52,16,0,0,0,0,0,46,0,0,3,0,0,0,0,0,"Bryniarski, James Henry","Dunlap, Michael A",,117
 220191,DAOB,"Dent-Applied Oral & Behav Sci",343,"Applied Oral and Behav Sci XI",FN,Dentistry,2758,"Dentistry Administration",31,66,1,0,0,0,0,3,0,0,0,0,0,0,0,0,"Spector, Michael","Ward, Stephanie M",,101
 220191,DBCS,"Dent-Biomedical & Clinical Sci",301,"Biomed & Clinical Sciences",FN,Dentistry,2758,"Dentistry Administration",19,27,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Odeh, Luma Adnan Abed",,,52
-220191,DBCS,"Dent-Biomedical & Clinical Sci",314,"Biomed and Clin Sciences IV",FN,Dentistry,2758,"Dentistry Administration",48,8,0,0,0,0,0,12,0,0,0,0,0,0,0,1,"Doubleday, Alison F",,,69
+220191,DBCS,"Dent-Biomedical & Clinical Sci",314,"Biomed and Clin Sciences II",FN,Dentistry,2758,"Dentistry Administration",48,8,0,0,0,0,0,12,0,0,0,0,0,0,0,1,"Doubleday, Alison F",,,69
 220191,DBCS,"Dent-Biomedical & Clinical Sci",315,"Biomed and Clin Services V",FN,Dentistry,2758,"Dentistry Administration",49,7,0,0,0,0,0,12,0,0,0,0,0,0,0,1,"Druzinsky, Robert",,,69
 220191,DBCS,"Dent-Biomedical & Clinical Sci",316,"Biomed and Clin Services VI",FN,Dentistry,2758,"Dentistry Administration",47,9,0,0,0,0,0,12,0,0,0,0,0,0,0,1,"Patston, Philip A",,,69
-220191,DBCS,"Dent-Biomedical & Clinical Sci",327,"Biomed and Clin Sciences XIII",FN,Dentistry,2758,"Dentistry Administration",14,33,6,0,0,0,0,13,0,0,0,0,0,0,0,0,"Koerber, Anne","Afshari, Fatemeh Solmaz",,66
+220191,DBCS,"Dent-Biomedical & Clinical Sci",327,"Biomed and Clin Sciences V",FN,Dentistry,2758,"Dentistry Administration",14,33,6,0,0,0,0,13,0,0,0,0,0,0,0,0,"Koerber, Anne","Afshari, Fatemeh Solmaz",,66
 220191,DCLE,"Dent-Community Learning Exper",343,"Community Learning Exper III",FN,Dentistry,2758,"Dentistry Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,101,0,0,"Evans, Caswell","Noorullah, Khatija",,101
 220191,DES,Design,110,"Design Colloquium",FR,"Architecture,Design,& the Arts",2895,"School of Design",6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lockhart, Vernon","Strickland, Kevin Arnold",,13
 220191,DES,Design,120,"2D Form Studio",FR,"Architecture,Design,& the Arts",2895,"School of Design",6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,1,"Nichols, Lauren Manning",,,13
@@ -634,7 +634,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,DES,Design,400,"Independent Study in GD",FR,"Architecture,Design,& the Arts",2895,"School of Design",13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Berbic, Amir",,,17
 220191,DES,Design,410,"Senior Design Colloquium I",FR,"Architecture,Design,& the Arts",2895,"School of Design",43,13,4,0,0,0,0,0,0,0,0,0,0,0,0,1,"Lausen, Marcia E",,,61
 220191,DES,Design,411,"Senior Design Colloquium II",FR,"Architecture,Design,& the Arts",2895,"School of Design",42,13,3,0,0,0,0,0,2,0,0,0,0,0,0,1,"Lausen, Marcia E",,,61
-220191,DES,Design,431,"EPD II",FR,"Architecture,Design,& the Arts",2895,"School of Design",4,1,2,5,0,0,0,0,0,0,0,0,0,0,0,0,"Burdett, Theodore Joseph",,,12
+220191,DES,Design,431,"IPD II",FR,"Architecture,Design,& the Arts",2895,"School of Design",4,1,2,5,0,0,0,0,0,0,0,0,0,0,0,0,"Burdett, Theodore Joseph",,,12
 220191,DES,Design,431,"IPD II",FR,"Architecture,Design,& the Arts",2895,"School of Design",8,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Melamed, Stephen",,,12
 220191,DES,Design,431,"IPD II",FR,"Architecture,Design,& the Arts",2895,"School of Design",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Susani, Marco",,,10
 220191,DES,Design,431,"IPD II",FR,"Architecture,Design,& the Arts",2895,"School of Design",10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bergh, Donald L",,,11
@@ -693,8 +693,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,EAES,"Earth & Environmental Sciences",494,"Current Topics In EaES",FT,"Liberal Arts & Sciences",2474,"Earth & Environmental Sciences",10,8,4,0,0,0,0,0,0,0,0,0,0,0,0,2,"Malone, Andrew",,,24
 220191,EAES,"Earth & Environmental Sciences",494,"Current Topics In EaES",FT,"Liberal Arts & Sciences",2474,"Earth & Environmental Sciences",13,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Theuerkauf, Ethan J",,,18
 220191,EAES,"Earth & Environmental Sciences",595,"Departmental Seminar",FT,"Liberal Arts & Sciences",2474,"Earth & Environmental Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,0,"Stein, Carol A",,,19
-220191,ECE,"Electrical and Computer Engr",115,"IntroElec&CmptrEng Freshmen",FQ,Engineering,2949,"Electrical & Computer Engr",25,14,8,10,13,0,0,0,0,0,0,0,0,0,0,7,"Caliskan, Vahe",,,77
-220191,ECE,"Electrical and Computer Engr",115,"IntroElec&CmptrEng NotFreshmen",FQ,Engineering,2949,"Electrical & Computer Engr",22,12,5,2,5,0,0,0,0,0,0,0,0,0,0,1,"Caliskan, Vahe",,,47
+220191,ECE,"Electrical and Computer Engr",115,"Intro to Elec & Cmptr Eng",FQ,Engineering,2949,"Electrical & Computer Engr",25,14,8,10,13,0,0,0,0,0,0,0,0,0,0,7,"Caliskan, Vahe",,,77
+220191,ECE,"Electrical and Computer Engr",115,"Intro to Elec & Cmptr Eng",FQ,Engineering,2949,"Electrical & Computer Engr",22,12,5,2,5,0,0,0,0,0,0,0,0,0,0,1,"Caliskan, Vahe",,,47
 220191,ECE,"Electrical and Computer Engr",210,"Electric Circuit Analysis",FQ,Engineering,2949,"Electrical & Computer Engr",29,46,7,0,1,0,0,0,0,0,0,0,0,0,0,1,"Fitzgerald, Kimberly Marie",,,84
 220191,ECE,"Electrical and Computer Engr",210,"Electric Circuit Analysis",FQ,Engineering,2949,"Electrical & Computer Engr",51,17,7,5,2,0,0,0,1,0,0,0,0,0,0,1,"Yang, Zheng",,,84
 220191,ECE,"Electrical and Computer Engr",225,"Circuit Analysis",FQ,Engineering,2949,"Electrical & Computer Engr",57,38,13,0,3,0,0,0,0,0,0,0,0,0,0,3,"Fitzgerald, Kimberly Marie",,,114
@@ -926,7 +926,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,ENGL,English,242,"Eng Lit II 1660-1900",FT,"Liberal Arts & Sciences",2492,English,29,30,7,4,3,0,0,0,0,0,0,0,0,0,0,6,"Canuel, Mark E",,,79
 220191,ENGL,English,243,"American Lit to 1900",FT,"Liberal Arts & Sciences",2492,English,33,27,10,2,0,0,0,0,1,0,0,0,0,0,0,4,"Grey, Robin Sandra",,,77
 220191,ENGL,English,261,"Reading Black Women Writing",FT,"Liberal Arts & Sciences",2363,"Black Studies",7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Barnes, Natasha B.",,,12
-220191,ENGL,English,262,"Black Music and Feminism",FT,"Liberal Arts & Sciences",2363,"Black Studies",4,4,3,0,0,0,0,0,1,0,0,0,0,0,0,0,"Jabir, Johari",,,12
+220191,ENGL,English,262,"Black Cultural Studies",FT,"Liberal Arts & Sciences",2363,"Black Studies",4,4,3,0,0,0,0,0,1,0,0,0,0,0,0,0,"Jabir, Johari",,,12
 220191,ENGL,English,303,"Studies in Poetry",FT,"Liberal Arts & Sciences",2492,English,5,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Pugh, Christina A",,,17
 220191,ENGL,English,313,"Major Plays Shakespeare",FT,"Liberal Arts & Sciences",2492,English,2,14,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Freeman, Lisa A",,,18
 220191,ENGL,English,324,"American Lit.: 1865-1900",FT,"Liberal Arts & Sciences",2492,English,14,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Whalen, Terence James",,,19
@@ -961,7 +961,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,ENTR,Entrepreneurship,310,"Intro to Entrepreneurship",FL,"Business Administration",2846,"Managerial Studies",33,13,3,1,1,0,0,0,0,0,0,0,0,0,0,0,"Hogan, Daniel Mark",,,51
 220191,ENTR,Entrepreneurship,435,"International Entrepreneurship",FL,"Business Administration",2846,"Managerial Studies",31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lloyd, Anna K",,,31
 220191,ENTR,Entrepreneurship,444,"Entrepreneurial Finance",FL,"Business Administration",2846,"Managerial Studies",4,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Hogan, Daniel Mark",,,11
-220191,ENTR,Entrepreneurship,444,"Entrprl Fin for BBA Online",FL,"Business Administration",2846,"Managerial Studies",15,5,0,0,2,0,0,0,0,0,0,0,0,0,0,1,"Hogan, Daniel Mark",,,23
+220191,ENTR,Entrepreneurship,444,"Entrepreneurial Finance",FL,"Business Administration",2846,"Managerial Studies",15,5,0,0,2,0,0,0,0,0,0,0,0,0,0,1,"Hogan, Daniel Mark",,,23
 220191,ENTR,Entrepreneurship,445,"New Venture Planning",FL,"Business Administration",2846,"Managerial Studies",17,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hogan, Daniel Mark",,,22
 220191,ENTR,Entrepreneurship,594,"Spec Topics: Social Enterprise",FL,"Business Administration",2846,"Managerial Studies",9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Lloyd, Anna K",,,10
 220191,EOHS,"Environmtl & Occuptnl Hlth Sci",402,"Systems Approach",FY,"School of Public Health",2731,"Environmtl & Occuptnl Hlth Sci",14,6,1,0,0,0,0,0,1,0,0,0,0,0,0,1,"Jagai, Jyotsna","Dorevitch, Samuel","Kaplan, Susan Beth",23
@@ -1002,12 +1002,12 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,EPSY,"Educational Psychology",561,"Assess /Measurement Pro",FP,Education,2621,"Educational Psychology",15,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,"Dai, Ting",,,18
 220191,EPSY,"Educational Psychology",594,"Spcl Topics in Ed Psych",FP,Education,2621,"Educational Psychology",8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Humphries, Marisha Lynnette",,,13
 220191,EPSY,"Educational Psychology",594,"Spcl Topics in Ed Psych",FP,Education,2621,"Educational Psychology",12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Thomas, Michael K",,,12
-220191,FIN,Finance,300,"Intro to Fin for BBA Online",FL,"Business Administration",2691,Finance,20,22,13,2,0,0,0,0,0,0,0,0,0,0,0,1,"Guo, Re-Jin Jennifer",,,58
+220191,FIN,Finance,300,"Intro to Finance",FL,"Business Administration",2691,Finance,20,22,13,2,0,0,0,0,0,0,0,0,0,0,0,1,"Guo, Re-Jin Jennifer",,,58
 220191,FIN,Finance,301,"Intro to Managerial Finance",FL,"Business Administration",2691,Finance,18,4,2,0,0,0,0,0,0,0,5,0,0,0,0,1,"Waite, Stanley",,,30
 220191,FIN,Finance,301,"Intro to Managerial Finance",FL,"Business Administration",2691,Finance,50,54,40,15,9,0,0,0,2,0,0,0,0,0,0,4,"Golubeva, Evgenia",,,174
 220191,FIN,Finance,301,"Intro to Managerial Finance",FL,"Business Administration",2691,Finance,92,16,2,3,0,0,0,0,0,0,0,0,0,0,0,0,"Fuzesi, Barbara",,,113
 220191,FIN,Finance,301,"Intro to Managerial Finance",FL,"Business Administration",2691,Finance,100,55,16,2,0,0,0,0,0,0,0,0,0,0,0,0,"Arslan Ayaydin, Ozgur",,,173
-220191,FIN,Finance,302,"Intro to Invst for Bus Scholar",FL,"Business Administration",2691,Finance,14,12,4,0,0,0,0,0,0,0,0,0,0,0,0,2,"Arslan Ayaydin, Ozgur",,,32
+220191,FIN,Finance,302,"Introduction to Investments",FL,"Business Administration",2691,Finance,14,12,4,0,0,0,0,0,0,0,0,0,0,0,0,2,"Arslan Ayaydin, Ozgur",,,32
 220191,FIN,Finance,302,"Introduction to Investments",FL,"Business Administration",2691,Finance,29,28,9,5,0,0,0,0,0,0,0,0,0,0,0,3,"Waite, Stanley",,,74
 220191,FIN,Finance,302,"Introduction to Investments",FL,"Business Administration",2691,Finance,69,124,82,42,14,0,0,0,0,0,0,0,0,0,0,15,"Zaman, Ashraf",,,346
 220191,FIN,Finance,310,Investments,FL,"Business Administration",2691,Finance,10,14,12,5,0,0,0,0,0,0,0,0,0,0,0,3,"Zabotina, Tatiana V",,,44
@@ -1074,7 +1074,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,GEMS,"Graduate Educ Medical Sciences",511,"Molecular Genetics",FV,"Coll of Med Office of the Dean",2718,Administration,6,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Katzen, Alisa L","Freitag, Nancy Elizabeth",,13
 220191,GEMS,"Graduate Educ Medical Sciences",515,"Receptor Pharmacology",FV,"Coll of Med Office of the Dean",2718,Administration,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,"Karginov, Andrei","Liu, Yuru",,17
 220191,GEOG,Geography,100,"Concepts in Geography",FT,"Liberal Arts & Sciences",2841,Anthropology,33,80,32,9,6,0,0,0,0,0,0,0,0,0,0,8,"Grad Asst",,,168
-220191,GER,"Germanic Studies",100,"Mapping Germany, Travel World",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",9,8,1,0,1,0,0,0,0,0,0,0,0,0,0,5,"Fortmann, Patrick",,,24
+220191,GER,"Germanic Studies",100,"Intro Germanic Cult & Lit",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",9,8,1,0,1,0,0,0,0,0,0,0,0,0,0,5,"Fortmann, Patrick",,,24
 220191,GER,"Germanic Studies",101,"Elementary German I",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",11,8,7,5,2,0,0,0,0,0,0,0,0,0,0,7,"Grad Asst","Rott, Susanne",,40
 220191,GER,"Germanic Studies",102,"Elementary German II",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",17,19,7,0,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","Rott, Susanne",,46
 220191,GER,"Germanic Studies",103,"Intermediate German I",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",6,5,7,1,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","Rott, Susanne",,20
@@ -1273,14 +1273,14 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,HUM,Humanities,101,"Humanities: Indiv and Society",FT,"Liberal Arts & Sciences",2903,Humanities,10,3,0,0,5,0,0,0,0,0,0,0,0,0,0,2,"Naber, Nadine","McClure, Ellen M",,20
 220191,HUM,Humanities,101,"Humanities: Indiv and Society",FT,"Liberal Arts & Sciences",2903,Humanities,11,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Havrelock, Rachel","McClure, Ellen M",,17
 220191,IDEA,"Interdisc Educ in the Arts",120,"Digital Practices Design/Arts",FR,"Architecture,Design,& the Arts",2745,"Art and Art History Admin",13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Funk, Tiffany Ann",,,15
-220191,IDS,"Information &Decision Sciences",200,"Intro MIS for BBA Online",FL,"Business Administration",2672,"Information/Decision Sciences",15,16,9,4,4,0,0,0,0,0,0,0,0,0,0,3,"Potter, Richard E","Grad Asst",,51
-220191,IDS,"Information &Decision Sciences",200,"Intro MIS for Bus Scholars",FL,"Business Administration",2672,"Information/Decision Sciences",8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Lundquist, Doug E",,,14
+220191,IDS,"Information &Decision Sciences",200,"Intro Mgmt Info Systems",FL,"Business Administration",2672,"Information/Decision Sciences",15,16,9,4,4,0,0,0,0,0,0,0,0,0,0,3,"Potter, Richard E","Grad Asst",,51
+220191,IDS,"Information &Decision Sciences",200,"Intro Mgmt Info Systems",FL,"Business Administration",2672,"Information/Decision Sciences",8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Lundquist, Doug E",,,14
 220191,IDS,"Information &Decision Sciences",200,"Intro Mgmt Info Systems",FL,"Business Administration",2672,"Information/Decision Sciences",15,24,27,5,2,0,0,0,1,0,0,0,0,0,0,4,"Fyfe, John","Grad Asst",,78
 220191,IDS,"Information &Decision Sciences",200,"Intro Mgmt Info Systems",FL,"Business Administration",2672,"Information/Decision Sciences",23,54,22,16,0,0,0,0,3,0,0,0,0,0,0,2,"Lundquist, Doug E","Grad Asst","Grad Asst",120
 220191,IDS,"Information &Decision Sciences",200,"Intro Mgmt Info Systems",FL,"Business Administration",2672,"Information/Decision Sciences",33,54,49,9,4,0,0,0,0,0,0,0,0,0,0,5,"Erickson, James M","Grad Asst","Grad Asst",154
 220191,IDS,"Information &Decision Sciences",201,"Intro to Business Programming",FL,"Business Administration",2672,"Information/Decision Sciences",9,14,14,10,0,0,0,0,3,0,0,0,0,0,0,2,"Lundquist, Doug E","Grad Asst",,52
 220191,IDS,"Information &Decision Sciences",270,"Business Statistics I",FL,"Business Administration",2672,"Information/Decision Sciences",29,66,98,56,63,0,0,0,7,0,0,0,0,0,0,9,"Sparks, John","Grad Asst",,328
-220191,IDS,"Information &Decision Sciences",312,"Bus Proj Mgmt for BBA online",FL,"Business Administration",2672,"Information/Decision Sciences",21,4,3,0,2,0,0,0,0,0,0,0,0,0,0,2,"Gawel, Jeffrey",,,32
+220191,IDS,"Information &Decision Sciences",312,"Business Project Management",FL,"Business Administration",2672,"Information/Decision Sciences",21,4,3,0,2,0,0,0,0,0,0,0,0,0,0,2,"Gawel, Jeffrey",,,32
 220191,IDS,"Information &Decision Sciences",312,"Business Project Management",FL,"Business Administration",2672,"Information/Decision Sciences",11,27,9,0,0,0,0,0,0,0,0,0,0,0,0,1,"Erickson, James M",,,48
 220191,IDS,"Information &Decision Sciences",331,"Spreadsheet Analysis",FL,"Business Administration",2672,"Information/Decision Sciences",22,25,14,3,0,0,0,0,0,0,0,0,0,0,0,1,"Ozdogru, Unsal","Sahai, Akanksha",,65
 220191,IDS,"Information &Decision Sciences",355,"Operations Management",FL,"Business Administration",2672,"Information/Decision Sciences",122,192,56,16,6,0,0,0,4,0,0,0,0,0,0,2,"Ouksel, Aris M","Grad Asst",,398
@@ -1341,9 +1341,9 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,INST,"International Studies",106,"World since 1400",FT,"Liberal Arts & Sciences",2316,History,14,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,"Wilczewski, Michal J",,,19
 220191,INST,"International Studies",184,"Intro International Relations",FT,"Liberal Arts & Sciences",2734,"Political Science",4,5,2,1,1,0,0,0,0,0,0,0,0,0,0,1,"Floros, Katharine",,,14
 220191,INST,"International Studies",301,"Global Crises & Rise of Popul",FT,"Liberal Arts & Sciences",2410,"LAS Administration",9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Postel, Daniel",,,10
-220191,IPHS,"Interdisc Public Hlth Sciences",403,"Cohort A-PH Systems and Policy",FY,"School of Public Health",2592,"School of Public Health",27,15,1,0,0,0,0,0,4,0,0,0,0,0,0,0,"Getzenberg, Joy",,,47
-220191,IPHS,"Interdisc Public Hlth Sciences",403,"Cohort B-PH Syst and Policy",FY,"School of Public Health",2592,"School of Public Health",34,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chan, Kee",,,35
-220191,IPHS,"Interdisc Public Hlth Sciences",403,"PH Systems and Policy",FY,"School of Public Health",2592,"School of Public Health",35,8,0,0,0,0,0,0,2,0,0,0,0,0,0,0,"Shapiro-Berkson, Stephanie B","Chan, Kee",,45
+220191,IPHS,"Interdisc Public Hlth Sciences",403,"Public Health Systems, Management and Community Health Methods",FY,"School of Public Health",2592,"School of Public Health",27,15,1,0,0,0,0,0,4,0,0,0,0,0,0,0,"Getzenberg, Joy",,,47
+220191,IPHS,"Interdisc Public Hlth Sciences",403,"Public Health Systems, Management and Community Health Methods",FY,"School of Public Health",2592,"School of Public Health",34,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chan, Kee",,,35
+220191,IPHS,"Interdisc Public Hlth Sciences",403,"Public Health Systems, Management and Community Health Methods",FY,"School of Public Health",2592,"School of Public Health",35,8,0,0,0,0,0,0,2,0,0,0,0,0,0,0,"Shapiro-Berkson, Stephanie B","Chan, Kee",,45
 220191,IPHS,"Interdisc Public Hlth Sciences",405,"PH Analytic & Research II",FY,"School of Public Health",2592,"School of Public Health",23,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cambron, Jerrilyn Arlene","Wang, Heng",,38
 220191,IPHS,"Interdisc Public Hlth Sciences",410,"Global Public Health Solutions",FY,"School of Public Health",2592,"School of Public Health",18,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Zeigler, Donald",,,22
 220191,IPHS,"Interdisc Public Hlth Sciences",494,"Epidemics of Injustice",FY,"School of Public Health",2592,"School of Public Health",40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Hebert-Beirne, Jennifer Mary",,,41
@@ -1365,7 +1365,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,ITAL,Italian,103,"Intermediate Italian I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",7,6,5,2,0,0,0,0,0,0,0,0,0,0,0,3,"Moroney LaFranco, Elizabeth",,,23
 220191,ITAL,Italian,104,"Intermediate Italian II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",8,7,2,0,0,0,0,0,1,0,0,0,0,0,0,0,"Carney, Emanuela Zanotti",,,18
 220191,ITAL,Italian,210,"Intro Ital Cultural Studies",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",9,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"Carney, Emanuela Zanotti",,,13
-220191,ITAL,Italian,230,"Made in Italy: Arts, Sciences,",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",20,6,1,0,1,0,0,0,0,0,0,0,0,0,0,2,"Fabbian, Maria Chiara",,,30
+220191,ITAL,Italian,230,"Italian/Ital American Culture",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",20,6,1,0,1,0,0,0,0,0,0,0,0,0,0,2,"Fabbian, Maria Chiara",,,30
 220191,ITAL,Italian,302,"Lo schermo e la pagina",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Fabbian, Maria Chiara",,,11
 220191,JPN,Japanese,102,"Elementary Japanese II",FT,"Liberal Arts & Sciences",2714,Linguistics,20,13,4,1,0,0,0,0,0,0,0,0,0,0,0,1,"Changet, Mika Obana",,,39
 220191,JPN,Japanese,104,"Intermediate Japanese II",FT,"Liberal Arts & Sciences",2714,Linguistics,15,10,7,1,0,0,0,0,0,0,0,0,0,0,0,1,"Changet, Mika Obana",,,34
@@ -1577,8 +1577,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,ME,"Mechanical Engineering",370,"Mechanical Engineering Design",FQ,Engineering,2323,"Mechanical & Industrial Engr",7,7,5,16,5,0,0,0,0,0,0,0,0,0,0,0,"Hatami Marbini, Hamed",,,40
 220191,ME,"Mechanical Engineering",370,"Mechanical Engineering Design",FQ,Engineering,2323,"Mechanical & Industrial Engr",19,15,17,7,0,0,0,0,0,0,0,0,0,0,0,1,"Saggere, Laxman",,,59
 220191,ME,"Mechanical Engineering",380,"Manufacturing Process Princ",FQ,Engineering,2323,"Mechanical & Industrial Engr",27,35,10,1,0,0,0,0,0,0,0,0,0,0,0,0,"Abiade, Jeremiah T",,,73
-220191,ME,"Mechanical Engineering",397,"Senior Design Il",FQ,Engineering,2323,"Mechanical & Industrial Engr",40,13,4,0,0,0,0,0,4,0,0,0,0,0,0,0,"Komperda, Jonathan",,,61
-220191,ME,"Mechanical Engineering",397,"Senior Design Il",FQ,Engineering,2323,"Mechanical & Industrial Engr",86,7,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Brown, Michael A",,,97
+220191,ME,"Mechanical Engineering",397,"Senior Design II",FQ,Engineering,2323,"Mechanical & Industrial Engr",40,13,4,0,0,0,0,0,4,0,0,0,0,0,0,0,"Komperda, Jonathan",,,61
+220191,ME,"Mechanical Engineering",397,"Senior Design II",FQ,Engineering,2323,"Mechanical & Industrial Engr",86,7,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Brown, Michael A",,,97
 220191,ME,"Mechanical Engineering",408,"Intermed Vibration Theory",FQ,Engineering,2323,"Mechanical & Industrial Engr",12,6,3,2,0,0,0,0,0,0,0,0,0,0,0,0,"Shabana, Ahmed",,,23
 220191,ME,"Mechanical Engineering",422,"Heating Vent&Air Conditioning",FQ,Engineering,2323,"Mechanical & Industrial Engr",38,17,3,0,0,0,0,0,1,0,0,0,0,0,0,1,"Ryan, William A",,,60
 220191,ME,"Mechanical Engineering",428,"Numerical Methods in ME",FQ,Engineering,2323,"Mechanical & Industrial Engr",37,17,23,7,2,0,0,0,0,0,0,0,0,0,0,0,"Minkowycz, W J",,,86
@@ -1597,7 +1597,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,ME,"Mechanical Engineering",599,"PhD Thesis Research",FQ,Engineering,2323,"Mechanical & Industrial Engr",0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,0,"Yarin, Alexander",,,11
 220191,ME,"Mechanical Engineering",599,"PhD Thesis Research",FQ,Engineering,2323,"Mechanical & Industrial Engr",0,0,0,0,0,0,0,2,0,0,0,0,0,10,0,0,"Shahbazian-Yassar, Reza",,,12
 220191,MGMT,Management,340,"Intro to Organizations",FL,"Business Administration",2846,"Managerial Studies",185,100,40,10,11,0,0,0,0,0,0,0,0,0,0,15,"Thompson, Peter B",,,361
-220191,MGMT,Management,340,"Intro to Orgs for Bus Scholars",FL,"Business Administration",2846,"Managerial Studies",13,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tarasievich, Renata A.",,,18
+220191,MGMT,Management,340,"Intro to Organizations",FL,"Business Administration",2846,"Managerial Studies",13,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tarasievich, Renata A.",,,18
 220191,MGMT,Management,350,"External Environment of Bus",FL,"Business Administration",2846,"Managerial Studies",26,67,77,29,17,0,0,0,1,0,0,0,0,0,0,3,"Miller, Michael T.",,,220
 220191,MGMT,Management,350,"External Environment of Bus",FL,"Business Administration",2846,"Managerial Studies",37,71,17,2,0,0,0,0,0,0,0,0,0,0,0,2,"Leitzinger, Jocelyn",,,129
 220191,MGMT,Management,445,"Organizational Theory",FL,"Business Administration",2846,"Managerial Studies",25,33,18,9,0,0,0,0,0,0,0,0,0,0,0,2,"Wu, Bingqing",,,87
@@ -1614,7 +1614,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,MGMT,Management,470,"Personnel Training & Dev",FL,"Business Administration",2846,"Managerial Studies",41,16,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cooper, James Wesley",,,60
 220191,MGMT,Management,480,"Transportation Systems Mgmt",FL,"Business Administration",2846,"Managerial Studies",30,14,2,0,0,0,0,0,1,0,0,0,0,0,0,0,"Pagano, Anthony M",,,47
 220191,MGMT,Management,486,"Managerial Consulting",FL,"Business Administration",2846,"Managerial Studies",3,7,2,1,1,0,0,0,0,0,0,0,0,0,0,0,"Kluemper, Donald H",,,14
-220191,MGMT,Management,495,"Comp Strgy for Business Schlrs",FL,"Business Administration",2846,"Managerial Studies",23,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sauerwald, Steve",,,30
+220191,MGMT,Management,495,"Competitive Strategy",FL,"Business Administration",2846,"Managerial Studies",23,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sauerwald, Steve",,,30
 220191,MGMT,Management,495,"Competitive Strategy",FL,"Business Administration",2846,"Managerial Studies",9,23,7,0,1,0,0,0,0,0,0,0,0,0,0,0,"Trampas, Ann E",,,40
 220191,MGMT,Management,495,"Competitive Strategy",FL,"Business Administration",2846,"Managerial Studies",10,27,6,3,0,0,0,0,0,0,0,0,0,0,0,0,"Miller, Michael T.",,,46
 220191,MGMT,Management,495,"Competitive Strategy",FL,"Business Administration",2846,"Managerial Studies",55,62,19,2,0,0,0,0,0,0,0,0,0,0,0,0,"Cooper, James Wesley",,,138
@@ -1650,11 +1650,11 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,MKTG,Marketing,469,"Global Marketing",FL,"Business Administration",2846,"Managerial Studies",13,15,1,0,0,0,0,0,0,0,0,0,0,0,0,2,"Atchley, Cindy J",,,31
 220191,MKTG,Marketing,469,"Global Marketing",FL,"Business Administration",2846,"Managerial Studies",26,29,5,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,61
 220191,MKTG,Marketing,469,"Global Marketing",FL,"Business Administration",2846,"Managerial Studies",163,8,1,0,1,0,0,0,4,0,0,0,0,0,0,2,"Lichtenstein, Dale",,,179
-220191,MKTG,Marketing,469,"Global Marketing - Online",FL,"Business Administration",2846,"Managerial Studies",15,10,5,0,0,0,0,0,0,0,0,0,0,0,0,1,"Atchley, Cindy J",,,31
-220191,MKTG,Marketing,469,"Global Mktg for BBA Online",FL,"Business Administration",2846,"Managerial Studies",10,2,0,1,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,16
+220191,MKTG,Marketing,469,"Global Marketing",FL,"Business Administration",2846,"Managerial Studies",15,10,5,0,0,0,0,0,0,0,0,0,0,0,0,1,"Atchley, Cindy J",,,31
+220191,MKTG,Marketing,469,"Global Marketing",FL,"Business Administration",2846,"Managerial Studies",10,2,0,1,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,16
 220191,MKTG,Marketing,470,"Brand Management",FL,"Business Administration",2846,"Managerial Studies",19,35,3,0,1,0,0,0,0,0,0,0,0,0,0,2,"Moon, Kim",,,60
 220191,MKTG,Marketing,474,"Advertising & Sales Promotion",FL,"Business Administration",2846,"Managerial Studies",15,31,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Moon, Kim",,,48
-220191,MKTG,Marketing,478,"Interdiscplinary Prod Dev II",FL,"Business Administration",2846,"Managerial Studies",6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Moon, Kim",,,11
+220191,MKTG,Marketing,478,"Interdisciplinary Prod Dev II",FL,"Business Administration",2846,"Managerial Studies",6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Moon, Kim",,,11
 220191,MKTG,Marketing,481,"Sales Management",FL,"Business Administration",2846,"Managerial Studies",5,6,2,1,0,0,0,0,0,0,0,0,0,0,0,2,"Trampas, Ann E",,,16
 220191,MKTG,Marketing,500,"Introduction to Marketing",FL,"Business Administration",2846,"Managerial Studies",10,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Trampas, Ann E",,,27
 220191,MKTG,Marketing,500,"Introduction to Marketing",FL,"Business Administration",2846,"Managerial Studies",18,27,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Karsaklian, Eliane",,,48
@@ -1984,7 +1984,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,POL,Polish,104,"Intermediate Polish II",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",18,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,27
 220191,POL,Polish,150,"Intro to Polish Cinema",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",15,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Underhill, Karen",,,24
 220191,POL,Polish,234,"History of Poland",FT,"Liberal Arts & Sciences",2316,History,4,5,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"Stauter-Halsted, Keely",,,11
-220191,POL,Polish,321,"Ghosts, Zombies & The Undead",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",10,2,0,0,1,0,0,0,2,0,0,0,0,0,0,0,"Underhill, Karen",,,15
+220191,POL,Polish,321,"Intro to Polish Lit",FT,"Liberal Arts & Sciences",2382,"Pol, Russ & Lith Studies",10,2,0,0,1,0,0,0,2,0,0,0,0,0,0,0,"Underhill, Karen",,,15
 220191,POLS,"Political Science",101,"Intro to American Government",FT,"Liberal Arts & Sciences",2734,"Political Science",13,11,9,0,0,0,0,3,0,0,0,0,0,0,0,3,"Alexander, S Alba",,,39
 220191,POLS,"Political Science",101,"Intro to American Government",FT,"Liberal Arts & Sciences",2734,"Political Science",27,5,2,1,3,0,0,0,2,0,1,0,0,0,0,3,"Grad Asst",,,44
 220191,POLS,"Political Science",101,"Intro to American Government",FT,"Liberal Arts & Sciences",2734,"Political Science",40,46,30,12,4,0,0,0,0,0,0,0,0,0,0,9,"McKenzie, Evan C",,,141
@@ -2012,15 +2012,15 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,POLS,"Political Science",599,"Dissertation Research",FT,"Liberal Arts & Sciences",2734,"Political Science",0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,"Tepe, Sultan",,,11
 220191,PORT,Portuguese,240,"Rapid Portuguese",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,"Marin Vaz Amaro, Joao Felipe",,,11
 220191,PPOL,"Public Policy",100,"Indiv Action & Citizenship",GP,"Urban Planning &Public Affairs",2694,"Public Administration",22,11,3,0,4,0,0,0,3,0,0,0,0,0,0,7,"Yang-Clayton, Kathleen",,,50
-220191,PPOL,"Public Policy",210,"Policy Process",GP,"Urban Planning &Public Affairs",2694,"Public Administration",30,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wang, Jing",,,38
-220191,PPOL,"Public Policy",230,"Nonprofits & US Society",GP,"Urban Planning &Public Affairs",2694,"Public Administration",57,22,10,5,3,0,0,0,2,0,0,0,0,0,0,1,"Yang-Clayton, Kathleen",,,100
+220191,PPOL,"Public Policy",210,"Introduction to Public Policy",GP,"Urban Planning &Public Affairs",2694,"Public Administration",30,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wang, Jing",,,38
+220191,PPOL,"Public Policy",230,"Nonprofit Orgs & Civil Society",GP,"Urban Planning &Public Affairs",2694,"Public Administration",57,22,10,5,3,0,0,0,2,0,0,0,0,0,0,1,"Yang-Clayton, Kathleen",,,100
 220191,PPOL,"Public Policy",240,"Environmental Policy",GP,"Urban Planning &Public Affairs",2694,"Public Administration",29,9,2,0,0,0,0,0,4,0,1,0,0,0,0,1,"Watson, John S",,,46
 220191,PPOL,"Public Policy",300,"Intro to Urb Pol Process",GP,"Urban Planning &Public Affairs",2694,"Public Administration",11,16,4,0,1,0,0,0,0,0,0,0,0,0,0,0,"Kleinschmit, Stephen",,,32
 220191,PPOL,"Public Policy",305,"Managing Government Partners",GP,"Urban Planning &Public Affairs",2694,"Public Administration",14,5,7,1,1,0,0,0,5,0,0,0,0,0,0,1,"Kleinschmit, Stephen",,,34
 220191,PPOL,"Public Policy",307,"Policy Analysis",GP,"Urban Planning &Public Affairs",2694,"Public Administration",15,12,5,0,2,0,0,0,2,0,0,0,0,0,0,3,"Laurito, Maria Agustina",,,39
 220191,PPOL,"Public Policy",309,"Public Budget & Financial Mgmt",GP,"Urban Planning &Public Affairs",2694,"Public Administration",13,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,21
 220191,PPOL,"Public Policy",309,"Public Budget & Financial Mgmt",GP,"Urban Planning &Public Affairs",2694,"Public Administration",22,7,5,2,5,0,0,0,1,0,0,0,0,0,0,0,"Simo, Gloria",,,42
-220191,PPOL,"Public Policy",490,"Field Exp in Pub Admin",GP,"Urban Planning &Public Affairs",2694,"Public Administration",0,0,0,0,0,0,0,0,1,0,0,0,0,15,0,1,"Yang-Clayton, Kathleen",,,17
+220191,PPOL,"Public Policy",490,"Field Exp in Pub Policy/Admin",GP,"Urban Planning &Public Affairs",2694,"Public Administration",0,0,0,0,0,0,0,0,1,0,0,0,0,15,0,1,"Yang-Clayton, Kathleen",,,17
 220191,PRCL,"Preclinical Medicine",680,"Foundations in Clinical Med",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Hall, James Warren",11
 220191,PRCL,"Preclinical Medicine",683,"Clin Microbiology/Immunol",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Wyant, Julie M",11
 220191,PRCL,"Preclinical Medicine",684,"Medical Imaging",GD,"College of Medicine at Urbana",2761,"Administration & Gen Exp",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,"Thomas, Dorian E","Grad Asst","Hall, James Warren",11
@@ -2180,12 +2180,12 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,SOCW,"Social Work",411,"Social Work in Multicult Soc",GL,"Social Work",2630,"Jane Addams Social Work",24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Strehlow, Julia Miller","Stanfield, Veronica Ann",,24
 220191,SOCW,"Social Work",411,"Social Work in Multicult Soc",GL,"Social Work",2630,"Jane Addams Social Work",26,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,27
 220191,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hinton, Krista Marie",,,24
-220191,SOCW,"Social Work",431,"Pract II: Fam., Grps & Comm",GL,"Social Work",2630,"Jane Addams Social Work",0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,"Owens, Chastity Lashauna",,,27
-220191,SOCW,"Social Work",431,"Pract II: Fam., Grps & Comm",GL,"Social Work",2630,"Jane Addams Social Work",18,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Doyle, Otima",,,25
-220191,SOCW,"Social Work",431,"Pract II: Fam., Grps & Comm",GL,"Social Work",2630,"Jane Addams Social Work",23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tumiel, Elizabeth Ann",,,24
-220191,SOCW,"Social Work",431,"Pract II: Fam., Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Misra, Jill",,,23
-220191,SOCW,"Social Work",431,"Practice II:Families, Grp&Comm",GL,"Social Work",2630,"Jane Addams Social Work",17,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Doyle, Otima","Stanfield, Veronica Ann",,24
-220191,SOCW,"Social Work",431,"Practice II:Families, Grp&Comm",GL,"Social Work",2630,"Jane Addams Social Work",21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Huffman-Gottschling, Kristen Suzanne","Stanfield, Veronica Ann",,22
+220191,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,"Owens, Chastity Lashauna",,,27
+220191,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",18,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Doyle, Otima",,,25
+220191,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tumiel, Elizabeth Ann",,,24
+220191,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Misra, Jill",,,23
+220191,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",17,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Doyle, Otima","Stanfield, Veronica Ann",,24
+220191,SOCW,"Social Work",431,"Pract II: Fam. Grps. & Comm",GL,"Social Work",2630,"Jane Addams Social Work",21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Huffman-Gottschling, Kristen Suzanne","Stanfield, Veronica Ann",,22
 220191,SOCW,"Social Work",460,"Research I: Social Work Resrch",GL,"Social Work",2630,"Jane Addams Social Work",16,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cua, Grace E","Stanfield, Veronica Ann",,22
 220191,SOCW,"Social Work",460,"Research I: Social Work Resrch",GL,"Social Work",2630,"Jane Addams Social Work",18,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,"Lewis, Dara Juliana","Grad Asst","Stanfield, Veronica Ann",22
 220191,SOCW,"Social Work",460,"Research I: Social Work Resrch",GL,"Social Work",2630,"Jane Addams Social Work",18,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hounmenou, Enagnon Charles","Stanfield, Veronica Ann",,22
