@@ -126,7 +126,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,ART,Art,140,"Introduction to Sculpture",FR,"Architecture,Design,& the Arts",2583,Art,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Peterman, Dan",,,13
 220138,ART,Art,150,"Intro to New Media Arts",FR,"Architecture,Design,& the Arts",2583,Art,6,1,3,0,2,0,0,0,0,0,0,0,0,0,0,0,"Duran, Jesus",,,12
 220138,ART,Art,160,"Intro to Digital Photo",FR,"Architecture,Design,& the Arts",2583,Art,15,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"Geissler, Beate",,,17
-220138,ART,Art,170,"Introduction to Moving Image",FR,"Architecture,Design,& the Arts",2583,Art,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,16
+220138,ART,Art,170,"Introduction to Filmmaking",FR,"Architecture,Design,& the Arts",2583,Art,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,16
 220138,ART,Art,212,"Topics in Drawing I",FR,"Architecture,Design,& the Arts",2583,Art,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Frid, Dianna",,,12
 220138,ART,Art,230,"Topics in Painting I",FR,"Architecture,Design,& the Arts",2583,Art,8,3,1,0,1,0,0,0,0,0,0,0,0,0,0,3,"Metzger, Matthew John",,,16
 220138,ART,Art,240,"Topics in Sculpture I",FR,"Architecture,Design,& the Arts",2583,Art,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Tasset, Anthony Gerard",,,13
@@ -142,7 +142,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Holmes, Brian",,,10
 220138,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Silva, Fern",,,13
 220138,ART,Art,520,"Seminar in Contemporary Theory",FR,"Architecture,Design,& the Arts",2583,Art,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Gude, Olivia M",,,18
-220138,ART,Art,530,"Advanced Studio Arts & Crit",FR,"Architecture,Design,& the Arts",2583,Art,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Malagrino, Silvia A","Tasset, Anthony Gerard","Raaf, Sabrina Kay",13
+220138,ART,Art,530,"Advanced Graduate Critique",FR,"Architecture,Design,& the Arts",2583,Art,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Malagrino, Silvia A","Tasset, Anthony Gerard","Raaf, Sabrina Kay",13
 220138,ASAM,"Asian American Studies",105,"ASAM Seminar",FT,"Liberal Arts & Sciences",2873,"Prog in Global Asian Studies",4,3,3,0,4,0,0,0,0,0,0,0,0,0,0,0,"Su, Karen",,,14
 220138,ASAM,"Asian American Studies",123,"Intro Asian American Lit",FT,"Liberal Arts & Sciences",2492,English,3,6,2,1,0,0,0,0,0,0,0,0,0,0,0,2,"Chiang, Mark",,,14
 220138,ASAM,"Asian American Studies",125,"Intro Asian Amer Studies",FT,"Liberal Arts & Sciences",2492,English,21,3,5,1,1,0,0,0,0,0,0,0,0,0,0,1,"Fugikawa, Laura S",,,32
@@ -153,13 +153,13 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,ASP,"Academic Skills Program",095,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,2,"Zenner, Audrey Marsha",,,13
 220138,ASST,"Asian Studies",109,"East Asian Civ: Ancient China",FT,"Liberal Arts & Sciences",2316,History,6,11,3,0,2,0,0,0,0,0,0,0,0,0,0,3,"Akcetin, Elif",,,25
 220138,ASST,"Asian Studies",272,"China Since 1911",FT,"Liberal Arts & Sciences",2316,History,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,1,"Hostetler, Laura E",,,16
-220138,BA,"Business Administration",100,"Business Admin Orientation",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Trampas, Ann E",,,15
-220138,BA,"Business Administration",100,"Business Admin Orientation",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,"Corte, Anthony M",,,29
-220138,BA,"Business Administration",100,"Business Admin Orientation",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,39,8,0,"Liotine, Matthew",,,47
-220138,BA,"Business Administration",100,"Business Admin Orientation",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,"Popowits, Michael T",,,40
-220138,BA,"Business Administration",100,"Business Admin Orientation",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,4,"Kohler, William Russell",,,57
-220138,BA,"Business Administration",100,"Business Admin Orientation",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,78,0,1,"Galvan, Abel",,,79
-220138,BA,"Business Administration",100,"Business Admin Orientation",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,1,"Miller, Michael T.",,,37
+220138,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Trampas, Ann E",,,15
+220138,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,"Corte, Anthony M",,,29
+220138,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,39,8,0,"Liotine, Matthew",,,47
+220138,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,"Popowits, Michael T",,,40
+220138,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,4,"Kohler, William Russell",,,57
+220138,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,78,0,1,"Galvan, Abel",,,79
+220138,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,1,"Miller, Michael T.",,,37
 220138,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",14,67,31,4,1,0,0,0,0,0,0,0,0,0,0,3,"Corte, Anthony M",,,120
 220138,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",15,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Thomas, Richard Steven",,,20
 220138,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",23,59,21,0,1,0,0,0,3,0,0,0,0,0,0,2,"Kohler, William Russell",,,109
@@ -167,7 +167,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",42,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Fotopoulos, Maria N",,,50
 220138,BA,"Business Administration",289,"Business Internship Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,108,0,3,"Anderson, John D",,,111
 220138,BA,"Business Administration",290,"Business Ethics",FL,"Business Administration",2785,"Business Administration Admini",8,13,8,2,4,0,0,0,0,0,0,0,0,0,0,1,"Roe, George",,,36
-220138,BA,"Business Administration",495,"Business Strategy",FL,"Business Administration",2785,"Business Administration Admini",6,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Trampas, Ann E",,,11
+220138,BA,"Business Administration",495,"Bus Strategy for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",6,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Trampas, Ann E",,,11
 220138,BA,"Business Administration",589,"Corporate Bus Intern Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,16,13,1,"Brown, James Wesley",,,30
 220138,BCMG,"Biochem & Molecular Genetics",411,"Intro to Biochemistry",FZ,"Coll Medicine at Chicago - BS",2509,"Biochem & Molecular Genetics",4,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Vary, James C",,,17
 220138,BCMG,"Biochem & Molecular Genetics",515,"Journal Club",FZ,"Coll Medicine at Chicago - BS",2509,"Biochem & Molecular Genetics",11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Benevolenskay, Elizaveta V",,,11
@@ -300,7 +300,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,25,0,0,0,0,108,58,6,0,0,0,"Instructor, Missing",,,197
 220138,CELE,"Clerkship Electives-Chicago",602,Anesthesiology,GA,"Coll Medicine at Chicago - CS",2258,Anesthesiology,0,0,0,0,0,5,0,0,0,0,14,13,1,0,0,0,"Instructor, Missing",,,33
 220138,CELE,"Clerkship Electives-Chicago",603,Dermatology,GA,"Coll Medicine at Chicago - CS",2732,Dermatology,0,0,0,0,0,4,0,0,0,0,11,18,1,0,0,0,"Instructor, Missing",,,34
-220138,CELE,"Clerkship Electives-Chicago",604,"Emergency Medicine",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,5,0,0,0,0,6,1,0,0,0,0,"Instructor, Missing",,,12
+220138,CELE,"Clerkship Electives-Chicago",604,"Core Emerg Medicine Elective",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,5,0,0,0,0,6,1,0,0,0,0,"Instructor, Missing",,,12
 220138,CELE,"Clerkship Electives-Chicago",605,"Advanced Family Medicine",GA,"Coll Medicine at Chicago - CS",2675,"Family Medicine",0,0,0,0,0,3,0,0,0,0,6,2,0,0,0,0,"Instructor, Missing",,,11
 220138,CELE,"Clerkship Electives-Chicago",606,Cardiology,GA,"Coll Medicine at Chicago - CS",2586,Medicine,0,0,0,0,0,6,0,0,0,0,2,2,0,0,0,0,"Instructor, Missing",,,10
 220138,CELE,"Clerkship Electives-Chicago",610,Ophthalmology,GA,"Coll Medicine at Chicago - CS",2539,"Ophthalmology & Visual Sci",0,0,0,0,0,0,0,0,0,0,27,3,0,0,0,0,"Instructor, Missing",,,30
@@ -543,7 +543,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,CS,"Computer Science",301,"Languages and Automata",FQ,Engineering,2699,"Computer Science",11,8,18,7,0,0,0,0,0,0,0,0,0,0,0,4,"Kshemkalyani, Ajay D",,,48
 220138,CS,"Computer Science",340,"Software Design",FQ,Engineering,2699,"Computer Science",30,21,2,0,1,0,0,0,0,0,0,0,0,0,0,3,"Renambot, Luc Pierre Marie",,,57
 220138,CS,"Computer Science",341,"Programming Language Concepts",FQ,Engineering,2699,"Computer Science",12,12,5,4,1,0,0,0,0,0,0,0,0,0,0,2,"Hummel, Joseph E",,,36
-220138,CS,"Computer Science",361,"Computer Systems",FQ,Engineering,2699,"Computer Science",5,7,3,0,3,0,0,0,0,0,0,0,0,0,0,6,"Eriksson, Jakob L",,,24
+220138,CS,"Computer Science",361,"Systems Programming",FQ,Engineering,2699,"Computer Science",5,7,3,0,3,0,0,0,0,0,0,0,0,0,0,6,"Eriksson, Jakob L",,,24
 220138,CS,"Computer Science",377,"Communication and Ethics",FQ,Engineering,2699,"Computer Science",31,6,4,1,0,0,0,0,0,0,0,0,0,0,0,2,"Sloan, Robert Hal","Reed, Dale F",,44
 220138,CS,"Computer Science",385,"Operating Systems",FQ,Engineering,2699,"Computer Science",16,21,8,2,3,0,0,0,2,0,0,0,0,0,0,3,"Bell, John T",,,55
 220138,CS,"Computer Science",401,"Computer Algorithms I",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,"Zuck, Lenore D",,,12
@@ -661,7 +661,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,ECE,"Electrical and Computer Engr",310,"Discrete &Cont Signal&Systms",FQ,Engineering,2949,"Electrical & Computer Engr",65,6,2,2,1,0,0,0,1,0,0,0,0,0,0,0,"Goncharoff, Vladimir",,,77
 220138,ECE,"Electrical and Computer Engr",311,"Communication Engineering",FQ,Engineering,2949,"Electrical & Computer Engr",14,15,6,2,0,0,0,0,0,0,0,0,0,0,0,0,"Ansari, Rashid","Chen, Zhanli",,37
 220138,ECE,"Electrical and Computer Engr",317,"DSP I",FQ,Engineering,2949,"Electrical & Computer Engr",10,12,8,0,1,0,0,0,0,0,0,0,0,0,0,0,"Jin, Ning",,,31
-220138,ECE,"Electrical and Computer Engr",322,"Comm Electromagnetics",FQ,Engineering,2949,"Electrical & Computer Engr",16,13,11,3,1,0,0,0,0,0,1,0,0,0,0,6,"Yang, Hung-Yu",,,51
+220138,ECE,"Electrical and Computer Engr",322,"Intro to Electromag and Appl",FQ,Engineering,2949,"Electrical & Computer Engr",16,13,11,3,1,0,0,0,0,0,1,0,0,0,0,6,"Yang, Hung-Yu",,,51
 220138,ECE,"Electrical and Computer Engr",333,"Computer Comm Networks I",FQ,Engineering,2949,"Electrical & Computer Engr",10,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Abu Salah, Lo'Ay Mohammad",,,16
 220138,ECE,"Electrical and Computer Engr",340,"Electronics I",FQ,Engineering,2949,"Electrical & Computer Engr",29,23,9,4,2,0,0,0,0,0,0,0,0,0,0,2,"Caliskan, Vahe",,,69
 220138,ECE,"Electrical and Computer Engr",341,"Probabil &Rand Proc for Engr",FQ,Engineering,2949,"Electrical & Computer Engr",45,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Goncharoff, Vladimir",,,54
@@ -669,7 +669,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,ECE,"Electrical and Computer Engr",346,"Solid State Device Theory",FQ,Engineering,2949,"Electrical & Computer Engr",39,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Stroscio, Michael",,,60
 220138,ECE,"Electrical and Computer Engr",347,"Integrated Circuit Engr",FQ,Engineering,2949,"Electrical & Computer Engr",4,8,3,1,0,0,0,0,0,0,0,0,0,0,0,3,"Feinerman, Alan Dov",,,19
 220138,ECE,"Electrical and Computer Engr",350,"Principles of Auto Control",FQ,Engineering,2949,"Electrical & Computer Engr",14,20,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jin, Ning",,,40
-220138,ECE,"Electrical and Computer Engr",366,"Computer Organization II",FQ,Engineering,2949,"Electrical & Computer Engr",5,5,2,2,1,0,0,0,0,0,0,0,0,0,0,1,"Noohi Bezanjani, Ehsan",,,16
+220138,ECE,"Electrical and Computer Engr",366,"Computer Organization",FQ,Engineering,2949,"Electrical & Computer Engr",5,5,2,2,1,0,0,0,0,0,0,0,0,0,0,1,"Noohi Bezanjani, Ehsan",,,16
 220138,ECE,"Electrical and Computer Engr",367,"Microproc-Based Design",FQ,Engineering,2949,"Electrical & Computer Engr",16,8,4,1,5,0,0,0,0,0,0,0,0,0,0,7,"Becker, Robert A",,,41
 220138,ECE,"Electrical and Computer Engr",396,"Senior Design I",FQ,Engineering,2949,"Electrical & Computer Engr",10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Abu Salah, Lo'Ay Mohammad",,,13
 220138,ECE,"Electrical and Computer Engr",396,"Senior Design I",FQ,Engineering,2949,"Electrical & Computer Engr",58,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Caliskan, Vahe",,,59
@@ -876,7 +876,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,ENGL,English,200,"Basic English Grammar",FT,"Liberal Arts & Sciences",2492,English,3,6,9,1,1,0,0,0,0,0,0,0,0,0,0,2,"Romeo, Robert R.",,,22
 220138,ENGL,English,200,"Basic English Grammar",FT,"Liberal Arts & Sciences",2492,English,6,7,5,3,1,0,0,0,0,0,0,0,0,0,0,2,"Parr, Katherine A.",,,24
 220138,ENGL,English,200,"Basic English Grammar",FT,"Liberal Arts & Sciences",2492,English,20,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Rosenbush, Miriam",,,24
-220138,ENGL,English,201,"Intro Writ Non-fic Pro",FT,"Liberal Arts & Sciences",2492,English,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,12
+220138,ENGL,English,201,"Intro Writ Creative Nonfic",FT,"Liberal Arts & Sciences",2492,English,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,12
 220138,ENGL,English,202,"Media & Professional Writing",FT,"Liberal Arts & Sciences",2492,English,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,4,"Parr, Katherine A.",,,14
 220138,ENGL,English,202,"Media & Professional Writing",FT,"Liberal Arts & Sciences",2492,English,4,8,2,0,2,0,0,0,0,0,0,0,0,0,0,1,"Reed, Cheryl Lynn",,,17
 220138,ENGL,English,202,"Media & Professional Writing",FT,"Liberal Arts & Sciences",2492,English,9,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Shearer, Jay B",,,21
@@ -938,7 +938,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,EOHS,"Environmtl & Occuptnl Hlth Sci",400,"Environmental Health Sciences",FY,"School of Public Health",2731,"Environmtl & Occuptnl Hlth Sci",24,11,4,0,0,0,0,0,0,0,0,0,0,0,0,1,"Buchanan, Susan Nathalie","Jagai, Jyotsna",,40
 220138,EOHS,"Environmtl & Occuptnl Hlth Sci",400,"Environmental Health Sciences",FY,"School of Public Health",2731,"Environmtl & Occuptnl Hlth Sci",59,14,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Cailas, Michael",,,74
 220138,EOHS,"Environmtl & Occuptnl Hlth Sci",405,"Environmental Calculation",FY,"School of Public Health",2731,"Environmtl & Occuptnl Hlth Sci",9,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jones, Rachael Mary",,,16
-220138,EOHS,"Environmtl & Occuptnl Hlth Sci",421,"Fund Industrial Hygiene",FY,"School of Public Health",2731,"Environmtl & Occuptnl Hlth Sci",24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,"Brosseau, Lisa M",,,27
+220138,EOHS,"Environmtl & Occuptnl Hlth Sci",421,"Occupational Hlth &Safety Prac",FY,"School of Public Health",2731,"Environmtl & Occuptnl Hlth Sci",24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,"Brosseau, Lisa M",,,27
 220138,EOHS,"Environmtl & Occuptnl Hlth Sci",436,"GIS for E&PH Professionals",FY,"School of Public Health",2731,"Environmtl & Occuptnl Hlth Sci",5,2,0,0,0,0,0,0,3,0,0,0,0,0,0,0,"Cailas, Michael",,,10
 220138,EOHS,"Environmtl & Occuptnl Hlth Sci",495,"Environmental/Occ Hlth Seminar",FY,"School of Public Health",2731,"Environmtl & Occuptnl Hlth Sci",11,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,"Zanoni, Joseph P",,,13
 220138,EOHS,"Environmtl & Occuptnl Hlth Sci",551,"Occupational Diseases",FY,"School of Public Health",2731,"Environmtl & Occuptnl Hlth Sci",17,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Forst, Linda S",,,20
@@ -1043,7 +1043,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,GER,"Germanic Studies",102,"Elementary German II",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,14
 220138,GER,"Germanic Studies",103,"Intermediate German I",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",16,11,10,1,0,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,40
 220138,GER,"Germanic Studies",104,"Intermediate German II",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",5,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,13
-220138,GER,"Germanic Studies",214,"Ger Conversation&Pronunciatn",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Schlipphacke, Heidi",,,14
+220138,GER,"Germanic Studies",214,"Conversational German",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Schlipphacke, Heidi",,,14
 220138,GER,"Germanic Studies",217,"German Cinema",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",32,5,2,0,2,0,0,0,1,0,0,0,0,0,0,2,"Hall, Sara Frances",,,44
 220138,GER,"Germanic Studies",219,"Myth and Fairy Tales",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",10,30,12,4,1,0,0,0,0,0,0,0,0,0,0,2,"Guillemin, Anna",,,59
 220138,GER,"Germanic Studies",318,"Topics in Ger Lit and Cult",FT,"Liberal Arts & Sciences",2291,"Germanic Studies",6,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Emmerich, Wolfgang P",,,10
@@ -1188,7 +1188,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,HPA,"Health Policy & Administration",400,"Princ of Mgmt in Public Health",FY,"School of Public Health",2399,"Health Policy & Administration",16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Govia, Carlo M",,,33
 220138,HPA,"Health Policy & Administration",403,"US Health Care System",FY,"School of Public Health",2399,"Health Policy & Administration",11,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Denardo, John J","Swarzman, Michael Alan","Lifton, James",28
 220138,HPA,"Health Policy & Administration",410,"Hlth Organizational Leadership",FY,"School of Public Health",2399,"Health Policy & Administration",14,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Greenspan, Benn Josef","Stiehl, Emily",,30
-220138,HPA,"Health Policy & Administration",431,"Law and Public Health",FY,"School of Public Health",2399,"Health Policy & Administration",8,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Swartzman, Daniel",,,20
+220138,HPA,"Health Policy & Administration",431,"Public Health Law and Ethics",FY,"School of Public Health",2399,"Health Policy & Administration",8,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Swartzman, Daniel",,,20
 220138,HPA,"Health Policy & Administration",444,"Strategic Planning & Budgeting",FY,"School of Public Health",2399,"Health Policy & Administration",7,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Sewell, Richard Huston",,,11
 220138,HPA,"Health Policy & Administration",445,"Organizational Leadership PH",FY,"School of Public Health",2399,"Health Policy & Administration",10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kling, William C",,,12
 220138,HPA,"Health Policy & Administration",451,"Health Care Finance",FY,"School of Public Health",2399,"Health Policy & Administration",13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Devoney, William L.","Yunker, Daniel T",,16
@@ -1326,12 +1326,12 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,LALS,"Latin American &Latino Studies",301,"Research Methods",FT,"Liberal Arts & Sciences",2988,"Latin American &Latino Studies",4,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,10
 220138,LALS,"Latin American &Latino Studies",395,"Seminar in Latino Studies",FT,"Liberal Arts & Sciences",2988,"Latin American &Latino Studies",12,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Chavez, Alex E",,,22
 220138,LALS,"Latin American &Latino Studies",461,"Topics Lat Amer Hist",FT,"Liberal Arts & Sciences",2316,History,1,4,0,0,2,0,0,0,0,0,0,0,0,0,0,3,"Boyer, Christopher R.",,,10
-220138,LAS,"Liberal Arts and Sciences",110,"Freshman Success",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,16,3,0,"Robinson, Stuart",,,19
-220138,LAS,"Liberal Arts and Sciences",110,"Freshman Success",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,"Wier, Justin Robert",,,18
-220138,LAS,"Liberal Arts and Sciences",110,"Freshman Success",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,1,"King, Gary L",,,20
-220138,LAS,"Liberal Arts and Sciences",110,"Freshman Success",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,18,2,0,"Mendoza, Alejandro",,,20
-220138,LAS,"Liberal Arts and Sciences",110,"Freshman Success",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,0,"Resowski, Shannon A",,,20
-220138,LAS,"Liberal Arts and Sciences",110,"Freshman Success",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,"Picciuca, Sandra Concetta",,,20
+220138,LAS,"Liberal Arts and Sciences",110,"Experience UIC",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,16,3,0,"Robinson, Stuart",,,19
+220138,LAS,"Liberal Arts and Sciences",110,"Experience UIC",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,"Wier, Justin Robert",,,18
+220138,LAS,"Liberal Arts and Sciences",110,"Experience UIC",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,1,"King, Gary L",,,20
+220138,LAS,"Liberal Arts and Sciences",110,"Experience UIC",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,18,2,0,"Mendoza, Alejandro",,,20
+220138,LAS,"Liberal Arts and Sciences",110,"Experience UIC",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,0,"Resowski, Shannon A",,,20
+220138,LAS,"Liberal Arts and Sciences",110,"Experience UIC",FT,"Liberal Arts & Sciences",2410,"LAS Administration",0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,"Picciuca, Sandra Concetta",,,20
 220138,LAS,"Liberal Arts and Sciences",111,"Global Learning Comm Sem I",FT,"Liberal Arts & Sciences",2410,"LAS Administration",10,4,1,0,2,0,0,0,0,0,0,0,0,0,0,1,"Rudder, Jeanette Nadene",,,18
 220138,LAS,"Liberal Arts and Sciences",111,"Global Learning Comm Sem I",FT,"Liberal Arts & Sciences",2410,"LAS Administration",11,2,0,2,1,0,0,0,0,0,0,0,0,0,0,1,"Keller, Gregory",,,17
 220138,LAS,"Liberal Arts and Sciences",111,"Global Learning Comm Sem I",FT,"Liberal Arts & Sciences",2410,"LAS Administration",16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Mwale, Iris A",,,19
@@ -1569,7 +1569,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,MUS,Music,154,"Chamber Choir",FR,"Architecture,Design,& the Arts",2680,Music,9,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,"Lewis, Andrew","Anderson, Michael J",,12
 220138,MUS,Music,155,"Women's Choral Ensemble",FR,"Architecture,Design,& the Arts",2680,Music,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,"Lewis, Andrew","Anderson, Michael J",,10
 220138,MUS,Music,156,"Pep Band",FR,"Architecture,Design,& the Arts",2680,Music,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,"Carlson, Nicholas",,,51
-220138,MUS,Music,157,"String Ensemble",FR,"Architecture,Design,& the Arts",2680,Music,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Black, Daniel","Cade, Necolia Marie",,29
+220138,MUS,Music,157,"University Orchestras",FR,"Architecture,Design,& the Arts",2680,Music,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Black, Daniel","Cade, Necolia Marie",,29
 220138,MUS,Music,159,"Jazz Ensemble",FR,"Architecture,Design,& the Arts",2680,Music,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,"Baker, Andrew","Cade, Necolia Marie",,22
 220138,MUS,Music,170,"Keyboard Skills I",FR,"Architecture,Design,& the Arts",2680,Music,10,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Murphy, Daniel G","Collerd, Gene J",,13
 220138,MUS,Music,201,"Theory Of Music III",FR,"Architecture,Design,& the Arts",2680,Music,6,6,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Mellits, Marc",,,14
@@ -1703,8 +1703,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,OT,"Occupational Therapy",595,"Seminar in OT",GF,"Applied Health Sciences",2725,"Occupational Therapy",0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,"Peterson, Elizabeth Walker",,,40
 220138,PA,"Public Administration",210,"Policy Process",GP,"Urban Planning &Public Affairs",2694,"Public Administration",6,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Feeney, Mary K",,,10
 220138,PA,"Public Administration",230,"Nonprofits & US Society",GP,"Urban Planning &Public Affairs",2694,"Public Administration",10,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"LeRoux, Kelly",,,17
-220138,PA,"Public Administration",400,"Public Admin Theory",GP,"Urban Planning &Public Affairs",2694,"Public Administration",0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,"Sieracki, Bernard H",,,28
-220138,PA,"Public Administration",400,"Public Admin Theory",GP,"Urban Planning &Public Affairs",2694,"Public Administration",19,5,0,0,0,0,0,0,1,0,2,0,0,0,0,1,"Muhlenberg, Elisabeth",,,28
+220138,PA,"Public Administration",400,"Foundations of Public Service",GP,"Urban Planning &Public Affairs",2694,"Public Administration",0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,"Sieracki, Bernard H",,,28
+220138,PA,"Public Administration",400,"Foundations of Public Service",GP,"Urban Planning &Public Affairs",2694,"Public Administration",19,5,0,0,0,0,0,0,1,0,2,0,0,0,0,1,"Muhlenberg, Elisabeth",,,28
 220138,PA,"Public Administration",407,"Data Analysis for Public Admin",GP,"Urban Planning &Public Affairs",2694,"Public Administration",20,20,7,1,0,0,0,0,3,0,0,0,0,0,0,1,"Wu, Yonghong",,,52
 220138,PA,"Public Administration",410,"Economics for Public Admin",GP,"Urban Planning &Public Affairs",2694,"Public Administration",7,10,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Snyder, Thomas",,,20
 220138,PA,"Public Administration",410,"Economics for Public Admin",GP,"Urban Planning &Public Affairs",2694,"Public Administration",9,15,3,0,0,0,0,0,1,0,0,0,0,0,0,0,"Wu, Yonghong",,,28
@@ -2079,13 +2079,13 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,SPAN,Spanish,102,"Elementary Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",14,8,8,4,4,0,0,0,0,0,0,0,0,0,0,3,"Makowska, Justyna",,,41
 220138,SPAN,Spanish,102,"Elementary Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",20,39,21,2,2,0,0,0,0,0,0,0,0,0,0,4,"Munoz-Navarro, Stephanie Rae",,,88
 220138,SPAN,Spanish,102,"Elementary Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",22,62,34,10,5,0,0,0,0,0,0,0,0,0,0,6,"Grad Asst",,,139
-220138,SPAN,Spanish,103,"Elementary Spanish III",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",14,23,13,5,1,0,0,0,0,0,0,0,0,0,0,0,"Martin Sagredo, Ana Presentacion",,,56
-220138,SPAN,Spanish,103,"Elementary Spanish III",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",14,26,20,1,0,0,0,0,0,0,0,0,0,0,0,3,"Strombom, Inmaculada C",,,64
-220138,SPAN,Spanish,103,"Elementary Spanish III",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",25,31,26,4,2,0,0,0,0,0,0,0,0,0,0,4,"Ponti, Martin",,,92
-220138,SPAN,Spanish,103,"Elementary Spanish III",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",39,78,67,19,8,0,0,0,0,0,0,0,0,0,0,14,"Grad Asst",,,225
-220138,SPAN,Spanish,104,"Topics: Span Language &Culture",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",21,34,20,3,3,0,0,0,0,0,0,0,0,0,0,2,"Phillips, Rhea M",,,83
-220138,SPAN,Spanish,104,"Topics: Span Language &Culture",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",54,32,4,1,0,0,0,0,0,0,0,0,0,0,0,0,"Rodriguez, David Diego",,,91
-220138,SPAN,Spanish,104,"Topics: Span Language &Culture",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",69,104,56,17,5,0,0,0,0,0,0,0,0,0,0,8,"Grad Asst",,,259
+220138,SPAN,Spanish,103,"Intermediate Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",14,23,13,5,1,0,0,0,0,0,0,0,0,0,0,0,"Martin Sagredo, Ana Presentacion",,,56
+220138,SPAN,Spanish,103,"Intermediate Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",14,26,20,1,0,0,0,0,0,0,0,0,0,0,0,3,"Strombom, Inmaculada C",,,64
+220138,SPAN,Spanish,103,"Intermediate Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",25,31,26,4,2,0,0,0,0,0,0,0,0,0,0,4,"Ponti, Martin",,,92
+220138,SPAN,Spanish,103,"Intermediate Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",39,78,67,19,8,0,0,0,0,0,0,0,0,0,0,14,"Grad Asst",,,225
+220138,SPAN,Spanish,104,"Intermediate Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",21,34,20,3,3,0,0,0,0,0,0,0,0,0,0,2,"Phillips, Rhea M",,,83
+220138,SPAN,Spanish,104,"Intermediate Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",54,32,4,1,0,0,0,0,0,0,0,0,0,0,0,0,"Rodriguez, David Diego",,,91
+220138,SPAN,Spanish,104,"Intermediate Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",69,104,56,17,5,0,0,0,0,0,0,0,0,0,0,8,"Grad Asst",,,259
 220138,SPAN,Spanish,113,"Spanish Bilingual I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",42,17,5,1,0,0,0,0,0,0,0,0,0,0,0,2,"Loftus, Zurine",,,67
 220138,SPAN,Spanish,114,"Spanish Bilingual II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",18,26,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Gonzalez-Cameron, Diana",,,46
 220138,SPAN,Spanish,114,"Spanish Bilingual II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",27,16,2,0,0,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,47
@@ -2170,7 +2170,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,UPP,"Urban Planning and Policy",202,"Planning Great Cities",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",13,11,5,0,0,0,0,0,0,0,0,0,0,0,0,2,"Daas, Charles Frederick","Winkle, Curtis Richard",,31
 220138,UPP,"Urban Planning and Policy",205,"Cinema and the City",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",7,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,13
 220138,UPP,"Urban Planning and Policy",460,"Intro Geospatial Analys&Visual",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Jasek, Thomas A",,,38
-220138,UPP,"Urban Planning and Policy",461,"GIS for Planners",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",14,7,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Dieber, William A","Spieglan, Mark J",,23
+220138,UPP,"Urban Planning and Policy",461,"GIS for Planning and Policy",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",14,7,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Dieber, William A","Spieglan, Mark J",,23
 220138,UPP,"Urban Planning and Policy",493,"Urban Food Systems",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Winkle, Curtis Richard",,,13
 220138,UPP,"Urban Planning and Policy",500,"Hist &Theory of Urban Planning",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",8,4,2,0,0,0,0,0,0,0,2,0,0,0,0,0,"Hoch, Charles John",,,16
 220138,UPP,"Urban Planning and Policy",500,"Hist &Theory of Urban Planning",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",18,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Vidyarthi, Sanjeev",,,22
