@@ -625,7 +625,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220188,CS,"Computer Science",491,"Algorithms in Practice",FQ,Engineering,2699,"Computer Science",3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Lillis, John P",,,14
 220188,CS,"Computer Science",491,"High-Performance Computing",FQ,Engineering,2699,"Computer Science",13,7,2,2,1,0,0,0,0,0,0,0,0,0,0,1,"Eriksson, Jakob L",,,26
 220188,CS,"Computer Science",491,Seminar,FQ,Engineering,2699,"Computer Science",0,87,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Kenyon, Robert V",,,88
-220188,CS,"Computer Science",491,"Virtual and Augmented Reality",FQ,Engineering,2699,"Computer Science",16,18,7,0,1,0,0,0,0,0,0,0,0,0,0,2,"Johnson, Andrew E",,,44
+220188,CS,"Computer Science",428,"Virtual and Augmented Reality",FQ,Engineering,2699,"Computer Science",16,18,7,0,1,0,0,0,0,0,0,0,0,0,0,2,"Johnson, Andrew E",,,44
 220188,CS,"Computer Science",499,"Prof. Development Seminar",FQ,Engineering,2699,"Computer Science",0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,5,"Hummel, Joseph E",,,89
 220188,CS,"Computer Science",501,"Computer Algorithms II",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",24,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,"DasGupta, Bhaskar",,,26
 220188,CS,"Computer Science",502,"Computational Biology",FQ,Engineering,2699,"Computer Science",12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Berger-Wolf, Tanya Yonit",,,13
