@@ -546,17 +546,19 @@ class ListGrades extends Component {
         <br/>
         {/* displays the overall graph for that course with that specific professor taught */}
         {displayOverAllGraph}
-
         <br/>
+
+        {this.props.ProfInfo.name1 === "Grad Asst" ? 
+        null : (this.props.ProfInfo.name1 === "Instructor, Missing" ?
+        null : <div>
         <header className="major container medium">
-          <h2>{this.props.ProfInfo.name1} Reviews</h2>					
+          <h2>{this.props.ProfInfo.name1} Reviews</h2>	
         </header>
         <br/>
-        
-        {/* <div className="overallRating"> */}
-          < CommentProf chosenCourseAndProf={this.props.ProfInfo}/>
-        {/* </div> */}
-
+        < CommentProf chosenCourseAndProf={this.props.ProfInfo}/>
+        </div>
+        )}
+  
       </div>
       
     );
