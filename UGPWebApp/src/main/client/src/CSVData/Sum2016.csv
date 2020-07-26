@@ -1,6 +1,6 @@
 TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DEPT_NAME,A,B,C,D,F,ADV,CR,DFR,I,NG,NR,O,PR,S,U,W,name1,name2,name3,grade_regs
-220165,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,7,11,5,4,3,0,0,0,0,0,0,0,0,0,0,3,"Galvan, Abel",,,33
-220165,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,4,9,9,1,2,0,0,0,0,0,0,0,0,0,0,2,"Salama, Yehia A.",,,27
+220165,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,7,11,5,4,3,0,0,0,0,0,0,0,0,0,0,3,"Galvan, Abel",,,33
+220165,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,4,9,9,1,2,0,0,0,0,0,0,0,0,0,0,2,"Salama, Yehia A.",,,27
 220165,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,3,10,10,3,2,0,0,0,0,0,1,0,0,0,0,0,"Leventhal, Brian W",,,29
 220165,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,2,8,4,2,1,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.",,,17
 220165,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,9,4,4,1,2,0,0,0,0,0,0,0,0,0,0,0,"Maksy, Mostafa",,,20
@@ -53,7 +53,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220165,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,"Instructor, Missing",,,44
 220165,CELE,"Clerkship Electives-Chicago",602,Anesthesiology,GA,"Coll Medicine at Chicago - CS",2258,Anesthesiology,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,"Nishioka, Hokuto",,,10
 220165,CELE,"Clerkship Electives-Chicago",603,Dermatology,GA,"Coll Medicine at Chicago - CS",2732,Dermatology,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,"Bain, Michelle B",,,12
-220165,CELE,"Clerkship Electives-Chicago",604,"Emergency  Medicine",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,"Gehm, Lisa",,,14
+220165,CELE,"Clerkship Electives-Chicago",604,"Core Emerg Medicine Elective",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,"Gehm, Lisa",,,14
 220165,CELE,"Clerkship Electives-Chicago",616,Radiology,GA,"Coll Medicine at Chicago - CS",2713,Radiology,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,"Xie, Karen Lin",,,14
 220165,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,8,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rosenhouse-Dantsker, Avia",,,13
 220165,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,4,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hatfield, Rita",,,12
@@ -189,7 +189,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220165,HN,"Human Nutrition",202,"Culture and Food",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",17,21,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"Staver, Michael J",,,40
 220165,HN,"Human Nutrition",355,"Supervised Practice I",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",0,0,0,0,0,0,0,28,0,0,2,0,0,0,0,0,"Bathgate, Jennifer","Regis, Adrienne Nicole",,30
 220165,HN,"Human Nutrition",455,"Supervised Practice II",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,"Bathgate, Jennifer","Regis, Adrienne Nicole",,30
-220165,HPA,"Health Policy & Administration",432,"Public Health Advocacy",FY,"School of Public Health",2399,"Health Policy & Administration",0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,1,"Kling, William C",,,19
+220165,HPA,"Health Policy & Administration",432,"Public Hlth Policy & Practice",FY,"School of Public Health",2399,"Health Policy & Administration",0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,1,"Kling, William C",,,19
 220165,HPA,"Health Policy & Administration",459,"Health Inequities in the US",FY,"School of Public Health",2399,"Health Policy & Administration",16,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"Samson, Linda F",,,21
 220165,HPA,"Health Policy & Administration",465,"Hlth Info & Dec Supp Syst",FY,"School of Public Health",2399,"Health Policy & Administration",8,2,0,0,0,0,0,0,0,0,36,0,0,0,0,2,"Mensah, Edward K","Athar, Heba Masood","Syed, Asif Amir",48
 220165,HPA,"Health Policy & Administration",472,"Clinical Research Methods I",FY,"School of Public Health",2399,"Health Policy & Administration",0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,"Ajmani, Vivek",,,15
@@ -282,7 +282,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220165,NURS,"Nursing Core",408,"IHC: Adult/Older Adult",FW,Nursing,2591,"Nursing Administration",1,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mills, Jean L",,,14
 220165,NURS,"Nursing Core",408,"IHC: Adult/Older Adult",FW,Nursing,2591,"Nursing Administration",19,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Gruss, Valerie A","Tulley, Jacqueline Ann",,48
 220165,NURS,"Nursing Core",414,"IHC: Mental Health",FW,Nursing,2591,"Nursing Administration",6,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Simpson, Kimberly Ann",,,14
-220165,NURS,"Nursing Core",414,"Intgtd Hlth Care: Mental Hlth",FW,Nursing,2591,"Nursing Administration",41,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Handrup, Cynthia Taylor",,,48
+220165,NURS,"Nursing Core",414,"IHC: Mental Health",FW,Nursing,2591,"Nursing Administration",41,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Handrup, Cynthia Taylor",,,48
 220165,NURS,"Nursing Core",516,"EBP 2",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,"Ryan, Catherine",,,24
 220165,NURS,"Nursing Core",516,"EBP 2",FW,Nursing,2591,"Nursing Administration",0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,"Vonderheid, Susan Catherine",,,25
 220165,NURS,"Nursing Core",516,"EBP 2",FW,Nursing,2591,"Nursing Administration",9,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hacker, Eileen",,,12
@@ -351,8 +351,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220165,SOC,Sociology,426,"Corporations & Social Movement",FT,"Liberal Arts & Sciences",2772,Sociology,14,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"McInerney, Paul-Brian","Grad Asst",,18
 220165,SOCW,"Social Work",523,"Drug& Alcohol Social Work",GL,"Social Work",2630,"Jane Addams Social Work",6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Kutzen, Stephanie L","Stanfield, Veronica Ann",,11
 220165,SPAN,Spanish,102,"Elementary Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",5,10,5,0,3,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,26
-220165,SPAN,Spanish,103,"Elementary Spanish III",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",9,6,7,0,3,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,26
-220165,SPAN,Spanish,104,"Topics: Span Language &Culture",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",7,9,17,11,3,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,49
+220165,SPAN,Spanish,103,"Intermediate Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",9,6,7,0,3,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,26
+220165,SPAN,Spanish,104,"Intermediate Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",7,9,17,11,3,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,49
 220165,SPED,"Special Education",410,"Exceptional Learners",FP,Education,2588,"Special Education",20,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,28
 220165,SPED,"Special Education",448,"Topic in Special Ed",FP,Education,2588,"Special Education",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Parker-Katz, Michelle Beth",,,16
 220165,SPED,"Special Education",465,"Cognitive Devel & Disabilities",FP,Education,2588,"Special Education",26,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Hughes, Marie Tejero",,,30
@@ -369,7 +369,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220165,STAT,Statistics,381,"Applied Statistical Methods I",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",4,3,7,2,1,0,0,0,0,0,0,0,0,0,0,0,"Embers, Dale Gene",,,17
 220165,STAT,Statistics,401,"Intro to Probability",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",3,3,4,2,1,0,0,0,0,0,0,0,0,0,0,0,"Doyle, Timothy Michael",,,13
 220165,THTR,Theatre,161,"Introduction to Acting I",FR,"Architecture,Design,& the Arts",2489,Theatre,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Davis, Shanesia",,,19
-220165,UPP,"Urban Planning and Policy",461,"GIS for Planners",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Savar, Nina L",,,15
+220165,UPP,"Urban Planning and Policy",461,"GIS for Planning and Policy",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Savar, Nina L",,,15
 220165,UPP,"Urban Planning and Policy",493,"Analysis in Excel",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Spieglan, Mark J",,,12
 220165,UPP,"Urban Planning and Policy",493,"Bike Planning",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",9,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Roseberry, Nathan James","Garcia, Gerardo",,14
 220165,UPP,"Urban Planning and Policy",493,"Grant Writing",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Jenkins, Noah",,,20

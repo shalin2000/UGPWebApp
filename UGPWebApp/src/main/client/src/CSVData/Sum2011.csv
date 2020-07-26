@@ -1,6 +1,6 @@
 TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DEPT_NAME,A,B,C,D,F,ADV,CR,DFR,I,NG,NR,O,PR,S,U,W,name1,name2,name3,grade_regs
-220115,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,9,11,5,5,3,0,0,0,0,0,0,0,0,0,0,9,"Galvan, Abel",,,42
-220115,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,6,14,17,11,3,0,0,0,0,0,0,0,0,0,0,2,"Salama, Yehia A.",,,53
+220115,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,9,11,5,5,3,0,0,0,0,0,0,0,0,0,0,9,"Galvan, Abel",,,42
+220115,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,6,14,17,11,3,0,0,0,0,0,0,0,0,0,0,2,"Salama, Yehia A.",,,53
 220115,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,6,5,17,5,1,0,0,0,0,0,0,0,0,0,0,0,"Leventhal, Brian W",,,34
 220115,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,5,12,12,8,3,0,0,0,0,0,0,0,0,0,0,2,"Salama, Yehia A.",,,42
 220115,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,1,8,8,7,3,0,0,0,0,0,1,0,0,0,0,1,"Chalos, Peter",,,29
@@ -57,7 +57,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220115,BVIS,"Biomedical Visualization",520,"Adv Imaging Applications",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Dixon, Scott Anthony","Daugherty, John M",,15
 220115,BVIS,"Biomedical Visualization",545,"Computer-based Multimedia",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",6,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Blew, Gregory A","Daugherty, John M",,14
 220115,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,1,0,0,0,0,41,7,0,0,0,0,"Instructor, Missing",,,49
-220115,CELE,"Clerkship Electives-Chicago",604,"Emergency  Medicine",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,4,0,0,0,0,11,4,0,0,0,0,"Instructor, Missing",,,19
+220115,CELE,"Clerkship Electives-Chicago",604,"Core Emerg Medicine Elective",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,4,0,0,0,0,11,4,0,0,0,0,"Instructor, Missing",,,19
 220115,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,13,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","Widing, Robert W","Grad Asst",20
 220115,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,9,18,12,5,4,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst","Modey, William Kojo",,51
 220115,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,6,17,37,24,15,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst","Modey, William Kojo","Grad Asst",103
@@ -196,7 +196,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220115,EPSY,"Educational Psychology",453,"Ed Program & Marketing in ECE",FP,Education,2621,"Educational Psychology",12,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"Hamburg, Linda L","Schaefer, Sandra Lee","Corral, Iris",18
 220115,EPSY,"Educational Psychology",526,"Develop Infant & Early Child",FP,Education,2621,"Educational Psychology",9,7,0,0,0,0,0,0,2,0,0,0,0,0,0,0,"Koritsaris, Marian","Main, Catherine M",,18
 220115,EPSY,"Educational Psychology",582,"Collab w/Family-Community",FP,Education,2588,"Special Education",4,10,0,0,0,0,0,0,4,0,0,0,0,0,0,0,"Abel, Barbara","Main, Catherine M","Husband, Patricia",18
-220115,FIN,Finance,300,"Intro to Managerial Finance",FL,"Business Administration",2691,Finance,1,20,12,3,0,0,0,0,0,0,0,0,0,0,0,1,"Waite, Stanley",,,37
+220115,FIN,Finance,300,"Intro to Finance",FL,"Business Administration",2691,Finance,1,20,12,3,0,0,0,0,0,0,0,0,0,0,0,1,"Waite, Stanley",,,37
 220115,FIN,Finance,310,Investments,FL,"Business Administration",2691,Finance,12,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Arslan Ayaydin, Ozgur",,,16
 220115,FIN,Finance,320,"Managerial Finance",FL,"Business Administration",2691,Finance,3,13,7,1,0,0,0,0,0,0,0,0,0,0,0,1,"Waite, Stanley",,,25
 220115,FIN,Finance,371,"Intro to Urban Real Estate",FT,"Liberal Arts & Sciences",2525,Economics,2,6,4,1,1,0,0,0,0,0,0,0,0,0,0,2,"Cepon, Margie","Martell, Carol",,16
@@ -447,9 +447,9 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220115,SPAN,Spanish,101,"Elementary Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",17,26,7,1,4,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,58
 220115,SPAN,Spanish,102,"Elementary Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,"Strong, Kathryn Melissa Bastion",,,16
 220115,SPAN,Spanish,102,"Elementary Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",15,18,14,4,4,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,56
-220115,SPAN,Spanish,103,"Elementary Spanish III",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",11,33,22,12,3,0,0,0,0,0,0,0,0,0,0,8,"Grad Asst",,,89
-220115,SPAN,Spanish,104,"Topics: Span Language &Culture",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",5,5,5,3,1,0,0,0,0,0,0,0,0,0,0,2,"Loftus, Zurine",,,21
-220115,SPAN,Spanish,104,"Topics: Span Language &Culture",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",37,49,33,8,3,0,0,0,0,0,0,0,0,0,0,11,"Grad Asst",,,141
+220115,SPAN,Spanish,103,"Intermediate Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",11,33,22,12,3,0,0,0,0,0,0,0,0,0,0,8,"Grad Asst",,,89
+220115,SPAN,Spanish,104,"Intermediate Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",5,5,5,3,1,0,0,0,0,0,0,0,0,0,0,2,"Loftus, Zurine",,,21
+220115,SPAN,Spanish,104,"Intermediate Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",37,49,33,8,3,0,0,0,0,0,0,0,0,0,0,11,"Grad Asst",,,141
 220115,SPAN,Spanish,114,"Spanish Bilingual II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",11,6,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,21
 220115,SPAN,Spanish,202,"Spanish Grammar in Practice",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",6,16,1,0,0,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,25
 220115,SPAN,Spanish,203,"Composition Non-Native Speakrs",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",8,7,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,17

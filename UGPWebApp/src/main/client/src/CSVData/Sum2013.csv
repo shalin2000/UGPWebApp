@@ -1,6 +1,6 @@
 TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DEPT_NAME,A,B,C,D,F,ADV,CR,DFR,I,NG,NR,O,PR,S,U,W,name1,name2,name3,grade_regs
-220135,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,6,14,8,0,2,0,0,0,0,0,0,0,0,0,0,1,"Galvan, Abel",,,31
-220135,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,6,9,12,2,2,0,0,0,0,0,0,0,0,0,0,2,"Salama, Yehia A.",,,33
+220135,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,6,14,8,0,2,0,0,0,0,0,0,0,0,0,0,1,"Galvan, Abel",,,31
+220135,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,6,9,12,2,2,0,0,0,0,0,0,0,0,0,0,2,"Salama, Yehia A.",,,33
 220135,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,5,8,14,10,3,0,0,0,1,0,0,0,0,0,0,1,"Leventhal, Brian W",,,42
 220135,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,4,8,12,3,2,0,0,0,0,0,0,0,0,0,0,2,"Salama, Yehia A.",,,31
 220135,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,17,13,4,4,0,0,0,0,0,0,0,0,0,0,0,1,"Maksy, Mostafa",,,39
@@ -64,7 +64,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220135,CC,"Campus Courses",060,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,0,0,0,86,41,23,"Michalski, Mary F.",,,150
 220135,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,14,0,0,0,0,49,43,3,0,0,0,"Instructor, Missing",,,109
 220135,CELE,"Clerkship Electives-Chicago",603,Dermatology,GA,"Coll Medicine at Chicago - CS",2732,Dermatology,0,0,0,0,0,1,0,0,0,0,1,9,0,0,0,0,"Instructor, Missing",,,11
-220135,CELE,"Clerkship Electives-Chicago",604,"Emergency  Medicine",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,18,0,0,0,0,0,7,1,0,0,0,"Instructor, Missing",,,26
+220135,CELE,"Clerkship Electives-Chicago",604,"Core Emerg Medicine Elective",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,18,0,0,0,0,0,7,1,0,0,0,"Instructor, Missing",,,26
 220135,CELE,"Clerkship Electives-Chicago",616,Radiology,GA,"Coll Medicine at Chicago - CS",2713,Radiology,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,"Instructor, Missing",,,14
 220135,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,4,9,2,1,1,0,0,0,0,0,0,0,0,0,0,1,"Widing, Robert W",,,18
 220135,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,6,7,6,4,11,0,0,0,0,0,0,0,0,0,0,2,"Lakhani, Ahmed Ashiqali",,,36
@@ -412,8 +412,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220135,SOCW,"Social Work",571,"Field Instruction II",GL,"Social Work",2630,"Jane Addams Social Work",0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Coats, Barbara C","Stanfield, Veronica Ann",,11
 220135,SPAN,Spanish,101,"Elementary Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",9,8,6,2,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,28
 220135,SPAN,Spanish,102,"Elementary Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",8,12,10,1,0,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,34
-220135,SPAN,Spanish,103,"Elementary Spanish III",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",19,26,20,6,2,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,77
-220135,SPAN,Spanish,104,"Topics: Span Language &Culture",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",7,33,13,4,3,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,61
+220135,SPAN,Spanish,103,"Intermediate Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",19,26,20,6,2,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,77
+220135,SPAN,Spanish,104,"Intermediate Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",7,33,13,4,3,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,61
 220135,SPAN,Spanish,114,"Spanish Bilingual II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",9,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,16
 220135,SPAN,Spanish,203,"Composition Non-Native Speakrs",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",4,5,3,0,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,14
 220135,SPEC,"Specialty Medicine",652,"Emergency Medicine Specialty",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,"Instructor, Missing",,,31

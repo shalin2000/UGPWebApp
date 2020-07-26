@@ -1,6 +1,6 @@
 TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DEPT_NAME,A,B,C,D,F,ADV,CR,DFR,I,NG,NR,O,PR,S,U,W,name1,name2,name3,grade_regs
-220145,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,9,5,3,1,1,0,0,0,0,0,0,0,0,0,0,2,"Galvan, Abel",,,21
-220145,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,6,11,5,6,5,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.",,,33
+220145,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,9,5,3,1,1,0,0,0,0,0,0,0,0,0,0,2,"Galvan, Abel",,,21
+220145,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,6,11,5,6,5,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.",,,33
 220145,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,2,3,11,6,1,0,0,0,0,0,0,0,0,0,0,0,"Leventhal, Brian W",,,23
 220145,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,3,9,12,5,3,0,0,0,0,0,0,0,0,0,0,1,"Salama, Yehia A.",,,33
 220145,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,12,12,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"Maksy, Mostafa",,,27
@@ -61,7 +61,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220145,CC,"Campus Courses",050,"TIE Listening &Speak Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,2,0,0,96,26,4,"Michalski, Mary F.",,,128
 220145,CC,"Campus Courses",060,"TIE Reading &Writing Noncredit",JB,"Provost & VC Acad Affairs",2501,"Vice Chanc for Academic Affair",0,0,0,0,0,0,0,0,0,0,1,0,0,91,37,6,"Michalski, Mary F.",,,135
 220145,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,0,0,0,74,22,1,0,0,0,"Instructor, Missing",,,97
-220145,CELE,"Clerkship Electives-Chicago",604,"Emergency  Medicine",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,2,0,0,0,0,11,9,0,0,0,0,"Instructor, Missing",,,22
+220145,CELE,"Clerkship Electives-Chicago",604,"Core Emerg Medicine Elective",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,2,0,0,0,0,11,9,0,0,0,0,"Instructor, Missing",,,22
 220145,CELE,"Clerkship Electives-Chicago",616,Radiology,GA,"Coll Medicine at Chicago - CS",2713,Radiology,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,"Instructor, Missing",,,17
 220145,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,5,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lakhani, Ahmed Ashiqali",,,13
 220145,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,8,5,3,3,1,0,0,0,0,0,0,0,0,0,0,0,"Huma, Loredana Camelia",,,20
@@ -181,7 +181,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220145,EPSY,"Educational Psychology",522,"Internship in Early Childhood",FP,Education,2621,"Educational Psychology",8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Main, Catherine M","Jerabek, Anna Marie","Koritsaris, Marian",11
 220145,EPSY,"Educational Psychology",546,"Educ Measurement",FP,Education,2621,"Educational Psychology",22,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Yin, Yue","Smith, Everett V",,27
 220145,EPSY,"Educational Psychology",582,"Collab w/Family-Community",FP,Education,2588,"Special Education",11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Black, Kathleen W",,,11
-220145,FIN,Finance,301,"Intro to Managerial Finance",FL,"Business Administration",2691,Finance,5,5,5,0,2,0,0,0,0,0,0,0,0,0,0,3,"Logue, Ann",,,20
+220145,FIN,Finance,301,"Intro to ManagerialFinance",FL,"Business Administration",2691,Finance,5,5,5,0,2,0,0,0,0,0,0,0,0,0,0,3,"Logue, Ann",,,20
 220145,FIN,Finance,302,"Introduction to Investments",FL,"Business Administration",2691,Finance,4,3,5,0,1,0,0,0,0,0,2,0,0,0,0,3,"Waite, Stanley",,,18
 220145,FIN,Finance,310,Investments,FL,"Business Administration",2691,Finance,21,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Arslan Ayaydin, Ozgur",,,28
 220145,FIN,Finance,371,"Intro to Urban Real Estate",FT,"Liberal Arts & Sciences",2525,Economics,9,7,7,2,0,0,0,0,0,0,0,0,0,0,0,1,"Cepon, Margie",,,26
@@ -387,8 +387,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220145,SOCW,"Social Work",523,"Drug& Alcohol Social Work",GL,"Social Work",2630,"Jane Addams Social Work",8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kutzen, Stephanie L","Stanfield, Veronica Ann",,14
 220145,SOCW,"Social Work",571,"Field Instruction II",GL,"Social Work",2630,"Jane Addams Social Work",0,0,0,0,0,0,0,0,3,0,0,0,0,21,0,0,"Coats, Barbara C","Stanfield, Veronica Ann",,24
 220145,SPAN,Spanish,102,"Elementary Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",4,12,10,2,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,31
-220145,SPAN,Spanish,103,"Elementary Spanish III",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",10,16,18,7,6,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,61
-220145,SPAN,Spanish,104,"Topics: Span Language &Culture",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",15,30,23,13,2,0,0,0,0,0,1,0,0,0,0,3,"Grad Asst",,,87
+220145,SPAN,Spanish,103,"Intermediate Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",10,16,18,7,6,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,61
+220145,SPAN,Spanish,104,"Intermediate Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",15,30,23,13,2,0,0,0,0,0,1,0,0,0,0,3,"Grad Asst",,,87
 220145,SPAN,Spanish,114,"Spanish Bilingual II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",7,4,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,14
 220145,SPED,"Special Education",410,"Surv Char Learner w/Disabil",FP,Education,2588,"Special Education",35,2,0,0,0,0,0,3,1,0,0,0,0,0,0,0,"Hughes, Marie Tejero",,,41
 220145,SPED,"Special Education",448,"Topic in Special Ed",FP,Education,2588,"Special Education",9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Parker-Katz, Michelle Beth",,,10

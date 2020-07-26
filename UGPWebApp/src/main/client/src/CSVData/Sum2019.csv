@@ -1,6 +1,6 @@
 TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DEPT_NAME,A,B,C,D,F,ADV,CR,DFR,I,NG,NR,O,PR,S,U,W,name1,name2,name3,grade_regs
-220195,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,4,6,13,5,1,0,0,0,0,0,0,0,0,0,0,3,"Salama, Yehia A.",,,32
-220195,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,6,8,3,3,1,0,0,0,1,0,0,0,0,0,0,0,"Kemp, Robert E",,,22
+220195,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,4,6,13,5,1,0,0,0,0,0,0,0,0,0,0,3,"Salama, Yehia A.",,,32
+220195,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,6,8,3,3,1,0,0,0,1,0,0,0,0,0,0,0,"Kemp, Robert E",,,22
 220195,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,6,12,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Galvan, Abel",,,22
 220195,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,2,5,2,4,2,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.",,,15
 220195,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,4,3,3,1,0,0,0,0,0,0,0,0,0,0,0,1,"Maksy, Mostafa",,,12
@@ -314,7 +314,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220195,NURS,"Nursing Core",408,"IHC: Adult/Older Adult",FW,Nursing,2462,"Biobehavioral Nursing Science",7,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Betka, Alisha Annette",,,17
 220195,NURS,"Nursing Core",408,"IHC: Adult/Older Adult",FW,Nursing,2462,"Biobehavioral Nursing Science",19,45,6,1,0,0,0,0,0,0,0,0,0,0,0,0,"Gruss, Valerie A","Cherian, Susy K",,71
 220195,NURS,"Nursing Core",414,"IHC: Mental Health",FW,Nursing,2662,"Pop Health Nursing Science",7,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Simpson, Kimberly Ann",,,17
-220195,NURS,"Nursing Core",414,"Intgtd Hlth Care: Mental Hlth",FW,Nursing,2662,"Pop Health Nursing Science",66,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Alvarez, David V",,,70
+220195,NURS,"Nursing Core",414,"IHC: Mental Health",FW,Nursing,2662,"Pop Health Nursing Science",66,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Alvarez, David V",,,70
 220195,NURS,"Nursing Core",516,"EBP 2",FW,Nursing,2462,"Biobehavioral Nursing Science",0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,1,"Diegel-Vacek, Lauren Jeanne",,,14
 220195,NURS,"Nursing Core",516,"EBP 2",FW,Nursing,2462,"Biobehavioral Nursing Science",0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,"Martyn-Nemeth, Pamela","Ryan, Catherine",,26
 220195,NURS,"Nursing Core",516,"EBP 2",FW,Nursing,2462,"Biobehavioral Nursing Science",0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,"Reese, Cynthia Elliott",,,27

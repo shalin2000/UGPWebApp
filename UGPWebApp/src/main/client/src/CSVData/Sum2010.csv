@@ -1,7 +1,7 @@
 TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DEPT_NAME,A,B,C,D,F,ADV,CR,DFR,I,NG,NR,O,PR,S,U,W,name1,name2,name3,grade_regs
 220105,AAST,"African American Studies",225,"Racial and Ethnic Groups",FT,"Liberal Arts & Sciences",2772,Sociology,3,3,1,1,0,0,0,0,1,0,2,0,0,0,0,0,"Schaffner, Laurie","Grad Asst",,11
-220105,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,10,17,8,2,6,0,0,0,0,0,0,0,0,0,0,5,"Galvan, Abel",,,48
-220105,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,18,20,3,6,2,0,0,0,0,0,0,0,0,0,0,3,"Maksy, Mostafa",,,52
+220105,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,10,17,8,2,6,0,0,0,0,0,0,0,0,0,0,5,"Galvan, Abel",,,48
+220105,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,18,20,3,6,2,0,0,0,0,0,0,0,0,0,0,3,"Maksy, Mostafa",,,52
 220105,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,6,5,5,8,2,0,0,0,0,0,0,0,0,0,0,1,"Leventhal, Brian W",,,27
 220105,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,5,11,14,4,1,0,0,0,0,0,2,0,0,0,0,3,"Salama, Yehia A.",,,40
 220105,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,6,10,9,3,1,0,0,0,0,0,0,0,0,0,0,1,"Salama, Yehia A.",,,30
@@ -60,7 +60,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220105,BVIS,"Biomedical Visualization",520,"Adv Imaging Applications",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Dixon, Scott Anthony","Barrows, Scott Thorn",,12
 220105,BVIS,"Biomedical Visualization",545,"Computer-based Multimedia",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Blew, Gregory A",,,12
 220105,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,0,0,0,89,0,0,0,0,0,"Instructor, Missing",,,89
-220105,CELE,"Clerkship Electives-Chicago",604,"Emergency  Medicine",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,"Instructor, Missing",,,24
+220105,CELE,"Clerkship Electives-Chicago",604,"Core Emerg Medicine Elective",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,"Instructor, Missing",,,24
 220105,CELE,"Clerkship Electives-Chicago",616,Radiology,GA,"Coll Medicine at Chicago - CS",2713,Radiology,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,"Instructor, Missing",,,18
 220105,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,5,7,0,1,0,0,0,0,0,0,1,0,0,0,0,3,"Grad Asst","Jursich, Gregory","Widing, Robert W",17
 220105,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,11,9,14,3,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","Papadantonakis, George A",,40
@@ -205,7 +205,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220105,EPSY,"Educational Psychology",582,"Collab w/Family-Community",FP,Education,2588,"Special Education",8,5,0,0,0,0,0,0,3,0,0,0,0,0,0,0,"Abel, Barbara","Main, Catherine M","Husband, Patricia",16
 220105,EPSY,"Educational Psychology",582,"Collab w/Family-Community",FP,Education,2588,"Special Education",14,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kessler, Michele Lynn",,,18
 220105,EPSY,"Educational Psychology",594,"Spcl Topics in Ed Psych",FP,Education,2621,"Educational Psychology",6,7,1,0,1,0,0,0,4,0,0,0,0,0,0,0,"Abel, Barbara",,,19
-220105,FIN,Finance,300,"Intro to Managerial Finance",FL,"Business Administration",2691,Finance,4,5,12,6,5,0,0,0,0,0,0,0,0,0,0,4,"Bills, Robert S",,,36
+220105,FIN,Finance,300,"Intro to Finance",FL,"Business Administration",2691,Finance,4,5,12,6,5,0,0,0,0,0,0,0,0,0,0,4,"Bills, Robert S",,,36
 220105,FIN,Finance,310,Investments,FL,"Business Administration",2691,Finance,8,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,"Hu, Xiaoqing",,,28
 220105,FIN,Finance,320,"Managerial Finance",FL,"Business Administration",2691,Finance,9,10,2,0,1,0,0,0,0,0,0,0,0,0,0,1,"Waite, Stanley",,,23
 220105,FIN,Finance,371,"Intro to Urban Real Estate",FT,"Liberal Arts & Sciences",2525,Economics,5,8,5,0,0,0,0,0,0,0,0,0,0,0,0,3,"Cepon, Margie",,,21
@@ -441,8 +441,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220105,SOCW,"Social Work",571,"Field Instruction II",GL,"Social Work",2630,"Jane Addams Social Work",0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,"Coats, Barbara C","McKay-Jackson, Cassandra L.","Stanfield, Veronica Ann",24
 220105,SPAN,Spanish,101,"Elementary Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",32,31,14,6,3,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,90
 220105,SPAN,Spanish,102,"Elementary Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",15,33,17,4,3,0,0,0,0,0,0,0,0,0,0,5,"Grad Asst",,,77
-220105,SPAN,Spanish,103,"Elementary Spanish III",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",27,47,27,2,4,0,0,0,0,0,0,0,0,0,0,9,"Grad Asst",,,116
-220105,SPAN,Spanish,104,"Topics: Span Language &Culture",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",45,45,17,5,2,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,118
+220105,SPAN,Spanish,103,"Intermediate Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",27,47,27,2,4,0,0,0,0,0,0,0,0,0,0,9,"Grad Asst",,,116
+220105,SPAN,Spanish,104,"Intermediate Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",45,45,17,5,2,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,118
 220105,SPAN,Spanish,114,"Spanish Bilingual II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,11
 220105,SPAN,Spanish,202,"Spanish Grammar in Practice",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",7,11,4,3,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,27
 220105,SPAN,Spanish,203,"Composition Non-Native Speakrs",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,10

@@ -1,7 +1,7 @@
 TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DEPT_NAME,A,B,C,D,F,ADV,CR,DFR,I,NG,NR,O,PR,S,U,W,name1,name2,name3,grade_regs
-220175,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,3,8,8,4,3,0,0,0,0,0,0,0,0,0,0,1,"Thomas, Barbara Ann",,,27
-220175,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,7,9,10,2,2,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.",,,30
-220175,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,14,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,18
+220175,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,3,8,8,4,3,0,0,0,0,0,0,0,0,0,0,1,"Thomas, Barbara Ann",,,27
+220175,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,7,9,10,2,2,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.",,,30
+220175,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,14,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,18
 220175,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,2,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Galvan, Abel",,,16
 220175,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,3,2,3,1,1,0,0,0,0,0,1,0,0,0,0,1,"Salama, Yehia A.",,,12
 220175,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,3,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Maksy, Mostafa",,,10
@@ -53,7 +53,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220175,BVIS,"Biomedical Visualization",520,"Modeling II",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lebowicz, Leah Amanda","Daugherty, John M",,18
 220175,BVIS,"Biomedical Visualization",535,"Visual Learning & Thinking II",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Daugherty, John M","Lebowicz, Leah Amanda","Young, Christine Dorothea",16
 220175,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,3,0,0,0,0,28,9,1,0,0,0,"Thomas, Dorian E","Grad Asst","Grad Asst",41
-220175,CELE,"Clerkship Electives-Chicago",604,"Emergency  Medicine",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,3,0,0,0,0,5,4,1,0,0,0,"Gehm, Lisa","Grad Asst","Grad Asst",13
+220175,CELE,"Clerkship Electives-Chicago",604,"Core Emerg Medicine Elective",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,3,0,0,0,0,5,4,1,0,0,0,"Gehm, Lisa","Grad Asst","Grad Asst",13
 220175,CELE,"Clerkship Electives-Chicago",616,Radiology,GA,"Coll Medicine at Chicago - CS",2713,Radiology,0,0,0,0,0,3,0,0,0,0,0,13,0,0,0,0,"Xie, Karen Lin","Grad Asst","Grad Asst",16
 220175,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,5,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Stec, Ewa",,,13
 220175,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,18,14,10,3,5,0,0,0,0,0,0,0,0,0,0,2,"Stec, Ewa",,,52
@@ -180,7 +180,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220175,HN,"Human Nutrition",355,"Supervised Practice I",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",0,0,0,0,0,0,0,0,0,0,1,0,0,28,0,0,"Field, Caitlin Lantier","Bathgate, Jennifer",,29
 220175,HN,"Human Nutrition",455,"Supervised Practice II",GF,"Applied Health Sciences",2960,"Kinesiology and Nutrition",0,0,0,0,0,0,0,0,0,0,1,0,0,28,0,0,"Field, Caitlin Lantier","Braunschweig, Carol L",,29
 220175,HPA,"Health Policy & Administration",403,"US Health Care System",FY,"School of Public Health",2399,"Health Policy & Administration",9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kim, Sage J",,,15
-220175,HPA,"Health Policy & Administration",432,"Public Health Advocacy",FY,"School of Public Health",2399,"Health Policy & Administration",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,"Kling, William C",,,11
+220175,HPA,"Health Policy & Administration",432,"Public Hlth Policy & Practice",FY,"School of Public Health",2399,"Health Policy & Administration",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,"Kling, William C",,,11
 220175,HPA,"Health Policy & Administration",459,"Health Inequities in the US",FY,"School of Public Health",2399,"Health Policy & Administration",12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Samson, Linda F",,,16
 220175,HPA,"Health Policy & Administration",462,"Methods Hlth Disparities",FY,"School of Public Health",2399,"Health Policy & Administration",9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Kim, Sage J",,,10
 220175,HPA,"Health Policy & Administration",465,"Hlth Info & Dec Supp Syst",FY,"School of Public Health",2399,"Health Policy & Administration",19,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,"Mensah, Edward K","Athar, Heba Masood","Syed, Asif Amir",23
@@ -284,7 +284,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220175,NURS,"Nursing Core",408,"IHC: Adult/Older Adult",FW,Nursing,2462,"Biobehavioral Nursing Science",5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mills, Jean L",,,15
 220175,NURS,"Nursing Core",408,"IHC: Adult/Older Adult",FW,Nursing,2462,"Biobehavioral Nursing Science",18,28,3,0,0,0,0,0,0,0,0,0,0,0,0,2,"Gruss, Valerie A","Maloney, Alicia Russell",,51
 220175,NURS,"Nursing Core",414,"IHC: Mental Health",FW,Nursing,2662,"Pop Health Nursing Science",10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Simpson, Kimberly Ann",,,15
-220175,NURS,"Nursing Core",414,"Intgtd Hlth Care: Mental Hlth",FW,Nursing,2662,"Pop Health Nursing Science",39,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Handrup, Cynthia Taylor",,,51
+220175,NURS,"Nursing Core",414,"IHC: Mental Health",FW,Nursing,2662,"Pop Health Nursing Science",39,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Handrup, Cynthia Taylor",,,51
 220175,NURS,"Nursing Core",516,"EBP 2",FW,Nursing,2462,"Biobehavioral Nursing Science",15,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Ryan, Catherine",,,25
 220175,NURS,"Nursing Core",516,"EBP 2",FW,Nursing,2462,"Biobehavioral Nursing Science",18,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fritschi, Cynthia",,,24
 220175,NURS,"Nursing Core",516,"EBP 2",FW,Nursing,2462,"Biobehavioral Nursing Science",21,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collins, Eileen",,,25
@@ -349,8 +349,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220175,SOC,Sociology,445,"Sociology of the Family",FT,"Liberal Arts & Sciences",2772,Sociology,3,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Muhammad, Ray","Grad Asst",,12
 220175,SOCW,"Social Work",571,"Field Instruction II",GL,"Social Work",2630,"Jane Addams Social Work",0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,"Coats, Barbara C","Stanfield, Veronica Ann",,16
 220175,SPAN,Spanish,102,"Elementary Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",2,4,4,1,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,14
-220175,SPAN,Spanish,103,"Elementary Spanish III",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",7,7,7,2,0,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,25
-220175,SPAN,Spanish,104,"Topics: Span Language &Culture",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",20,17,11,3,2,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,55
+220175,SPAN,Spanish,103,"Intermediate Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",7,7,7,2,0,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,25
+220175,SPAN,Spanish,104,"Intermediate Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",20,17,11,3,2,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,55
 220175,SPED,"Special Education",410,"Exceptional Learners",FP,Education,2588,"Special Education",13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Talbott, Elizabeth H",,,15
 220175,SPED,"Special Education",465,"Students High Incidence Disab",FP,Education,2588,"Special Education",9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hughes, Marie Tejero",,,11
 220175,SPED,"Special Education",472,"Academ & Prosoc Intervention",FP,Education,2588,"Special Education",22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,23

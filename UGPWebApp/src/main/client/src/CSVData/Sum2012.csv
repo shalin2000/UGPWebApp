@@ -1,7 +1,7 @@
 TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DEPT_NAME,A,B,C,D,F,ADV,CR,DFR,I,NG,NR,O,PR,S,U,W,name1,name2,name3,grade_regs
 220125,AAST,"African American Studies",105,"African Americans in Film",FT,"Liberal Arts & Sciences",2363,"Black Studies",3,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Blair, Cynthia M",,,11
-220125,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,10,12,11,7,2,0,0,1,1,0,0,0,0,0,0,1,"Galvan, Abel",,,45
-220125,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,9,16,11,3,1,0,0,0,0,0,1,0,0,0,0,0,"Maksy, Mostafa",,,41
+220125,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,10,12,11,7,2,0,0,1,1,0,0,0,0,0,0,1,"Galvan, Abel",,,45
+220125,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,9,16,11,3,1,0,0,0,0,0,1,0,0,0,0,0,"Maksy, Mostafa",,,41
 220125,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,5,8,15,4,8,0,0,0,1,0,0,0,0,0,0,1,"Leventhal, Brian W",,,42
 220125,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,4,13,15,7,0,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.",,,39
 220125,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,6,9,15,1,0,0,0,0,0,0,0,0,0,0,0,1,"Salama, Yehia A.",,,32
@@ -59,7 +59,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220125,BVIS,"Biomedical Visualization",545,"Computer-based Multimedia",GF,"Applied Health Sciences",2318,"Biomed & Health Info Sciences",10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,"Blew, Gregory A","Daugherty, John M",,15
 220125,CELE,"Clerkship Electives-Chicago",600,"Elective Clerkship",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,2,0,0,0,1,81,3,2,0,0,0,"Instructor, Missing",,,89
 220125,CELE,"Clerkship Electives-Chicago",602,Anesthesiology,GA,"Coll Medicine at Chicago - CS",2258,Anesthesiology,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,"Instructor, Missing",,,10
-220125,CELE,"Clerkship Electives-Chicago",604,"Emergency  Medicine",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,"Instructor, Missing",,,17
+220125,CELE,"Clerkship Electives-Chicago",604,"Core Emerg Medicine Elective",GA,"Coll Medicine at Chicago - CS",2498,"Emergency Medicine",0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,"Instructor, Missing",,,17
 220125,CELE,"Clerkship Electives-Chicago",616,Radiology,GA,"Coll Medicine at Chicago - CS",2713,Radiology,0,0,0,0,0,0,0,0,0,0,12,3,0,1,0,0,"Instructor, Missing",,,16
 220125,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,5,7,8,0,1,0,0,0,0,0,0,0,0,0,0,0,"Widing, Robert W",,,21
 220125,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,5,7,9,4,3,0,0,0,0,0,0,0,0,0,0,3,"Lakhani, Ahmed Ashiqali","Grad Asst",,31
@@ -441,8 +441,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220125,SOCW,"Social Work",571,"Field Instruction II",GL,"Social Work",2630,"Jane Addams Social Work",0,0,0,0,0,0,0,0,6,0,1,0,0,16,0,0,"Coats, Barbara C","Stanfield, Veronica Ann",,23
 220125,SPAN,Spanish,101,"Elementary Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",12,12,5,0,1,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,33
 220125,SPAN,Spanish,102,"Elementary Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",6,15,9,2,2,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,36
-220125,SPAN,Spanish,103,"Elementary Spanish III",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",14,31,20,6,2,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,73
-220125,SPAN,Spanish,104,"Topics: Span Language &Culture",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",25,54,35,15,4,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,137
+220125,SPAN,Spanish,103,"Intermediate Spanish I",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",14,31,20,6,2,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,73
+220125,SPAN,Spanish,104,"Intermediate Spanish II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",25,54,35,15,4,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,137
 220125,SPAN,Spanish,114,"Spanish Bilingual II",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",11,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"Grad Asst",,,12
 220125,SPAN,Spanish,202,"Spanish Grammar in Practice",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",4,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,10
 220125,SPAN,Spanish,210,"Introduction to Hispanic Texts",FT,"Liberal Arts & Sciences",2606,"Hispanic and Italian Studies",2,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,11
