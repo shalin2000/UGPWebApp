@@ -48,7 +48,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220181,AH,"Art History",180,"Intro to Museum & Exhibition",FR,"Architecture,Design,& the Arts",2910,"Art History",30,6,1,0,1,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,41
 220181,AH,"Art History",201,"Reading&Writing Art Criticism",FR,"Architecture,Design,& the Arts",2910,"Art History",16,12,3,2,3,0,0,0,2,0,0,0,0,0,0,1,"Grad Asst",,,39
 220181,AH,"Art History",205,"Roman Art and Archaeology",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",8,3,4,2,1,0,0,0,0,0,0,0,0,0,0,2,"Tobin, Jennifer L",,,20
-220181,AH,"Art History",208,"Topics Modern Arch, Art&Design",FR,"Architecture,Design,& the Arts",2910,"Art History",13,10,1,1,1,0,0,0,1,0,0,0,0,0,0,5,"Archias, S Elise",,,32
+220181,AH,"Art History",208,"Mod/Contemp Latin American Art",FR,"Architecture,Design,& the Arts",2910,"Art History",13,10,1,1,1,0,0,0,1,0,0,0,0,0,0,5,"Archias, S Elise",,,32
 220181,AH,"Art History",218,"Pompeii: Everyday Life in a Roman Town",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",1,2,5,1,0,0,0,0,1,0,0,0,0,0,0,0,"Ros, Karen E",,,10
 220181,AH,"Art History",230,"History of Photography I",FR,"Architecture,Design,& the Arts",2910,"Art History",10,4,3,0,2,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,19
 220181,AH,"Art History",236,"History of Design II",FR,"Architecture,Design,& the Arts",2910,"Art History",2,10,5,0,1,0,0,0,0,0,0,0,0,0,0,0,"Mekinda, Jonathan",,,18
@@ -166,7 +166,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220181,ASP,"Academic Skills Program",092,"Vocabulary Enrichment",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,0,"De Leon, Jose",,,13
 220181,ASP,"Academic Skills Program",095,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,0,"Zenner, Audrey Marsha",,,12
 220181,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,27,5,0,"Warner, Kimberly",,,32
-220181,BA,"Business Administration",190,"Seminar for Bus Scholars",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,123,0,0,0,0,0,"Prazza, Angela J","Sanchez, Mayra","Durham-Wiersema, Shonta",123
+220181,BA,"Business Administration",190,"UIC Business Seminar Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,123,0,0,0,0,0,"Prazza, Angela J","Sanchez, Mayra","Durham-Wiersema, Shonta",123
 220181,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",14,38,20,4,5,0,0,0,0,0,0,0,0,0,0,1,"Corte, Anthony M",,,82
 220181,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",19,4,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"Souri, Ranjit J",,,27
 220181,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",24,18,2,0,1,0,0,0,0,0,0,0,0,0,0,1,"Meyer, Ann",,,46
@@ -180,7 +180,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220181,BA,"Business Administration",220,"Business Prof Dev II",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,"Souri, Ranjit J",,,18
 220181,BA,"Business Administration",289,"Business Internship Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,71,1,0,"Anderson, John D",,,72
 220181,BA,"Business Administration",300,"Adv Mngrl Comm for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",12,9,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kohler, William Russell",,,25
-220181,BA,"Business Administration",330,"Bus Dec Mkng for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",14,8,5,1,0,0,0,0,0,0,0,0,0,0,0,2,"Adams, Vangeliya Pavlova",,,30
+220181,BA,"Business Administration",330,"Business Decision Making",FL,"Business Administration",2785,"Business Administration Admini",14,8,5,1,0,0,0,0,0,0,0,0,0,0,0,2,"Adams, Vangeliya Pavlova",,,30
 220181,BA,"Business Administration",420,"Professional Presence",FL,"Business Administration",2785,"Business Administration Admini",17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Thomas, Richard Steven",,,18
 220181,BA,"Business Administration",420,"Professional Presence",FL,"Business Administration",2785,"Business Administration Admini",31,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Warner, Kimberly",,,37
 220181,BA,"Business Administration",420,"Professional Presence",FL,"Business Administration",2785,"Business Administration Admini",35,2,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Souri, Ranjit J",,,41
@@ -249,14 +249,14 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220181,BIOS,"Biological Sciences",222,"Cell Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",50,54,25,10,4,0,0,0,2,0,0,0,0,0,0,4,"Alfonso, Aixa","Grad Asst",,149
 220181,BIOS,"Biological Sciences",222,"Cell Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",129,125,64,14,5,0,0,0,1,0,0,0,0,0,0,11,"Warpeha, Katherine Mary","Saxena, Ankur","Grad Asst",349
 220181,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",154,45,5,4,1,0,0,0,1,0,22,0,0,0,0,4,"McGinley, Andrea Louise","Grad Asst",,236
-220181,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",12,28,40,15,6,0,0,0,0,0,0,0,0,0,0,5,"Nelson, Karin Noel","Grad Asst",,106
-220181,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",32,63,44,18,4,0,0,0,0,0,0,0,0,0,0,9,"Ashley, Mary Virginia","Grad Asst",,170
+220181,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",12,28,40,15,6,0,0,0,0,0,0,0,0,0,0,5,"Nelson, Karin Noel","Grad Asst",,106
+220181,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",32,63,44,18,4,0,0,0,0,0,0,0,0,0,0,9,"Ashley, Mary Virginia","Grad Asst",,170
 220181,BIOS,"Biological Sciences",236,"Animal Behavior",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",12,19,17,1,3,0,0,0,0,0,0,0,0,0,0,2,"Nelson, Karin Noel","Grad Asst",,54
 220181,BIOS,"Biological Sciences",240,"Animal Physiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",62,50,57,12,5,0,0,0,1,0,0,0,0,0,0,22,"Richmond, Janet Elizabeth","Grad Asst","Grad Asst",209
 220181,BIOS,"Biological Sciences",240,"Animal Physiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",94,44,6,0,1,0,0,0,0,0,0,0,0,0,0,1,"Molumby, Alan J","Grad Asst","Grad Asst",146
 220181,BIOS,"Biological Sciences",320,"Developmental Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",9,7,14,3,1,0,0,0,0,0,0,0,0,0,0,1,"Okkema, Peter G","Orenic, Teresa Vales","Grad Asst",35
 220181,BIOS,"Biological Sciences",321,"Developmental  Biology Lab",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",7,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mc Cutcheon, Suzanne M","Grad Asst",,12
-220181,BIOS,"Biological Sciences",325,"Vertebrate Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",16,9,8,2,1,0,0,0,1,0,0,0,0,0,0,2,"McGinley, Andrea Louise",,,39
+220181,BIOS,"Biological Sciences",325,"Human Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",16,9,8,2,1,0,0,0,1,0,0,0,0,0,0,2,"McGinley, Andrea Louise",,,39
 220181,BIOS,"Biological Sciences",331,"Ecology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",26,31,8,0,0,0,0,0,1,0,0,0,0,0,0,2,"Ale, Som Bahadur","Grad Asst",,68
 220181,BIOS,"Biological Sciences",335,"History of Life",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",4,3,8,2,3,0,0,0,0,0,0,0,0,0,0,2,"Nelson, Karin Noel","Grad Asst",,22
 220181,BIOS,"Biological Sciences",350,"General Microbiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",69,158,132,35,18,0,0,0,0,0,0,0,0,0,0,16,"Gibbons, Sandra Helen","Grad Asst","Grad Asst",428
@@ -268,7 +268,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220181,BIOS,"Biological Sciences",399,"Independent Research",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",0,0,0,0,0,0,0,6,1,0,0,0,0,25,0,0,"Lefkow Kalish, Margaret",,,32
 220181,BIOS,"Biological Sciences",430,Evolution,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",5,4,1,1,1,0,0,0,0,0,0,0,0,0,0,2,"Igic, Boris",,,14
 220181,BIOS,"Biological Sciences",431,"Plant & Animal Interactions",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",16,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Howe, Henry Franklin",,,29
-220181,BIOS,"Biological Sciences",443,"Advanced Mammalian Physiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",24,32,22,8,0,0,0,0,0,0,0,0,0,0,0,1,"Park, Thomas J","Grad Asst",,87
+220181,BIOS,"Biological Sciences",443,"Animal Physiological Systems Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",24,32,22,8,0,0,0,0,0,0,0,0,0,0,0,1,"Park, Thomas J","Grad Asst",,87
 220181,BIOS,"Biological Sciences",450,"Advanced Microbiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",6,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,"Poretsky, Rachel S",,,13
 220181,BIOS,"Biological Sciences",452,"Biochemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,9,5,5,1,1,0,0,0,0,0,0,0,0,0,0,2,"Min, Jung-Hyun",,,23
 220181,BIOS,"Biological Sciences",452,"Biochemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,10,5,10,2,0,0,0,0,0,0,0,0,0,0,0,0,"Fung, Leslie Wo-Mei",,,27
@@ -1001,7 +1001,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220181,FR,French,201,"French Lit:19th - 21st century",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Miner, Margaret R.",,,11
 220181,FR,French,202,"Fr Lit: Crusades to Revolution",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",8,5,2,0,0,0,0,0,1,0,0,0,0,0,0,0,"McClure, Ellen M",,,16
 220181,FR,French,232,"Conversation & Comp II",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",5,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Pearson, Melissa A",,,13
-220181,FR,French,302,"Topics in Cultural Studies",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",4,2,1,0,1,0,0,0,1,0,0,0,0,0,0,1,"Weber, Elizabeth D",,,10
+220181,FR,French,302,"Topics in French Culture",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",4,2,1,0,1,0,0,0,1,0,0,0,0,0,0,1,"Weber, Elizabeth D",,,10
 220181,GAMD,"Guaranteed Admissions Medicine",200,"Medicine as a Profession",GA,"Coll Medicine at Chicago - CS",2649,Administration,34,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"Chambers, Donald Arthur","Cohen, Rhonna L","Sanders-Marcus, Caryn L",40
 220181,GAMD,"Guaranteed Admissions Medicine",200,"The Evolution of Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,"Sandlow, Leslie J","Chamberlin, William H","Sanders-Marcus, Caryn L",39
 220181,GC,"Graduate College",500,"Chicago Metropolitan Exchange",FS,"Graduate College",2480,"Graduate Admin",3,0,0,0,0,0,0,11,0,0,0,0,0,0,0,1,"Kollenbroich, James Edward","Aguirre, Araceli",,15

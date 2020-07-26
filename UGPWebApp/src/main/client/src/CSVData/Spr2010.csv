@@ -247,12 +247,12 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220101,BIOS,"Biological Sciences",221,"Genetics Lab",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",93,40,13,0,0,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,150
 220101,BIOS,"Biological Sciences",222,"Cell Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",51,47,86,24,13,0,0,0,1,0,0,0,0,0,0,25,"Grad Asst","Alfonso, Aixa","Featherstone, David E.",247
 220101,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",16,22,18,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","O'Dell, Andrew Steven Kemp",,56
-220101,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",12,39,46,2,0,0,0,0,0,0,0,0,0,0,0,6,"Grad Asst","Molumby, Alan J",,105
-220101,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",26,56,40,22,9,0,0,0,0,0,0,0,0,0,0,5,"Nelson, Karin Noel","Grad Asst",,158
+220101,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",12,39,46,2,0,0,0,0,0,0,0,0,0,0,0,6,"Grad Asst","Molumby, Alan J",,105
+220101,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",26,56,40,22,9,0,0,0,0,0,0,0,0,0,0,5,"Nelson, Karin Noel","Grad Asst",,158
 220101,BIOS,"Biological Sciences",236,"Animal Behavior",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",13,26,27,14,11,0,0,0,0,0,0,0,0,0,0,9,"Nelson, Karin Noel","Grad Asst",,100
 220101,BIOS,"Biological Sciences",240,Homeostasis,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",31,62,77,29,21,0,0,0,0,0,0,0,0,0,0,25,"Richmond, Janet Elizabeth","Gonzalez-Meler, Miquel Angel","Grad Asst",245
-220101,BIOS,"Biological Sciences",325,"Vertebrate Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",3,8,8,2,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst","Schmidt, Jennifer Virginia",,24
-220101,BIOS,"Biological Sciences",325,"Vertebrate Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",26,35,16,12,4,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,96
+220101,BIOS,"Biological Sciences",325,"Human Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",3,8,8,2,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst","Schmidt, Jennifer Virginia",,24
+220101,BIOS,"Biological Sciences",325,"Human Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",26,35,16,12,4,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,96
 220101,BIOS,"Biological Sciences",331,"Ecology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",12,21,9,3,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,47
 220101,BIOS,"Biological Sciences",335,"History of Life",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",7,18,24,17,11,0,0,0,0,0,1,0,0,0,0,7,"Nelson, Karin Noel","Grad Asst",,85
 220101,BIOS,"Biological Sciences",350,"General Microbiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",16,56,53,12,4,0,0,0,1,0,0,0,0,0,0,8,"Gibbons, Sandra Helen","Grad Asst",,150
@@ -262,7 +262,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220101,BIOS,"Biological Sciences",351,"Microbiology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",13,46,30,3,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","O'Dell, Andrew Steven Kemp",,93
 220101,BIOS,"Biological Sciences",399,"Independent Research",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",0,0,0,0,0,0,0,5,0,0,0,0,0,18,0,1,"Stark, Tricia C",,,24
 220101,BIOS,"Biological Sciences",431,"Plant & Animal Interactions",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",14,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Howe, Henry Franklin",,,23
-220101,BIOS,"Biological Sciences",443,"Animal Physiolog Systems",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",20,32,35,4,2,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,96
+220101,BIOS,"Biological Sciences",443,"Animal Physiological Systems Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",20,32,35,4,2,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,96
 220101,BIOS,"Biological Sciences",452,"Biochemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,15,25,30,1,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst","Miller, Lawrence",,74
 220101,BIOS,"Biological Sciences",454,"Biochemistry II",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",4,14,5,1,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,25
 220101,BIOS,"Biological Sciences",485,"Neuroscience II",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",17,14,5,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","Wirtshafter, Robert D",,37

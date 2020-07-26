@@ -141,7 +141,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220161,ASP,"Academic Skills Program",095,"Academic & Professional Wrtg",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,"Zenner, Audrey Marsha",,,10
 220161,ASST,"Asian Studies",125,"Asian Art and Architecture",FR,"Architecture,Design,& the Arts",2910,"Art History",1,5,4,0,1,0,0,0,0,0,0,0,0,0,0,0,"Becker, Catherine",,,11
 220161,ASST,"Asian Studies",276,"Modern South Asia",FT,"Liberal Arts & Sciences",2316,History,1,8,1,0,0,0,0,0,0,0,1,0,0,0,0,1,"Mantena, Rama",,,12
-220161,BA,"Business Administration",190,"Seminar for Bus Scholars",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,22,0,0,81,0,0,"Prazza, Angela J",,,103
+220161,BA,"Business Administration",190,"UIC Business Seminar Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,22,0,0,81,0,0,"Prazza, Angela J",,,103
 220161,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",14,65,31,2,3,0,0,0,0,0,0,0,0,0,0,3,"Corte, Anthony M",,,118
 220161,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",36,30,1,1,2,0,0,0,1,0,0,0,0,0,0,2,"Kohler, William Russell",,,73
 220161,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",55,38,7,0,0,0,0,0,0,0,0,0,0,0,0,2,"Wang, Jie",,,102
@@ -223,14 +223,14 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220161,BIOS,"Biological Sciences",222,"Cell Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",69,81,55,13,3,0,0,0,0,0,0,0,0,0,0,3,"Alfonso, Aixa","Featherstone, David E.","Grad Asst",224
 220161,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",38,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"McGinley, Andrea Louise","Lee, Ji Inn",,40
 220161,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",74,16,3,0,1,0,0,0,0,0,0,0,0,0,0,1,"McGinley, Andrea Louise","Grad Asst",,95
-220161,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",23,47,42,19,13,0,0,0,0,0,1,0,0,0,0,3,"Nelson, Karin Noel","Grad Asst",,148
-220161,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",41,51,51,20,1,0,0,0,0,0,0,0,0,0,0,5,"Ashley, Mary Virginia","Grad Asst",,169
+220161,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",23,47,42,19,13,0,0,0,0,0,1,0,0,0,0,3,"Nelson, Karin Noel","Grad Asst",,148
+220161,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",41,51,51,20,1,0,0,0,0,0,0,0,0,0,0,5,"Ashley, Mary Virginia","Grad Asst",,169
 220161,BIOS,"Biological Sciences",236,"Animal Behavior",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,20,16,8,3,0,0,0,1,0,0,0,0,0,0,4,"Nelson, Karin Noel","Grad Asst",,62
 220161,BIOS,"Biological Sciences",240,Homeostasis,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",32,41,51,12,10,0,0,1,1,0,0,0,0,0,0,12,"Richmond, Janet Elizabeth","Gonzalez-Meler, Miquel Angel","Grad Asst",160
 220161,BIOS,"Biological Sciences",240,Homeostasis,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",44,53,40,4,0,0,0,0,0,0,3,0,0,0,0,7,"Molumby, Alan J","Malchow, Robert Paul","Grad Asst",151
 220161,BIOS,"Biological Sciences",296,"Directed Instruction",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Schmidt, Jennifer Virginia","Nelson, Karin Noel",,18
 220161,BIOS,"Biological Sciences",320,"Developmental Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,9,7,6,1,0,0,0,0,0,0,0,0,0,0,0,"Okkema, Peter G","Orenic, Teresa Vales","Grad Asst",33
-220161,BIOS,"Biological Sciences",325,"Vertebrate Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",12,21,19,10,3,0,0,0,0,0,0,0,0,0,0,4,"Schmidt, Jennifer Virginia","McGinley, Andrea Louise",,69
+220161,BIOS,"Biological Sciences",325,"Human Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",12,21,19,10,3,0,0,0,0,0,0,0,0,0,0,4,"Schmidt, Jennifer Virginia","McGinley, Andrea Louise",,69
 220161,BIOS,"Biological Sciences",331,"Ecology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",35,29,5,1,0,0,0,0,0,0,0,0,0,0,0,2,"Ale, Som Bahadur","Grad Asst",,72
 220161,BIOS,"Biological Sciences",335,"History of Life",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",5,15,11,3,2,0,0,0,0,0,0,0,0,0,0,3,"Nelson, Karin Noel","Grad Asst",,39
 220161,BIOS,"Biological Sciences",350,"General Microbiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",24,76,53,21,8,0,0,0,0,0,0,0,0,0,0,9,"Gibbons, Sandra Helen","Grad Asst",,191
@@ -241,7 +241,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220161,BIOS,"Biological Sciences",399,"Independent Research",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",0,0,0,0,0,0,0,5,0,0,0,0,0,26,1,0,"Falk, Patrick Joseph",,,32
 220161,BIOS,"Biological Sciences",430,Evolution,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",6,4,5,1,0,0,0,0,0,0,0,0,0,0,0,2,"Igic, Boris",,,18
 220161,BIOS,"Biological Sciences",431,"Plant & Animal Interactions",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",16,10,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Howe, Henry Franklin",,,28
-220161,BIOS,"Biological Sciences",443,"Animal Physiolog Systems",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",16,18,20,2,0,0,0,0,0,0,0,0,0,0,0,4,"Park, Thomas J","Leonard, John P",,60
+220161,BIOS,"Biological Sciences",443,"Animal Physiological Systems Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",16,18,20,2,0,0,0,0,0,0,0,0,0,0,0,4,"Park, Thomas J","Leonard, John P",,60
 220161,BIOS,"Biological Sciences",450,"Advanced Microbiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",7,7,8,0,1,0,0,0,0,0,0,0,0,0,0,3,"Poretsky, Rachel S",,,26
 220161,BIOS,"Biological Sciences",452,"Biochemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,30,34,26,6,1,0,0,0,1,0,0,0,0,0,0,6,"Hatfield, Rita",,,104
 220161,BIOS,"Biological Sciences",452,"Biochemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,30,36,21,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fung, Leslie Wo-Mei",,,87
@@ -971,7 +971,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220161,FR,French,231,"Conversation & Comp I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",8,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Pearson, Melissa A",,,15
 220161,FR,French,232,"Conversation & Comp II",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",5,6,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Pearson, Melissa A",,,15
 220161,FR,French,298,"French Lit/Drama/Film",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",6,5,3,0,2,0,0,0,0,0,0,0,0,0,0,1,"Robert, Yann F",,,17
-220161,FR,French,302,"Topics in Cultural Studies",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",9,10,0,0,2,0,0,0,0,0,0,0,0,0,0,1,"Ireland, Charles John",,,22
+220161,FR,French,302,"Topics in French Culture",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",9,10,0,0,2,0,0,0,0,0,0,0,0,0,0,1,"Ireland, Charles John",,,22
 220161,FR,French,440,"French/Francophone Cinema",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",2,5,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"Weber, Elizabeth D",,,10
 220161,GAMD,"Guaranteed Admissions Medicine",200,"Medicine as a Profession",GA,"Coll Medicine at Chicago - CS",2649,Administration,33,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chambers, Donald Arthur","Cohen, Rhonna L","Sanders-Marcus, Caryn L",35
 220161,GAMD,"Guaranteed Admissions Medicine",200,"The Evolution of Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,"Sandlow, Leslie J","Sanders-Marcus, Caryn L",,35

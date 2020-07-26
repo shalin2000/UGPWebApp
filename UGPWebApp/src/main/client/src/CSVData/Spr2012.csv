@@ -103,7 +103,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220121,AH,"Art History",160,"Trends in Contemp Art",FR,"Architecture,Design,& the Arts",2910,"Art History",15,5,4,0,2,0,0,0,0,0,0,0,0,0,0,5,"Robbins, Christa N",,,31
 220121,AH,"Art History",201,"Reading&Writing Art Criticism",FR,"Architecture,Design,& the Arts",2910,"Art History",12,3,1,0,1,0,0,0,2,0,0,0,0,0,0,0,"Grad Asst",,,19
 220121,AH,"Art History",205,"Roman Art and Archaeology",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",8,4,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Tobin, Jennifer L",,,15
-220121,AH,"Art History",208,"Topics Modern Arch, Art&Design",FR,"Architecture,Design,& the Arts",2910,"Art History",4,6,4,1,6,0,0,0,1,0,0,0,0,0,0,0,"Pedret, Annie",,,22
+220121,AH,"Art History",208,"Mod/Contemp Latin American Art",FR,"Architecture,Design,& the Arts",2910,"Art History",4,6,4,1,6,0,0,0,1,0,0,0,0,0,0,0,"Pedret, Annie",,,22
 220121,AH,"Art History",221,"Medieval Architecture",FR,"Architecture,Design,& the Arts",2910,"Art History",5,14,8,4,1,0,0,0,0,0,0,0,0,0,0,3,"Grossman, Heather E",,,35
 220121,AH,"Art History",231,"History of Photography II",FR,"Architecture,Design,& the Arts",2910,"Art History",12,24,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Denny, Margaret",,,42
 220121,AH,"Art History",233,"Film History II: WWII-Present",FT,"Liberal Arts & Sciences",2492,English,3,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,"Rubin, Martin L.","Grad Asst",,14
@@ -235,12 +235,12 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220121,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",6,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","O'Dell, Andrew Steven Kemp","Grad Asst",20
 220121,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,4,1,0,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,17
 220121,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",15,19,3,0,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","O'Dell, Andrew Steven Kemp",,39
-220121,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",15,45,45,30,22,0,0,0,0,0,1,0,0,0,0,8,"Grad Asst","Nelson, Karin Noel",,166
-220121,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",49,67,38,11,1,0,0,0,0,0,0,0,0,0,0,4,"Ashley, Mary Virginia","Grad Asst",,170
+220121,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",15,45,45,30,22,0,0,0,0,0,1,0,0,0,0,8,"Grad Asst","Nelson, Karin Noel",,166
+220121,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",49,67,38,11,1,0,0,0,0,0,0,0,0,0,0,4,"Ashley, Mary Virginia","Grad Asst",,170
 220121,BIOS,"Biological Sciences",236,"Animal Behavior",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",13,38,22,16,5,0,0,0,0,0,0,0,0,0,0,27,"Nelson, Karin Noel","Grad Asst",,121
 220121,BIOS,"Biological Sciences",240,Homeostasis,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",105,83,82,8,3,0,0,0,1,0,3,0,0,0,0,28,"Richmond, Janet Elizabeth","Molumby, Alan J","Grad Asst",313
 220121,BIOS,"Biological Sciences",296,"Directed Instruction",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Nelson, Karin Noel",,,18
-220121,BIOS,"Biological Sciences",325,"Vertebrate Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",19,20,28,7,5,0,0,0,0,0,0,0,0,0,0,6,"Grad Asst",,,85
+220121,BIOS,"Biological Sciences",325,"Human Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",19,20,28,7,5,0,0,0,0,0,0,0,0,0,0,6,"Grad Asst",,,85
 220121,BIOS,"Biological Sciences",331,"Ecology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",11,23,7,4,1,0,0,0,1,0,0,0,0,0,0,1,"Ale, Som Bahadur","Grad Asst",,48
 220121,BIOS,"Biological Sciences",335,"History of Life",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",7,18,18,5,1,0,0,0,0,0,0,0,0,0,0,4,"Nelson, Karin Noel","Ebey-Honeycutt, Christina M",,53
 220121,BIOS,"Biological Sciences",350,"General Microbiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",26,53,47,10,2,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst",,,142
@@ -250,7 +250,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220121,BIOS,"Biological Sciences",351,"Microbiology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",22,55,28,6,1,0,0,0,0,0,0,0,0,0,0,4,"Grad Asst","O'Dell, Andrew Steven Kemp",,116
 220121,BIOS,"Biological Sciences",399,"Independent Research",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",0,0,0,0,0,0,0,11,0,0,4,0,0,29,0,0,"Stark, Tricia C",,,44
 220121,BIOS,"Biological Sciences",431,"Plant & Animal Interactions",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",27,13,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"Howe, Henry Franklin",,,42
-220121,BIOS,"Biological Sciences",443,"Animal Physiolog Systems",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",18,41,30,11,2,0,0,0,0,0,0,0,0,0,0,2,"Park, Thomas J",,,104
+220121,BIOS,"Biological Sciences",443,"Animal Physiological Systems Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",18,41,30,11,2,0,0,0,0,0,0,0,0,0,0,2,"Park, Thomas J",,,104
 220121,BIOS,"Biological Sciences",452,"Biochemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,14,18,24,6,4,0,0,0,2,0,0,0,0,0,0,7,"Hatfield, Rita",,,75
 220121,BIOS,"Biological Sciences",454,"Biochemistry II",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",8,14,7,0,1,0,0,0,0,0,0,0,0,0,0,3,"Nichols, Brian P",,,33
 220121,BIOS,"Biological Sciences",483,Neuroanatomy,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Wirtshafter, Robert D",,,17
@@ -929,7 +929,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220121,FR,French,231,"Conversation & Comp I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",5,8,1,2,0,0,0,0,1,0,0,0,0,0,0,4,"Miner, Margaret R.",,,21
 220121,FR,French,232,"Conversation & Comp II",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",7,12,2,1,0,0,0,0,0,0,0,0,0,0,0,2,"Fifer, Stacy Ellen",,,24
 220121,FR,French,298,"French Lit/Drama/Film",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",9,15,3,0,1,0,0,0,0,0,0,0,0,0,0,2,"Guillemin, Anna",,,30
-220121,FR,French,302,"Topics in Cultural Studies",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",11,6,0,0,2,0,0,0,0,0,0,0,0,0,0,3,"Miner, Margaret R.",,,22
+220121,FR,French,302,"Topics in French Culture",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",11,6,0,0,2,0,0,0,0,0,0,0,0,0,0,3,"Miner, Margaret R.",,,22
 220121,FR,French,303,"Writing in the Discipline",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",5,1,0,0,0,0,0,0,0,0,3,0,0,0,0,1,"Ireland, Charles John",,,10
 220121,FR,French,422,"Francophone Novel",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,"Ireland, Charles John",,,11
 220121,GAMD,"Guaranteed Admissions Medicine",200,"History and Philosphy of Med",GA,"Coll Medicine at Chicago - CS",2649,Administration,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sufian, Sandra M",,,16

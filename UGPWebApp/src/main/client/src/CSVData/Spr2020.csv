@@ -182,7 +182,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,ASP,"Academic Skills Program",080,"Workshop for Calculus -LARES",JJ,"Vice Chanc for Student Affairs",2923,"Academic Center for Excellence",0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,"Mankus, Terrance A",,,18
 220201,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,40,6,0,"Warner, Kimberly",,,46
 220201,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,1,0,0,0,0,37,6,2,"Anderson, Stephanie Leigh",,,46
-220201,BA,"Business Administration",190,"Seminar for Bus Scholars",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,110,0,0,"Prazza, Angela J","Durham-Wiersema, Shonta","Sanchez, Mayra",110
+220201,BA,"Business Administration",190,"UIC Business Seminar Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,110,0,0,"Prazza, Angela J","Durham-Wiersema, Shonta","Sanchez, Mayra",110
 220201,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",15,9,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Wang, Jie",,,27
 220201,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",19,16,11,5,3,0,0,0,0,0,1,0,0,0,0,1,"Duros, Sally",,,56
 220201,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",27,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Souri, Ranjit J",,,28
@@ -202,7 +202,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,BA,"Business Administration",320,"Civic Engagement",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,"Wilson, Jeffrey Crossen",,,41
 220201,BA,"Business Administration",320,"Civic Engagement",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,1,0,0,61,0,0,"Lloyd, Anna K",,,62
 220201,BA,"Business Administration",320,"Civic Engagement",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,"Wilson, Jeffrey Crossen",,,15
-220201,BA,"Business Administration",330,"Bus Dec Mkng for BBA Online",FL,"Business Administration",2785,"Business Administration Admini",25,20,2,0,2,0,0,0,0,0,0,0,0,0,0,0,"Adams, Vangeliya Pavlova",,,49
+220201,BA,"Business Administration",330,"Business Decision Making",FL,"Business Administration",2785,"Business Administration Admini",25,20,2,0,2,0,0,0,0,0,0,0,0,0,0,0,"Adams, Vangeliya Pavlova",,,49
 220201,BA,"Business Administration",420,"Professional Presence",FL,"Business Administration",2785,"Business Administration Admini",23,12,1,0,1,0,0,0,0,0,0,0,0,0,0,1,"Warner, Kimberly",,,38
 220201,BA,"Business Administration",420,"Professional Presence",FL,"Business Administration",2785,"Business Administration Admini",45,7,4,0,1,0,0,0,0,0,0,0,0,0,0,1,"Wilson, Jeffrey Crossen",,,58
 220201,BA,"Business Administration",420,"Professional Presence",FL,"Business Administration",2785,"Business Administration Admini",47,7,2,0,0,0,0,0,0,0,0,0,0,0,0,2,"Anderson, Stephanie Leigh",,,58
@@ -311,7 +311,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,BIOS,"Biological Sciences",391,"Independent Study",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Warpeha, Katherine Mary",,,10
 220201,BIOS,"Biological Sciences",399,"Independent Research",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",0,0,0,0,0,0,0,9,1,0,0,0,0,18,0,0,"Shingleton, Alexander",,,28
 220201,BIOS,"Biological Sciences",431,"Plant & Animal Interactions",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",8,4,0,1,0,0,0,0,2,0,0,0,0,0,0,1,"BassiriRad, Hormoz",,,16
-220201,BIOS,"Biological Sciences",443,"Animal Physiology Systems Lab",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",15,32,12,5,3,0,0,0,0,0,0,0,0,0,0,0,"Logan, Stephen M",,,67
+220201,BIOS,"Biological Sciences",443,"Animal Physiological Systems Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",15,32,12,5,3,0,0,0,0,0,0,0,0,0,0,0,"Logan, Stephen M",,,67
 220201,BIOS,"Biological Sciences",452,"Biochemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,14,9,6,0,0,0,0,0,0,0,0,0,0,0,0,1,"Hatfield, Rita",,,30
 220201,BIOS,"Biological Sciences",454,"Biochemistry II",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",36,6,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"Kay, Brian",,,43
 220201,BIOS,"Biological Sciences",482,"Mol and Dev Neurobiology Lab",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chang, Chieh","Chuang, Chiou-Fen","Grad Asst",22

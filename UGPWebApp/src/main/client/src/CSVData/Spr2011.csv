@@ -233,13 +233,13 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220111,BIOS,"Biological Sciences",221,"Genetics Lab",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",115,75,20,0,0,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst",,,212
 220111,BIOS,"Biological Sciences",222,"Cell Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",63,49,96,27,14,0,0,0,1,0,0,0,0,0,0,17,"Alfonso, Aixa","Featherstone, David E.","Grad Asst",267
 220111,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",18,23,15,0,0,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst","O'Dell, Andrew Steven Kemp",,58
-220111,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",23,44,38,22,5,0,0,0,0,0,0,0,0,0,0,12,"Nelson, Karin Noel","Grad Asst",,144
-220111,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",33,35,62,9,4,0,0,0,0,0,1,0,0,0,0,5,"Molumby, Alan J","Grad Asst",,149
+220111,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",23,44,38,22,5,0,0,0,0,0,0,0,0,0,0,12,"Nelson, Karin Noel","Grad Asst",,144
+220111,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",33,35,62,9,4,0,0,0,0,0,1,0,0,0,0,5,"Molumby, Alan J","Grad Asst",,149
 220111,BIOS,"Biological Sciences",236,"Animal Behavior",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,18,21,14,6,0,0,0,0,0,0,0,0,0,0,10,"Nelson, Karin Noel","Grad Asst",,79
 220111,BIOS,"Biological Sciences",240,Homeostasis,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",56,77,78,38,9,0,0,0,0,0,0,0,0,0,0,21,"Richmond, Janet Elizabeth","Gonzalez-Meler, Miquel Angel","Grad Asst",279
 220111,BIOS,"Biological Sciences",296,"Directed Instruction",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,"Schmidt, Jennifer Virginia",,,13
-220111,BIOS,"Biological Sciences",325,"Vertebrate Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",5,6,2,2,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","Schmidt, Jennifer Virginia",,17
-220111,BIOS,"Biological Sciences",325,"Vertebrate Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",17,14,16,10,7,0,0,0,0,0,0,0,0,0,0,7,"Grad Asst",,,71
+220111,BIOS,"Biological Sciences",325,"Human Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",5,6,2,2,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","Schmidt, Jennifer Virginia",,17
+220111,BIOS,"Biological Sciences",325,"Human Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",17,14,16,10,7,0,0,0,0,0,0,0,0,0,0,7,"Grad Asst",,,71
 220111,BIOS,"Biological Sciences",331,"Ecology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,15,10,6,2,0,0,0,2,0,0,0,0,0,0,3,"Grad Asst",,,48
 220111,BIOS,"Biological Sciences",335,"History of Life",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",6,11,16,14,9,0,0,0,0,0,0,0,0,0,0,10,"Nelson, Karin Noel","Grad Asst",,66
 220111,BIOS,"Biological Sciences",350,"General Microbiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",128,137,43,2,1,0,0,0,0,0,0,0,0,0,0,4,"Gibbons, Sandra Helen","Grad Asst",,315
@@ -249,7 +249,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220111,BIOS,"Biological Sciences",399,"Independent Research",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",0,0,0,0,0,0,0,16,0,0,0,0,0,22,2,0,"Stark, Tricia C",,,40
 220111,BIOS,"Biological Sciences",431,"Plant & Animal Interactions",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",14,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Howe, Henry Franklin",,,23
 220111,BIOS,"Biological Sciences",435,"Plant Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,2,"Igic, Boris",,,20
-220111,BIOS,"Biological Sciences",443,"Animal Physiolog Systems",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",24,30,21,4,1,0,0,0,0,0,0,0,0,0,0,12,"Grad Asst",,,92
+220111,BIOS,"Biological Sciences",443,"Animal Physiological Systems Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",24,30,21,4,1,0,0,0,0,0,0,0,0,0,0,12,"Grad Asst",,,92
 220111,BIOS,"Biological Sciences",452,"Biochemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,9,12,14,2,3,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst","Hatfield, Rita",,43
 220111,BIOS,"Biological Sciences",454,"Biochemistry II",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",16,13,5,2,0,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,39
 220111,BIOS,"Biological Sciences",483,Neuroanatomy,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",7,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wirtshafter, Robert D","Grad Asst",,18
@@ -924,7 +924,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220111,FR,French,202,"Intro to French Lit II",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",5,9,1,0,0,0,0,1,0,0,0,0,0,0,0,1,"McClure, Ellen M",,,17
 220111,FR,French,231,"Conversation & Comp I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",15,11,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Bourlange, Benjamin Kevin",,,29
 220111,FR,French,232,"Conversation & Comp II",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",6,5,3,3,1,0,0,0,0,0,0,0,0,0,0,0,"Fifer, Stacy Ellen",,,18
-220111,FR,French,302,"Topics in Cultural Studies",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",7,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Miner, Margaret R.",,,11
+220111,FR,French,302,"Topics in French Culture",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",7,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Miner, Margaret R.",,,11
 220111,FR,French,334,"Oral & Written French II",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"McClure, Ellen M",,,11
 220111,GAMD,"Guaranteed Admissions Medicine",200,"GPPA Special Topics/Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,"Chambers, Donald Arthur",,,12
 220111,GAMD,"Guaranteed Admissions Medicine",200,"GPPA Special Topics/Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sufian, Sandra M",,,28

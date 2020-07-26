@@ -251,14 +251,14 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220131,BIOS,"Biological Sciences",221,"Genetics Lab",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",143,64,34,1,0,0,0,0,0,0,0,0,0,0,0,1,"Shiv, Shalu","Grad Asst",,243
 220131,BIOS,"Biological Sciences",222,"Cell Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",47,32,47,31,8,0,0,0,0,0,0,0,0,0,0,8,"Alfonso, Aixa","Featherstone, David E.","Grad Asst",173
 220131,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",39,42,12,0,0,0,0,0,0,0,0,0,0,0,0,4,"O'Dell, Andrew Steven Kemp","Grad Asst",,97
-220131,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",23,48,40,31,15,0,0,0,1,0,1,0,0,0,0,11,"Nelson, Karin Noel","Grad Asst",,170
-220131,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",35,71,39,21,2,0,0,0,0,0,0,0,0,0,0,2,"Ashley, Mary Virginia","Grad Asst",,170
+220131,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",23,48,40,31,15,0,0,0,1,0,1,0,0,0,0,11,"Nelson, Karin Noel","Grad Asst",,170
+220131,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",35,71,39,21,2,0,0,0,0,0,0,0,0,0,0,2,"Ashley, Mary Virginia","Grad Asst",,170
 220131,BIOS,"Biological Sciences",236,"Animal Behavior",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",9,30,36,11,6,0,0,0,0,0,0,0,0,0,0,17,"Nelson, Karin Noel",,,109
 220131,BIOS,"Biological Sciences",240,Homeostasis,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",33,52,44,0,2,0,0,0,0,0,1,0,0,0,0,11,"Gonzalez-Meler, Miquel Angel","Molumby, Alan J","Grad Asst",143
 220131,BIOS,"Biological Sciences",240,Homeostasis,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",47,50,90,5,0,0,0,0,0,0,0,0,0,0,0,17,"Richmond, Janet Elizabeth","Warpeha, Katherine Mary","Grad Asst",209
 220131,BIOS,"Biological Sciences",296,"Directed Instruction",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Schmidt, Jennifer Virginia","Nelson, Karin Noel",,14
 220131,BIOS,"Biological Sciences",322,"Advanced Cell Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Kay, Brian",,,11
-220131,BIOS,"Biological Sciences",325,"Vertebrate Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",14,27,18,10,7,0,0,0,0,0,0,0,0,0,0,2,"Schmidt, Jennifer Virginia","McMurray, Erin Nichole",,78
+220131,BIOS,"Biological Sciences",325,"Human Embryology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",14,27,18,10,7,0,0,0,0,0,0,0,0,0,0,2,"Schmidt, Jennifer Virginia","McMurray, Erin Nichole",,78
 220131,BIOS,"Biological Sciences",331,"Ecology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",6,14,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Brown, Joel S","Grad Asst",,23
 220131,BIOS,"Biological Sciences",331,"Ecology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",20,33,11,0,0,0,0,0,2,0,1,0,0,0,0,3,"Ale, Som Bahadur","Grad Asst",,70
 220131,BIOS,"Biological Sciences",335,"History of Life",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",2,15,15,18,8,0,0,0,0,0,0,0,0,0,0,5,"Nelson, Karin Noel","Grad Asst",,63
@@ -268,7 +268,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220131,BIOS,"Biological Sciences",386,"Neurobiology Seminar",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",6,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,"Grad Asst","Alford, Simon T","Larson, John R",11
 220131,BIOS,"Biological Sciences",399,"Independent Research",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",0,0,0,0,0,0,0,8,1,0,0,0,0,20,0,0,"Stark, Tricia C",,,29
 220131,BIOS,"Biological Sciences",435,"Plant Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",11,1,5,0,0,0,0,0,0,0,0,0,0,0,0,2,"Igic, Boris",,,19
-220131,BIOS,"Biological Sciences",443,"Animal Physiolog Systems",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",16,22,29,13,3,0,0,0,0,0,0,0,0,0,0,12,"Leonard, John P","Murphy, Alvin Don",,95
+220131,BIOS,"Biological Sciences",443,"Animal Physiological Systems Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",16,22,29,13,3,0,0,0,0,0,0,0,0,0,0,12,"Leonard, John P","Murphy, Alvin Don",,95
 220131,BIOS,"Biological Sciences",452,"Biochemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,33,41,43,5,2,0,0,0,0,0,0,0,0,0,0,5,"Hatfield, Rita",,,129
 220131,BIOS,"Biological Sciences",454,"Biochemistry II",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",16,12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jeffery, Constance J","Jin, Hua",,31
 220131,BIOS,"Biological Sciences",483,Neuroanatomy,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",7,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wirtshafter, Robert D",,,16
@@ -958,7 +958,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220131,FR,French,231,"Conversation & Comp I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",9,9,3,0,1,0,0,0,0,0,0,0,0,0,0,1,"Ireland, Charles John",,,23
 220131,FR,French,232,"Conversation & Comp II",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",12,5,4,0,0,0,0,0,0,0,0,0,0,0,0,3,"Fifer, Stacy Ellen",,,24
 220131,FR,French,298,"French Lit/Drama/Film",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",7,12,1,2,0,0,0,0,1,0,0,0,0,0,0,1,"Robert, Yann F",,,24
-220131,FR,French,302,"Topics in Cultural Studies",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Ireland, Charles John",,,14
+220131,FR,French,302,"Topics in French Culture",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Ireland, Charles John",,,14
 220131,FR,French,418,"Topics in 18th-Cent French Lit",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Robert, Yann F",,,12
 220131,FR,French,440,"French/Francophone Cinema",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Weber, Elizabeth D",,,12
 220131,GAMD,"Guaranteed Admissions Medicine",200,"Medicine as a Profession",GA,"Coll Medicine at Chicago - CS",2649,Administration,33,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"Chambers, Donald Arthur",,,35
