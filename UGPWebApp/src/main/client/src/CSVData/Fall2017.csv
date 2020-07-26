@@ -581,7 +581,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220178,CS,"Computer Science",480,"Database Systems",FQ,Engineering,2699,"Computer Science",22,30,20,1,0,0,0,0,0,0,0,0,0,0,0,4,"Wolfson, Ouri",,,77
 220178,CS,"Computer Science",487,"Secure Computer Systems",FQ,Engineering,2699,"Computer Science",20,4,3,3,5,0,0,0,0,0,0,0,0,0,0,2,"Checkoway, Stephen Foster",,,37
 220178,CS,"Computer Science",427,"Creative Coding",FQ,Engineering,2699,"Computer Science",5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tsoupikova, Daria",,,10
-220178,CS,"Computer Science",491,"Secure Web Application Design",FQ,Engineering,2699,"Computer Science",6,8,11,7,1,0,0,0,3,0,0,0,0,0,0,2,"Kanich, Chris",,,38
+220178,CS,"Computer Science",484,"Secure Web Application Development",FQ,Engineering,2699,"Computer Science",6,8,11,7,1,0,0,0,3,0,0,0,0,0,0,2,"Kanich, Chris",,,38
 220178,CS,"Computer Science",491,Seminar,FQ,Engineering,2699,"Computer Science",0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kenyon, Robert V",,,45
 220178,CS,"Computer Science",428,"Virtual and Augmented Reality",FQ,Engineering,2699,"Computer Science",21,10,5,4,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson, Andrew E",,,40
 220178,CS,"Computer Science",499,"Prof. Development Seminar",FQ,Engineering,2699,"Computer Science",0,0,0,0,0,0,0,0,5,0,0,0,0,67,0,0,"Hummel, Joseph E",,,72

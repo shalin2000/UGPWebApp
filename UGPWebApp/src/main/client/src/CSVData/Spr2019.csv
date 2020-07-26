@@ -568,7 +568,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,CS,"Computer Science",480,"Database Systems",FQ,Engineering,2699,"Computer Science",35,37,16,2,0,0,0,0,0,0,0,0,0,0,0,1,"Deitz, Sean M",,,91
 220191,CS,"Computer Science",489,"Human Augmentics",FQ,Engineering,2699,"Computer Science",24,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kenyon, Robert V",,,29
 220191,CS,"Computer Science",491,Seminar,FQ,Engineering,2699,"Computer Science",0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kenyon, Robert V",,,60
-220191,CS,"Computer Science",494,"Network Security",FQ,Engineering,2699,"Computer Science",4,2,1,1,2,0,0,0,0,0,0,0,0,0,0,2,"Polakis, Jason",,,12
+220191,CS,"Computer Science",468,"Network Security",FQ,Engineering,2699,"Computer Science",4,2,1,1,2,0,0,0,0,0,0,0,0,0,0,2,"Polakis, Jason",,,12
 220191,CS,"Computer Science",494,"Special Topics in BioE & CS",FQ,Engineering,2699,"Computer Science",12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hummel, Joseph E","Esmailbeigi, Hananeh",,15
 220191,CS,"Computer Science",499,"Prof. Development Seminar",FQ,Engineering,2699,"Computer Science",0,0,0,0,0,0,0,0,1,0,0,0,0,121,0,2,"Hummel, Joseph E",,,124
 220191,CS,"Computer Science",501,"Computer Algorithms II",FT,"Liberal Arts & Sciences",2610,"Math, Statistics, & Comp Scnc",5,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Turan, Gyorgy",,,10

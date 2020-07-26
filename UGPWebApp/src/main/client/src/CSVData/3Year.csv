@@ -4108,28 +4108,28 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220191,CS,"Computer Science",489,"Human Augmentics",FQ,Engineering,2699,"Computer Science",24,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kenyon, Robert V",,,29
 220201,CS,"Computer Science",489,"Human Augmentics",FQ,Engineering,2699,"Computer Science",30,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Troy, Patrick A","Esmailbeigi, Hananeh",,37
 220178,CS,"Computer Science",427,"Creative Coding",FQ,Engineering,2699,"Computer Science",5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tsoupikova, Daria",,,10
-220178,CS,"Computer Science",491,"Secure Web Application Design",FQ,Engineering,2699,"Computer Science",6,8,11,7,1,0,0,0,3,0,0,0,0,0,0,2,"Kanich, Chris",,,38
+220178,CS,"Computer Science",484,"Secure Web Application Development",FQ,Engineering,2699,"Computer Science",6,8,11,7,1,0,0,0,3,0,0,0,0,0,0,2,"Kanich, Chris",,,38
 220178,CS,"Computer Science",491,Seminar,FQ,Engineering,2699,"Computer Science",0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kenyon, Robert V",,,45
 220178,CS,"Computer Science",428,"Virtual and Augmented Reality",FQ,Engineering,2699,"Computer Science",21,10,5,4,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson, Andrew E",,,40
 220181,CS,"Computer Science",491,"Network Security",FQ,Engineering,2699,"Computer Science",6,15,0,0,1,0,0,0,0,0,0,0,0,0,0,4,"Venkatesan Natarajan, Venkatakrishnan",,,26
 220181,CS,"Computer Science",491,Seminar,FQ,Engineering,2699,"Computer Science",0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kenyon, Robert V",,,50
 220181,CS,"Computer Science",491,"Special Topics",FQ,Engineering,2699,"Computer Science",13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,"Esmailbeigi, Hananeh","Hummel, Joseph E",,16
 220188,CS,"Computer Science",491,"Algorithms in Practice",FQ,Engineering,2699,"Computer Science",3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Lillis, John P",,,14
-220188,CS,"Computer Science",491,"High-Performance Computing",FQ,Engineering,2699,"Computer Science",13,7,2,2,1,0,0,0,0,0,0,0,0,0,0,1,"Eriksson, Jakob L",,,26
+220188,CS,"Computer Science",463,"Systems Performance and Concurrent Computing",FQ,Engineering,2699,"Computer Science",13,7,2,2,1,0,0,0,0,0,0,0,0,0,0,1,"Eriksson, Jakob L",,,26
 220188,CS,"Computer Science",491,Seminar,FQ,Engineering,2699,"Computer Science",0,87,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Kenyon, Robert V",,,88
 220188,CS,"Computer Science",428,"Virtual and Augmented Reality",FQ,Engineering,2699,"Computer Science",16,18,7,0,1,0,0,0,0,0,0,0,0,0,0,2,"Johnson, Andrew E",,,44
 220191,CS,"Computer Science",491,Seminar,FQ,Engineering,2699,"Computer Science",0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kenyon, Robert V",,,60
 220198,CS,"Computer Science",491,Seminar,FQ,Engineering,2699,"Computer Science",0,47,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"Di Eugenio, Barbara",,,49
 220201,CS,"Computer Science",491,Seminar,FQ,Engineering,2699,"Computer Science",0,47,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"Di Eugenio, Barbara",,,50
-220191,CS,"Computer Science",494,"Network Security",FQ,Engineering,2699,"Computer Science",4,2,1,1,2,0,0,0,0,0,0,0,0,0,0,2,"Polakis, Jason",,,12
+220191,CS,"Computer Science",468,"Network Security",FQ,Engineering,2699,"Computer Science",4,2,1,1,2,0,0,0,0,0,0,0,0,0,0,2,"Polakis, Jason",,,12
 220191,CS,"Computer Science",494,"Special Topics in BioE & CS",FQ,Engineering,2699,"Computer Science",12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hummel, Joseph E","Esmailbeigi, Hananeh",,15
 220198,CS,"Computer Science",494,"Adv. Data Structures & Algthms",FQ,Engineering,2699,"Computer Science",10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Mobasheri, Nasim",,,13
 220198,CS,"Computer Science",494,"Special Topics in BioE & CS",FQ,Engineering,2699,"Computer Science",12,0,2,0,1,0,0,1,0,0,0,0,0,0,0,0,"Hummel, Joseph E","Esmailbeigi, Hananeh",,16
 220201,CS,"Computer Science",494,"Big Data Mining",FQ,Engineering,2699,"Computer Science",6,10,3,0,0,0,0,0,0,0,6,0,0,0,0,0,"Cruz, Isabel",,,25
 220201,CS,"Computer Science",494,"Economics and Computation",FQ,Engineering,2699,"Computer Science",23,16,7,2,1,0,0,0,0,0,0,0,0,0,0,2,"Kash, Ian Alexander",,,51
-220201,CS,"Computer Science",494,"Network Security",FQ,Engineering,2699,"Computer Science",6,10,4,2,0,0,0,0,0,0,0,0,0,0,0,2,"Polakis, Jason",,,24
+220201,CS,"Computer Science",468,"Network Security",FQ,Engineering,2699,"Computer Science",6,10,4,2,0,0,0,0,0,0,0,0,0,0,0,2,"Polakis, Jason",,,24
 220201,CS,"Computer Science",494,"Principles of Concurrent Prog.",FQ,Engineering,2699,"Computer Science",10,13,5,5,1,0,0,0,0,0,0,0,0,0,0,0,"Ganchinho de Pina, Luis Gabriel",,,34
-220201,CS,"Computer Science",494,"Secure Web App. Development",FQ,Engineering,2699,"Computer Science",27,12,5,1,1,0,0,0,0,0,0,0,0,0,0,1,"Kanich, Chris",,,47
+220201,CS,"Computer Science",484,"Secure Web Application Development",FQ,Engineering,2699,"Computer Science",27,12,5,1,1,0,0,0,0,0,0,0,0,0,0,1,"Kanich, Chris",,,47
 220171,CS,"Computer Science",499,"Prof. Development Seminar",FQ,Engineering,2699,"Computer Science",0,0,0,0,0,0,0,0,0,0,0,0,0,86,0,0,"Hummel, Joseph E",,,86
 220178,CS,"Computer Science",499,"Prof. Development Seminar",FQ,Engineering,2699,"Computer Science",0,0,0,0,0,0,0,0,5,0,0,0,0,67,0,0,"Hummel, Joseph E",,,72
 220181,CS,"Computer Science",499,"Prof. Development Seminar",FQ,Engineering,2699,"Computer Science",0,0,0,0,0,0,0,0,3,0,0,0,0,89,0,0,"Hummel, Joseph E",,,92

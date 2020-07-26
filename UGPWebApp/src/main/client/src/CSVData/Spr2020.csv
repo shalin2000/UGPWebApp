@@ -616,9 +616,9 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220201,CS,"Computer Science",491,Seminar,FQ,Engineering,2699,"Computer Science",0,47,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"Di Eugenio, Barbara",,,50
 220201,CS,"Computer Science",494,"Big Data Mining",FQ,Engineering,2699,"Computer Science",6,10,3,0,0,0,0,0,0,0,6,0,0,0,0,0,"Cruz, Isabel",,,25
 220201,CS,"Computer Science",494,"Economics and Computation",FQ,Engineering,2699,"Computer Science",23,16,7,2,1,0,0,0,0,0,0,0,0,0,0,2,"Kash, Ian Alexander",,,51
-220201,CS,"Computer Science",494,"Network Security",FQ,Engineering,2699,"Computer Science",6,10,4,2,0,0,0,0,0,0,0,0,0,0,0,2,"Polakis, Jason",,,24
+220201,CS,"Computer Science",468,"Network Security",FQ,Engineering,2699,"Computer Science",6,10,4,2,0,0,0,0,0,0,0,0,0,0,0,2,"Polakis, Jason",,,24
 220201,CS,"Computer Science",494,"Principles of Concurrent Prog.",FQ,Engineering,2699,"Computer Science",10,13,5,5,1,0,0,0,0,0,0,0,0,0,0,0,"Ganchinho de Pina, Luis Gabriel",,,34
-220201,CS,"Computer Science",494,"Secure Web App. Development",FQ,Engineering,2699,"Computer Science",27,12,5,1,1,0,0,0,0,0,0,0,0,0,0,1,"Kanich, Chris",,,47
+220201,CS,"Computer Science",484,"Secure Web Application Development",FQ,Engineering,2699,"Computer Science",27,12,5,1,1,0,0,0,0,0,0,0,0,0,0,1,"Kanich, Chris",,,47
 220201,CS,"Computer Science",499,"Prof. Development Seminar",FQ,Engineering,2699,"Computer Science",0,0,0,0,0,0,0,0,3,0,0,0,0,164,0,0,"Hummel, Joseph E",,,167
 220201,CS,"Computer Science",506,"Intro to Quantum Computing",FQ,Engineering,2699,"Computer Science",32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"DasGupta, Bhaskar",,,32
 220201,CS,"Computer Science",512,"Advanced Machine Learning",FQ,Engineering,2699,"Computer Science",34,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Zhang, Xinhua",,,39
