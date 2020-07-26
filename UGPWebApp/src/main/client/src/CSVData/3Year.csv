@@ -73,52 +73,52 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220198,AAST,"African American Studies",294,"Policing in Chicago",FT,"Liberal Arts & Sciences",2363,"Black Studies",18,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Clarno, Andrew J",,,35
 220198,AAST,"African American Studies",351,"New Black Aesthetics",FT,"Liberal Arts & Sciences",2363,"Black Studies",3,4,0,0,2,0,0,0,1,0,0,0,0,0,0,1,"Dubey, Madhu",,,11
 220201,AAST,"African American Studies",501,"Interdisciplinary Seminar BLST",FT,"Liberal Arts & Sciences",2363,"Black Studies",13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Richie, Beth E",,,13
-220171,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,25,64,23,15,4,0,0,0,0,0,0,0,0,0,0,22,"Galvan, Abel",,,153
-220171,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,12,26,41,22,26,0,0,0,1,0,0,0,0,0,0,18,"Thomas, Barbara Ann",,,146
-220178,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,9,7,8,1,0,0,0,0,0,0,0,0,0,0,0,0,"Pandit, Shailendra",,,25
-220178,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,8,32,20,6,5,0,0,0,0,0,0,0,0,0,0,15,"Pandit, Shailendra",,,86
-220178,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,8,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,13
-220178,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,29,67,62,42,35,0,0,0,0,0,0,0,0,0,0,72,"Galvan, Abel",,,307
-220181,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,8,16,13,4,4,0,0,0,0,0,0,0,0,0,0,6,"Salama, Yehia A.",,,51
-220181,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,11,22,9,5,2,0,0,0,0,0,0,0,0,0,0,2,"Galvan, Abel",,,51
-220181,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,10,22,47,41,23,0,0,0,0,0,0,0,0,0,0,25,"Thomas, Barbara Ann",,,168
-220188,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,3,16,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Pandit, Shailendra",,,23
-220188,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,14,30,14,10,3,0,0,0,0,0,0,0,0,0,0,2,"Pandit, Shailendra",,,73
-220188,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,5,5,13,3,1,0,0,0,0,0,0,0,0,0,0,4,"Salama, Yehia A.",,,31
-220188,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,19,55,57,33,29,0,0,0,0,0,1,0,0,0,0,71,"Galvan, Abel",,,265
-220188,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,26,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Jastrzebski, Ronald J",,,28
-220191,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,22,29,24,9,3,0,0,0,0,0,1,0,0,0,0,4,"Eccher, Elizabeth",,,92
-220191,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,23,51,68,18,21,0,0,0,0,0,0,0,0,0,0,33,"Galvan, Abel",,,214
-220198,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Galvan, Abel",,,16
-220198,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,8,4,5,0,1,0,0,0,0,0,0,0,0,0,0,3,"Galvan, Abel",,,21
-220198,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,33,31,20,3,5,0,0,0,0,0,0,0,0,0,0,12,"Galvan, Abel",,,104
-220198,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,45,89,70,24,7,0,0,0,0,0,0,0,0,0,0,5,"Eccher, Elizabeth",,,240
-220198,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,18,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,21
-220201,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,63,90,32,2,1,0,0,0,0,0,0,0,0,0,0,8,"Eccher, Elizabeth",,,196
-220201,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,10,12,5,1,4,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.","Kirschenheiter, Michael",,32
-220201,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,23,24,13,0,7,0,0,0,0,0,0,0,0,0,0,2,"Salama, Yehia A.",,,69
-220171,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,21,11,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Martin, Melissa",,,35
-220171,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,17,37,74,24,20,0,0,0,0,0,0,0,0,0,0,5,"Salama, Yehia A.",,,177
-220171,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,2,10,9,0,2,0,0,0,0,0,0,0,0,0,0,0,"Thomas, Barbara Ann",,,23
-220171,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,15,33,37,16,2,0,0,0,1,0,0,0,0,0,0,6,"Martin, Melissa",,,110
-220178,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,32,82,61,23,15,0,0,0,0,0,0,0,0,0,0,6,"Jastrzebski, Ronald J",,,219
-220178,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,12,34,16,9,7,0,0,0,0,0,0,0,0,0,0,9,"Thomas, Barbara Ann",,,87
-220181,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,13,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Martin, Melissa",,,29
-220181,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,21,71,61,22,9,0,0,0,0,0,0,0,0,0,0,5,"Jastrzebski, Ronald J",,,189
-220181,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,2,5,3,3,1,0,0,0,0,0,0,0,0,0,0,5,"Thomas, Barbara Ann",,,19
-220181,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,12,36,15,9,3,0,0,0,0,0,0,0,0,0,0,1,"Martin, Melissa",,,76
-220188,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,17,63,70,31,21,0,0,0,1,0,0,0,0,0,0,11,"Jastrzebski, Ronald J",,,214
-220188,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,15,25,15,5,2,0,0,0,0,0,0,0,0,0,0,6,"Awad, Abigail Marian",,,68
-220191,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,8,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Martin, Melissa",,,22
-220191,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,23,27,34,40,13,0,0,0,1,0,0,0,0,0,0,16,"Kemp, Robert E",,,154
-220191,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,17,27,26,3,3,0,0,0,1,0,0,0,0,0,0,3,"Martin, Melissa",,,80
-220191,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,23,10,6,2,0,0,0,0,0,0,0,0,0,0,0,1,"Jastrzebski, Ronald J",,,42
-220198,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,44,67,50,17,7,0,0,0,0,0,0,0,0,0,0,4,"Jastrzebski, Ronald J",,,189
-220198,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,30,24,14,4,4,0,0,0,0,0,0,0,0,0,0,4,"Awad, Abigail Marian",,,80
-220201,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,10,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Martin, Melissa",,,25
-220201,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,50,87,44,13,7,0,0,0,0,0,0,0,0,0,0,5,"Kemp, Robert E",,,206
-220201,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,27,30,19,6,2,0,0,0,1,0,0,0,0,0,0,0,"Martin, Melissa",,,85
-220201,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,18,7,5,0,1,0,0,0,0,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,31
+220171,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,25,64,23,15,4,0,0,0,0,0,0,0,0,0,0,22,"Galvan, Abel",,,153
+220171,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,12,26,41,22,26,0,0,0,1,0,0,0,0,0,0,18,"Thomas, Barbara Ann",,,146
+220178,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,9,7,8,1,0,0,0,0,0,0,0,0,0,0,0,0,"Pandit, Shailendra",,,25
+220178,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,8,32,20,6,5,0,0,0,0,0,0,0,0,0,0,15,"Pandit, Shailendra",,,86
+220178,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,8,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,13
+220178,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,29,67,62,42,35,0,0,0,0,0,0,0,0,0,0,72,"Galvan, Abel",,,307
+220181,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,8,16,13,4,4,0,0,0,0,0,0,0,0,0,0,6,"Salama, Yehia A.",,,51
+220181,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,11,22,9,5,2,0,0,0,0,0,0,0,0,0,0,2,"Galvan, Abel",,,51
+220181,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,10,22,47,41,23,0,0,0,0,0,0,0,0,0,0,25,"Thomas, Barbara Ann",,,168
+220188,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,3,16,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Pandit, Shailendra",,,23
+220188,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,14,30,14,10,3,0,0,0,0,0,0,0,0,0,0,2,"Pandit, Shailendra",,,73
+220188,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,5,5,13,3,1,0,0,0,0,0,0,0,0,0,0,4,"Salama, Yehia A.",,,31
+220188,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,19,55,57,33,29,0,0,0,0,0,1,0,0,0,0,71,"Galvan, Abel",,,265
+220188,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,26,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Jastrzebski, Ronald J",,,28
+220191,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,22,29,24,9,3,0,0,0,0,0,1,0,0,0,0,4,"Eccher, Elizabeth",,,92
+220191,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,23,51,68,18,21,0,0,0,0,0,0,0,0,0,0,33,"Galvan, Abel",,,214
+220198,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Galvan, Abel",,,16
+220198,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,8,4,5,0,1,0,0,0,0,0,0,0,0,0,0,3,"Galvan, Abel",,,21
+220198,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,33,31,20,3,5,0,0,0,0,0,0,0,0,0,0,12,"Galvan, Abel",,,104
+220198,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,45,89,70,24,7,0,0,0,0,0,0,0,0,0,0,5,"Eccher, Elizabeth",,,240
+220198,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,18,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,21
+220201,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,63,90,32,2,1,0,0,0,0,0,0,0,0,0,0,8,"Eccher, Elizabeth",,,196
+220201,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,10,12,5,1,4,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.","Kirschenheiter, Michael",,32
+220201,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,23,24,13,0,7,0,0,0,0,0,0,0,0,0,0,2,"Salama, Yehia A.",,,69
+220171,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,21,11,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Martin, Melissa",,,35
+220171,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,17,37,74,24,20,0,0,0,0,0,0,0,0,0,0,5,"Salama, Yehia A.",,,177
+220171,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,2,10,9,0,2,0,0,0,0,0,0,0,0,0,0,0,"Thomas, Barbara Ann",,,23
+220171,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,15,33,37,16,2,0,0,0,1,0,0,0,0,0,0,6,"Martin, Melissa",,,110
+220178,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,32,82,61,23,15,0,0,0,0,0,0,0,0,0,0,6,"Jastrzebski, Ronald J",,,219
+220178,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,12,34,16,9,7,0,0,0,0,0,0,0,0,0,0,9,"Thomas, Barbara Ann",,,87
+220181,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,13,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Martin, Melissa",,,29
+220181,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,21,71,61,22,9,0,0,0,0,0,0,0,0,0,0,5,"Jastrzebski, Ronald J",,,189
+220181,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,2,5,3,3,1,0,0,0,0,0,0,0,0,0,0,5,"Thomas, Barbara Ann",,,19
+220181,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,12,36,15,9,3,0,0,0,0,0,0,0,0,0,0,1,"Martin, Melissa",,,76
+220188,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,17,63,70,31,21,0,0,0,1,0,0,0,0,0,0,11,"Jastrzebski, Ronald J",,,214
+220188,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,15,25,15,5,2,0,0,0,0,0,0,0,0,0,0,6,"Awad, Abigail Marian",,,68
+220191,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,8,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Martin, Melissa",,,22
+220191,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,23,27,34,40,13,0,0,0,1,0,0,0,0,0,0,16,"Kemp, Robert E",,,154
+220191,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,17,27,26,3,3,0,0,0,1,0,0,0,0,0,0,3,"Martin, Melissa",,,80
+220191,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,23,10,6,2,0,0,0,0,0,0,0,0,0,0,0,1,"Jastrzebski, Ronald J",,,42
+220198,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,44,67,50,17,7,0,0,0,0,0,0,0,0,0,0,4,"Jastrzebski, Ronald J",,,189
+220198,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,30,24,14,4,4,0,0,0,0,0,0,0,0,0,0,4,"Awad, Abigail Marian",,,80
+220201,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,10,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Martin, Melissa",,,25
+220201,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,50,87,44,13,7,0,0,0,0,0,0,0,0,0,0,5,"Kemp, Robert E",,,206
+220201,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,27,30,19,6,2,0,0,0,1,0,0,0,0,0,0,0,"Martin, Melissa",,,85
+220201,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,18,7,5,0,1,0,0,0,0,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,31
 220171,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,16,20,21,6,2,0,0,0,0,0,0,0,0,0,0,4,"Nekrasov, Alexander",,,69
 220178,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,24,30,44,4,3,0,0,0,0,0,0,0,0,0,0,6,"Raval, Vivek",,,111
 220181,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,19,23,29,12,0,0,0,0,0,0,0,0,0,0,0,1,"Nekrasov, Alexander",,,84
@@ -16861,8 +16861,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220198,BLST,"Black Studies",294,"Policing in Chicago",FT,"Liberal Arts & Sciences",2363,"Black Studies",18,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Clarno, Andrew J",,,35
 220198,BLST,"Black Studies",351,"New Black Aesthetics",FT,"Liberal Arts & Sciences",2363,"Black Studies",3,4,0,0,2,0,0,0,1,0,0,0,0,0,0,1,"Dubey, Madhu",,,11
 220175,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,3,8,8,4,3,0,0,0,0,0,0,0,0,0,0,1,"Thomas, Barbara Ann",,,27
-220175,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,7,9,10,2,2,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.",,,30
-220175,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,14,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,18
+220175,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,7,9,10,2,2,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.",,,30
+220175,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,14,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,18
 220175,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,2,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Galvan, Abel",,,16
 220175,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,3,2,3,1,1,0,0,0,0,0,1,0,0,0,0,1,"Salama, Yehia A.",,,12
 220175,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,3,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Maksy, Mostafa",,,10
@@ -17229,8 +17229,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220175,UPP,"Urban Planning and Policy",590,"Professional Practice Exp",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",0,0,0,0,0,0,0,0,0,0,16,0,0,2,0,0,"Al-Kodmany, Kheir M.",,,18
 220175,US,"Urban Studies",202,"Planning Great Cities",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",3,5,0,1,0,0,0,0,2,0,0,0,0,0,0,0,"Parker, Brenda",,,11
 220185,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,4,8,10,1,2,0,0,0,0,0,0,0,0,0,0,2,"Salama, Yehia A.",,,27
-220185,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,5,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,13
-220185,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,6,7,7,2,1,0,0,0,0,0,0,0,0,0,0,0,"Kemp, Robert E",,,23
+220185,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,5,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Jastrzebski, Ronald J",,,13
+220185,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,6,7,7,2,1,0,0,0,0,0,0,0,0,0,0,0,"Kemp, Robert E",,,23
 220185,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,4,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Galvan, Abel",,,14
 220185,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,3,4,6,3,1,0,0,0,0,0,0,0,0,0,0,1,"Salama, Yehia A.",,,18
 220185,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,3,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Maksy, Mostafa",,,10
@@ -17630,7 +17630,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220185,UPP,"Urban Planning and Policy",493,"Bike Planning",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Roseberry, Nathan James","Garcia, Gerardo",,10
 220185,UPP,"Urban Planning and Policy",493,"Grant Writing",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,10
 220195,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,4,6,13,5,1,0,0,0,0,0,0,0,0,0,0,3,"Salama, Yehia A.",,,32
-220195,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,6,8,3,3,1,0,0,0,1,0,0,0,0,0,0,0,"Kemp, Robert E",,,22
+220195,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,6,8,3,3,1,0,0,0,1,0,0,0,0,0,0,0,"Kemp, Robert E",,,22
 220195,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,6,12,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Galvan, Abel",,,22
 220195,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,2,5,2,4,2,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.",,,15
 220195,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,4,3,3,1,0,0,0,0,0,0,0,0,0,0,0,1,"Maksy, Mostafa",,,12

@@ -1,6 +1,6 @@
 TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DEPT_NAME,A,B,C,D,F,ADV,CR,DFR,I,NG,NR,O,PR,S,U,W,name1,name2,name3,grade_regs
-220145,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,9,5,3,1,1,0,0,0,0,0,0,0,0,0,0,2,"Galvan, Abel",,,21
-220145,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,6,11,5,6,5,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.",,,33
+220145,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,9,5,3,1,1,0,0,0,0,0,0,0,0,0,0,2,"Galvan, Abel",,,21
+220145,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,6,11,5,6,5,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.",,,33
 220145,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,2,3,11,6,1,0,0,0,0,0,0,0,0,0,0,0,"Leventhal, Brian W",,,23
 220145,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,3,9,12,5,3,0,0,0,0,0,0,0,0,0,0,1,"Salama, Yehia A.",,,33
 220145,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,12,12,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"Maksy, Mostafa",,,27

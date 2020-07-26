@@ -1,7 +1,7 @@
 TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DEPT_NAME,A,B,C,D,F,ADV,CR,DFR,I,NG,NR,O,PR,S,U,W,name1,name2,name3,grade_regs
 220125,AAST,"African American Studies",105,"African Americans in Film",FT,"Liberal Arts & Sciences",2363,"Black Studies",3,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Blair, Cynthia M",,,11
-220125,ACTG,Accounting,210,"Intro to Financial Accounting",FL,"Business Administration",2656,Accounting,10,12,11,7,2,0,0,1,1,0,0,0,0,0,0,1,"Galvan, Abel",,,45
-220125,ACTG,Accounting,211,"Intro to Managerial Accounting",FL,"Business Administration",2656,Accounting,9,16,11,3,1,0,0,0,0,0,1,0,0,0,0,0,"Maksy, Mostafa",,,41
+220125,ACTG,Accounting,210,"Intro Financial Accounting",FL,"Business Administration",2656,Accounting,10,12,11,7,2,0,0,1,1,0,0,0,0,0,0,1,"Galvan, Abel",,,45
+220125,ACTG,Accounting,211,"Intro Managerial Accounting",FL,"Business Administration",2656,Accounting,9,16,11,3,1,0,0,0,0,0,1,0,0,0,0,0,"Maksy, Mostafa",,,41
 220125,ACTG,Accounting,315,"Intermediate Financial Actg I",FL,"Business Administration",2656,Accounting,5,8,15,4,8,0,0,0,1,0,0,0,0,0,0,1,"Leventhal, Brian W",,,42
 220125,ACTG,Accounting,316,"Intermediate Financial Actg II",FL,"Business Administration",2656,Accounting,4,13,15,7,0,0,0,0,0,0,0,0,0,0,0,0,"Salama, Yehia A.",,,39
 220125,ACTG,Accounting,326,"Cost Accounting",FL,"Business Administration",2656,Accounting,6,9,15,1,0,0,0,0,0,0,0,0,0,0,0,1,"Salama, Yehia A.",,,32
