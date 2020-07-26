@@ -110,7 +110,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220128,AH,"Art History",200,"Theory&Method/Art History",FR,"Architecture,Design,& the Arts",2910,"Art History",5,5,4,0,0,0,0,0,0,0,0,0,0,0,0,2,"Pollak, Martha",,,16
 220128,AH,"Art History",204,"Greek Art & Archaeology",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",7,8,5,1,0,0,0,0,0,0,0,0,0,0,0,1,"Tobin, Jennifer L",,,22
 220128,AH,"Art History",207,"Topics in Arch Art Design",FR,"Architecture,Design,& the Arts",2910,"Art History",3,14,5,1,0,0,0,0,0,0,1,0,0,0,0,0,"Dubin, Nina",,,24
-220128,AH,"Art History",208,"Topics Modern Arch, Art&Design",FR,"Architecture,Design,& the Arts",2910,"Art History",12,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Akcan, Esra",,,17
+220128,AH,"Art History",208,"Mod/Contemp Latin American Art, Art&Design",FR,"Architecture,Design,& the Arts",2910,"Art History",12,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Akcan, Esra",,,17
 220128,AH,"Art History",210,"Art/Archaeology of Egypt",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",9,7,5,3,1,0,0,0,0,0,0,0,0,0,0,0,"Tobin, Jennifer L",,,25
 220128,AH,"Art History",230,"History of Photography I",FR,"Architecture,Design,& the Arts",2910,"Art History",8,8,3,3,1,0,0,0,0,0,0,0,0,0,0,4,"Stimson, Blake",,,27
 220128,AH,"Art History",232,"Film History I: 1890-WWII",FT,"Liberal Arts & Sciences",2492,English,5,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rubin, Martin L.","Grad Asst",,13
@@ -267,10 +267,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220128,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",13,17,10,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","O'Dell, Andrew Steven Kemp",,40
 220128,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",15,14,6,1,1,0,0,0,0,0,0,0,0,0,0,1,"O'Dell, Andrew Steven Kemp","Grad Asst",,38
 220128,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",18,26,8,2,0,0,0,0,0,0,0,0,0,0,0,5,"Grad Asst",,,59
-220128,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",21,42,54,20,5,0,0,0,0,0,1,0,0,0,0,8,"Grad Asst","Mason-Gamer, Roberta J","Minor, Emily",151
-220128,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",34,59,32,17,10,0,0,0,0,0,0,0,0,0,0,14,"Nelson, Karin Noel",,,166
+220128,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",21,42,54,20,5,0,0,0,0,0,1,0,0,0,0,8,"Grad Asst","Mason-Gamer, Roberta J","Minor, Emily",151
+220128,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",34,59,32,17,10,0,0,0,0,0,0,0,0,0,0,14,"Nelson, Karin Noel",,,166
 220128,BIOS,"Biological Sciences",240,Homeostasis,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",23,45,39,7,5,0,0,0,1,0,0,0,0,0,0,28,"Alford, Simon T","Gonzalez-Meler, Miquel Angel",,148
-220128,BIOS,"Biological Sciences",272,"Compar Vertebrate Anat & Phys",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,23,21,5,6,0,0,0,1,0,0,0,0,0,0,5,"Nelson, Karin Noel",,,71
+220128,BIOS,"Biological Sciences",272,"Comparative Vertebrate Anatomy",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,23,21,5,6,0,0,0,1,0,0,0,0,0,0,5,"Nelson, Karin Noel",,,71
 220128,BIOS,"Biological Sciences",286,"Biology of Brain",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",24,42,50,15,0,0,0,0,0,0,2,0,0,0,0,6,"Gong, Liang-Wei","Grad Asst",,139
 220128,BIOS,"Biological Sciences",296,"Directed Instruction",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Nelson, Karin Noel","Schmidt, Jennifer Virginia",,18
 220128,BIOS,"Biological Sciences",320,"Developmental Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",14,11,10,4,2,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst","Okkema, Peter G","Orenic, Teresa Vales",43
@@ -1020,7 +1020,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220128,FR,French,231,"Conversation & Comp I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",11,10,3,2,1,0,0,0,0,0,0,0,0,0,0,2,"Fifer, Stacy Ellen",,,29
 220128,FR,French,232,"Conversation & Comp II",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",7,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Weber, Elizabeth D",,,10
 220128,FR,French,297,"Paris in Lit, Film and Culture",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",19,7,1,0,1,0,0,0,0,0,0,0,0,0,0,2,"Miner, Margaret R.",,,30
-220128,FR,French,301,"Topics in Literature",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",8,6,1,1,1,0,0,0,0,0,0,0,0,0,0,1,"Robert, Yann F",,,18
+220128,FR,French,301,"Topics in French Lit",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",8,6,1,1,1,0,0,0,0,0,0,0,0,0,0,1,"Robert, Yann F",,,18
 220128,FR,French,333,"Oral & Written French I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",8,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Fifer, Stacy Ellen",,,20
 220128,FR,French,510,"Seminar in Lit Studies",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",9,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"McClure, Ellen M",,,11
 220128,GAMD,"Guaranteed Admissions Medicine",200,"Art & Science of Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,"Sanders-Marcus, Caryn L",,,13

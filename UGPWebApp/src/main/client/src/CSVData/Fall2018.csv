@@ -203,7 +203,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220188,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,110,8,0,"Rodriguez, Paul",,,118
 220188,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,111,14,1,"Warner, Kimberly",,,126
 220188,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,1,0,0,0,0,71,4,1,"Anderson, Stephanie Leigh",,,77
-220188,BA,"Business Administration",190,"Seminar for Bus Scholars",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,130,0,0,"Prazza, Angela J","Sanchez, Mayra",,130
+220188,BA,"Business Administration",190,"UIC Business Seminar Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,130,0,0,"Prazza, Angela J","Sanchez, Mayra",,130
 220188,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",21,6,0,0,3,0,0,0,0,0,0,0,0,0,0,2,"Souri, Ranjit J",,,32
 220188,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",34,26,8,0,0,0,0,0,2,0,0,0,0,0,0,1,"Duros, Sally",,,71
 220188,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",39,48,14,0,0,0,0,0,2,0,0,0,0,0,0,3,"Kohler, William Russell",,,106
@@ -295,11 +295,11 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220188,BIOS,"Biological Sciences",222,"Cell Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",61,33,29,23,17,0,0,0,1,0,0,0,0,0,0,9,"Saxena, Ankur","Linn, Stephen Carl","Grad Asst",173
 220188,BIOS,"Biological Sciences",222,"Cell Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",84,45,28,5,3,0,0,0,0,0,0,0,0,0,0,2,"Warpeha, Katherine Mary","Linn, Stephen Carl","Grad Asst",167
 220188,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",165,76,25,7,3,0,0,0,2,0,1,0,0,0,0,5,"McGinley, Andrea Louise","Grad Asst",,284
-220188,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",15,48,44,17,7,0,0,0,1,0,0,0,0,0,0,11,"Nelson, Karin Noel","Grad Asst",,143
-220188,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",48,31,44,21,1,0,0,0,2,0,0,0,0,0,0,2,"Mason-Gamer, Roberta J","Minor, Emily","Grad Asst",149
+220188,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",15,48,44,17,7,0,0,0,1,0,0,0,0,0,0,11,"Nelson, Karin Noel","Grad Asst",,143
+220188,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",48,31,44,21,1,0,0,0,2,0,0,0,0,0,0,2,"Mason-Gamer, Roberta J","Minor, Emily","Grad Asst",149
 220188,BIOS,"Biological Sciences",240,"Animal Physiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",37,57,40,0,3,0,0,0,0,0,0,0,0,0,0,7,"Malchow, Robert Paul","Grad Asst","Grad Asst",144
 220188,BIOS,"Biological Sciences",240,"Animal Physiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",85,65,17,2,0,0,0,0,0,0,0,0,0,0,0,5,"Molumby, Alan J","Grad Asst",,174
-220188,BIOS,"Biological Sciences",272,"Compar Vertebrate Anat & Phys",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,18,20,8,5,0,0,0,0,0,0,0,0,0,0,11,"Nelson, Karin Noel",,,72
+220188,BIOS,"Biological Sciences",272,"Comparative Vertebrate Anatomy",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,18,20,8,5,0,0,0,0,0,0,0,0,0,0,11,"Nelson, Karin Noel",,,72
 220188,BIOS,"Biological Sciences",286,"Biology of Brain",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",40,47,35,9,2,0,0,0,0,0,0,0,0,0,0,11,"Chuang, Chiou-Fen","Grad Asst","Grad Asst",144
 220188,BIOS,"Biological Sciences",294,"Special Topics in BIOS",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",40,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Alfonso, Aixa","Santarsiero, Bernard","Girotti, Jorge Alberto",42
 220188,BIOS,"Biological Sciences",296,"Directed Instruction",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Nelson, Karin Noel","Mason-Gamer, Roberta J","Grad Asst",11
@@ -1124,7 +1124,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220188,FR,French,202,"Fr Lit: Crusades to Revolution",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",7,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Robert, Yann F",,,12
 220188,FR,French,231,"Conversation & Comp I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",15,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Weber, Elizabeth D",,,19
 220188,FR,French,297,"Paris in Lit, Film and Culture",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",9,8,4,0,0,0,0,0,0,0,0,0,0,0,0,1,"Miner, Margaret R.",,,22
-220188,FR,French,301,"Topics in Literature",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Robert, Yann F",,,14
+220188,FR,French,301,"Topics in French Lit",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Robert, Yann F",,,14
 220188,FR,French,422,"Francophone Novel",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",5,4,0,0,0,0,0,0,2,0,0,0,0,0,0,1,"Ireland, Charles John",,,12
 220188,GAMD,"Guaranteed Admissions Medicine",200,"Art & Science of Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,"Chambers, Donald Arthur","Cohen, Rhonna L","Sanders-Marcus, Caryn L",17
 220188,GAMD,"Guaranteed Admissions Medicine",200,"Art & Science of Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,"Sanders-Marcus, Caryn L","Chambers, Donald Arthur","Cohen, Rhonna L",21
@@ -1352,7 +1352,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220188,HUM,Humanities,101,"Humanities: Indiv and Society",FT,"Liberal Arts & Sciences",2903,Humanities,9,4,1,0,0,0,0,0,1,0,0,0,0,0,0,4,"Doane, Molly",,,19
 220188,IDEA,"Interdisc Educ in the Arts",110,"Creativity and Innovation",FR,"Architecture,Design,& the Arts",2745,"Art and Art History Admin",14,15,2,0,0,0,0,0,0,0,1,0,0,0,0,1,"Higgins, Hannah B",,,33
 220188,IDEA,"Interdisc Educ in the Arts",120,"Digital Practices Design/Arts",FR,"Architecture,Design,& the Arts",2745,"Art and Art History Admin",5,4,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"Funk, Tiffany Ann",,,12
-220188,IDS,"Information &Decision Sciences",200,"Intro Mgmt Info System",FL,"Business Administration",2672,"Information/Decision Sciences",11,32,13,8,0,0,0,0,1,0,0,0,0,0,0,3,"Lundquist, Doug E",,,68
+220188,IDS,"Information &Decision Sciences",200,"Intro Mgmt Info Systems",FL,"Business Administration",2672,"Information/Decision Sciences",11,32,13,8,0,0,0,0,1,0,0,0,0,0,0,3,"Lundquist, Doug E",,,68
 220188,IDS,"Information &Decision Sciences",200,"Intro Mgmt Info Systems",FL,"Business Administration",2672,"Information/Decision Sciences",45,42,33,13,3,0,0,0,2,0,0,0,0,0,0,7,"Fyfe, John",,,145
 220188,IDS,"Information &Decision Sciences",200,"Intro Mgmt Info Systems",FL,"Business Administration",2672,"Information/Decision Sciences",53,74,58,18,1,0,0,0,1,0,0,0,0,0,0,11,"Erickson, James M",,,216
 220188,IDS,"Information &Decision Sciences",201,"Intro to Business Programming",FL,"Business Administration",2672,"Information/Decision Sciences",10,16,19,9,0,0,0,0,1,0,0,0,0,0,0,4,"Lundquist, Doug E",,,59

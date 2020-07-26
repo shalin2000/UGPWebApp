@@ -264,10 +264,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220118,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",8,6,5,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","Grad Asst",,20
 220118,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",8,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"O'Dell, Andrew Steven Kemp","Grad Asst",,19
 220118,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",24,17,7,1,0,0,0,0,0,0,0,0,0,0,0,3,"Grad Asst",,,52
-220118,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",19,44,57,29,22,0,0,0,0,0,0,0,0,0,0,19,"Nelson, Karin Noel","Grad Asst",,190
-220118,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",28,34,37,23,4,0,0,0,1,0,0,0,0,0,0,11,"Mason-Gamer, Roberta J","Minor, Emily","Grad Asst",138
+220118,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",19,44,57,29,22,0,0,0,0,0,0,0,0,0,0,19,"Nelson, Karin Noel","Grad Asst",,190
+220118,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",28,34,37,23,4,0,0,0,1,0,0,0,0,0,0,11,"Mason-Gamer, Roberta J","Minor, Emily","Grad Asst",138
 220118,BIOS,"Biological Sciences",240,Homeostasis,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",36,55,61,5,1,0,0,0,3,0,0,0,0,0,0,42,"Alford, Simon T","Gonzalez-Meler, Miquel Angel","Grad Asst",203
-220118,BIOS,"Biological Sciences",272,"Compar Vertebrate Anat & Phys",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",14,23,21,7,12,0,0,0,0,0,0,0,0,0,0,20,"Nelson, Karin Noel",,,97
+220118,BIOS,"Biological Sciences",272,"Comparative Vertebrate Anatomy",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",14,23,21,7,12,0,0,0,0,0,0,0,0,0,0,20,"Nelson, Karin Noel",,,97
 220118,BIOS,"Biological Sciences",286,"Biology of Brain",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",23,40,38,26,3,0,0,0,0,0,1,0,0,0,0,11,"Gong, Liang-Wei","Grad Asst",,142
 220118,BIOS,"Biological Sciences",296,"Directed Instruction",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,"Nelson, Karin Noel",,,18
 220118,BIOS,"Biological Sciences",320,"Developmental Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",13,14,20,1,1,0,0,0,0,0,0,0,0,0,0,4,"Okkema, Peter G","Buhse, Howard E","Orenic, Teresa Vales",53
@@ -972,7 +972,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220118,FR,French,231,"Conversation & Comp I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",6,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst",,,17
 220118,FR,French,232,"Conversation & Comp II",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",8,8,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Fifer, Stacy Ellen",,,20
 220118,FR,French,297,"Paris in Lit, Film and Culture",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",16,7,2,1,1,0,0,0,0,0,0,0,0,0,0,2,"Weber, Elizabeth D",,,29
-220118,FR,French,301,"Topics in Literature",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",7,3,1,1,1,0,0,0,0,0,0,0,0,0,0,1,"Fifer, Stacy Ellen",,,14
+220118,FR,French,301,"Topics in French Lit",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",7,3,1,1,1,0,0,0,0,0,0,0,0,0,0,1,"Fifer, Stacy Ellen",,,14
 220118,FR,French,333,"Oral & Written French I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",5,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"McClure, Ellen M",,,13
 220118,FR,French,433,"Adv Oral & Written French",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",2,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ireland, Charles John",,,10
 220118,FR,French,464,"Topics French Civilizatn",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",4,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,"Miner, Margaret R.",,,13

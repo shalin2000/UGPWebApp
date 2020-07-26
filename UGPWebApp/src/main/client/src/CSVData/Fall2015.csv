@@ -143,7 +143,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220158,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,113,4,0,"Souri, Ranjit",,,117
 220158,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,2,0,0,0,0,37,0,0,"Wilson, Jeffrey Crossen",,,39
 220158,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,3,0,0,0,0,113,2,1,"Rodriguez, Paul",,,119
-220158,BA,"Business Administration",190,"Seminar for Bus Scholars",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,121,0,0,"Prazza, Angela J",,,121
+220158,BA,"Business Administration",190,"UIC Business Seminar Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,121,0,0,"Prazza, Angela J",,,121
 220158,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Thomas, Richard Steven",,,10
 220158,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",17,59,29,9,4,0,0,0,0,0,0,0,0,0,0,3,"Corte, Anthony M",,,121
 220158,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",43,43,28,1,1,0,0,0,2,0,0,0,0,0,0,2,"Kohler, William Russell",,,120
@@ -217,11 +217,11 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220158,BIOS,"Biological Sciences",222,"Cell Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",33,70,58,25,12,0,0,0,0,0,0,0,0,0,0,21,"Dubreuil, Ronald R.","Kay, Brian","Grad Asst",219
 220158,BIOS,"Biological Sciences",222,"Cell Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",61,64,32,6,5,0,0,0,0,0,0,0,0,0,0,2,"Alfonso, Aixa","Featherstone, David E.","Grad Asst",170
 220158,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",93,32,5,1,3,0,0,0,0,0,0,0,0,0,0,2,"McGinley, Andrea Louise","Grad Asst",,136
-220158,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",11,45,61,13,5,0,0,0,0,0,0,0,0,0,0,4,"Nelson, Karin Noel","Grad Asst",,139
-220158,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",27,38,41,22,9,0,0,0,1,0,2,0,0,0,0,4,"Mason-Gamer, Roberta J","Minor, Emily","Grad Asst",144
+220158,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",11,45,61,13,5,0,0,0,0,0,0,0,0,0,0,4,"Nelson, Karin Noel","Grad Asst",,139
+220158,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",27,38,41,22,9,0,0,0,1,0,2,0,0,0,0,4,"Mason-Gamer, Roberta J","Minor, Emily","Grad Asst",144
 220158,BIOS,"Biological Sciences",237,"Human Skeleton",FT,"Liberal Arts & Sciences",2841,Anthropology,11,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Williams, Sloan R",,,19
 220158,BIOS,"Biological Sciences",240,Homeostasis,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",36,40,64,9,3,0,0,0,0,0,0,0,0,0,0,14,"Gonzalez-Meler, Miquel Angel","Malchow, Robert Paul","Grad Asst",166
-220158,BIOS,"Biological Sciences",272,"Compar Vertebrate Anat & Phys",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",8,26,18,2,4,0,0,0,0,0,0,0,0,0,0,4,"Nelson, Karin Noel",,,62
+220158,BIOS,"Biological Sciences",272,"Comparative Vertebrate Anatomy",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",8,26,18,2,4,0,0,0,0,0,0,0,0,0,0,4,"Nelson, Karin Noel",,,62
 220158,BIOS,"Biological Sciences",286,"Biology of Brain",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",30,43,30,4,0,0,0,0,0,0,1,0,0,0,0,1,"Gong, Liang-Wei","Chuang, Chiou-Fen","Grad Asst",109
 220158,BIOS,"Biological Sciences",296,"Directed Instruction",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Nelson, Karin Noel","Schmidt, Jennifer Virginia",,17
 220158,BIOS,"Biological Sciences",323,"Molecular Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",2,4,4,0,1,0,0,0,0,0,0,0,0,0,0,3,"Mc Cutcheon, Suzanne M","Grad Asst",,14
@@ -1000,7 +1000,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220158,FR,French,231,"Conversation & Comp I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",6,16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Pearson, Melissa A",,,24
 220158,FR,French,232,"Conversation & Comp II",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",3,5,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"Pearson, Melissa A",,,11
 220158,FR,French,297,"Paris in Lit, Film and Culture",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",17,8,3,0,0,0,0,0,0,0,0,0,0,0,0,2,"Solheim, Jennifer Marie P",,,30
-220158,FR,French,301,"Topics in Literature",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",7,4,2,0,0,0,0,0,0,0,0,0,0,0,0,2,"Miner, Margaret R.",,,15
+220158,FR,French,301,"Topics in French Lit",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",7,4,2,0,0,0,0,0,0,0,0,0,0,0,0,2,"Miner, Margaret R.",,,15
 220158,FR,French,510,"Seminar in Lit Studies",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",6,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"McClure, Ellen M",,,10
 220158,GAMD,"Guaranteed Admissions Medicine",200,"Art & Science of Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,"Chambers, Donald Arthur","Cohen, Rhonna L","Sanders-Marcus, Caryn L",14
 220158,GAMD,"Guaranteed Admissions Medicine",200,"Art & Science of Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,"Sanders-Marcus, Caryn L","Chambers, Donald Arthur","Cohen, Rhonna L",17
@@ -2236,7 +2236,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220158,UPP,"Urban Planning and Policy",594,"SustainbleCities: Skyscrapers",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Al-Kodmany, Kheir M.",,,11
 220158,US,"Urban Studies",101,"Intro to Urban Studies",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",50,6,0,0,0,0,0,0,4,0,0,0,0,0,0,2,"Cordova, Teresa L",,,62
 220158,US,"Urban Studies",130,"Principls Urb Sustainability",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",40,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kocs, Elizabeth A.",,,45
-220158,US,"Urban Studies",202,"Planning Great Cities",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",18,12,4,1,4,0,0,0,0,0,0,0,0,0,0,1,"Parker, Brenda",,,40
+220158,US,"Urban Studies",202,"Social Justice & the City",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",18,12,4,1,4,0,0,0,0,0,0,0,0,0,0,1,"Parker, Brenda",,,40
 220158,US,"Urban Studies",208,"Mapping the Urban",GP,"Urban Planning &Public Affairs",2727,"Urban Planning and Policy",11,2,2,0,3,0,0,0,0,0,0,0,0,0,0,3,"Jasek, Thomas A",,,21
 220158,BLST,"Black Studies",100,"Introduction to Black Studies",FT,"Liberal Arts & Sciences",2363,"Black Studies",27,20,4,1,5,0,0,0,0,0,0,0,0,0,0,1,"Barnes, Natasha B.",,,58
 220158,BLST,"Black Studies",110,"Intro Af Amer Lit, 1760-1910",FT,"Liberal Arts & Sciences",2363,"Black Studies",5,7,8,1,2,0,0,0,0,0,0,0,0,0,0,0,"Dubey, Madhu",,,23

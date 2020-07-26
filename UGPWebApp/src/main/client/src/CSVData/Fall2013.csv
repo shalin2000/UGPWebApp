@@ -48,8 +48,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,AH,"Art History",100,"Intro to Art &Art History",FR,"Architecture,Design,& the Arts",2910,"Art History",78,69,25,13,11,0,0,0,0,0,0,0,0,0,0,7,"Grad Asst",,,203
 220138,AH,"Art History",110,"Art History I",FR,"Architecture,Design,& the Arts",2910,"Art History",46,70,29,13,15,0,0,0,0,0,1,0,0,0,0,10,"Grossman, Heather E",,,184
 220138,AH,"Art History",204,"Greek Art & Archaeology",FT,"Liberal Arts & Sciences",2349,"Classics & Mediterran Studies",4,8,5,1,1,0,0,0,0,0,0,0,0,0,0,1,"Ros, Karen E",,,20
-220138,AH,"Art History",208,"Topics Modern Arch, Art&Design",FR,"Architecture,Design,& the Arts",2910,"Art History",6,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Denny, Margaret",,,20
-220138,AH,"Art History",208,"Topics Modern Arch, Art&Design",FR,"Architecture,Design,& the Arts",2910,"Art History",8,7,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Archias, S Elise",,,18
+220138,AH,"Art History",208,"Mod/Contemp Latin American Art",FR,"Architecture,Design,& the Arts",2910,"Art History",6,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Denny, Margaret",,,20
+220138,AH,"Art History",208,"Mod/Contemp Latin American Art",FR,"Architecture,Design,& the Arts",2910,"Art History",8,7,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Archias, S Elise",,,18
 220138,AH,"Art History",221,"Medieval Architecture",FR,"Architecture,Design,& the Arts",2910,"Art History",6,10,6,0,0,0,0,0,1,0,0,0,0,0,0,1,"Grossman, Heather E",,,24
 220138,AH,"Art History",232,"Film History I: 1890-WWII",FT,"Liberal Arts & Sciences",2492,English,1,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,"Rubin, Martin L.","Grad Asst",,15
 220138,AH,"Art History",235,"History of Design I",FR,"Architecture,Design,& the Arts",2910,"Art History",7,52,35,4,4,0,0,0,0,0,0,0,0,0,0,2,"Mekinda, Jonathan",,,104
@@ -229,10 +229,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",5,9,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","O'Dell, Andrew Steven Kemp","Grad Asst",18
 220138,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",8,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lai, Hsiao-Lei",,,19
 220138,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",28,41,18,0,0,0,0,0,0,0,0,0,0,0,0,3,"O'Dell, Andrew Steven Kemp","Grad Asst",,90
-220138,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",20,45,43,27,13,0,0,0,0,0,0,0,0,0,0,9,"Nelson, Karin Noel","Grad Asst",,157
-220138,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",53,81,18,9,1,0,0,0,0,0,0,0,0,0,0,2,"Whelan, Christopher J","Grad Asst",,164
+220138,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",20,45,43,27,13,0,0,0,0,0,0,0,0,0,0,9,"Nelson, Karin Noel","Grad Asst",,157
+220138,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",53,81,18,9,1,0,0,0,0,0,0,0,0,0,0,2,"Whelan, Christopher J","Grad Asst",,164
 220138,BIOS,"Biological Sciences",240,Homeostasis,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",20,31,47,16,8,0,0,0,1,0,0,0,0,0,0,16,"Gonzalez-Meler, Miquel Angel","Featherstone, David E.","Grad Asst",139
-220138,BIOS,"Biological Sciences",272,"Compar Vertebrate Anat & Phys",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",11,21,16,1,7,0,0,0,0,0,0,0,0,0,0,4,"Nelson, Karin Noel",,,60
+220138,BIOS,"Biological Sciences",272,"Comparative Vertebrate Anatomy",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",11,21,16,1,7,0,0,0,0,0,0,0,0,0,0,4,"Nelson, Karin Noel",,,60
 220138,BIOS,"Biological Sciences",286,"Biology of Brain",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",21,50,39,7,0,0,0,0,0,0,0,0,0,0,0,5,"Gong, Liang-Wei","Grad Asst",,122
 220138,BIOS,"Biological Sciences",296,"Directed Instruction",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Nelson, Karin Noel","Schmidt, Jennifer Virginia",,15
 220138,BIOS,"Biological Sciences",323,"Molecular Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",4,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mc Cutcheon, Suzanne M","Grad Asst",,10
@@ -1021,7 +1021,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,FR,French,202,"Intro to French Lit II",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",5,0,0,0,0,0,0,1,0,0,16,0,0,0,0,0,"Miner, Margaret R.",,,22
 220138,FR,French,231,"Conversation & Comp I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",16,11,5,2,0,0,0,0,0,0,0,0,0,0,0,0,"Solheim, Jennifer Marie P",,,34
 220138,FR,French,297,"Paris in Lit, Film and Culture",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",17,10,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Solheim, Jennifer Marie P",,,30
-220138,FR,French,301,"Topics in Literature",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",13,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"Fifer, Stacy Ellen",,,18
+220138,FR,French,301,"Topics in French Lit",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",13,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"Fifer, Stacy Ellen",,,18
 220138,FR,French,333,"Oral & Written French I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Weber, Elizabeth D",,,12
 220138,GAMD,"Guaranteed Admissions Medicine",200,"Art & Science of Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,"Chambers, Donald Arthur","Cohen, Rhonna L","Sanders-Marcus, Caryn L",17
 220138,GAMD,"Guaranteed Admissions Medicine",200,"Art & Science of Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,"Sanders-Marcus, Caryn L","Chambers, Donald Arthur","Cohen, Rhonna L",17

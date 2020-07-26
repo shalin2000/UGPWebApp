@@ -267,10 +267,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220108,BIOS,"Biological Sciences",222,"Cell Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",64,46,80,11,12,0,0,0,0,0,0,0,0,0,0,11,"Grad Asst","Alfonso, Aixa","Featherstone, David E.",224
 220108,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",6,7,3,0,1,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","O'Dell, Andrew Steven Kemp","Grad Asst",18
 220108,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",17,24,10,3,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,55
-220108,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",14,53,73,22,10,0,0,0,0,0,0,0,0,0,0,18,"Grad Asst","Nelson, Karin Noel",,190
-220108,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",18,33,44,15,2,0,0,0,0,0,0,0,0,0,0,8,"Minor, Emily","Mason-Gamer, Roberta J",,120
+220108,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",14,53,73,22,10,0,0,0,0,0,0,0,0,0,0,18,"Grad Asst","Nelson, Karin Noel",,190
+220108,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",18,33,44,15,2,0,0,0,0,0,0,0,0,0,0,8,"Minor, Emily","Mason-Gamer, Roberta J",,120
 220108,BIOS,"Biological Sciences",240,Homeostasis,FT,"Liberal Arts & Sciences",2453,"Biological Sciences",30,72,44,9,2,0,0,0,0,0,0,0,0,0,0,20,"Alford, Simon T","Gonzalez-Meler, Miquel Angel","Grad Asst",177
-220108,BIOS,"Biological Sciences",272,"Compar Vertebrate Anat & Phys",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,22,19,7,9,0,0,0,0,0,0,0,0,0,0,5,"Grad Asst",,,72
+220108,BIOS,"Biological Sciences",272,"Comparative Vertebrate Anatomy",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,22,19,7,9,0,0,0,0,0,0,0,0,0,0,5,"Grad Asst",,,72
 220108,BIOS,"Biological Sciences",286,"Biology of Brain",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",13,27,50,21,2,0,0,0,0,0,2,0,0,0,0,12,"Gong, Liang-Wei","Grad Asst",,127
 220108,BIOS,"Biological Sciences",294,"Natural History of Chicagoland",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Nyberg, Dennis W",,,12
 220108,BIOS,"Biological Sciences",296,"Directed Instruction",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Nelson, Karin Noel","Schmidt, Jennifer Virginia",,11
@@ -986,7 +986,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220108,FR,French,202,"Intro to French Lit II",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",5,7,1,0,0,0,0,0,0,0,0,0,0,0,0,2,"Fifer, Stacy Ellen",,,15
 220108,FR,French,231,"Conversation & Comp I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",22,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,"Bourlange, Benjamin Kevin",,,28
 220108,FR,French,232,"Conversation & Comp II",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",9,8,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"Bourlange, Benjamin Kevin",,,19
-220108,FR,French,301,"Topics in Literature",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",4,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Weber, Elizabeth D",,,12
+220108,FR,French,301,"Topics in French Lit",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",4,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Weber, Elizabeth D",,,12
 220108,FR,French,333,"Oral & Written French I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",7,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Fifer, Stacy Ellen",,,11
 220108,GAMD,"Guaranteed Admissions Medicine",200,"GPPA Special Topics/Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,"Chambers, Donald Arthur","Sanders-Marcus, Caryn L",,13
 220108,GAMD,"Guaranteed Admissions Medicine",200,"GPPA Special Topics/Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,"Chambers, Donald Arthur","Payne, Jobe L","Sanders-Marcus, Caryn L",16

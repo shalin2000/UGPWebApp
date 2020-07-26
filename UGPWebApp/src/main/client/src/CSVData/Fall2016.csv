@@ -157,7 +157,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,80,4,1,"Rodriguez, Paul",,,85
 220168,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,0,0,0,93,7,1,"Warner, Kimberly",,,101
 220168,BA,"Business Administration",100,"Intro to UIC & Prof Dev",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,3,0,0,0,0,11,2,0,"Wilson, Jeffrey Crossen",,,16
-220168,BA,"Business Administration",190,"Seminar for Bus Scholars",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,136,0,0,0,0,0,"Prazza, Angela J",,,136
+220168,BA,"Business Administration",190,"UIC Business Seminar Program",FL,"Business Administration",2785,"Business Administration Admini",0,0,0,0,0,0,0,0,0,0,136,0,0,0,0,0,"Prazza, Angela J",,,136
 220168,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",31,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Thomas, Richard Steven",,,34
 220168,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",35,73,47,8,6,0,0,0,0,0,0,0,0,0,0,2,"Corte, Anthony M",,,171
 220168,BA,"Business Administration",200,"Managerial Communication",FL,"Business Administration",2785,"Business Administration Admini",58,86,26,2,1,0,0,0,4,0,0,0,0,0,0,3,"Kohler, William Russell",,,180
@@ -238,12 +238,12 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,BIOS,"Biological Sciences",222,"Cell Biology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",66,89,110,11,4,0,0,0,2,0,0,0,0,0,0,9,"Kay, Brian","Warpeha, Katherine Mary","Grad Asst",291
 220168,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",16,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"McGinley, Andrea Louise","Lee, Ji Inn",,23
 220168,BIOS,"Biological Sciences",223,"Cell Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",75,57,17,4,4,0,0,0,1,0,0,0,0,0,0,4,"McGinley, Andrea Louise","Grad Asst",,162
-220168,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",18,43,43,14,10,0,0,0,1,0,0,0,0,0,0,5,"Nelson, Karin Noel","Grad Asst",,134
-220168,BIOS,"Biological Sciences",230,"Ecology and Evolution",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",31,43,30,24,13,0,0,0,1,0,0,0,0,0,0,7,"Mason-Gamer, Roberta J","Minor, Emily","Grad Asst",149
+220168,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",18,43,43,14,10,0,0,0,1,0,0,0,0,0,0,5,"Nelson, Karin Noel","Grad Asst",,134
+220168,BIOS,"Biological Sciences",230,"Evolution and Ecology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",31,43,30,24,13,0,0,0,1,0,0,0,0,0,0,7,"Mason-Gamer, Roberta J","Minor, Emily","Grad Asst",149
 220168,BIOS,"Biological Sciences",237,"Human Skeleton",FT,"Liberal Arts & Sciences",2841,Anthropology,9,4,3,1,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst",,,18
 220168,BIOS,"Biological Sciences",240,"Animal Physiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",23,17,10,6,12,0,0,0,0,0,0,0,0,0,0,7,"Featherstone, David E.",,,75
 220168,BIOS,"Biological Sciences",240,"Animal Physiology",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",71,62,25,1,3,0,0,0,1,0,2,0,0,0,0,2,"Malchow, Robert Paul",,,167
-220168,BIOS,"Biological Sciences",272,"Compar Vertebrate Anat & Phys",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",7,21,10,5,5,0,0,0,0,0,0,0,0,0,0,2,"Nelson, Karin Noel",,,50
+220168,BIOS,"Biological Sciences",272,"Comparative Vertebrate Anatomy",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",7,21,10,5,5,0,0,0,0,0,0,0,0,0,0,2,"Nelson, Karin Noel",,,50
 220168,BIOS,"Biological Sciences",286,"Biology of Brain",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",30,48,45,4,1,0,0,0,0,0,0,0,0,0,0,7,"Chuang, Chiou-Fen","Grad Asst",,135
 220168,BIOS,"Biological Sciences",296,"Directed Instruction",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Nelson, Karin Noel","Mason-Gamer, Roberta J",,13
 220168,BIOS,"Biological Sciences",323,"Molecular Biology Laboratory",FT,"Liberal Arts & Sciences",2453,"Biological Sciences",6,4,1,1,0,0,0,0,0,0,0,0,0,0,0,4,"Mc Cutcheon, Suzanne M","Grad Asst",,16
@@ -1017,7 +1017,7 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220168,FR,French,202,"Fr Lit: Crusades to Revolution",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",11,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Weber, Elizabeth D",,,20
 220168,FR,French,231,"Conversation & Comp I",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",5,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Pearson, Melissa A",,,13
 220168,FR,French,232,"Conversation & Comp II",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Pearson, Melissa A",,,11
-220168,FR,French,301,"Topics in Literature",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",8,8,2,1,0,0,0,0,0,0,0,0,0,0,0,1,"Robert, Yann F",,,20
+220168,FR,French,301,"Topics in French Lit",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",8,8,2,1,0,0,0,0,0,0,0,0,0,0,0,1,"Robert, Yann F",,,20
 220168,FR,French,303,"Writing in the Discipline",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",3,4,0,0,1,0,0,0,2,0,0,0,0,0,0,1,"Robert, Yann F",,,11
 220168,FR,French,510,"Seminar in Lit Studies",FT,"Liberal Arts & Sciences",2943,"French and Francophone Studies",5,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"Robert, Yann F",,,10
 220168,GAMD,"Guaranteed Admissions Medicine",200,"Art & Science of Medicine",GA,"Coll Medicine at Chicago - CS",2649,Administration,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,"Chambers, Donald Arthur","Cohen, Rhonna L","Sanders-Marcus, Caryn L",16
