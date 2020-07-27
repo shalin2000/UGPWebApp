@@ -43,7 +43,7 @@ class ListGrades extends Component {
         // used to print intial graph as letter grade graph instead of not valid graph
         intialGraph: true,
         // used to make sure it stores initial data and bool to make sure it doesnt infinite loop
-        initialData: [], initalBool: true
+        initialData: [], initialBool: true
       }
       this.handleDropdownChange = this.handleDropdownChange.bind(this);
       this.termSelected = this.termSelected.bind(this);
@@ -228,9 +228,9 @@ class ListGrades extends Component {
           </div>
   }
 
-  // it assigns the latest semData to initalData 
-  assignInitialData(allSemArr){
-    this.setState({initialData: allSemArr[0], initalBool: false, howManyLetterGrades: allSemArr[0].A + allSemArr[0].B + allSemArr[0].C + allSemArr[0].D + allSemArr[0].F})
+  // it assigns the latest semData to initialData 
+  assignInitialData(allSemCombinedArr){
+    this.setState({initialData: allSemCombinedArr[0], initialBool: false, howManyLetterGrades: allSemCombinedArr[0].A + allSemCombinedArr[0].B + allSemCombinedArr[0].C + allSemCombinedArr[0].D + allSemCombinedArr[0].F})
   }
 
   render() {
@@ -396,7 +396,7 @@ class ListGrades extends Component {
       ]
     }
     
-    //For courses that have letter I in letter grades it will display this inital 
+    //For courses that have letter I in letter grades it will display this initial 
     const initialLetterGradeGraphI = {
       labels: ['A', 'B','C', 'D', 'F', 'W', 'I'],
       datasets: [
@@ -420,7 +420,7 @@ class ListGrades extends Component {
       ]
     }
 
-    // when there are no letter grades, it will display this inital chart
+    // when there are no letter grades, it will display this initial chart
     const initialNoLetterGradeGraph = {
       labels: ['Advanced', 'Credit','Deferred', 'Incomplete', 'Non-graded', 'Not Reported', 'Outstanding', 'Proficient', 'Satisfactory', 'Unsatisfactory', 'Withdrawn'],
       datasets: [
@@ -525,7 +525,7 @@ class ListGrades extends Component {
 
     // this is used to display the latest semster and the data for that semster.
     // check what kind of semster is it, semster with I or semster with no lettergrade or normal letter grade semster
-    const displayInitalGraph =  this.makeGraph(totalGradesI > 0 ? initialLetterGradeGraphI : this.state.howManyLetterGrades > 0 ? initialLetterGradeGraph : initialNoLetterGradeGraph)
+    const displayinitialGraph =  this.makeGraph(totalGradesI > 0 ? initialLetterGradeGraphI : this.state.howManyLetterGrades > 0 ? initialLetterGradeGraph : initialNoLetterGradeGraph)
 
     const displayLetterGraph = this.makeGraph(totalGradesI > 0 ? letterGradeGraphI : letterGradeGraph)
 
@@ -618,7 +618,7 @@ class ListGrades extends Component {
         </select>
 
         {/* This will check and display the latest semster that has been taught in the top graph */}
-        {allSemCombinedArr.length > 0 && this.state.initalBool ? this.assignInitialData(allSemCombinedArr) : null}
+        {allSemCombinedArr.length > 0 && this.state.initialBool ? this.assignInitialData(allSemCombinedArr) : null}
 
         {/* calls the termselected function which assigns correct data for the term that the user has chosen */}
         
@@ -628,7 +628,7 @@ class ListGrades extends Component {
 
         {/* creates the chart for semster grade Distribution depending on if there are any letter grades or not*/}
         {/* nested tarnaray operatoer which first diplays letter graph when N/A and then when semster is chosen it will display the other graphs approtiately */}
-        {this.state.intialGraph ? displayInitalGraph : this.state.howManyLetterGrades > 0 ? displayLetterGraph : displayNoLetterGraph}
+        {this.state.intialGraph ? displayinitialGraph : this.state.howManyLetterGrades > 0 ? displayLetterGraph : displayNoLetterGraph}
         
         <br/>
 
