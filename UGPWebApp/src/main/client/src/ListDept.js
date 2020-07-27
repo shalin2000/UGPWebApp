@@ -26,7 +26,8 @@ class ListDept extends Component {
   CellFormatter(cell, row) {
     return (
       <div>
-        <Link to={{pathname: "/displayCourse", state: { linkState: row }}}> 
+        {/* {localStorage.setItem('row', JSON.stringify(row))}  */}
+        <Link to={{pathname: "/displayCourse", state: { linkState: row }}}>
             {cell}
         </Link>
       </div>

@@ -41,10 +41,13 @@ class ListGrades extends Component {
         // used to avoid infinite loop
         selectedbool: true,
         // used to print intial graph as letter grade graph instead of not valid graph
-        intialGraph: true
+        intialGraph: true,
+        // used to make sure it stores initial data and bool to make sure it doesnt infinite loop
+        initialData: [], initalBool: true
       }
       this.handleDropdownChange = this.handleDropdownChange.bind(this);
       this.termSelected = this.termSelected.bind(this);
+      this.assignInitialData = this.assignInitialData.bind(this);
   }  
 
   // When the target value that the user selects from the dropdown it will check which if statement it matches with which will then set the correct term data to chosenData
@@ -225,6 +228,11 @@ class ListGrades extends Component {
           </div>
   }
 
+  // it assigns the latest semData to initalData 
+  assignInitialData(allSemArr){
+    this.setState({initialData: allSemArr[0], initalBool: false})
+  }
+
   render() {
     // --------------------------- filters all the csv data for each semster by the professor that is currently chosen ---------------------------
     
@@ -264,15 +272,13 @@ class ListGrades extends Component {
     // ------------------------------------- combines all the semsters and calculates all the total letter grade for combined -------------------------------------
 
     // combines all the semester data into one array of objects which can be used to sum all the A, B, C, etc..
-    const allSemCombinedArr = [...fall2019Arr, ...spring2019Arr, ...fall2018Arr, ...spring2018Arr,
-                              ...fall2017Arr, ...spring2017Arr, ...fall2016Arr, ...spring2016Arr, 
-                              ...fall2015Arr, ...spring2015Arr, ...fall2014Arr, ...spring2014Arr, 
-                              ...fall2013Arr, ...spring2013Arr, ...fall2012Arr, ...spring2012Arr, 
-                              ...fall2011Arr, ...spring2011Arr, ...fall2010Arr, ...spring2010Arr, ...spring2020Arr, 
-                              ...summer2010Arr, ...summer2011Arr, ...summer2012Arr, ...summer2013Arr, ...summer2014Arr,
-                              ...summer2015Arr, ...summer2016Arr, ...summer2017Arr, ...summer2018Arr, ...summer2019Arr
+    const allSemCombinedArr = [...spring2020Arr, ...fall2019Arr, ...summer2019Arr, ...spring2019Arr, ...fall2018Arr, ...summer2018Arr,
+                              ...spring2018Arr, ...fall2017Arr, ...summer2017Arr, ...spring2017Arr, ...fall2016Arr, ...summer2016Arr,
+                              ...spring2016Arr, ...fall2015Arr, ...summer2015Arr, ...spring2015Arr, ...fall2014Arr, ...summer2014Arr,
+                              ...spring2014Arr, ...fall2013Arr, ...summer2013Arr, ...spring2013Arr, ...fall2012Arr, ...summer2012Arr,
+                              ...spring2012Arr, ...fall2011Arr, ...summer2011Arr, ...spring2011Arr, ...fall2010Arr, ...summer2010Arr, ...spring2010Arr
                               ];
-    
+
     // calls calculateForAllLetter with approiate letter grades which will return total of each letter from all semester
     const totalGradesA = this.calculateForAllLetter(allSemCombinedArr, "A")
     const totalGradesB = this.calculateForAllLetter(allSemCombinedArr, "B")
@@ -303,7 +309,7 @@ class ListGrades extends Component {
     const totalStudentsTaughtI = totalGradesA+totalGradesB+totalGradesC+totalGradesD+totalGradesF+totalGradesW+totalGradesI
 
 
-    // -------------------------------------------------------- State for the three different graphs --------------------------------------------------------
+    // -------------------------------------------------------- State for the overall graphs --------------------------------------------------------
 
     // Maps the grade overall using the data from all semster that the professor has taught
     const overallGradeChart = {
@@ -340,7 +346,6 @@ class ListGrades extends Component {
       ]
     }
 
-
     const overallGradeChart2  = {
       labels: ['Advanced', 'Credit','Deferred', 'Incomplete', 'Non-graded', 'Not Reported', 'Outstanding', 'Proficient', 'Satisfactory', 'Unsatisfactory', 'Withdrawn'],
       datasets: [
@@ -368,6 +373,81 @@ class ListGrades extends Component {
       ]
     }
 
+    // -------------------------------------------------------- InitialGraph with latest semster loaded --------------------------------------------------------
+    // Display the initial grades based on the the semster that has been chosen
+    const initialLetterGradeGraph = {
+      labels: ['A', 'B','C', 'D', 'F', 'W'],
+      datasets: [
+        {
+          backgroundColor: [
+            'rgba(47, 238, 17, 0.2)', 'rgba(33, 182, 168, 0.2)', 'rgba(54, 162, 235, 0.2)',
+            'rgba(255, 206, 86, 0.2)', 'rgba(223, 21, 21, 0.2)', 'rgba(255, 69, 0, 0.2)'  
+          ],
+          borderColor: [
+            'rgba(47, 238, 17, 1)', 'rgba(33, 182, 168, 1)', 'rgba(54, 162, 235, 1)',
+            'rgba(255, 206, 86, 1)', 'rgba(223, 21, 21, 1)', 'rgba(255, 69, 0, 1)'
+          ],
+          borderWidth: 2,
+          data: [
+              parseInt(this.state.initialData.A), parseInt(this.state.initialData.B), parseInt(this.state.initialData.C), 
+              parseInt(this.state.initialData.D), parseInt(this.state.initialData.F), parseInt(this.state.initialData.W)
+          ]
+        }
+      ]
+    }
+    
+    //For courses that have letter I in letter grades it will display this inital 
+    const initialLetterGradeGraphI = {
+      labels: ['A', 'B','C', 'D', 'F', 'W', 'I'],
+      datasets: [
+        {
+          backgroundColor: [
+            'rgba(47, 238, 17, 0.2)', 'rgba(33, 182, 168, 0.2)', 'rgba(54, 162, 235, 0.2)',
+            'rgba(255, 206, 86, 0.2)', 'rgba(223, 21, 21, 0.2)', 'rgba(255, 69, 0, 0.2)',
+            'rgba(214, 47, 227, 0.2)'
+          ],
+          borderColor: [
+            'rgba(47, 238, 17, 1)', 'rgba(33, 182, 168, 1)', 'rgba(54, 162, 235, 1)',
+            'rgba(255, 206, 86, 1)', 'rgba(223, 21, 21, 1)', 'rgba(255, 69, 0, 1)',
+            'rgba(214, 47, 227, 1)'
+          ],
+          borderWidth: 2,
+          data: [
+              parseInt(this.state.initialData.A), parseInt(this.state.initialData.B), parseInt(this.state.initialData.C), 
+              parseInt(this.state.initialData.D), parseInt(this.state.initialData.F), parseInt(this.state.initialData.W), parseInt(this.state.initialData.I)
+          ]
+        }
+      ]
+    }
+
+    // when there are no letter grades, it will display this inital chart
+    const initialNoLetterGradeGraph = {
+      labels: ['Advanced', 'Credit','Deferred', 'Incomplete', 'Non-graded', 'Not Reported', 'Outstanding', 'Proficient', 'Satisfactory', 'Unsatisfactory', 'Withdrawn'],
+      datasets: [
+        {
+          backgroundColor: [
+            'rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 206, 86, 0.2)',
+            'rgba(75, 192, 192, 0.2)', 'rgba(153, 102, 255, 0.2)', 'rgba(78, 169, 107, 0.2)', 
+            'rgba(173, 113, 116, 0.2)', 'rgba(214, 47, 227, 0.2)', 'rgba(188, 58, 0, 0.2)', 
+            'rgba(43, 81, 106, 0.2)', 'rgba(255, 159, 64, 0.2)'
+          ],
+          borderColor: [
+              'rgba(255, 99, 132, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 206, 86, 1)',
+              'rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)', 'rgba(78, 169, 107, 1)', 
+              'rgba(173, 113, 116, 1)', 'rgba(214, 47, 227, 1)', 'rgba(188, 58, 0, 1)', 
+              'rgba(43, 81, 106, 1)', 'rgba(255, 159, 64, 1)', 
+          ],
+          borderWidth: 2,
+          data: [parseInt(this.state.initialData.ADV), parseInt(this.state.initialData.CR), parseInt(this.state.initialData.DFR), 
+                 parseInt(this.state.initialData.I), parseInt(this.state.initialData.NG), parseInt(this.state.initialData.NR),
+                 parseInt(this.state.initialData.O), parseInt(this.state.initialData.PR), parseInt(this.state.initialData.S),
+                 parseInt(this.state.initialData.U), parseInt(this.state.initialData.W)
+                ],
+        }
+      ]
+    }
+
+    // ---------------------------------------------- Different types of graph for semster when user chooses item from dropdown --------------------------------------------------------
     // Display the grades based on the the semster that has been chosen
     const letterGradeGraph = {
       labels: ['A', 'B','C', 'D', 'F', 'W'],
@@ -443,7 +523,9 @@ class ListGrades extends Component {
 
     // -------------------------------------------------------- Display the three different graphs --------------------------------------------------------
 
-    const displayInitalGraph =  this.makeGraph(letterGradeGraph)
+    // this is used to display the latest semster and the data for that semster.
+    // check what kind of semster is it, semster with I or semster with no lettergrade or normal letter grade semster
+    const displayInitalGraph =  this.makeGraph(totalGradesI > 0 ? initialLetterGradeGraphI : this.state.howManyLetterGrades > 0 ? initialLetterGradeGraph : initialNoLetterGradeGraph)
 
     const displayLetterGraph = this.makeGraph(totalGradesI > 0 ? letterGradeGraphI : letterGradeGraph)
 
@@ -500,7 +582,7 @@ class ListGrades extends Component {
         {/* makes the drop down menu for the sesmters that the professor has taught in these course */}
         <select class="browser-default custom-select" 
         style={{width: '50%', margin:'auto', display:'block'}} onChange={this.handleDropdownChange}>
-          <option value="" disabled selected>Choose your semester</option>
+          {/* <option value="" disabled selected>Choose your semester</option> */}
           {/* if the lenght is greater than 0 then it means the professor has taught that semester and will be displayed as an option else it wont be displayed */}
           {spring2020Arr.length > 0 ? <option value="Spring2020">Spring 2020</option> : null}
           {fall2019Arr.length > 0 ? <option value="Fall2019">Fall 2019</option> : null}
@@ -535,19 +617,27 @@ class ListGrades extends Component {
           {spring2010Arr.length > 0 ? <option value="Spring2010">Spring 2010</option> : null }
         </select>
 
+        {/* This will check and display the latest semster that has been taught in the top graph */}
+        {allSemCombinedArr.length > 0 && this.state.initalBool ? this.assignInitialData(allSemCombinedArr) : null}
+
         {/* calls the termselected function which assigns correct data for the term that the user has chosen */}
         
         <div>{this.state.selectedbool ? this.termSelected() : null}</div>
-        <br/>
-        {/* creates the chart for semster grade Distribution depending on if there are any letter grades or not*/}
-        {/* nested tarnaray operatoer which first diplays letter graph when N/A and then when semster is chosen it will display the other graphs approtiately */}
         
-        {this.state.intialGraph ? displayInitalGraph : this.state.howManyLetterGrades > 0 ? displayLetterGraph : displayNoLetterGraph}
-        <br/>
-        {/* displays the overall graph for that course with that specific professor taught */}
-        {displayOverAllGraph}
         <br/>
 
+        {/* creates the chart for semster grade Distribution depending on if there are any letter grades or not*/}
+        {/* nested tarnaray operatoer which first diplays letter graph when N/A and then when semster is chosen it will display the other graphs approtiately */}
+        {this.state.intialGraph ? displayInitalGraph : this.state.howManyLetterGrades > 0 ? displayLetterGraph : displayNoLetterGraph}
+        
+        <br/>
+
+        {/* displays the overall graph for that course with that specific professor taught */}
+        {displayOverAllGraph}
+        
+        <br/>
+
+        {/* the ternary operator makes sure the review section isnt visalbe if prof name is Grad Asst or missing instr */}
         {this.props.ProfInfo.name1 === "Grad Asst" ? 
         null : (this.props.ProfInfo.name1 === "Instructor, Missing" ?
         null : <div>
