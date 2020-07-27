@@ -230,7 +230,7 @@ class ListGrades extends Component {
 
   // it assigns the latest semData to initalData 
   assignInitialData(allSemArr){
-    this.setState({initialData: allSemArr[0], initalBool: false})
+    this.setState({initialData: allSemArr[0], initalBool: false, howManyLetterGrades: allSemArr[0].A + allSemArr[0].B + allSemArr[0].C + allSemArr[0].D + allSemArr[0].F})
   }
 
   render() {
