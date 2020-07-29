@@ -56,6 +56,11 @@ class ListDept extends Component {
       dataField: 'CRS_SUBJ_CD',
       order: 'asc'
     }];
+    const rowEvents = {
+      onClick: (e, row, rowIndex) => {
+        localStorage.setItem('row', JSON.stringify(row))
+      }
+    };
     return <div className="react-bootstrap-table-wrapper">
                             <BootstrapTable
                               bootstrap4
@@ -64,6 +69,7 @@ class ListDept extends Component {
                               columns={ columns } 
                               defaultSorted={ defaultSorted } 
                               hover
+                              rowEvents={ rowEvents }
                             />
       </div>
   }

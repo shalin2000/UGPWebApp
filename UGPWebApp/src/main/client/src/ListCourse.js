@@ -75,6 +75,12 @@ class ListCourse extends Component {
       order: 'asc'
     }];
     
+    const rowEvents = {
+      onClick: (e, row, rowIndex) => {
+        localStorage.setItem('row', JSON.stringify(row))
+      }
+    };
+
     const displayCourseArr = <BootstrapTable
                                 bootstrap4
                                 keyField="CRS_TITLE"
@@ -84,6 +90,7 @@ class ListCourse extends Component {
                                 striped
                                 hover
                                 wrapperClasses="table-responsive"
+                                rowEvents={ rowEvents }
                               />
                               
                               

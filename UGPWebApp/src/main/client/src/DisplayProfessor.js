@@ -15,7 +15,8 @@ class DisplayProfessor extends Component {
 
     // Sets the data from props that was sent from listCourse to myData state when start
     componentDidMount() {
-        this.setState({myData: this.props.location.state.linkState})
+        var retrievedObject = localStorage.getItem('row');
+        this.setState({myData: JSON.parse(retrievedObject)})
     }
 
     render (){

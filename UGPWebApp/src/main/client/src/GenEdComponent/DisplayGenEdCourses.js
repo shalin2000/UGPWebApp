@@ -16,7 +16,8 @@ class DisplayGenEd extends Component {
     // when component mounts, it scrolls to top and sets the state chosenGenEd to the one that was passed from DisplayGenEd
     componentDidMount() {
         window.scrollTo(0, 0);
-        this.setState({chosenGenEd: this.props.location.state.linkState})
+        var retrievedObject = localStorage.getItem('row');
+        this.setState({chosenGenEd: JSON.parse(retrievedObject)})
     }
 
     render(){

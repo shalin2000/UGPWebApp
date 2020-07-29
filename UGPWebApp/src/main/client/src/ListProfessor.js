@@ -64,7 +64,6 @@ class ListProfessor extends Component {
                                   >
                                     <Link className="card-body" 
                                       key={idx} to={{pathname: "/displayGrades", state: { linkState: data }}}
-                                      onClick={this.linking}
                                       style={{
                                         display: 'flex',
                                         flexDirection: 'column',
