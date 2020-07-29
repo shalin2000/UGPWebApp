@@ -10,6 +10,7 @@ class ListProfessor extends Component {
     super(props);
     this.state = {
       myData: [],
+      letterArrA: []
     };
   }
   
@@ -20,22 +21,23 @@ class ListProfessor extends Component {
       });
   }
   
-  // Removes the duplicate value in the object
-  removeDup(data, key) {
-    return [
-      ...new Map(
-        data.map(x=>[key(x), x])
-      ).values(),
-    ];
+  // this calculates the total letters from all semester 
+  calculateGPA(data){
+    return (((4*parseInt(data.A)) + (3*parseInt(data.B)) + (2*parseInt(data.C)) + (parseInt(data.D))) / (parseInt(data.A) + parseInt(data.B) + parseInt(data.C) + parseInt(data.D) + parseInt(data.F)))
   }
 
   render() {    
 
     // filters the array so the new array contains only the professor that match the CRS_TITLE that was passed in as the prop (TITLE) from DisplayProfessor
-    const printArr = this.state.myData.filter(x => x.CRS_NBR === (this.props.profInfo.CRS_NBR) && x.CRS_SUBJ_CD === (this.props.profInfo.CRS_SUBJ_CD) && x.CRS_TITLE === (this.props.profInfo.CRS_TITLE)); 
-
-    // removes dup entires that have the same name1 and store it in noDup array
-    const noDupArr = this.removeDup(printArr, x => x.name1);
+    const printArr = this.state.myData.filter(x => x.CRS_NBR === (this.props.profInfo.CRS_NBR) && x.CRS_SUBJ_CD === (this.props.profInfo.CRS_SUBJ_CD) && 
+                                              x.CRS_TITLE === (this.props.profInfo.CRS_TITLE)).sort((a,b) => a.name1 > b.name1 ? 1 : -1); 
+    
+    // adds all the A,B,C,D,F of the same prof and removes the duplicates
+    const res = printArr.reduce((r,c) => { 
+      (!r[c.name1])?r[c.name1] = c : r[c.name1] = {...r[c.name1], A : parseInt(c.A) + parseInt(r[c.name1].A) , 
+        B : parseInt(c.B) + parseInt(r[c.name1].B), C : parseInt(c.C) + parseInt(r[c.name1].C), D : parseInt(c.D) + parseInt(r[c.name1].D), F : parseInt(c.F) + parseInt(r[c.name1].F)} ; 
+        return r
+      } , {})
 
     // map the array which then returns the course number and course title
     const displayProfArr = <div className="row" 
@@ -44,7 +46,7 @@ class ListProfessor extends Component {
                               justifyContent: 'center'
                               }}
                            >
-                              {noDupArr.sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => (
+                              {Object.values(res).sort((a,b) => a.name1 > b.name1 ? 1 : -1).map((data, idx) => (
                                   <div className="card"
                                     style={{
                                       width: '14rem',
@@ -65,6 +67,8 @@ class ListProfessor extends Component {
                                       }}
                                     >
                                       <h3 style={{margin: 0, color: '#5b5b5b'}}>{data.name1}</h3> 
+                                      <hr/>
+                                      <i>{this.calculateGPA(data)}</i>
                                     </Link>
                                   </div>
                               ))}

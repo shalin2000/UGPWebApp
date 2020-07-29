@@ -525,8 +525,8 @@ class ListGrades extends Component {
 
     // this is used to display the latest semster and the data for that semster.
     // check what kind of semster is it, semster with I or semster with no lettergrade or normal letter grade semster
-    const displayinitialGraph =  this.makeGraph(totalGradesI > 0 ? initialLetterGradeGraphI : this.state.howManyLetterGrades > 0 ? initialLetterGradeGraph : initialNoLetterGradeGraph)
-
+    const displayinitialGraph =  this.makeGraph(this.state.howManyLetterGrades > 0 ? (totalGradesI > 0 ? initialLetterGradeGraphI : initialLetterGradeGraph) : initialNoLetterGradeGraph)
+    
     const displayLetterGraph = this.makeGraph(totalGradesI > 0 ? letterGradeGraphI : letterGradeGraph)
 
     const displayNoLetterGraph = this.makeGraph(noLetterGradeGraph)
