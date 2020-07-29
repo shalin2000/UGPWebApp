@@ -194,14 +194,14 @@ class ListGrades extends Component {
     }, 0);
   }
 
-  makeGraph(data){
+  makeGraph(data, semGPA){
     return <div className='chart-container'>
             <Bar
             data={data}
             options={{
                 title:{
                     display:true,
-                    text:'Semester Grade Distribution',
+                    text: semGPA > 0.00 ? 'Semester Grade Distribution - GPA : ' + semGPA : 'Semester Grade Distribution',
                     fontSize:20
                 },
                 legend:{
@@ -312,8 +312,8 @@ class ListGrades extends Component {
     const avgGPA = ((4*(totalGradesA)+3*(totalGradesB)+2*(totalGradesC)+totalGradesD)/overallLetterGradeCount).toFixed(2)
     
     //Semester GPA 
-    const semCount = this.state.A+this.state.B+this.state.C+this.state.D+this.state.F                        
-    const semGPA = ((4*(this.state.A)+3*(this.state.B)+2*(this.state.C)+this.state.D)/semCount).toFixed(2)                     
+    const semCount = parseInt(this.state.A)+parseInt(this.state.B)+parseInt(this.state.C)+parseInt(this.state.D)+parseInt(this.state.F)                     
+    const semGPA = ((4*(parseInt(this.state.A))+3*(parseInt(this.state.B))+2*(parseInt(this.state.C))+parseInt(this.state.D))/semCount).toFixed(2)                     
 
     // -------------------------------------------------------- State for the overall graphs --------------------------------------------------------
 
@@ -531,11 +531,11 @@ class ListGrades extends Component {
 
     // this is used to display the latest semster and the data for that semster.
     // check what kind of semster is it, semster with I or semster with no lettergrade or normal letter grade semster
-    const displayinitialGraph =  this.makeGraph(this.state.howManyLetterGrades > 0 ? (totalGradesI > 0 ? initialLetterGradeGraphI : initialLetterGradeGraph) : initialNoLetterGradeGraph)
+    const displayinitialGraph =  this.makeGraph(this.state.howManyLetterGrades > 0 ? (totalGradesI > 0 ? initialLetterGradeGraphI : initialLetterGradeGraph) : initialNoLetterGradeGraph, semGPA)
     
-    const displayLetterGraph = this.makeGraph(totalGradesI > 0 ? letterGradeGraphI : letterGradeGraph)
+    const displayLetterGraph = this.makeGraph(totalGradesI > 0 ? letterGradeGraphI : letterGradeGraph, semGPA)
 
-    const displayNoLetterGraph = this.makeGraph(noLetterGradeGraph)
+    const displayNoLetterGraph = this.makeGraph(noLetterGradeGraph, semGPA)
 
     const displayOverAllGraph = <div className='chart-container'>
                                   <Bar
@@ -546,7 +546,7 @@ class ListGrades extends Component {
                                       },
                                       title:{
                                           display:true,
-                                          text:'Overall Grade Distribution - GPA : ' + avgGPA,
+                                          text: avgGPA > 0.00 ? 'Overall Grade Distribution - GPA : ' + avgGPA : 'Overall Grade Distribution (%)',
                                           fontSize:20
                                       },
                                       legend:{
