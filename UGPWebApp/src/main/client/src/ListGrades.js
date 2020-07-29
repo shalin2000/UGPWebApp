@@ -312,8 +312,8 @@ class ListGrades extends Component {
     const avgGPA = ((4*(totalGradesA)+3*(totalGradesB)+2*(totalGradesC)+totalGradesD)/overallLetterGradeCount).toFixed(2)
     
     //Semester GPA 
-    const semCount = parseInt(this.state.A)+parseInt(this.state.B)+parseInt(this.state.C)+parseInt(this.state.D)+parseInt(this.state.F)                     
-    const semGPA = ((4*(parseInt(this.state.A))+3*(parseInt(this.state.B))+2*(parseInt(this.state.C))+parseInt(this.state.D))/semCount).toFixed(2)                     
+    const semCount = parseInt(this.state.initialData.A)+parseInt(this.state.initialData.B)+parseInt(this.state.initialData.C)+parseInt(this.state.initialData.D)+parseInt(this.state.initialData.F)                     
+    const semGPA = ((4*(parseInt(this.state.initialData.A))+3*(parseInt(this.state.initialData.B))+2*(parseInt(this.state.initialData.C))+parseInt(this.state.initialData.D))/semCount).toFixed(2)                     
 
     // -------------------------------------------------------- State for the overall graphs --------------------------------------------------------
 
