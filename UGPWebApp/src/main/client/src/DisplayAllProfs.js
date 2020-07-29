@@ -75,12 +75,6 @@ class DisplayAllProfs extends Component {
       formatter: this.CellFormatter,
     }];
     
-    const rowEvents = {
-      onClick: (e, row, rowIndex) => {
-        localStorage.setItem('row', JSON.stringify(row))
-      }
-    };
-
     // calls the bootstrap table and tookitprovider which generates the table and makes a search bar for users to quickly find the professor
     // also has the pagination which allows the table to be reduced into multiple pages which the users can easily naviagte
     const displayProfArr = <ToolkitProvider
@@ -95,7 +89,7 @@ class DisplayAllProfs extends Component {
           <SearchBar { ...props.searchProps } />
           <hr />
           <BootstrapTable pagination={ paginationFactory() }
-            { ...props.baseProps } rowEvents={ rowEvents }
+            { ...props.baseProps }
           />
         </div>
       )

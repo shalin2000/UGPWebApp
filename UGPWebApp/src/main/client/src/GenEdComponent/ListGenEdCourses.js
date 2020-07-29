@@ -85,12 +85,6 @@ class ListGenEdCourses extends Component {
       formatter: this.CellFormatter,
     }];
     
-    const rowEvents = {
-      onClick: (e, row, rowIndex) => {
-        localStorage.setItem('row', JSON.stringify(row))
-      }
-    };
-    
     // displays the columns and data into the a table
     const displayGenCourses = <BootstrapTable
                                 bootstrap4
@@ -100,7 +94,6 @@ class ListGenEdCourses extends Component {
                                 striped
                                 hover
                                 wrapperClasses="table-responsive"
-                                rowEvents={ rowEvents }
                               />
                    
     return (

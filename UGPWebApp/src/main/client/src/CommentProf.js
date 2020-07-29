@@ -224,7 +224,7 @@ class CommentProf extends Component {
                             {byProf.length > 0 ? (byProf.length === 1 ? <h5> Rated by {byProf.length} Student</h5> : <h5> Rated by {byProf.length} Students</h5>) : <h5> Be the first to <br/>leave a review!</h5>}
                             {/* button that will take the user to the page where it will show all the courses that are being taught by the professor they are selected in */}
                             <ul class="actions special">
-                                    <Link to={{pathname: "/displayCRSbyProf", state: { linkState: this.props.chosenCourseAndProf }}}><li class="button">Courses by Professor</li></Link>
+                                    <Link to={{pathname: "/displayCRSbyProf", state: { linkState: this.props.chosenCourseAndProf }}}>{localStorage.setItem('row', JSON.stringify(this.props.chosenCourseAndProf))}<li class="button">Courses by Professor</li></Link>
                             </ul>
 
                             {/* ------ this is the pop up when u press leave a review button ------ */}

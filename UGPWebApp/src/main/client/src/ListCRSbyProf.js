@@ -35,8 +35,10 @@ class ListCRSbyProf extends Component {
   
   render() {
 
+    var retrievedObject = localStorage.getItem('row');
+
     // filters the array so the new array contains only the courses that match the name that was passed in as the prop (dept) from displayAllProf
-    const printArr = this.state.myData.filter(x => x.name1 === (this.props.location.state.linkState.name1));
+    const printArr = this.state.myData.filter(x => x.name1 === (JSON.parse(retrievedObject).name1));
     // removes dup entires that have the same CRS_SUBJ_CD and CRS_NBR and store it in array
     const noDupArr = printArr.filter((item, index, self) => index === self.findIndex((t) => (t.CRS_SUBJ_CD === item.CRS_SUBJ_CD && t.CRS_TITLE === item.CRS_TITLE)));
 
@@ -69,12 +71,6 @@ class ListCRSbyProf extends Component {
       order: 'asc'
     }];
     
-    const rowEvents = {
-      onClick: (e, row, rowIndex) => {
-        localStorage.setItem('row', JSON.stringify(row))
-      }
-    };
-
     // calls the bootstrap table which generates the table with the courses that are taught by the professor selected
     const displayCourseArr = <BootstrapTable
                                 bootstrap4
@@ -84,7 +80,6 @@ class ListCRSbyProf extends Component {
                                 defaultSorted={ defaultSorted } 
                                 striped
                                 hover
-                                rowEvents={ rowEvents }
                               />
       
     return (
@@ -92,7 +87,7 @@ class ListCRSbyProf extends Component {
        <div className='App'>
         < Header />
         <div className="secHeader">
-          <h2>Courses Taught By {this.props.location.state.linkState.name1}</h2>
+          <h2>Courses Taught By {JSON.parse(retrievedObject).name1}</h2>
         </div>
         <div className='Table'>
           <div>{displayCourseArr}</div>
