@@ -1,5 +1,5 @@
 CRS_SUBJ_CD,CRS_NBR,CRS_TITLE,CRDT,ANW,UIS,UP,UCA,EWC,UUS
-ANTH,102,"Introduction to Archaeology",4,1,0,0,0,0,0
+ANTH,102,"Intro to Archaeology",4,1,0,0,0,0,0
 ANTH,105,"Human Evolution",4,1,0,0,0,0,0
 ANTH,238,"Biology of Women",3,1,0,0,0,0,0
 BIOS,110,"Biology of Cells and Organisms",4,1,0,0,0,0,0
@@ -7,28 +7,28 @@ BIOS,120,"Biology of Populations and Communities",4,1,0,0,0,0,0
 BIOS,104,"Biology for Non-majors",4,1,0,0,0,0,0
 CHEM,100,"Chemistry and Life",5,1,0,0,0,0,0
 CHEM,105,"Chemistry and the Molecular Human: An Inquiry Perspective",4,1,0,0,0,0,0
-CHEM,116,"Honors and Majors General and Analytical Chemistry I",5,1,0,0,0,0,0
-CHEM,118,"Honors and Majors General and Analytical Chemistry II",5,1,0,0,0,0,0
+CHEM,116,"General and Analytical Chem I",5,1,0,0,0,0,0
+CHEM,118,"General and Analytical Chem II",5,1,0,0,0,0,0
 CHEM,122,"General Chemistry I Lecture",4,1,0,0,0,0,0
-CHEM,123,"General Chemistry Laboratory I",1,1,0,0,0,0,0
+CHEM,123,"General Chemistry Lab I",1,1,0,0,0,0,0
 CHEM,124,"General Chemistry II Lecture",4,1,0,0,0,0,0
-CHEM,125,"General Chemistry Laboratory II",1,1,0,0,0,0,0
-CHEM,130,"Survey of Organic and Biochemistry",5,1,0,0,0,0,0
+CHEM,125,"General Chemistry Lab II",1,1,0,0,0,0,0
+CHEM,130,"Survey/Organic&Biochem",5,1,0,0,0,0,0
 CS,100,"Discovering Computer Science",3,1,0,0,0,0,0
 EAES,101,"Global Environmental Change",4,1,0,0,0,0,0
-EAES,105,"Climate, Contamination, and Chicago",2,1,0,0,0,0,0
-EAES,111,"Earth, Energy, and the Environment",4,1,0,0,0,0,0
-EAES,200,"Field Work in Missouri",2,1,0,0,0,0,0
+EAES,105,"Climate Contamination Chicago",2,1,0,0,0,0,0
+EAES,111,"Earth, Energy, Environment",4,1,0,0,0,0,0
+EAES,200,"Field Work In Missouri",2,1,0,0,0,0,0
 ECON,106,"Tobacconomics",3,1,0,0,0,0,0
-ECE,115,"Introduction to Electrical and Computer Engineering",4,1,0,0,0,0,0
+ECE,115,"Intro to Elec & Cmptr Eng",4,1,0,0,0,0,0
 HON,130,"Honors Core in Analyzing the Natural World and Understanding the Individual and Society",3,1,0,0,0,0,0
-HON,131,"Honors Core in Analyzing the Natural World and Understanding the Past",3,1,0,0,0,0,0
+HON,131,"Hon Core Natural World / Past",3,1,0,0,0,0,0
 HON,132,"Honors Core in Analyzing the Natural World and Understanding the Creative Arts",3,1,0,0,0,0,0
-HON,133,"Honors Core in Analyzing the Natural World and Exploring World Cultures",3,1,0,0,0,0,0
-HON,134,"Honors Core in Analyzing the Natural World and Understanding U.S. Society",3,1,0,0,0,0,0
+HON,133,"Hon Core Nat Wrld/Wrld Cultr",3,1,0,0,0,0,0
+HON,134,"Hon Core Nat World/US Society",3,1,0,0,0,0,0
 HON,145,"Honors Core in Analyzing the Natural World",3,1,0,0,0,0,0
-KN,152,"Introduction to Exercise Physiology and Health",3,1,0,0,0,0,0
-MCS,260,"Introduction to Computer Science",4,1,0,0,0,0,0
+KN,152,"Intro to Ex Sci & Health",3,1,0,0,0,0,0
+MCS,260,"Intro To Computer Science",4,1,0,0,0,0,0
 MATH,125,"Elementary Linear Algebra",5,1,0,0,0,0,0
 MATH,160,"Finite Mathematics for Business",5,1,0,0,0,0,0
 MATH,165,"Calculus for Business",5,1,0,0,0,0,0
@@ -36,77 +36,77 @@ MATH,170,"Calculus for the Life Sciences",4,1,0,0,0,0,0
 MATH,180,"Calculus I",4,1,0,0,0,0,0
 MATH,181,"Calculus II",4,1,0,0,0,0,0
 MATH,210,"Calculus III",3,1,0,0,0,0,0
-MUS,116,"The Science and History of Sound in the Arts",3,1,0,0,0,0,0
+MUS,116,"Science and History of Sound",3,1,0,0,0,0,0
 NATS,101,"Physical World",4,1,0,0,0,0,0
 NATS,102,"Chemical World",4,1,0,0,0,0,0
 NATS,103,"Biological World",4,1,0,0,0,0,0
-NATS,105,"Physical Systems in Earth and Space Science",4,1,0,0,0,0,0
-NATS,106,"Chemical and Biological Systems",4,1,0,0,0,0,0
+NATS,105,"Phys Syst Earth and Space Sci",4,1,0,0,0,0,0
+NATS,106,"Chem and Bio Systems",4,1,0,0,0,0,0
 PHIL,102,"Introductory Logic",3,1,0,0,0,0,0
 PHIL,105,"Science and Philosophy",3,1,0,0,0,0,0
 PHIL,210,"Symbolic Logic",3,1,0,0,0,0,0	
-PHYS,112,"Astronomy and the Universe",4,1,0,0,0,0,0
+PHYS,112,"Astronomy and Universe",4,1,0,0,0,0,0
 PHYS,116,"Energy for Future Decision-Makers",3,1,0,0,0,0,0
 PHYS,118,"Physics in Modern Medicine",3,1,0,0,0,0,0
-PHYS,131,"Introductory Physics for Life Sciences I",4,1,0,0,0,0,0
-PHYS,132,"Introductory Physics for Life Sciences II",4,1,0,0,0,0,0
-PHYS,141,"General Physics I (Mechanics)",4,1,0,0,0,0,0
-PHYS,142,"General Physics II (Electricity and Magnetism)",4,1,0,0,0,0,0
-PUBH,120,"Public Health and the Study of Disease and Epidemics",3,1,0,0,0,0,0
-AAST,103,"African American Politics and Culture",3,0,1,0,0,0,0
+PHYS,131,"Physics for Life Sciences I",4,1,0,0,0,0,0
+PHYS,132,"Physics for Life Sciences II",4,1,0,0,0,0,0
+PHYS,141,"General Physics I",4,1,0,0,0,0,0
+PHYS,142,"General Physics II",4,1,0,0,0,0,0
+PUBH,120,"Study of Disease and Epidemics",3,1,0,0,0,0,0
+AAST,103,"African Amer Politics&Culture",3,0,1,0,0,0,0
 AAST,203,"The African American Family in the United States",3,0,1,0,0,0,0
-AAST,263,"African American Intellectual History",3,0,1,0,0,0,0
-AAST,271,"African Americans and the Politics of Incarceration",3,0,1,0,0,0,0
-ANTH,101,"World Cultures: Introduction to Social Anthropology",3,0,1,0,0,0,0
+AAST,263,"Afr Amer Intellectual History",3,0,1,0,0,0,0
+AAST,271,"Afr Amer & Politcs Incarceratn",3,0,1,0,0,0,0
+ANTH,101,"World Cultures",3,0,1,0,0,0,0
 ANTH,215,"Anthropology of Religion",3,0,1,0,0,0,0
-ANTH,216,"Medicine, Culture, and Society",3,0,1,0,0,0,0
+ANTH,216,"Medicine, Culture, & Society",3,0,1,0,0,0,0
 ANTH,218,"Anthropology of Children and Childhood",3,0,1,0,0,0,0
 ANTH,238,"Biology of Women",3,0,1,0,0,0,0
 ANTH,273,"Ethnography of Southeast Asia",3,0,1,0,0,0,0
-ANTH,277,"Ethnography of Meso-America",3,0,1,0,0,0,0
-ANTH,279,"South Asian Cultures and Societies",3	,0,1,0,0,0,0
+ANTH,277,"Ethnog of Meso-America",3,0,1,0,0,0,0
+ANTH,279,"South Asian Cultures",3	,0,1,0,0,0,0
 ARCH,200,"Architecture and Society",4,0,1,0,0,0,0
-ART,290,"Art and Resistance: Socially Engaged Art",4,0,1,0,0,0,0
-AH,101,"The Naked and the Nude: Studies in Visual Literacy",3,0,1,0,0,0,0
+ART,290,"Art and Resistance",4,0,1,0,0,0,0
+AH,101,"The Naked and the Nude",3,0,1,0,0,0,0
 AH,180,"Intro to Museum & Exhibition",3,0,1,0,0,0,0
 BLST,100,"Introduction to Black Studies",3,0,1,0,0,0,0
 BLST,104,"Race, Place, and Schooling: Black Americans and Education",3,0,1,0,0,0,0
 BLST,207,"Racism: Global Perspectives",3,0,1,0,0,0,0
 BLST,272,"Race, Gender, and Sexuality",3,0,1,0,0,0,0
 CL,208,"Greek Mythology",3,0,1,0,0,0,0
-COMM,100,"Fundamentals of Human Communication",3,0,1,0,0,0,0
-COMM,101,"Introduction to Communication",3,0,1,0,0,0,0
-COMM,102,"Introduction to Interpersonal Communication",3,0,1,0,0,0,0
-COMM,103,"Introduction to Media",3,0,1,0,0,0,0
-COMM,140,"Fundamentals of Social Media and Communication",3,0,1,0,0,0,0
+COMM,100,"Human Communication",3,0,1,0,0,0,0
+COMM,101,"Intro to Communication",3,0,1,0,0,0,0
+COMM,102,"Intro Interpersonal Comm",3,0,1,0,0,0,0
+COMM,103,"Intro to Media",3,0,1,0,0,0,0
+COMM,140,"Fundamentals of Media Comm",3,0,1,0,0,0,0
 DLG,220,"Intergroup Dialogue",3,0,1,0,0,0,0
 DHD,101,"Disability in U.S. Society",3,0,1,0,0,0,0
-DHD,201,"Disability, Rights, and Culture",3,0,1,0,0,0,0
-DHD,202,"Disability, Health, and Society",3,0,1,0,0,0,0
-DHD,205,"Disability, Race, Class and Gender",3,0,1,0,0,0,0
+DHD,201,"Disability, Rights, & Culture",3,0,1,0,0,0,0
+DHD,202,"Disability, Health, & Society",3,0,1,0,0,0,0
+DHD,205,"Race, Class & Gender",3,0,1,0,0,0,0
 ECON,106,"Tobacconomics",3,0,1,0,0,0,0
 ECON,111,"Freakonomics",3,0,1,0,0,0,0
 ECON,120,"Principles of Microeconomics",4,0,1,0,0,0,0
 ECON,121,"Principles of Macroeconomics",4,0,1,0,0,0,0
-ED,100,"Introduction to Urban Education",3,0,1,0,0,0,0
-ED,101,"Critical Literacies in a Digital Democracy",3,0,1,0,0,0,0
-ED,135,"Child and Youth Policies in Urban America",3,0,1,0,0,0,0
-ED,205,"Introduction to Race, Ethnicity, and Education",3,0,1,0,0,0,0
-ED,217,"STEM, Education, and Society: Exploring Identity, Community, Ethics, Politics, and Ideology",3,0,1,0,0,0,0
-ED,222,"Introduction to Gender, Sexuality, and Education",3,0,1,0,0,0,0
+ED,100,"Intro to Urban Education",3,0,1,0,0,0,0
+ED,101,"Critical Literacies in a Digit",3,0,1,0,0,0,0
+ED,135,"Chld & Yth Policy Urb Amer",3,0,1,0,0,0,0
+ED,205,"Race, Ethnicity, & Education",3,0,1,0,0,0,0
+ED,217,"STEM, Education, and Society",3,0,1,0,0,0,0
+ED,222,"Gender, Sexuality, & Education",3,0,1,0,0,0,0
 ED,258,"Language Development and Learning in a Diverse Society",3,0,1,0,0,0,0
-EPSY,160,"Games, Learning, and Society",3,0,1,0,0,0,0
-EPSY,242,"Introduction to Sexuality Development Across the Lifespan",3,0,1,0,0,0,0
-ENGL,110,"English and American Popular Genres",3,0,1,0,0,0,0
-ENGL,111,"Women and Literature",3,0,1,0,0,0,0
-ENGL,117,"Introduction to Gender, Sexuality and Literature",3,0,1,0,0,0,0
+EPSY,160,"Games, Learning, & Society",3,0,1,0,0,0,0
+EPSY,242,"Sexuality Development",3,0,1,0,0,0,0
+ENGL,110,"English & Amer Popular Genres",3,0,1,0,0,0,0
+ENGL,111,"Women & Literature",3,0,1,0,0,0,0
+ENGL,117,"Gender, Sexuality and Lit",3,0,1,0,0,0,0
 ENGL,120,"Film and Culture",3,0,1,0,0,0,0
 ENGL,122,"Understanding Rhetoric",3,0,1,0,0,0,0
-ENTR,200,"Survey of Entrepreneurship",3,0,1,0,0,0,0
+ENTR,200,"Surveyof Entrepreneurship",3,0,1,0,0,0,0
 GWS,101,"Gender in Everyday Life",3,0,1,0,0,0,0
-GWS,102,"Global Perspectives on Women and Gender",3,0,1,0,0,0,0
+GWS,102,"Global Women & Gender",3,0,1,0,0,0,0
 GWS,204,"Gender and Popular Culture",3,0,1,0,0,0,0
-GWS,262,"Constructions of Gender, Race, Health, and Human Rights",3,0,1,0,0,0,0
+GWS,262,"Gen, Race, Sexualty, & Hum Rts",3,0,1,0,0,0,0
 GEOG,100,"Concepts in Geography",3,0,1,0,0,0,0
 GEOG,101,"World Regional Geography",3,0,1,0,0,0,0
 GEOG,141,"Environmental Geography",3,0,1,0,0,0,0
@@ -117,78 +117,78 @@ GEOG,203,"Human Geography of Latin America including the Caribbean Region",3,0,1
 GEOG,211,"Chicago: An Urban Geography",3,0,1,0,0,0,0
 GEOG,215,"A Global Geography of Cities",3,0,1,0,0,0,0
 GEOG,241,"Resource Problems in the United States",3,0,1,0,0,0,0
-GER,120,"Study of Gender, Class, and Political Issues in German Texts",3,0,1,0,0,0,0
+GER,120,"Gender Class Politics Ger Text",3,0,1,0,0,0,0
 GER,240,"Classical German Thought from Kant to Nietzsche",3,0,1,0,0,0,0
-GLAS,120,"Introduction to Asian American Studies",3,0,1,0,0,0,0
+GLAS,120,"Intro Asian Amer Studies",3,0,1,0,0,0,0
 GLAS,210,"Asian American Histories",3,0,1,0,0,0,0
-GLAS,230,"Cultural Politics of Asian American Food",3,0,1,0,0,0,0
-GLAS,250,"Critical Issues in Community Engagement",3,0,1,0,0,0,0
-GLAS,263,"Asian American Gender and Sexual Diversity",3,0,1,0,0,0,0
-HIST,117,"Understanding the Holocaust",3,0,1,0,0,0,0
-HIST,137,"Russia in War and Revolution, 1904-1922",3,0,1,0,0,0,0
-HIST,211,"The Dawn of European Modernity, 1500-1715",3,0,1,0,0,0,0
-HIST,213,"Europe in the Age of Capitalism and Imperialism, 1815 - 1914",3,0,1,0,0,0,0
+GLAS,230,"Asian American Culture & Food",3,0,1,0,0,0,0
+GLAS,250,"Critical Communty Engagement",3,0,1,0,0,0,0
+GLAS,263,"Asian Amer Gendr&Sexual Divers",3,0,1,0,0,0,0
+HIST,117,"Understanding Holocaust",3,0,1,0,0,0,0
+HIST,137,"Russia in War and Revolution",3,0,1,0,0,0,0
+HIST,211,"The Dawn of European Modernity",3,0,1,0,0,0,0
+HIST,213,"Europe: 1815 -1914",3,0,1,0,0,0,0
 HIST,214,"Twentieth-Century Europe",3,0,1,0,0,0,0
-HIST,220,"Modern Germany, 1848 to the Present",3,0,1,0,0,0,0
+HIST,220,"Germany since 1848",3,0,1,0,0,0,0
 HIST,224,"France: 1500 to 1715",3,0,1,0,0,0,0
-HIST,233,"East Central Europe and the Balkans: From Empires to Nation-States",3,0,1,0,0,0,0
+HIST,233,"East Central Europe",3,0,1,0,0,0,0
 HIST,234,"History of Poland",3,0,1,0,0,0,0
-HIST,235,"The Rise and Fall of Communism in Eastern Europe",3,0,1,0,0,0,0
-HIST,237,"The Russian Empire in the Modern Period: History, Culture and the Challenges of Diversity",3,0,1,0,0,0,0
+HIST,235,"The Rise and Fall of Communism",3,0,1,0,0,0,0
+HIST,237,"Russian Empire, Modern Period",3,0,1,0,0,0,0
 HIST,282,"Global Enlightenment: Empire and the 18th-Century European Imagination of the World",3,0,1,0,0,0,0
-HON,120,"Honors Core in Understanding Individual and Society and Understanding the Past",3,0,1,0,0,0,0
-HON,121,"Honors Core in Understanding Individual and Society and Understanding Creative Arts",3,0,1,0,0,0,0
-HON,122,"Honors Core in Understanding Individual and Society and Exploring World Cultures",3,0,1,0,0,0,0
-HON,123,"Honors Core in Understanding Individual and Society and Understanding U.S. Society",3,0,1,0,0,0,0
+HON,120,"Hon Core Indiv & Soc / Past",3,0,1,0,0,0,0
+HON,121,"Hon Core Ind & Soc / Creat Art",3,0,1,0,0,0,0
+HON,122,"Hon Core Ind & Soc / World Cul",3,0,1,0,0,0,0
+HON,123,"Hon Core Indiv & Soc / US Soc",3,0,1,0,0,0,0
 HON,130,"Honors Core in Analyzing the Natural World and Understanding the Individual and Society",3,0,1,0,0,0,0
-HON,140,"Honors Core in Understanding the Individual and Society",3,0,1,0,0,0,0
-HUM,101,"Humanities Core: Understanding the Individual and Society",3,0,1,0,0,0,0
-JST,101,"Introduction to Judaism",3,0,1,0,0,0,0
-JST,102,"Introduction to Jewish History",3,0,1,0,0,0,0
+HON,140,"Honors Core Indiv & Society",3,0,1,0,0,0,0
+HUM,101,"Humanities: Indiv and Society",3,0,1,0,0,0,0
+JST,101,"Intro to Judaism",3,0,1,0,0,0,0
+JST,102,"Intro to Jewish History",3,0,1,0,0,0,0
 KN,150,"The Healthy Human",3,0,1,0,0,0,0
-LALS,103,"Introduction to Latino Urban Studies",3,0,1,0,0,0,0
-LALS,220,"Latin American Cities in a Global Context: Environment, Employment, and Housing",3,0,1,0,0,0,0
-LALS,269,"Latin American Environmental Studies",3,0,1,0,0,0,0
-LALS,276,"Latinas in the United States",3,0,1,0,0,0,0
-LING,150,"Introduction to the Study of Language",3,0,1,0,0,0,0
+LALS,103,"Intro to Latino Urban Studies",3,0,1,0,0,0,0
+LALS,220,"Lat Amer Cities Global Context",3,0,1,0,0,0,0
+LALS,269,"Latin American Env Studies",3,0,1,0,0,0,0
+LALS,276,"Latinas in US",3,0,1,0,0,0,0
+LING,150,"Intro to Study of Language",3,0,1,0,0,0,0
 LING,160,"Language and Society",3,0,1,0,0,0,0
 LING,170,"Languages of the World",3,0,1,0,0,0,0
-LING,260,"Language Acquisition, Language Contact and Bilingualism",3,0,1,0,0,0,0
+LING,260,"Acquisition & Billingualism",3,0,1,0,0,0,0
 MUS,240,"Music, Gender and Culture",3,0,1,0,0,0,0
-PHIL,100,"Introduction to Philosophy",3,0,1,0,0,0,0
+PHIL,100,"Intro to Philosophy",3,0,1,0,0,0,0
 PHIL,101,"Critical Thinking",3,0,1,0,0,0,0
 PHIL,103,"Introduction to Ethics",3,0,1,0,0,0,0
-PHIL,104,"Introduction to Political Philosophy",3,0,1,0,0,0,0
+PHIL,104,"Intro to Political Philosophy",3,0,1,0,0,0,0
 PHIL,106,"What Is Religion?",3,0,1,0,0,0,0
 PHIL,108,"What Is Freedom?",3,0,1,0,0,0,0
 PHIL,109,"Who Am I?",3,0,1,0,0,0,0
-PHIL,110,"Philosophy of Love and Sex",3,0,1,0,0,0,0
+PHIL,110,"Phil of Love and Sex",3,0,1,0,0,0,0
 PHIL,111,"What Is a Fact?",3,0,1,0,0,0,0
 PHIL,112,"Morality and the Law",3,0,1,0,0,0,0
 PHIL,115,"Death",3,0,1,0,0,0,0
 PHIL,120,"Introduction to Ancient Philosophy",3,0,1,0,0,0,0
 PHIL,225,"Nineteenth Century Philosophy",3,0,1,0,0,0,0
 PHIL,240,"Philosophy and Revelation: Jewish and Christian Perspectives",3,0,1,0,0,0,0
-POLS,101,"Introduction to American Government and Politics",3,0,1,0,0,0,0
-POLS,120,"Introduction to Political Theory",3,0,1,0,0,0,0
-POLS,130,"Introduction to Comparative Politics",3,0,1,0,0,0,0
-POLS,184,"Introduction to International Relations",3,0,1,0,0,0,0
+POLS,101,"Intro to American Government and Politics",3,0,1,0,0,0,0
+POLS,120,"Intro to Political Theory",3,0,1,0,0,0,0
+POLS,130,"Intro to Comparative Politics",3,0,1,0,0,0,0
+POLS,184,"Intro International Relations",3,0,1,0,0,0,0
 POLS,190,"Scope of Political Science",3,0,1,0,0,0,0
-PSCH,100,"Introduction to Psychology",4,0,1,0,0,0,0
+PSCH,100,"Introductory Psychology",4,0,1,0,0,0,0
 PSCH,210,"Theories of Personality",3,0,1,0,0,0,0
 PSCH,231,"Community Psychology",3,0,1,0,0,0,0
 PSCH,270,"Abnormal Psychology",3,0,1,0,0,0,0
 PSCH,271,"Resilience: The Psychology of Positive Adaptation",3,0,1,0,0,0,0
-PPOL,100,"Individual Action and Democratic Citizenship",3,0,1,0,0,0,0
-PPOL,232,"International Development Policy",3,0,1,0,0,0,0
+PPOL,100,"Indiv Action & Citizenship",3,0,1,0,0,0,0
+PPOL,232,"Intl Development Policy",3,0,1,0,0,0,0
 PUBH,100,"Health and the Public",3,0,1,0,0,0,0
-PUBH,110,"Public Health and Global Societies",3,0,1,0,0,0,0
+PUBH,110,"Global Societies",3,0,1,0,0,0,0
 RELS,100,"Religion in Human Experience",3,0,1,0,0,0,0
-SJ,101,"Introduction to Social Justice: Stories and Struggles",3,0,1,0,0,0,0
+SJ,101,"Intro to Social Justice",3,0,1,0,0,0,0
 SOC,100,"Introduction to Sociology",3,0,1,0,0,0,0
 SOC,105,"Social Problems",3,0,1,0,0,0,0
-SOC,215,"Sociology of Childhood and Youth",3,0,1,0,0,0,0
-SOC,224,"Gender and Society",3,0,1,0,0,0,0
+SOC,215,"Sociology Childhood and Youth",3,0,1,0,0,0,0
+SOC,224,"Gender & Society",3,0,1,0,0,0,0
 SOC,225,"Racial and Ethnic Groups",3,0,1,0,0,0,0
 SOC,228,"Sociology of Asia and Asian Americans",3,0,1,0,0,0,0
 SOC,229,"Sociology of Latinos",3,0,1,0,0,0,0
@@ -197,197 +197,197 @@ SOC,244,"Sociology of Work",3,0,1,0,0,0,0
 SOC,245,"Marriage and Family",3,0,1,0,0,0,0
 SOC,246,"Sociology of Religion",3,0,1,0,0,0,0
 SOC,251,"Health and Medicine",3,0,1,0,0,0,0
-SOC,265,"Sociology of Politic",3,0,1,0,0,0,0
+SOC,265,"Political Sociology",3,0,1,0,0,0,0
 SOC,268,"Introduction to Comparative Sociology",3,0,1,0,0,0,0
 SOC,276,"Urban Sociology",3,0,1,0,0,0,0
 SPAN,192,"Latin American Women Writers in Translation",3,0,1,0,0,0,0
-US,140,"Introduction to Urban Transportation",3,0,1,0,0,0,0
+US,140,"Intro to Urban Transportation",3,0,1,0,0,0,0
 US,205,"Cinema and the City",3,0,1,0,0,0,0
-US,208,"Mapping the Urban: Cartography and its Alternatives",3,0,1,0,0,0,0
-AAST,101,"Introduction to African Diaspora Studies",3,0,0,1,0,0,0
-AAST,125,"African American Religious Traditions",3,0,0,1,0,0,0
-AAST,263,"African American Intellectual History",3,0,0,1,0,0,0
+US,208,"Mapping the Urban",3,0,1,0,0,0,0
+AAST,101,"Intro to African Diaspora",3,0,0,1,0,0,0
+AAST,125,"AfAm Religious Traditions",3,0,0,1,0,0,0
+AAST,263,"Afr Amer Intellectual History",3,0,0,1,0,0,0
 AAST,265,"The Harlem Renaissance",3,0,0,1,0,0,0
-ANTH,100,"The Human Adventure",3,0,0,1,0,0,0
-ANTH,102,"Introduction to Archaeology",4,0,0,1,0,0,0
+ANTH,100,"Human Adventure",3,0,0,1,0,0,0
+ANTH,102,"Intro to Archaeology",4,0,0,1,0,0,0
 ANTH,105,"Human Evolution",4,0,0,1,0,0,0
 ARAB,250,"The Heritage of Muslim Iberia",3,0,0,1,0,0,0
-ARST,209,"The Art and Archaeology of the Ancient Near East",3,0,0,1,0,0,0
-ARST,210,"The Art and Archaeology of Ancient Egypt",3,0,0,1,0,0,0
-ARCH,210,"Architecture as Archetype: Explorations of the City and Its Forms",3,0,0,1,0,0,0
-AH,122,"History of Chicago Architecture",3,0,0,1,0,0,0
+ARST,209,"Near Eastern Archaeology",3,0,0,1,0,0,0
+ARST,210,"Art/Archaeology of Egypt",3,0,0,1,0,0,0
+ARCH,210,"Architecture as Archetype",3,0,0,1,0,0,0
+AH,122,"Chicago Architecture",3,0,0,1,0,0,0
 AH,130,Photography in History",3,0,0,1,0,0,0
-AH,259,"Art in the Age of Enlightenment and Revolution",3,0,0,1,0,0,0
-BLST,246,"Black Lives in Historical Context",3,0,0,1,0,0,0
-BLST,247,"African American History to 1877",3,0,0,1,0,0,0
-BLST,248,"African American History since 1877",3,0,0,1,0,0,0
-BLST,249,"Black Freedom Movements in the U.S.",3,0,0,1,0,0,0
+AH,259,"Art in Age of Enlight & Rev",3,0,0,1,0,0,0
+BLST,246,"Black Lives in Hist Context",3,0,0,1,0,0,0
+BLST,247,"African American Hist to 1877",3,0,0,1,0,0,0
+BLST,248,"African Amer Hist since 1877",3,0,0,1,0,0,0
+BLST,249,"Black Freedom Movements",3,0,0,1,0,0,0
 CL,100,"Greek Civilization",3,0,0,1,0,0,0
 CL,101,"Roman Civilization",3,0,0,1,0,0,0
-CL,102,"Introduction to Classical Literature",3,0,0,1,0,0,0
-CL,103,"Introduction to Classical and Mediterranean Archaeology",3,0,0,1,0,0,0
+CL,102,"Classical Literature",3,0,0,1,0,0,0
+CL,103,"Classical&Mediterran Archaeol",3,0,0,1,0,0,0
 CL,104,"Mediterranean Traditions: Family, Society and the Divine",3,0,0,1,0,0,0
-CL,204,"Greek Art and Archaeology",3,0,0,1,0,0,0
+CL,204,"Greek Art & Archaeology",3,0,0,1,0,0,0
 CL,205,"Roman Art and Archaeology",3,0,0,1,0,0,0
 CL,208,"Greek Mythology",3,0,0,1,0,0,0
-CL,218,Pompeii: Everyday Life in a Roman Town",3,0,0,1,0,0,0
+CL,218,Pompeii",3,0,0,1,0,0,0
 CL,250,"Greek and Roman Epic Poetry",3,0,0,1,0,0,0
 CL,251,"Greek Tragedy",3,0,0,1,0,0,0
-CL,252,"Greek and Roman Comedy",3,0,0,1,0,0,0
+CL,252,"Greek &Roman Comedy InTransitn",3,0,0,1,0,0,0
 CL,253,"Roman Satire and Rhetoric",3,0,0,1,0,0,0
 CL,297,"Studies in the Classical Tradition",3,0,0,1,0,0,0
-ENGL,107,"Introduction to Shakespeare",3,0,0,1,0,0,0
-GER,125,"Diaspora, Exile, Genocide: Aspects of the European Jewish Experience in Literature and Film",3,0,0,1,0,0,0
-GER,219,"Vikings and Wizards: Northern Myth and Fairy Tales in Western Culture",3,0,0,1,0,0,0
+ENGL,107,"Intro to Shakespeare",3,0,0,1,0,0,0
+GER,125,"Diaspora, Exile and Genocide",3,0,0,1,0,0,0
+GER,219,"Myth and Fairy Tales",3,0,0,1,0,0,0
 GER,240,"Classical German Thought from Kant to Nietzsche",3,0,0,1,0,0,0
 GKM,285,"Cultural History of Modern Greece: 1453 to the Pres",3,0,0,1,0,0,0
 GKM,286,"Modern Greek Cities: Historical-Ethnographic Survey",3,0,0,1,0,0,0
 GKM,296,"Fascism and Dictatorship in Southern Europe and the Mediterranean",3,0,0,1,0,0,0
-HIST,100,"Western Civilization to 1648",3,0,0,1,0,0,0
-HIST,101,"Western Civilization Since 1648",3,0,0,1,0,0,0
-HIST,103,"Early America: From Colonization to Civil War and Reconstruction",3,0,0,1,0,0,0
-HIST,104,"Modern America: From Industrialization to Globalization",3,0,0,1,0,0,0
-HIST,105,"Global Transformations and the Rise of the West Since 1000",3,0,0,1,0,0,0
-HIST,106,"The World Since 1400: Converging Worlds, New Circulations",3,0,0,1,0,0,0
-HIST,109,"East Asian Civilization: Ancient China",3,0,0,1,0,0,0
+HIST,100,"Western Civ To 1648",3,0,0,1,0,0,0
+HIST,101,"Western Civ Since 1648",3,0,0,1,0,0,0
+HIST,103,"Early America",3,0,0,1,0,0,0
+HIST,104,"Modern America",3,0,0,1,0,0,0
+HIST,105,"Global Transformations",3,0,0,1,0,0,0
+HIST,106,"World since 1400",3,0,0,1,0,0,0
+HIST,109,"East Asian Civ: Ancient China",3,0,0,1,0,0,0
 HIST,117,"Understanding the Holocaust",3,0,0,1,0,0,0
 HIST,137,"Russia in War and Revolution, 1904-1922",3,0,0,1,0,0,0
 HIST,161,"Introduction to Latin American History",3,0,0,1,0,0,0
 HIST,170,"The Ottoman Empire",3,0,0,1,0,0,0
-HIST,177,"Middle Eastern Civilization",3,0,0,1,0,0,0
-HIST,200,"Gandhi: The History and Practice of Nonviolence",3,0,0,1,0,0,0
-HIST,202,"The Ancient World: Greece",3,0,0,1,0,0,0
+HIST,177,"Middle Eastern Civ",3,0,0,1,0,0,0
+HIST,200,"Gandhi:Nonviolence Hist & Prac",3,0,0,1,0,0,0
+HIST,202,"Ancient Greece",3,0,0,1,0,0,0
 HIST,203,"Ancient Rome",3,0,0,1,0,0,0
 HIST,211,"The Dawn of European Modernity, 1500-1715",3,0,0,1,0,0,0
-HIST,213,"Europe in the Age of Capitalism and Imperialism, 1815 - 1914",3,0,0,1,0,0,0
+HIST,213,"Europe: 1815 -1914",3,0,0,1,0,0,0
 HIST,214,"Twentieth-Century Europe",3,0,0,1,0,0,0
-HIST,220,"Modern Germany, 1848 to the Present",3,0,0,1,0,0,0
+HIST,220,"Germany since 1848",3,0,0,1,0,0,0
 HIST,221,"The Atlantic Slave Trade",3,0,0,1,0,0,0
 HIST,222,"England to 1689",3,0,0,1,0,0,0
 HIST,223,"Modern Britain Since 1689",3,0,0,1,0,0,0
-HIST,224,"France: 1500 to 1715",3,0,0,1,0,0,0
-HIST,225,"The Age of Revolution in France: 1715-1848",3,0,0,1,0,0,0
-HIST,233,"East Central Europe and the Balkans: From Empires to Nation-States",3,0,0,1,0,0,0
+HIST,224,"France: 1500-1715",3,0,0,1,0,0,0
+HIST,225,"France: 1715-1848",3,0,0,1,0,0,0
+HIST,233,"East Central Europe",3,0,0,1,0,0,0
 HIST,234,"History of Poland",3,0,0,1,0,0,0
-HIST,235,"The Rise and Fall of Communism in Eastern Europe",3,0,0,1,0,0,0
-HIST,236,"Russia Between Europe and Asia: Eurasian Spaces and Peoples in the Premodern Era",3,0,0,1,0,0,0
-HIST,237,"The Russian Empire in the Modern Period: History, Culture and the Challenges of Diversity",3,0,0,1,0,0,0
+HIST,235,"The Rise and Fall of Communism",3,0,0,1,0,0,0
+HIST,236,"Premodern Russia and Eurasia",3,0,0,1,0,0,0
+HIST,237,"Russian Empire, Modern Period",3,0,0,1,0,0,0
 HIST,238,"Russia from Vladimir Lenin to Vladimir Putin",3,0,0,1,0,0,0
 HIST,239,"Twentieth-Century Russia in Film",3,0,0,1,0,0,0
-HIST,240,"Radicalism in America: From the Revolution to Occupy Wall Street",3,0,0,1,0,0,0
+HIST,240,"Radicalism in America",3,0,0,1,0,0,0
 HIST,241,Precolonial Africa in World History",3,0,0,1,0,0,0
-HIST,242,"History of Modern Africa",3,0,0,1,0,0,0
+HIST,242,"Modern Africa",3,0,0,1,0,0,0
 HIST,245,"Imagining the American West",3,0,0,1,0,0,0
-HIST,246,"History of American Capitalism",3,0,0,1,0,0,0
+HIST,246,"Hist of American Capitalism",3,0,0,1,0,0,0
 HIST,249,"The American Civil War",3,0,0,1,0,0,0
-HIST,252,"Sexuality in America: Historical Perspectives",3,0,0,1,0,0,0
+HIST,252,"Sexuality-Hist Perspect",3,0,0,1,0,0,0
 HIST,253,"The Worker in American Life",3,0,0,1,0,0,0
 HIST,255,"History of Chicago",3,0,0,1,0,0,0
 HIST,256,"Religion in American History",3,0,0,1,0,0,0
-HIST,259,"Women and Gender in American History",3,0,0,1,0,0,0
+HIST,259,"Women and Gender in America",3,0,0,1,0,0,0
 HIST,261,"Latin America to 1850",3,0,0,1,0,0,0
-HIST,262,"Latin America Since 1850",3,0,0,1,0,0,0
+HIST,262,"Latin Amer since 1850",3,0,0,1,0,0,0
 HIST,264,"The Pacific Rim in Modern History",3,0,0,1,0,0,0
 HIST,266,"Modern Mexico",3,0,0,1,0,0,0
-HIST,267,"American Intellectual History to 1865",3,0,0,1,0,0,0
-HIST,268,"American Intellectual History since 1865",3,0,0,1,0,0,0
-HIST,271,"Late Imperial China: 1500 to 1911",3,0,0,1,0,0,0
+HIST,267,"Amer Intellectual Hist to 1865",3,0,0,1,0,0,0
+HIST,268,"Amer Intellectual Hist since 1865",3,0,0,1,0,0,0
+HIST,271,"Late Imperial China",3,0,0,1,0,0,0
 HIST,272,"China Since 1911",3,0,0,1,0,0,0
 HIST,275,"History of South Asia to 1857",3,0,0,1,0,0,0
-HIST,276,"Modern South Asia, 1857 to the Present",3,0,0,1,0,0,0
+HIST,276,"Modern South Asia",3,0,0,1,0,0,0
 HIST,277,"The Middle East to 1258",3,0,0,1,0,0,0
 HIST,278,"The Middle East Since 1258",3,0,0,1,0,0,0
 HIST,282,"Global Enlightenment: Empire and the 18th-Century European Imagination of the World",3,0,0,1,0,0,0
 HIST,289,"Latina/o History",3,0,0,1,0,0,0
 HIST,293,"The Gilded and the Gritty: Power, Culture, and the Making of 20th-century America",3,0,0,1,0,0,0
-HON,120,"Honors Core in Understanding Individual and Society and Understanding the Past",3,0,0,1,0,0,0
-HON,124,"Honors Core in Understanding the Past and Understanding the Creative Arts",3,0,0,1,0,0,0
-HON,125,"Honors Core in Understanding the Past and Exploring World Cultures",3,0,0,1,0,0,0
-HON,126,"Honors Core in Understanding the Past and Understanding U.S. Society",3,0,0,1,0,0,0
-HON,131,"Honors Core in Analyzing the Natural World and Understanding the Past",3,0,0,1,0,0,0
+HON,120,"Hon Core Indiv & Soc / Past",3,0,0,1,0,0,0
+HON,124,"Hon Core Past / Creat Arts",3,0,0,1,0,0,0
+HON,125,"Hon Core Past / World Cultures",3,0,0,1,0,0,0
+HON,126,"Hon Core Past / US Society",3,0,0,1,0,0,0
+HON,131,"Hon Core Natural World / Past",3,0,0,1,0,0,0
 HON,141,"Honors Core in Understanding the Past",3,0,0,1,0,0,0
-HUM,102,"Humanities Core: Understanding the Past",3,0,0,1,0,0,0
-ITAL,230,"Italian and Italian American Culture and Civilization",3,0,0,1,0,0,0
+HUM,102,"Humanities: The Past",3,0,0,1,0,0,0
+ITAL,230,"Italian/Ital American Culture",3,0,0,1,0,0,0
 ITAL,293,"Dante's Divine Comedy",3,0,0,1,0,0,0
-JST,102,"Introduction to Jewish History",3,0,0,1,0,0,0
-JST,103,"Introduction to Israel Studies",3,0,0,1,0,0,0
-JST,124,"Introduction to the Hebrew Bible",3,0,0,1,0,0,0
+JST,102,"Intro to Jewish History",3,0,0,1,0,0,0
+JST,103,"Intro to Israel Studies",3,0,0,1,0,0,0
+JST,124,"Intro to the Hebrew Bible",3,0,0,1,0,0,0
 JST,242,"The History of Jewish Biblical Interpretation",3,0,0,1,0,0,0
-LALS,101,"Introduction to Latin American Studies",3,0,0,1,0,0,0
-LALS,102,"Introduction to Latino Studies",3,0,0,1,0,0,0
-LALS,104,"Introduction to Puerto Rican Studies",3,0,0,1,0,0,0
-LALS,105,"Introduction to Mexican Studies",3,0,0,1,0,0,0
+LALS,101,"Intro Latin American Studies",3,0,0,1,0,0,0
+LALS,102,"Intro Latino Studies",3,0,0,1,0,0,0
+LALS,104,"Puerto Rican Studies",3,0,0,1,0,0,0
+LALS,105,"Intro to Mex Studies",3,0,0,1,0,0,0
 LALS,275,"Gender in Latin America",3,0,0,1,0,0,0
 LALS,290,"Mexican-American History",3,0,0,1,0,0,0
-MILS,217,"Introduction to United States Military History",3,0,0,1,0,0,0
+MILS,217,"US Military History",3,0,0,1,0,0,0
 MUS,114,"Jazz History",3,0,0,1,0,0,0
-MUS,118,"American Popular Music since 1850",3,0,0,1,0,0,0
+MUS,118,"American Popular Music",3,0,0,1,0,0,0
 NAST,113,"Native American Studies: Sovereignty",3,0,0,1,0,0,0
 PHIL,120,"Introduction to Ancient Philosophy",3,0,0,1,0,0,0
 POLS,120,"Introduction to Political Theory",3,0,0,1,0,0,0
-PPOL,230,"Nonprofit Organizations and Civil Society",3,0,0,1,0,0,0
-RELS,120,"Catholic Thought: An Introduction",3,0,0,1,0,0,0
-THTR,101,"Theatre History I: Premodern Drama",3,0,0,1,0,0,0
-THTR,103,"History of Chicago Theatre Past and Present",3,0,0,1,0,0,0
-AAST,105,"African Americans in Film, 1900 - Present: Images, Individuals and Ideas on Screen",3,0,0,0,1,0,0
-AAST,111,"Introduction to African American Literature Since 1910",3,0,0,0,1,0,0
+PPOL,230,"Nonprofit Orgs & Civil Society",3,0,0,1,0,0,0
+RELS,120,"Catholic Thought",3,0,0,1,0,0,0
+THTR,101,"Intro to Theatre History I",3,0,0,1,0,0,0
+THTR,103,"History of Chicago Theatre",3,0,0,1,0,0,0
+AAST,105,"African Americans in Film",3,0,0,0,1,0,0
+AAST,111,"Intro Af Amer Lit Since 1910",3,0,0,0,1,0,0
 AAST,250,"Comparative Black Literatures",3,0,0,0,1,0,0
 AAST,262,"Black Cultural Studies",3,0,0,0,1,0,0
 ARAB,270,"The Reel Arab",3,0,0,0,1,0,0
-ARST,209,"The Art and Archaeology of the Ancient Near East",3,0,0,0,1,0,0
-ARST,210,"The Art and Archaeology of Ancient Egypt",3,0,0,0,1,0,0
+ARST,209,"Near Eastern Archaeology",3,0,0,0,1,0,0
+ARST,210,"Art/Archaeology of Egypt",3,0,0,0,1,0,0
 ARCH,200,"Architecture and Society",4,0,0,0,1,0,0
 ART,112,"Introduction to Drawing",4,0,0,0,1,0,0
-ART,130,"Introduction to Painting + Color",4,0,0,0,1,0,0
+ART,130,"Intro to Painting + Color",4,0,0,0,1,0,0
 ART,140,"Introduction to Sculpture",4,0,0,0,1,0,0
-ART,150,"Introduction to New Media Arts",4,0,0,0,1,0,0
-ART,151,"Introduction to Creative Coding in New Media Arts",4,0,0,0,1,0,0
-ART,160,"Introduction to Digital Photography",4,0,0,0,1,0,0
+ART,150,"Intro to New Media Arts",4,0,0,0,1,0,0
+ART,151,"Intro to Creative Coding",4,0,0,0,1,0,0
+ART,160,"Intro to Digital Photo",4,0,0,0,1,0,0
 ART,170,"Introduction to Filmmaking",4,0,0,0,1,0,0
-ART,190,"Introduction to Socially Engaged Art",4,0,0,0,1,0,0
-AH,100,"Introduction to Art and Art History",3,0,0,0,1,0,0
-AH,110,"World History of Art and the Built Environment I",4,0,0,0,1,0,0
-AH,111,"World History of Art and the Built Environment II",4,0,0,0,1,0,0
-AH,122,"History of Chicago Architecture",3,0,0,0,1,0,0
-AH,125,"Introduction to the Art and Architecture of Asia",3,0,0,0,1,0,0
-AH,160,"Trends in International Contemporary Art Since 1960",3,0,0,0,1,0,0
+ART,190,"Intro to Socially Engaged Art",4,0,0,0,1,0,0
+AH,100,"Intro to Art &Art History",3,0,0,0,1,0,0
+AH,110,"World Hist Art & Built Env I",4,0,0,0,1,0,0
+AH,111,"World Hist Art & Built Env II",4,0,0,0,1,0,0
+AH,122,"Chicago Architecture",3,0,0,0,1,0,0
+AH,125,"Asian Art and Architecture",3,0,0,0,1,0,0
+AH,160,"Trends in Contemp Art",3,0,0,0,1,0,0
 AH,180,"Intro to Museum & Exhibition",3,0,0,0,1,0,0
-AH,201,"Reading and Writing Art Criticism",3,0,0,0,1,0,0
+AH,201,"Reading&Writing Art Criticism",3,0,0,0,1,0,0
 AH,211,"History of Urbanism",3,0,0,0,1,0,0
-AH,219,"Art and Architecture of East Asia",3,0,0,0,1,0,0
+AH,219,"Art &Architecture of East Asia",3,0,0,0,1,0,0
 AH,220,"Buddhist Art and Architecture",3,0,0,0,1,0,0
 AH,223,"Baroque Architecture",3,0,0,0,1,0,0
-AH,230,"History of Photography I: 1820-1920",3,0,0,0,1,0,0
-AH,231,"History of Photography II: 1900 to Present",3,0,0,0,1,0,0
+AH,230,"History of Photography I",3,0,0,0,1,0,0
+AH,231,"History of Photography II",3,0,0,0,1,0,0
 AH,242,"Early Christian and Byzantine Art and Architecture",3,0,0,0,1,0,0
 AH,243,"Medieval Art and Architecture",3,0,0,0,1,0,0
 AH,244,"Islamic Art and Architecture",3,0,0,0,1,0,0
 AH,250,"Italian Renaissance Art",3,0,0,0,1,0,0
 AH,251,"Northern Renaissance Art and Architecture",3,0,0,0,1,0,0
 AH,252,"Art of the Baroque and Rococo",3,0,0,0,1,0,0
-AH,259,"Art in the Age of Enlightenment and Revolution",3,0,0,0,1,0,0
+AH,259,"Art in Age of Enlight & Rev",3,0,0,0,1,0,0
 AH,260,"European Art from 1750 to 1900",3,0,0,0,1,0,0
-AH,261,"European and American Art from 1900 to the Present",3,0,0,0,1,0,0
+AH,261,"Art 1900 to Present",3,0,0,0,1,0,0
 AH,262,"American Art to 1945",3,0,0,0,1,0,0
-AH,263,"Latin American Colonial Art",3,0,0,0,1,0,0
+AH,263,"Latin Amer Colonial Art",3,0,0,0,1,0,0
 AH,264,"African American Art",3,0,0,0,1,0,0
-AH,265,"History of Performance Art 1900 - Present",3,0,0,0,1,0,0
+AH,265,"History of Performance Art",3,0,0,0,1,0,0
 AH,270,"African Art",3,0,0,0,1,0,0
 AH,271,"Native American Art",3,0,0,0,1,0,0
-AH,273,"Visual Culture of the Ancient Andes",3,0,0,0,1,0,0
-AH,274,"Visual Culture of Ancient Mesoamerica",3,0,0,0,1,0,0
+AH,273,"Visual Culture Ancient Andes",3,0,0,0,1,0,0
+AH,274,"Pre-Columb Art-Mesoamerca",3,0,0,0,1,0,0
 AH,275,"South Asian Visual Cultures",3,0,0,0,1,0,0
-BLST,110,"Introduction to African American Literature, 1760-1910",3,0,0,0,1,0,0
+BLST,110,"Intro Af Amer Lit, 1760-1910",3,0,0,0,1,0,0
 CEES,208,"Central and Eastern European Cinema",3,0,0,0,1,0,0
 CEES,246,"European Avant-Garde",3,0,0,0,1,0,0
 CL,100,"Greek Civilization",3,0,0,0,1,0,0
-CL,102,"Introduction to Classical Literature",3,0,0,0,1,0,0
-CL,103,"Introduction to Classical and Mediterranean Archaeology",3,0,0,0,1,0,0
+CL,102,"Classical Literature",3,0,0,0,1,0,0
+CL,103,"Classical&Mediterranean Archaeol",3,0,0,0,1,0,0
 CL,204,"Greek Art and Archaeology",3,0,0,0,1,0,0
 CL,205,"Roman Art and Archaeology",3,0,0,0,1,0,0
 CL,250,"Greek and Roman Epic Poetry",3,0,0,0,1,0,0
 CL,251,"Greek Tragedy",3,0,0,0,1,0,0
-CL,252,"Greek and Roman Comedy",3,0,0,0,1,0,0
+CL,252,"Greek &Roman Comedy InTransitn",3,0,0,0,1,0,0
 CL,253,"Roman Satire and Rhetoric",3,0,0,0,1,0,0
 CL,297,"Studies in the Classical Tradition",3,0,0,0,1,0,0
 DHD,102,"Disability in American Film",3,0,0,0,1,0,0
@@ -397,239 +397,239 @@ ENGL,102,"Introduction to Film",3,0,0,0,1,0,0
 ENGL,103,"English and American Poetry",3,0,0,0,1,0,0
 ENGL,104,"English and American Drama",3,0,0,0,1,0,0
 ENGL,105,"English and American Fiction",3,0,0,0,1,0,0
-ENGL,107,"Introduction to Shakespeare",3,0,0,0,1,0,0
-ENGL,108,"British Literature and British Culture",3,0,0,0,1,0,0
-ENGL,109,"American Literature and American Culture",3,0,0,0,1,0,0
-ENGL,110,"English and American Popular Genres",3,0,0,0,1,0,0
-ENGL,111,"Women and Literature",3,0,0,0,1,0,0
-ENGL,112,"Introduction to Native American Literatures",3,0,0,0,1,0,0
-ENGL,113,"Introduction to Multiethnic Literatures in the United States",3,0,0,0,1,0,0
-ENGL,114,"Introduction to Colonial and Postcolonial Literature",3,0,0,0,1,0,0
-ENGL,115,"Understanding the Bible as Literature",3,0,0,0,1,0,0
-ENGL,117,"Introduction to Gender, Sexuality and Literature",3,0,0,0,1,0,0
+ENGL,107,"Intro to Shakespeare",3,0,0,0,1,0,0
+ENGL,108,"British Lit & British Culture",3,0,0,0,1,0,0
+ENGL,109,"Amer Literature & Culture",3,0,0,0,1,0,0
+ENGL,110,"English & Amer Popular Genres",3,0,0,0,1,0,0
+ENGL,111,"Women & Literature",3,0,0,0,1,0,0
+ENGL,112,"Intro Native Amer Literature",3,0,0,0,1,0,0
+ENGL,113,"Intro Multiethnic Literature",3,0,0,0,1,0,0
+ENGL,114,"Colonial and Postcolonial Lit",3,0,0,0,1,0,0
+ENGL,115,"Bible as Literature",3,0,0,0,1,0,0
+ENGL,117,"Gender, Sexuality and Lit",3,0,0,0,1,0,0
 ENGL,120,"Film and Culture",3,0,0,0,1,0,0
-ENGL,121,"Introduction to Moving Image Arts",3,0,0,0,1,0,0
+ENGL,121,"Intro to Moving Image Arts",3,0,0,0,1,0,0
 ENGL,122,"Understanding Rhetoric",3,0,0,0,1,0,0
-ENGL,123,"Introduction to Asian American Literature",3,0,0,0,1,0,0
+ENGL,123,"Intro Asian American Lit",3,0,0,0,1,0,0
 FR,191,"African and Caribbean Francophone Literature in Translation",3,0,0,0,1,0,0
-FR,297,"Paris in Literature, Film, and Culture",3,0,0,0,1,0,0
-FR,298,"French Literature, Drama and/or Film in Translation",3,0,0,0,1,0,0
-GER,100,"Introduction to Germanic Cultures and Literatures",3,0,0,0,1,0,0
+FR,297,"Paris in Lit, Film and Culture",3,0,0,0,1,0,0
+FR,298,"French Lit/Drama/Film",3,0,0,0,1,0,0
+GER,100,"Intro Germanic Cult & Lit",3,0,0,0,1,0,0
 GER,122,"Minority Perspectives in the Germanic Context",3,0,0,0,1,0,0
 GER,123,"Introduction to Yiddish Culture and Literature",3,0,0,0,1,0,0
-GER,217,"Introduction to German Cinema",4,0,0,0,1,0,0
-GER,219,"Vikings and Wizards: Northern Myth and Fairy Tales in Western Culture",3,0,0,0,1,0,0
-GLAS,223,"Global Hip-hop and Asian Diasporas",3,0,0,0,1,0,0
-HON,121,"Honors Core in Understanding Individual and Society and Understanding Creative Arts",3,0,0,0,1,0,0
-HON,124,"Honors Core in Understanding the Past and Understanding the Creative Arts",3,0,0,0,1,0,0
-HON,127,"Honors Core in Understanding the Creative Arts and Exploring World Cultures",3,0,0,0,1,0,0
-HON,128,"Honors Core in Understanding the Creative Arts and Understanding U.S. Society",3,0,0,0,1,0,0
+GER,217,"Intro German Cinema",4,0,0,0,1,0,0
+GER,219,"Myth and Fairy Tales",3,0,0,0,1,0,0
+GLAS,223,"Hip-hop and Asian Diasporas",3,0,0,0,1,0,0
+HON,121,"Hon Core Ind & Soc / Creat Art",3,0,0,0,1,0,0
+HON,124,"Hon Core Past / Creat Arts",3,0,0,0,1,0,0
+HON,127,"Hon Core Creat Art / World Cul",3,0,0,0,1,0,0
+HON,128,"Hon Core Creat Arts / US Soc",3,0,0,0,1,0,0
 HON,132,"Honors Core in Analyzing the Natural World and Understanding the Creative Arts",3,0,0,0,1,0,0
-HON,142,"Honors Core in Understanding the Creative Arts",3,0,0,0,1,0,0
-IDEA,110,"Creativity and Innovation in Design and Arts",4,0,0,0,1,0,0
-ITAL,280,"Italian and Italian American Cinema",3,0,0,0,1,0,0
+HON,142,"Honors Core Creative Arts",3,0,0,0,1,0,0
+IDEA,110,"Creativity and Innovation",4,0,0,0,1,0,0
+ITAL,280,"Italian and Italian Amer Cinema",3,0,0,0,1,0,0
 ITAL,293,"Dante's Divine Comedy",3,0,0,0,1,0,0
-LALS,109,"Introduction to Latino Cultures",3,0,0,0,1,0,0
-LALS,110,"Introduction to Latin American Cultures",3,0,0,0,1,0,0
+LALS,109,"Intro to Latino Cultures",3,0,0,0,1,0,0
+LALS,110,"Intro to Latin Amer Cultures",3,0,0,0,1,0,0
 LALS,260,"Indigenous Storytelling in Latin America",3,0,0,0,1,0,0
-LALS,278,"Latin American/Latino Film Studies",4,0,0,0,1,0,0
+LALS,278,"Lat Amer/Latino Film Stdies",4,0,0,0,1,0,0
 LALS,295,"Latino Literary Studies",3,0,0,0,1,0,0
 LCSL,207,"European Cinema",3,0,0,0,1,0,0
-LITH,130,"Lithuanian Prose Fiction in International Context",3,0,0,0,1,0,0
+LITH,130,"Lith Prose Fiction",3,0,0,0,1,0,0
 MUS,100,"Introduction to Music",3,0,0,0,1,0,0
 MUS,107,"Fundamentals of Music Theory",3,0,0,0,1,0,0
 MUS,113,"Art Song",3,0,0,0,1,0,0
 MUS,114,"Jazz History",3,0,0,0,1,0,0
 MUS,115,"Opera",3,0,0,0,1,0,0
 MUS,117,"Music for Symphony Orchestra",3,0,0,0,1,0,0
-MUS,118,"American Popular Music since 1850",3,0,0,0,1,0,0
-MUS,119,"Music for the Piano",3,0,0,0,1,0,0
+MUS,118,"American Popular Music",3,0,0,0,1,0,0
+MUS,119,"Music For The Piano",3,0,0,0,1,0,0
 MUS,127,"Latin American Music",3,0,0,0,1,0,0
 MUS,227,"Music Cultures of the World",3,0,0,0,1,0,0
 MUS,240,"Music, Gender and Culture",3,0,0,0,1,0,0
 PHIL,107,"What is Art?",3,0,0,0,1,0,0
-POL,120,"The Polish Short Story in Translation",3,0,0,0,1,0,0
-POL,130,"Masterworks of Polish Literature in Translation",3,0,0,0,1,0,0
+POL,120,"Polish Short Story in Trans",3,0,0,0,1,0,0
+POL,130,"Polish Lit in Translation",3,0,0,0,1,0,0
 POL,140,Polish Drama in Translation",3,0,0,0,1,0,0
-POL,150,"Introduction to Polish Cinema",3,0,0,0,1,0,0
-POL,220,"Modern Polish-Jewish Culture and Literatures",3,0,0,0,1,0,0
-RUSS,120,"The Russian Short Story in Translation",3,0,0,0,1,0,0
-RUSS,130,"Masterpieces of Russian Literature in Translation",3,0,0,0,1,0,0
-RUSS,150,"Introduction to Russian Cinema",3,0,0,0,1,0,0
+POL,150,"Intro to Polish Cinema",3,0,0,0,1,0,0
+POL,220,"Polish-Jewish Culture & Lit",3,0,0,0,1,0,0
+RUSS,120,"Russ Short Story in Trans",3,0,0,0,1,0,0
+RUSS,130,"Masterpc of Russ Lit in Trans",3,0,0,0,1,0,0
+RUSS,150,"Intro to Russian Cinema",3,0,0,0,1,0,0
 RUSS,241,"Dostoyevsky",3,0,0,0,1,0,0
 RUSS,242,"Tolstoy",3,0,0,0,1,0,0
-RUSS,244,"Women in Russian Literature",3,0,0,0,1,0,0
+RUSS,244,"Women in Russian Lit",3,0,0,0,1,0,0
 RUSS,247,"Literature and Fantasy in Russia",3,0,0,0,1,0,0
 RUSS,248,"Russian Visual and Material Culture",3,0,0,0,1,0,0
-SPAN,210,"Introduction to the Formal Analysis of Hispanic Texts",3,0,0,0,1,0,0
+SPAN,210,"Introduction to Hispanic Texts",3,0,0,0,1,0,0
 SPAN,226,"Early Modern Spanish and Colonial Latin American Literature and Culture in Translation",3,0,0,0,1,0,0
-SPED,201,"Childrenâ€™s Literature and Disabilities",3,0,0,0,1,0,0
-THTR,101,"Theatre History I: Premodern Drama",3,0,0,0,1,0,0
-THTR,102,"Introduction to Theatre: A Collaborative Art",3,0,0,0,1,0,0
-THTR,103,"History of Chicago Theatre Past and Present",3,0,0,0,1,0,0
-THTR,105,"Introduction to American Musical Theatre",3,0,0,0,1,0,0
-THTR,155,"Fundamentals of Theatre Design",3,0,0,0,1,0,0
-THTR,201,"Theatre History II: Modern Theatre",3,0,0,0,1,0,0
+SPED,201,"Child Lit Disabilities",3,0,0,0,1,0,0
+THTR,101,"Intro to Theatre History I",3,0,0,0,1,0,0
+THTR,102,"Introduction to Theatre",3,0,0,0,1,0,0
+THTR,103,"History of Chicago Theatre",3,0,0,0,1,0,0
+THTR,105,"American Musical Theatre",3,0,0,0,1,0,0
+THTR,155,"Scenography",3,0,0,0,1,0,0
+THTR,201,"Intro to Theatre History II",3,0,0,0,1,0,0
 THTR,245,"East Asian Theatre",3,0,0,0,1,0,0
-AAST,101,"Introduction to African Diaspora Studies",3,0,0,0,0,1,0
+AAST,101,"Intro to African Diaspora",3,0,0,0,0,1,0
 AAST,245,"Politic and Government of Africa",3,0,0,0,0,1,0
-ANTH,100,"The Human Adventure",3,0,0,0,0,1,0
-ANTH,101,"World Cultures: Introduction to Social Anthropology",3,0,0,0,0,1,0
-ANTH,207,"Asian Cities: Urban Cultures of the Global South",3,0,0,0,0,1,0
-ANTH,208,"Virtual Lives: Science, Technology, and Culture",3,0,0,0,0,1,0
+ANTH,100,"Human Adventure",3,0,0,0,0,1,0
+ANTH,101,"World Cultures",3,0,0,0,0,1,0
+ANTH,207,"Asian Cities",3,0,0,0,0,1,0
+ANTH,208,"Science, Technology, & Culture",3,0,0,0,0,1,0
 ANTH,215,"Anthropology of Religion",3,0,0,0,0,1,0
-ANTH,216,"Medicine, Culture, and Society",3,0,0,0,0,1,0
+ANTH,216,"Medicine, Culture, & Society",3,0,0,0,0,1,0
 ANTH,219,"Anthropology of Globalization",3,0,0,0,0,1,0
 ANTH,273,"Ethnography of Southeast Asia",3,0,0,0,0,1,0
-ANTH,277,"Ethnography of Meso-America",3,0,0,0,0,1,0
-ANTH,279,"South Asian Cultures and Societies",3,0,0,0,0,1,0
-ARAB,230,"Arabic Literature in Translation",3,0,0,0,0,1,0
+ANTH,277,"Ethnog of Meso-America",3,0,0,0,0,1,0
+ANTH,279,"South Asian Cultures",3,0,0,0,0,1,0
+ARAB,230,"Arabic Literature in Tran",3,0,0,0,0,1,0
 ARAB,250,"The Heritage of Muslim Iberia",3,0,0,0,0,1,0
-AH,125,"Introduction to the Art and Architecture of Asia",3,0,0,0,0,1,0
-AH,219,"Art and Architecture of East Asia",3,0,0,0,0,1,0
+AH,125,"Asian Art and Architecture",3,0,0,0,0,1,0
+AH,219,"Art &Architecture of East Asia",3,0,0,0,0,1,0
 AH,220,"Buddhist Art and Architecture",3,0,0,0,0,1,0
 AH,244,"Islamic Art and Architecture",3,0,0,0,0,1,0
-AH,263,"Latin American Colonial Art",3,0,0,0,0,1,0
+AH,263,"Latin Amer Colonial Art",3,0,0,0,0,1,0
 AH,264,"African American Art",3,0,0,0,0,1,0
 AH,270,"African Art",3,0,0,0,0,1,0
 AH,271,"Native American Art",3,0,0,0,0,1,0
-AH,273,"Visual Culture of the Ancient Andes",3,0,0,0,0,1,0
-AH,274,"Visual Culture of Ancient Mesoamerica",3,0,0,0,0,1,0
+AH,273,"Visual Culture Ancient Andes",3,0,0,0,0,1,0
+AH,274,"Pre-Columb Art-Mesoamerca",3,0,0,0,0,1,0
 AH,275,"South Asian Visual Cultures",3,0,0,0,0,1,0
 BLST,207,"Racism: Global Perspectives",3,0,0,0,0,1,0
-BLST,221,"The Atlantic Slave Trade: Violence, Exploitation, Resistance",3,0,0,0,0,1,0
+BLST,221,"The Atlantic Slave Trade",3,0,0,0,0,1,0
 CL,104,"Mediterranean Traditions: Family, Society and the Divine",3,0,0,0,0,1,0
 DHD,203,"Disability in World Cultures",3,0,0,0,0,1,0
-ENGL,114,"Introduction to Colonial and Postcolonial Literature",3,0,0,0,0,1,0
+ENGL,114,"Colonial and Postcolonial Lit",3,0,0,0,0,1,0
 FR,191,"African and Caribbean Francophone Literature in Translation",3,0,0,0,0,1,0
-FR,297,"Paris in Literature, Film, and Culture",3,0,0,0,0,1,0
-FR,298,"French Literature, Drama and/or Film in Translation",3,0,0,0,0,1,0
-GWS,102,"Global Perspectives on Women and Gender",3,0,0,0,0,1,0
-GWS,262,"Constructions of Gender, Race, Health, and Human Rights",3,0,0,0,0,1,0
+FR,297,"Paris in Lit, Film and Culture",3,0,0,0,0,1,0
+FR,298,"French Lit/Drama/Film",3,0,0,0,0,1,0
+GWS,102,"Global Women & Gender",3,0,0,0,0,1,0
+GWS,262,"Gen, Race, Sexualty, & Hum Rts",3,0,0,0,0,1,0
 GEOG,100,"Concepts in Geography",3,0,0,0,0,1,0
 GEOG,101,"World Regional Geography",3,0,0,0,0,1,0
 GEOG,151,"Introduction to Cultural Geography",4,0,0,0,0,1,0
-GEOG,161,"Introduction to Economic Geography",3,0,0,0,0,1,0
+GEOG,161,"Intro to Economic Geog",3,0,0,0,0,1,0
 GEOG,203,"Human Geography of Latin America including the Caribbean Region",3,0,0,0,0,1,0
 GEOG,215,"A Global Geography of Cities",3,0,0,0,0,1,0
-GER,100,"Introduction to Germanic Cultures and Literatures",3,0,0,0,0,1,0
-GER,120,"Study of Gender, Class, and Political Issues in German Texts",3,0,0,0,0,1,0
+GER,100,"Intro Germanic Cult & Lit",3,0,0,0,0,1,0
+GER,120,"Gender Class Politics Ger Text",3,0,0,0,0,1,0
 GER,122,"Minority Perspectives in the Germanic Context",3,0,0,0,0,1,0
 GER,123,"Introduction to Yiddish Culture and Literature",3,0,0,0,0,1,0
-GER,125,"Diaspora, Exile, Genocide: Aspects of the European Jewish Experience in Literature and Film",3,0,0,0,0,1,0
-GER,217,"Introduction to German Cinema",4,0,0,0,0,1,0
-GLAS,100,"Introduction to Global Asian Studies",3,0,0,0,0,1,0
+GER,125,"Diaspora, Exile and Genocide",3,0,0,0,0,1,0
+GER,217,"Intro German Cinema",4,0,0,0,0,1,0
+GLAS,100,"Intro to Global Asian Studies",3,0,0,0,0,1,0
 GLAS,201,"Asian Markets, Corporations, and Social Justice",3,0,0,0,0,1,0
-GLAS,229,"Introduction to Asian Film",3,0,0,0,0,1,0
+GLAS,229,"Intro to Asian Film",3,0,0,0,0,1,0
 GLAS,270,"Topics in Asian Cultures and Societies",3,0,0,0,0,1,0
 GKM,105,"Modern Greek Culture",3,0,0,0,0,1,0
 GKM,203,"Modern Greek Authors in Translation",3,0,0,0,0,1,0
-HIST,100,"Western Civilization to 1648",3,0,0,0,0,1,0
-HIST,101,"Western Civilization Since 1648",3,0,0,0,0,1,0
-HIST,105,"Global Transformations and the Rise of the West Since 1000",3,0,0,0,0,1,0
-HIST,106,"The World Since 1400: Converging Worlds, New Circulations",3,0,0,0,0,1,0
-HIST,109,"East Asian Civilization: Ancient China",3,0,0,0,0,1,0
+HIST,100,"Western Civ To 1648",3,0,0,0,0,1,0
+HIST,101,"Western Civ Since 1648",3,0,0,0,0,1,0
+HIST,105,"Global Transformations",3,0,0,0,0,1,0
+HIST,106,"World since 1400",3,0,0,0,0,1,0
+HIST,109,"East Asian Civ: Ancient China",3,0,0,0,0,1,0
 HIST,161,"Introduction to Latin American History",3,0,0,0,0,1,0
 HIST,170,"The Ottoman Empire",3,0,0,0,0,1,0
-HIST,177,"Middle Eastern Civilization",3,0,0,0,0,1,0
-HIST,202,"The Ancient World: Greece",3,0,0,0,0,1,0
+HIST,177,"Middle Eastern Civ",3,0,0,0,0,1,0
+HIST,202,"Ancient Greece",3,0,0,0,0,1,0
 HIST,203,"Ancient Rome",3,0,0,0,0,1,0
 HIST,221,"The Atlantic Slave Trade",3,0,0,0,0,1,0
-HIST,225,"The Age of Revolution in France: 1715-1848",3,0,0,0,0,1,0
-HIST,236,"Russia Between Europe and Asia: Eurasian Spaces and Peoples in the Premodern Era",3,0,0,0,0,1,0
+HIST,225,"France: 1715-1848",3,0,0,0,0,1,0
+HIST,236,"Premodern Russia and Eurasia",3,0,0,0,0,1,0
 HIST,241,"Precolonial Africa in World History",3,0,0,0,0,1,0
-HIST,242,"History of Modern Africa",3,0,0,0,0,1,0
+HIST,242,"Modern Africa",3,0,0,0,0,1,0
 HIST,261,"Latin America to 1850",3,0,0,0,0,1,0
-HIST,262,"Latin America Since 1850",3,0,0,0,0,1,0
+HIST,262,"Latin Amer since 1850",3,0,0,0,0,1,0
 HIST,264,"The Pacific Rim in Modern History",3,0,0,0,0,1,0
 HIST,266,"Modern Mexico",3,0,0,0,0,1,0
-HIST,271,"Late Imperial China: 1500 to 1911",3,0,0,0,0,1,0
+HIST,271,"Late Imperial China",3,0,0,0,0,1,0
 HIST,272,"China Since 1911",3,0,0,0,0,1,0
 HIST,275,"History of South Asia to 1857",3,0,0,0,0,1,0
-HIST,276,"Modern South Asia, 1857 to the Present",3,0,0,0,0,1,0
-HIST,277,"The Middle East to 1258",3,0,0,0,0,1,0
-HIST,278,"The Middle East Since 1258",3,0,0,0,0,1,0
-HON,122,"Honors Core in Understanding Individual and Society and Exploring World Cultures",3,0,0,0,0,1,0
-HON,125,"Honors Core in Understanding the Past and Exploring World Cultures",3,0,0,0,0,1,0
-HON,127,"Honors Core in Understanding the Creative Arts and Exploring World Cultures",3,0,0,0,0,1,0
+HIST,276,"Modern South Asia",3,0,0,0,0,1,0
+HIST,277,"Middle East to 1258",3,0,0,0,0,1,0
+HIST,278,"Middle East since 1258",3,0,0,0,0,1,0
+HON,122,"Hon Core Ind & Soc / World Cul",3,0,0,0,0,1,0
+HON,125,"Hon Core Past / World Cultures",3,0,0,0,0,1,0
+HON,127,"Hon Core Creat Art / World Cul",3,0,0,0,0,1,0
 HON,129,"Honors Core in Exploring World Cultures and Understanding U.S. Society",3,0,0,0,0,1,0
-HON,133,"Honors Core in Analyzing the Natural World and Exploring World Cultures",3,0,0,0,0,1,0
+HON,133,"Hon Core Nat Wrld/Wrld Cultr",3,0,0,0,0,1,0
 HON,143,"Honors Core in Exploring World Cultures",3,0,0,0,0,1,0
 HN,202,"Culture and Food",2,0,0,0,0,1,0
-ITAL,230,"Italian and Italian American Culture and Civilization",3,0,0,0,0,1,0
-ITAL,280,"Italian and Italian American Cinema",3,0,0,0,0,1,0
+ITAL,230,"Italian/Ital American Culture",3,0,0,0,0,1,0
+ITAL,280,"Italian & Italian Amer Cinema",3,0,0,0,0,1,0
 JST,103,"Introduction to Israel Studies",3,0,0,0,0,1,0
 JST,203,"Israel Film: Aspects of History, Life, and Culture",3,0,0,0,0,1,0
-KOR,130,"Understanding Korean History, Culture and Society through Contemporary Korean Films",3,0,0,0,0,1,0
-LALS,101,"Introduction to Latin American Studies",3,0,0,0,0,1,0
-LALS,104,"Introduction to Puerto Rican Studies",3,0,0,0,0,1,0
-LALS,105,"Introduction to Mexican Studies",3,0,0,0,0,1,0
-LALS,108,"Indigenous Culture Change in Latin America",3,0,0,0,0,1,0
-LALS,110,"Introduction to Latin American Cultures",3,0,0,0,0,1,0
-LALS,220,"Latin American Cities in a Global Context: Environment, Employment, and Housing",3,0,0,0,0,1,0
+KOR,130,"Korean Culture through Films",3,0,0,0,0,1,0
+LALS,101,"Intro Latin American Studies",3,0,0,0,0,1,0
+LALS,104,"Puerto Rican Studies",3,0,0,0,0,1,0
+LALS,105,"Intro to Mex Studies",3,0,0,0,0,1,0
+LALS,108,"Indigenous Culture Change",3,0,0,0,0,1,0
+LALS,110,"Intro to Latin Amer Cultures",3,0,0,0,0,1,0
+LALS,220,"Lat Amer Cities Global Context",3,0,0,0,0,1,0
 LALS,256,"European-Indigenous Interaction in Latin America",3,0,0,0,0,1,0
 LALS,260,"Indigenous Storytelling in Latin America",3,0,0,0,0,1,0
-LALS,269,"Latin American Environmental Studies",3,0,0,0,0,1,0
+LALS,269,"Latin American Env Studies",3,0,0,0,0,1,0
 LALS,275,"Gender in Latin America",3,0,0,0,0,1,0
-LALS,278,"Latin American/Latino Film Studies",4,0,0,0,0,1,0
+LALS,278,"Lat Amer/Latino Film Stdies",4,0,0,0,0,1,0
 LING,170,"Languages of the World",3,0,0,0,0,1,0
 LCSL,207,"European Cinema",3,0,0,0,0,1,0
 LITH,115,"Lithuanian Culture",3,0,0,0,0,1,0
-LITH,130,"Lithuanian Prose Fiction in International Context",3,0,0,0,0,1,0
+LITH,130,"Lith Prose Fiction",3,0,0,0,0,1,0
 MUS,127,"Latin American Music",3,0,0,0,0,1,0
-MUS,227,"Music Cultures of the World",3,0,0,0,0,1,0
+MUS,227,"Music Cultures Of World",3,0,0,0,0,1,0
 NAST,113,"Native American Studies: Sovereignty",3,0,0,0,0,1,0
 PHIL,240,"Philosophy and Revelation: Jewish and Christian Perspectives",3,0,0,0,0,1,0
-POL,115,"Introduction to Polish Culture",3,0,0,0,0,1,0
-POL,120,"The Polish Short Story in Translation",3,0,0,0,0,1,0
-POL,130,"Masterworks of Polish Literature in Translation",3,0,0,0,0,1,0
+POL,115,"Intro to Polish Culture",3,0,0,0,0,1,0
+POL,120,"Polish Short Story in Trans",3,0,0,0,0,1,0
+POL,130,"Polish Lit in Translation",3,0,0,0,0,1,0
 POL,140,"Polish Drama in Translation",3,0,0,0,0,1,0
-POL,150,"Introduction to Polish Cinema",3,0,0,0,0,1,0
-POL,220,"Modern Polish-Jewish Culture and Literatures",3,0,0,0,0,1,0
-POLS,184,"Introduction to International Relations",3,0,0,0,0,1,0
-POLS,231,"Introduction to Chinese Politics",3,0,0,0,0,1,0
+POL,150,"Intro to Polish Cinema",3,0,0,0,0,1,0
+POL,220,"Polish-Jewish Culture & Lit",3,0,0,0,0,1,0
+POLS,184,"Intro International Relations",3,0,0,0,0,1,0
+POLS,231,"Intro to Chinese Politics",3,0,0,0,0,1,0
 POLS,232,"Politics in Korea",3,0,0,0,0,1,0
-POLS,243,"Politics and Government of the Middle East",3,0,0,0,0,1,0
+POLS,243,"Polit & Govt of Middle East",3,0,0,0,0,1,0
 POLS,245,"Politics and Government of Africa",3,0,0,0,0,1,0
-PPOL,232,"International Development Policy",3,0,0,0,0,1,0
-PUBH,110,"Public Health and Global Societies",3,0,0,0,0,1,0
-RELS,101,"Introduction to World Religions",3,0,0,0,0,1,0
+PPOL,232,"Intl Development Policy",3,0,0,0,0,1,0
+PUBH,110,"Global Societies",3,0,0,0,0,1,0
+RELS,101,"Introduction to World Religion",3,0,0,0,0,1,0
 RELS,130,"Introduction to Islam",3,0,0,0,0,1,0
 RELS,230,"Topics in Islam",3,0,0,0,0,1,0
 RELS,250,"Eastern and Western Philosophies of Religion",3,0,0,0,0,1,0
-RUSS,115,"Russian Culture Before the Revolution",3,0,0,0,0,1,0
-RUSS,116,"Russian Culture: The Soviet Period",3,0,0,0,0,1,0
-RUSS,120,"The Russian Short Story in Translation",3,0,0,0,0,1,0
-RUSS,130,"Masterpieces of Russian Literature in Translation",3,0,0,0,0,1,0
-RUSS,150,"Introduction to Russian Cinema",3,0,0,0,0,1,0
-RUSS,244,"Women in Russian Literature",3,0,0,0,0,1,0
+RUSS,115,"Russ Culture Before Revolution",3,0,0,0,0,1,0
+RUSS,116,"Russ Culture: Soviet Period",3,0,0,0,0,1,0
+RUSS,120,"Russ Short Story in Trans",3,0,0,0,0,1,0
+RUSS,130,"Masterpc of Russ Lit in Trans",3,0,0,0,0,1,0
+RUSS,150,"Intro to Russian Cinema",3,0,0,0,0,1,0
+RUSS,244,"Women in Russian Lit",3,0,0,0,0,1,0
 SOC,268,"Introduction to Comparative Sociology",3,0,0,0,0,1,0
 SPAN,192,"Latin American Women Writers in Translation",3,0,0,0,0,1,0
-SPAN,210,"Introduction to the Formal Analysis of Hispanic Texts",3,0,0,0,0,1,0
-SPAN,225,"Spanish and Latin American Culture through Literature and Film",3,0,0,0,0,1,0
+SPAN,210,"Introduction to Hispanic Texts",3,0,0,0,0,1,0
+SPAN,225,"Span and Latin Culture/Film",3,0,0,0,0,1,0
 SPAN,226,"Early Modern Spanish and Colonial Latin American Literature and Culture in Translation",3,0,0,0,0,1,0
-AAST,103,"African American Politics and Culture",3,0,0,0,0,0,1
-AAST,105,"African Americans in Film, 1900 - Present: Images, Individuals and Ideas on Screen",3,0,0,0,0,0,1
-AAST,111,"Introduction to African American Literature Since 1910",3,0,0,0,0,0,1
-AAST,125,"African American Religious Traditions",3,0,0,0,0,0,1
+AAST,103,"African Amer Politics&Culture",3,0,0,0,0,0,1
+AAST,105,"African Americans in Film",3,0,0,0,0,0,1
+AAST,111,"Intro Af Amer Lit Since 1910",3,0,0,0,0,0,1
+AAST,125,"AfAm Religious Traditions",3,0,0,0,0,0,1
 AAST,203,"The African American Family in the United States",3,0,0,0,0,0,1
 AAST,262,"Black Cultural Studies",3,0,0,0,0,0,1
 AAST,265,"The Harlem Renaissance",3,0,0,0,0,0,1
-AAST,271,"African Americans and the Politics of Incarceration",3,0,0,0,0,0,1
+AAST,271,"Afr Amer & Politcs Incarceratn",3,0,0,0,0,0,1
 BLST,100,"Introduction to Black Studies",3,0,0,0,0,0,1
 BLST,104,"Race, Place, and Schooling: Black Americans and Education",3,0,0,0,0,0,1
-BLST,110,"Introduction to African American Literature, 1760-1910",3,0,0,0,0,0,1
-BLST,246,"Black Lives in Historical Context",3,0,0,0,0,0,1
-BLST,247,"African American History to 1877",3,0,0,0,0,0,1
-BLST,248,"African American History since 1877",3,0,0,0,0,0,1
-BLST,249,"Black Freedom Movements in the U.S.",3,0,0,0,0,0,1
+BLST,110,"Intro Af Amer Lit, 1760-1910",3,0,0,0,0,0,1
+BLST,246,"Black Lives in Hist Context",3,0,0,0,0,0,1
+BLST,247,"African American Hist to 1877",3,0,0,0,0,0,1
+BLST,248,"African Amer Hist since 1877",3,0,0,0,0,0,1
+BLST,249,"Black Freedom Movements",3,0,0,0,0,0,1
 BLST,272,"Race, Gender, and Sexuality",3,0,0,0,0,0,1
 CST,150,"Catholicism in U.S. History",3,0,0,0,0,0,1
-CME,112,"Evolution of Infrastructure and Society",3,0,0,0,0,0,1
-CLJ,101,"Introduction to Criminology, Law, and Justice",3,0,0,0,0,0,1
+CME,112,"Evolution of Infrastructure",3,0,0,0,0,0,1
+CLJ,101,"Intro to Crim, Law, & Justice",3,0,0,0,0,0,1
 CLJ,102,"Foundations of Law and Justice",3,0,0,0,0,0,1
-CLJ,110,"Rights, Justice and the Law",3,0,0,0,0,0,1
-CLJ,114,"Race, Class, Gender and the Law",3,0,0,0,0,0,1
+CLJ,110,"Rights, Justice & the Law",3,0,0,0,0,0,1
+CLJ,114,"Race, Class, Gender, Law",3,0,0,0,0,0,1
 CLJ,120,"Crime and Society",3,0,0,0,0,0,1
 CLJ,121,"Violence in Society",3,0,0,0,0,0,1
 CLJ,122,"Gangs and the Media",3,0,0,0,0,0,1
@@ -639,73 +639,73 @@ DHD,101,"Disability in U.S. Society",3,0,0,0,0,0,1
 DHD,102,"Disability in American Film",3,0,0,0,0,0,1
 ECON,120,"Principles of Microeconomics",4,0,0,0,0,0,1
 ECON,121,"Principles of Macroeconomics",4,0,0,0,0,0,1
-ED,100,"Introduction to Urban Education",3,0,0,0,0,0,1
-ED,135,"Child and Youth Policies in Urban America",3,0,0,0,0,0,1
-ED,205,"Introduction to Race, Ethnicity, and Education",3,0,0,0,0,0,1
-ED,222,"Introduction to Gender, Sexuality, and Education",3,0,0,0,0,0,1
-ED,252,"Contemporary Controversies in U.S. Schools",3,0,0,0,0,0,1
+ED,100,"Intro to Urban Education",3,0,0,0,0,0,1
+ED,135,"Chld & Yth Policy Urb Amer",3,0,0,0,0,0,1
+ED,205,"Race, Ethnicity, & Education",3,0,0,0,0,0,1
+ED,222,"Gender, Sexuality, & Education",3,0,0,0,0,0,1
+ED,252,"Controversies in U.S. Schools",3,0,0,0,0,0,1
 ED,258,"Language Development and Learning in a Diverse Society",3,0,0,0,0,0,1
-ENGL,109,"American Literature and American Culture",3,0,0,0,0,0,1
-ENGL,112,"Introduction to Native American Literatures",3,0,0,0,0,0,1
-ENGL,113,"Introduction to Multiethnic Literatures in the United States",3,0,0,0,0,0,1
-ENGL,123,"Introduction to Asian American Literature",3,0,0,0,0,0,1
-ENTR,200,"Survey of Entrepreneurship",3,0,0,0,0,0,1
+ENGL,109,"Amer Literature & Culture",3,0,0,0,0,0,1
+ENGL,112,"Intro Native Amer Literature",3,0,0,0,0,0,1
+ENGL,113,"Intro Multiethnic Literature",3,0,0,0,0,0,1
+ENGL,123,"Intro Asian American Lit",3,0,0,0,0,0,1
+ENTR,200,"Surveyof Entrepreneurship",3,0,0,0,0,0,1
 GWS,101,"Gender in Everyday Life",3,0,0,0,0,0,1
 GWS,204,"Gender and Popular Culture",3,0,0,0,0,0,1
 GEOG,202,"Geography of the United States and Canada",3,0,0,0,0,0,1
 GEOG,211,"Chicago: An Urban Geography",3,0,0,0,0,0,1
 GEOG,241,"Resource Problems in the United States",3,0,0,0,0,0,1
-GLAS,120,"Introduction to Asian American Studies",3,0,0,0,0,0,1
+GLAS,120,"Intro Asian Amer Studies",3,0,0,0,0,0,1
 GLAS,210,"Asian American Histories",3,0,0,0,0,0,1
 GLAS,217,"Introduction to Filipino American Studies",3,0,0,0,0,0,1
-GLAS,230,"Cultural Politics of Asian American Food",3,0,0,0,0,0,1
-GLAS,250,"Critical Issues in Community Engagement",3,0,0,0,0,0,1
-GLAS,263,"Asian American Gender and Sexual Diversity",3,0,0,0,0,0,1
-HIST,103,"Early America: From Colonization to Civil War and Reconstruction",3,0,0,0,0,0,1
-HIST,104,"Modern America: From Industrialization to Globalization",3,0,0,0,0,0,1
-HIST,240,"Radicalism in America: From the Revolution to Occupy Wall Street",3,0,0,0,0,0,1
+GLAS,230,"Asian American Culture & Food",3,0,0,0,0,0,1
+GLAS,250,"Critical Communty Engagement",3,0,0,0,0,0,1
+GLAS,263,"Asian Amer Gendr&Sexual Divers",3,0,0,0,0,0,1
+HIST,103,"Early America",3,0,0,0,0,0,1
+HIST,104,"Modern America",3,0,0,0,0,0,1
+HIST,240,"Radicalism in America",3,0,0,0,0,0,1
 HIST,245,"Imagining the American West",3,0,0,0,0,0,1
-HIST,246,"History of American Capitalism",3,0,0,0,0,0,1
+HIST,246,"Hist of American Capitalism",3,0,0,0,0,0,1
 HIST,249,"The American Civil War",3,0,0,0,0,0,1
-HIST,252,"Sexuality in America: Historical Perspectives",3,0,0,0,0,0,1
-HIST,253,"The Worker in American Life",3,0,0,0,0,0,1
+HIST,252,"Sexuality-Hist Perspect",3,0,0,0,0,0,1
+HIST,253,"Worker in American Life",3,0,0,0,0,0,1
 HIST,255,"History of Chicago",3,0,0,0,0,0,1
 HIST,256,"Religion in American History",3,0,0,0,0,0,1
-HIST,259,"Women and Gender in American History",3,0,0,0,0,0,1
-HIST,267,"American Intellectual History to 1865",3,0,0,0,0,0,1
-HIST,268,"American Intellectual History since 1865",3,0,0,0,0,0,1
+HIST,259,"Women and Gender in America",3,0,0,0,0,0,1
+HIST,267,"Amer Intellectual Hist to 1865",3,0,0,0,0,0,1
+HIST,268,"Amer Intellect Hist since 1865",3,0,0,0,0,0,1
 HIST,293,"The Gilded and the Gritty: Power, Culture, and the Making of 20th-century America",3,0,0,0,0,0,1
-HON,123,"Honors Core in Understanding Individual and Society and Understanding U.S. Society",3,0,0,0,0,0,1
-HON,126,"Honors Core in Understanding the Past and Understanding U.S. Society",3,0,0,0,0,0,1
-HON,128,"Honors Core in Understanding the Creative Arts and Understanding U.S. Society",3,0,0,0,0,0,1
+HON,123,"Hon Core Indiv & Soc / US Soc",3,0,0,0,0,0,1
+HON,126,"Hon Core Past / US Society",3,0,0,0,0,0,1
+HON,128,"Hon Core Creat Arts / US Soc",3,0,0,0,0,0,1
 HON,129,"Honors Core in Exploring World Cultures and Understanding U.S. Society",3,0,0,0,0,0,1
-HON,134,"Honors Core in Analyzing the Natural World and Understanding U.S. Society",3,0,0,0,0,0,1
+HON,134,"Hon Core Nat World/US Society",3,0,0,0,0,0,1
 HON,144,"Honors Core in Understanding U.S. Society",3,0,0,0,0,0,1
 ITAL,270,"Migration and Diaspora in the Italian and Italian American Experience",3,0,0,0,0,0,1
-LALS,102,"Introduction to Latino Studies",3,0,0,0,0,0,1
-LALS,103,"Introduction to Latino Urban Studies",3,0,0,0,0,0,1
-LALS,109,"Introduction to Latino Cultures",3,0,0,0,0,0,1
-LALS,276,"Latinas in the United States",3,0,0,0,0,0,1
+LALS,102,"Intro Latino Studies",3,0,0,0,0,0,1
+LALS,103,"Intro to Latino Urban Studies",3,0,0,0,0,0,1
+LALS,109,"Intro to Latino Cultures",3,0,0,0,0,0,1
+LALS,276,"Latinas in US",3,0,0,0,0,0,1
 LALS,283,"Latinos and Politics",3,0,0,0,0,0,1
 LALS,290,"Mexican-American History",3,0,0,0,0,0,1
 LALS,295,"Latino Literary Studies",3,0,0,0,0,0,1
 LING,160,"Language and Society",3,0,0,0,0,0,1
-LING,260,"Language Acquisition, Language Contact and Bilingualism",3,0,0,0,0,0,1
+LING,260,"Acquisition & Billingualism",3,0,0,0,0,0,1
 NAST,113,"Native American Studies: Sovereignty",3,0,0,0,0,0,1
-PHIL,104,"Introduction to Political Philosophy",3,0,0,0,0,0,1
-POLS,101,"Introduction to American Government and Politics",3,0,0,0,0,0,1
+PHIL,104,"Intro to Political Philosophy",3,0,0,0,0,0,1
+POLS,101,"Intro to American Government",3,0,0,0,0,0,1
 PPOL,210,"Introduction to Public Policy",3,0,0,0,0,0,1
-PPOL,212,"Evidence-Based Public Policy",3,0,0,0,0,0,1
-PPOL,230,"Nonprofit Organizations and Civil Society",3,0,0,0,0,0,1
-PPOL,231,"Social Welfare State: Policies and Process",3,0,0,0,0,0,1
+PPOL,212,"Data Science and Public Policy",3,0,0,0,0,0,1
+PPOL,230,"Nonprofit Orgs & Civil Society",3,0,0,0,0,0,1
+PPOL,231,"The American Safety Net",3,0,0,0,0,0,1
 PPOL,240,"Environmental Policy",3,0,0,0,0,0,1
 PUBH,100,"Health and the Public",3,0,0,0,0,0,1
 RELS,256,"Religions in American History",3,0,0,0,0,0,1
-SJ,201,"Theories and Practices of Social Justice",3,0,0,0,0,0,1
+SJ,201,"Theories and Practices of SJ",3,0,0,0,0,0,1
 SOC,100,"Introduction to Sociology",3,0,0,0,0,0,1
 SOC,105,"Social Problems",3,0,0,0,0,0,1
-SOC,215,"Sociology of Childhood and Youth",3,0,0,0,0,0,1
-SOC,224,"Gender and Society",3,0,0,0,0,0,1
+SOC,215,"Sociology Childhood and Youth",3,0,0,0,0,0,1
+SOC,224,"Gender & Society",3,0,0,0,0,0,1
 SOC,225,"Racial and Ethnic Groups",3,0,0,0,0,0,1
 SOC,228,"Sociology of Asia and Asian Americans",3,0,0,0,0,0,1
 SOC,229,"Sociology of Latinos",3,0,0,0,0,0,1
@@ -716,8 +716,8 @@ SOC,246,"Sociology of Religion",3,0,0,0,0,0,1
 SOC,251,"Health and Medicine",3,0,0,0,0,0,1
 SOC,276,"Urban Sociology",3,0,0,0,0,0,1
 SPAN,224,"Bilingual/Bicultural Hispanic American Writers",3,0,0,0,0,0,1
-THTR,105,"Introduction to American Musical Theatre",3,0,0,0,0,0,1
-US,101,"Introduction to Urban Studies",3,0,0,0,0,0,1
-US,130,"Principles of Urban Sustainability",3,0,0,0,0,0,1
-US,202,"Social Justice and the City",3,0,0,0,0,0,1
-US,230,"Practices for Sustainable Cities",3,0,0,0,0,0,1
+THTR,105,"American Musical Theatre",3,0,0,0,0,0,1
+US,101,"Intro to Urban Studies",3,0,0,0,0,0,1
+US,130,"Principls Urb Sustainability",3,0,0,0,0,0,1
+US,202,"Social Justice & the City",3,0,0,0,0,0,1
+US,230,"Practices Sustainable Cities",3,0,0,0,0,0,1

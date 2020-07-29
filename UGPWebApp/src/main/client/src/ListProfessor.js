@@ -71,7 +71,6 @@ class ListProfessor extends Component {
                                         justifyContent: 'center',
                                       }}
                                     >
-                                      {localStorage.setItem('row', JSON.stringify(data))}
                                       <h3 style={{margin: 0, color: '#5b5b5b'}}>{data.name1}
                                       <hr/>
                                       <i>GPA: {this.calculateGPA(data) > 0.00 ? this.calculateGPA(data) : 'N/A' }</i>

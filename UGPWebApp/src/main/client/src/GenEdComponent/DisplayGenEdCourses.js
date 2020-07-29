@@ -20,7 +20,6 @@ class DisplayGenEd extends Component {
     }
 
     render(){
-
         let genCoursesTitle = ''
 
         // if else statesments that will be excusted depending on what the user has chosen as their gen ed
