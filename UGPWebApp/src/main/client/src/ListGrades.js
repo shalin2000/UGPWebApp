@@ -308,6 +308,12 @@ class ListGrades extends Component {
     const totalStudentsTaught = totalGradesA+totalGradesB+totalGradesC+totalGradesD+totalGradesF+totalGradesW
     const totalStudentsTaughtI = totalGradesA+totalGradesB+totalGradesC+totalGradesD+totalGradesF+totalGradesW+totalGradesI
 
+    //Overall GPA
+    const avgGPA = ((4*(totalGradesA)+3*(totalGradesB)+2*(totalGradesC)+totalGradesD)/overallLetterGradeCount).toFixed(2)
+    
+    //Semester GPA 
+    const semCount = this.state.A+this.state.B+this.state.C+this.state.D+this.state.F                        
+    const semGPA = ((4*(this.state.A)+3*(this.state.B)+2*(this.state.C)+this.state.D)/semCount).toFixed(2)                     
 
     // -------------------------------------------------------- State for the overall graphs --------------------------------------------------------
 
@@ -540,7 +546,7 @@ class ListGrades extends Component {
                                       },
                                       title:{
                                           display:true,
-                                          text:'Overall Grade Distribution (%)',
+                                          text:'Overall Grade Distribution - GPA : ' + avgGPA,
                                           fontSize:20
                                       },
                                       legend:{

@@ -23,7 +23,7 @@ class ListProfessor extends Component {
   
   // this calculates the total letters from all semester 
   calculateGPA(data){
-    return (((4*parseInt(data.A)) + (3*parseInt(data.B)) + (2*parseInt(data.C)) + (parseInt(data.D))) / (parseInt(data.A) + parseInt(data.B) + parseInt(data.C) + parseInt(data.D) + parseInt(data.F)))
+    return (((4*parseInt(data.A)) + (3*parseInt(data.B)) + (2*parseInt(data.C)) + (parseInt(data.D))) / (parseInt(data.A) + parseInt(data.B) + parseInt(data.C) + parseInt(data.D) + parseInt(data.F))).toFixed(2)
   }
 
   render() {    
@@ -53,7 +53,13 @@ class ListProfessor extends Component {
                                       height: '14rem',
                                       margin: '16px',
                                       padding: '16px',
-                                      borderRadius: '25%',      
+                                      borderRadius: '25%',  
+                                      background: this.calculateGPA(data) >= 3.50 ? 'rgba(47, 238, 17, 0.2)' :
+                                      (this.calculateGPA(data) >= 3.00 ? 'rgba(33, 182, 168, 0.2)' :
+                                      (this.calculateGPA(data) >= 2.50 ? 'rgba(54, 162, 235, 0.2)' :
+                                      (this.calculateGPA(data) >= 2.00 ? 'rgba(255, 206, 86, 0.2)' :
+                                      (this.calculateGPA(data) >= 0.00 ? 'rgba(223, 21, 21, 0.2)' :
+                                      'rgba(128, 128, 128, 0.2)'))))    
                                     }}
                                   >
                                     <Link className="card-body" 
@@ -66,9 +72,10 @@ class ListProfessor extends Component {
                                         justifyContent: 'center',
                                       }}
                                     >
-                                      <h3 style={{margin: 0, color: '#5b5b5b'}}>{data.name1}</h3> 
+                                      <h3 style={{margin: 0, color: '#5b5b5b'}}>{data.name1}
                                       <hr/>
-                                      <i>{this.calculateGPA(data)}</i>
+                                      <i>GPA: {this.calculateGPA(data) > 0.00 ? this.calculateGPA(data) : 'N/A' }</i>
+                                      </h3> 
                                     </Link>
                                   </div>
                               ))}
