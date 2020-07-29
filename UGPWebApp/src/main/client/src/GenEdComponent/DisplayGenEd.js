@@ -24,42 +24,42 @@ class DisplayGenEd extends Component {
                 <div className="box alt container">
                     {/* link for Analyzing the Natural World */}
                     <section className="feature left">
-                        <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'ANW' }}} className="image icon solid fa-seedling"><img src={pic01} alt="pic01" /> {localStorage.setItem('row', JSON.stringify('ANW'))}</Link>
+                        <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'ANW' }}} className="image icon solid fa-seedling"><img src={pic01} alt="pic01" /></Link>
                         <div className="content">
                             <h3>Analyzing the Natural World</h3>
                         </div>
                     </section>
                     {/* link for Understanding the Individual and Society */}
                     <section className="feature right">
-                        <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'UIS' }}} className="image icon solid fa-users"><img src={pic01} alt="pic01" /> {localStorage.setItem('row', JSON.stringify('UIS'))}</Link>
+                        <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'UIS' }}} className="image icon solid fa-users"><img src={pic01} alt="pic01" /></Link>
                         <div className="content">
                             <h3>Understanding the Individual and Society</h3>
                         </div>
                     </section>
                     {/* link for Understanding the Past */}
                     <section className="feature left">
-                        <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'UP' }}} className="image icon solid fa-history"><img src={pic01} alt="pic01" /> {localStorage.setItem('row', JSON.stringify('UP'))}</Link>
+                        <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'UP' }}} className="image icon solid fa-history"><img src={pic01} alt="pic01" /></Link>
                         <div className="content">
                             <h3>Understanding the Past</h3>
                         </div>
                     </section>
                     {/* link for Understanding the Creative Arts */}
                     <section className="feature right">
-                        <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'UCA' }}} className="image icon solid fa-palette"><img src={pic01} alt="pic01" /> {localStorage.setItem('row', JSON.stringify('UCA'))}</Link>
+                        <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'UCA' }}} className="image icon solid fa-palette"><img src={pic01} alt="pic01" /></Link>
                         <div className="content">
                             <h3>Understanding the Creative Arts</h3>
                         </div>
                     </section>
                     {/* link for Exploring World Cultures */}
                     <section className="feature left">
-                        <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'EWC' }}} className="image icon solid fa-globe"><img src={pic01} alt="pic01" /> {localStorage.setItem('row', JSON.stringify('EWC'))}</Link>
+                        <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'EWC' }}} className="image icon solid fa-globe"><img src={pic01} alt="pic01" /></Link>
                         <div className="content">
                             <h3>Exploring World Cultures</h3>
                         </div>
                     </section>
                     {/* link for Understanding U.S. Society */}
                     <section className="feature right">
-                        <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'UUS' }}} className="image icon solid fa-flag-usa"><img src={pic01} alt="pic01" /> {localStorage.setItem('row', JSON.stringify('UUS'))}</Link>
+                        <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'UUS' }}} className="image icon solid fa-flag-usa"><img src={pic01} alt="pic01" /></Link>
                         <div className="content">
                             <h3>Understanding U.S. Society</h3>
                         </div>
