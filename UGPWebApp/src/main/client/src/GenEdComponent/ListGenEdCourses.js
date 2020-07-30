@@ -87,6 +87,9 @@ class ListGenEdCourses extends Component {
     const rowEvents = {
       onClick: (e, row, rowIndex) => {
         localStorage.setItem('selectedProf', JSON.stringify(row))
+      },
+      onContextMenu: (e, row, rowIndex) => {
+        localStorage.setItem('selectedProf', JSON.stringify(row))
       }
     };
     // displays the columns and data into the a table

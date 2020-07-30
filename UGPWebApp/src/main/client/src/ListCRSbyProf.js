@@ -73,6 +73,9 @@ class ListCRSbyProf extends Component {
     const rowEvents = {
       onClick: (e, row, rowIndex) => {
         localStorage.setItem('profInfo', JSON.stringify(row))
+      },
+      onContextMenu: (e, row, rowIndex) => {
+        localStorage.setItem('profInfo', JSON.stringify(row))
       }
     };
     // calls the bootstrap table which generates the table with the courses that are taught by the professor selected

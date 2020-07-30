@@ -57,8 +57,9 @@ class ListProfessor extends Component {
                                       (this.calculateGPA(data) >= 3.00 ? 'rgba(33, 182, 168, 0.2)' :
                                       (this.calculateGPA(data) >= 2.50 ? 'rgba(54, 162, 235, 0.2)' :
                                       (this.calculateGPA(data) >= 2.00 ? 'rgba(255, 206, 86, 0.2)' :
-                                      (this.calculateGPA(data) >= 0.00 ? 'rgba(223, 21, 21, 0.2)' :
-                                      'rgba(128, 128, 128, 0.2)'))))    
+                                      (this.calculateGPA(data) >= 1.50 ? 'rgba(255, 69, 0, 0.2)' :
+                                      (this.calculateGPA(data) >= 0.00 ? 'rgba(223, 21, 21, 0.4)' :
+                                      'rgba(128, 128, 128, 0.2)')))))    
                                     }}
                                   >
                                     <Link className="card-body" 
@@ -70,6 +71,7 @@ class ListProfessor extends Component {
                                         justifyContent: 'center',
                                       }}
                                       onClick={()=> localStorage.setItem('profInfo', JSON.stringify(data))}
+                                      onContextMenu = {()=> localStorage.setItem('profInfo', JSON.stringify(data))}
                                     >
                                       <h3 style={{margin: 0, color: '#5b5b5b'}}>{data.name1}
                                       <hr/>

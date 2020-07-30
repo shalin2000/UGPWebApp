@@ -23,42 +23,42 @@ class DisplayGenEd extends Component {
                 {/* Displays the 6 different gen eds cateogry that uic offers and calls the displaygenEdCourse component and sends props to know which item was clicked */}
                 <div className="box alt container">
                     {/* link for Analyzing the Natural World */}
-                    <section className="feature left" onClick={() => localStorage.setItem('genEd', JSON.stringify('ANW'))}>
+                    <section className="feature left" onClick={() => localStorage.setItem('genEd', JSON.stringify('ANW'))} onContextMenu = {()=> localStorage.setItem('genEd', JSON.stringify('ANW'))}>
                         <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'ANW' }}} className="image icon solid fa-seedling"><img src={pic01} alt="pic01" /></Link>
                         <div className="content">
                             <h3>Analyzing the Natural World</h3>
                         </div>
                     </section>
                     {/* link for Understanding the Individual and Society */}
-                    <section className="feature right" onClick={() => localStorage.setItem('genEd', JSON.stringify('UIS'))}>
+                    <section className="feature right" onClick={() => localStorage.setItem('genEd', JSON.stringify('UIS'))} onContextMenu = {()=> localStorage.setItem('genEd', JSON.stringify('UIS'))}>
                         <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'UIS' }}} className="image icon solid fa-users"><img src={pic01} alt="pic01" /></Link>
                         <div className="content">
                             <h3>Understanding the Individual and Society</h3>
                         </div>
                     </section>
                     {/* link for Understanding the Past */}
-                    <section className="feature left" onClick={() => localStorage.setItem('genEd', JSON.stringify('UP'))}>
+                    <section className="feature left" onClick={() => localStorage.setItem('genEd', JSON.stringify('UP'))} onContextMenu = {()=> localStorage.setItem('genEd', JSON.stringify('UP'))}>
                         <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'UP' }}} className="image icon solid fa-history"><img src={pic01} alt="pic01" /></Link>
                         <div className="content">
                             <h3>Understanding the Past</h3>
                         </div>
                     </section>
                     {/* link for Understanding the Creative Arts */}
-                    <section className="feature right" onClick={() => localStorage.setItem('genEd', JSON.stringify('UCA'))}>
+                    <section className="feature right" onClick={() => localStorage.setItem('genEd', JSON.stringify('UCA'))} onContextMenu = {()=> localStorage.setItem('genEd', JSON.stringify('UCA'))}>
                         <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'UCA' }}} className="image icon solid fa-palette"><img src={pic01} alt="pic01" /></Link>
                         <div className="content">
                             <h3>Understanding the Creative Arts</h3>
                         </div>
                     </section>
                     {/* link for Exploring World Cultures */}
-                    <section className="feature left" onClick={() => localStorage.setItem('genEd', JSON.stringify('EWC'))}>
+                    <section className="feature left" onClick={() => localStorage.setItem('genEd', JSON.stringify('EWC'))} onContextMenu = {()=> localStorage.setItem('genEd', JSON.stringify('EWC'))}>
                         <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'EWC' }}} className="image icon solid fa-globe"><img src={pic01} alt="pic01" /></Link>
                         <div className="content">
                             <h3>Exploring World Cultures</h3>
                         </div>
                     </section>
                     {/* link for Understanding U.S. Society */}
-                    <section className="feature right" onClick={() => localStorage.setItem('genEd', JSON.stringify('UUS'))}>
+                    <section className="feature right" onClick={() => localStorage.setItem('genEd', JSON.stringify('UUS'))} onContextMenu = {()=> localStorage.setItem('genEd', JSON.stringify('UUS'))}>
                         <Link to={{pathname: "/displayGenEdCourses", state: { linkState: 'UUS' }}} className="image icon solid fa-flag-usa"><img src={pic01} alt="pic01" /></Link>
                         <div className="content">
                             <h3>Understanding U.S. Society</h3>

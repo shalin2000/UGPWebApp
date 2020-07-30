@@ -78,6 +78,9 @@ class ListCourse extends Component {
     const rowEvents = {
       onClick: (e, row, rowIndex) => {
         localStorage.setItem('selectedProf', JSON.stringify(row))
+      },
+      onContextMenu: (e, row, rowIndex) => {
+        localStorage.setItem('selectedProf', JSON.stringify(row))
       }
     };
 
