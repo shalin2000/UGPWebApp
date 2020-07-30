@@ -77,6 +77,9 @@ class DisplayAllProfs extends Component {
     const rowEvents = {
       onClick: (e, row, rowIndex) => {
         localStorage.setItem('listAllCRSByProf', JSON.stringify(row))
+      },
+      onContextMenu: (e, row, rowIndex) => {
+        localStorage.setItem('listAllCRSByProf', JSON.stringify(row))
       }
     };
     // calls the bootstrap table and tookitprovider which generates the table and makes a search bar for users to quickly find the professor
