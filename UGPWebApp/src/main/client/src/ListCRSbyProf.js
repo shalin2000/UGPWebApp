@@ -35,7 +35,7 @@ class ListCRSbyProf extends Component {
   
   render() {
 
-    var retrievedObject = localStorage.getItem('row');
+    var retrievedObject = localStorage.getItem('listAllCRSByProf');
 
     // filters the array so the new array contains only the courses that match the name that was passed in as the prop (dept) from displayAllProf
     const printArr = this.state.myData.filter(x => x.name1 === (JSON.parse(retrievedObject).name1));

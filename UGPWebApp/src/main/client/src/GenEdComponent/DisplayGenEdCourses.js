@@ -16,7 +16,7 @@ class DisplayGenEd extends Component {
     // when component mounts, it scrolls to top and sets the state chosenGenEd to the one that was passed from DisplayGenEd
     componentDidMount() {
         window.scrollTo(0, 0);
-        var retrievedObject = localStorage.getItem('row');
+        var retrievedObject = localStorage.getItem('genEd');
         this.setState({chosenGenEd: JSON.parse(retrievedObject)})
     }
 
@@ -49,7 +49,7 @@ class DisplayGenEd extends Component {
 
                 <div className="secHeader"><h2>{genCoursesTitle}</h2></div>
                 <div className='Table'>
-                    < ListGenEdCourses chosenGenEd={this.state.chosenGenEd}/>
+                    < ListGenEdCourses chosenGenEd={this.state.chosenGenEd} />
                 </div>
 
                 < Footer />

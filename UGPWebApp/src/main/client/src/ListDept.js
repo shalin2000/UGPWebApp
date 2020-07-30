@@ -58,7 +58,7 @@ class ListDept extends Component {
     }];
     const rowEvents = {
       onClick: (e, row, rowIndex) => {
-        localStorage.setItem('row', JSON.stringify(row))
+        localStorage.setItem('chosenCourse', JSON.stringify(row))
       }
     };
     return <div className="react-bootstrap-table-wrapper">
