@@ -10,7 +10,6 @@ class ListProfessor extends Component {
     super(props);
     this.state = {
       myData: [],
-      letterArrA: []
     };
   }
   
@@ -70,6 +69,7 @@ class ListProfessor extends Component {
                                         alignItems: 'center',
                                         justifyContent: 'center',
                                       }}
+                                      onClick={()=> localStorage.setItem('profInfo', JSON.stringify(data))}
                                     >
                                       <h3 style={{margin: 0, color: '#5b5b5b'}}>{data.name1}
                                       <hr/>

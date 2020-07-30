@@ -70,7 +70,11 @@ class ListCRSbyProf extends Component {
       dataField: 'CRS_NBR',
       order: 'asc'
     }];
-    
+    const rowEvents = {
+      onClick: (e, row, rowIndex) => {
+        localStorage.setItem('profInfo', JSON.stringify(row))
+      }
+    };
     // calls the bootstrap table which generates the table with the courses that are taught by the professor selected
     const displayCourseArr = <BootstrapTable
                                 bootstrap4
@@ -80,6 +84,7 @@ class ListCRSbyProf extends Component {
                                 defaultSorted={ defaultSorted } 
                                 striped
                                 hover
+                                rowEvents={ rowEvents }
                               />
       
     return (
