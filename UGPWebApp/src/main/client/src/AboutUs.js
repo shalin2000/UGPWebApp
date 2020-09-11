@@ -26,7 +26,7 @@ class About_Us extends Component {
                             As we wrapped up our school year, our team anticipated that summer 2020 would be an exciting new stage for our careers. 
                             We were actively seeking internships and hoping to develop our professional skillsets by gaining valuable real-world experience. However, the unforeseen 
                             circumstances of COVID-19 resulted in a change of plans. We decided to shift gears and work on an impactful project ourselves as a team.
-                            This lead to the idea of GradePal, a service intended to revolutionize course selection and research for UIC students. 
+                            This led to the idea of GradePal, a service intended to revolutionize course selection and research for UIC students. 
                         </p>
                         <hr />
                         <p>
