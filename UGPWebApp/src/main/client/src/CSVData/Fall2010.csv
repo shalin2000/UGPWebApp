@@ -355,9 +355,9 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220108,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,8,13,14,12,10,0,0,0,0,0,0,0,0,0,0,6,"Yzeiri, Irena","Grad Asst",,63
 220108,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,44,63,93,68,77,0,0,0,0,0,0,0,0,0,0,23,"Grad Asst","Grad Asst",,368
 220108,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,60,157,124,60,53,0,0,0,2,0,2,0,0,0,0,36,"Grad Asst","Young, Paul Robert",,494
-220108,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,2,6,8,3,1,0,0,0,0,0,0,0,0,0,0,1,"Sevinc, Berdan","Jursich, Gregory",,21
-220108,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,55,90,100,35,31,0,0,0,1,0,0,0,0,0,0,19,"Grad Asst","Young, Paul Robert",,331
-220108,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,88,151,233,84,47,0,0,0,1,0,1,0,0,0,0,59,"Grad Asst","Jursich, Gregory",,664
+220108,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,2,6,8,3,1,0,0,0,0,0,0,0,0,0,0,1,"Sevinc, Berdan","Jursich, Gregory",,21
+220108,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,55,90,100,35,31,0,0,0,1,0,0,0,0,0,0,19,"Grad Asst","Young, Paul Robert",,331
+220108,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,88,151,233,84,47,0,0,0,1,0,1,0,0,0,0,59,"Grad Asst","Jursich, Gregory",,664
 220108,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,18,45,80,24,12,0,0,0,1,0,1,0,0,0,0,26,"Grad Asst","Hammerich, Audrey Dell",,207
 220108,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,19,34,62,19,4,0,0,0,1,0,0,0,0,0,0,71,"Grad Asst","Hammerich, Audrey Dell","Papadantonakis, George A",210
 220108,CHEM,Chemistry,116,"Honors General Chem I",FT,"Liberal Arts & Sciences",2458,Chemistry,1,7,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","Burns, Richard P",,12

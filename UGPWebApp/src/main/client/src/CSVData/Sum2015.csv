@@ -51,8 +51,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220155,CELE,"Clerkship Electives-Chicago",616,Radiology,GA,"Coll Medicine at Chicago - CS",2713,Radiology,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,"Instructor, Missing",,,11
 220155,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,3,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Rosenhouse-Dantsker, Avia",,,10
 220155,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,7,5,8,2,2,0,0,0,0,0,0,0,0,0,0,3,"Vazquez, Francisco X",,,27
-220155,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,10,12,23,9,2,0,0,0,0,0,0,0,0,0,0,2,"Rosenhouse-Dantsker, Avia",,,58
-220155,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,12,14,24,7,4,0,0,0,0,0,0,0,0,0,0,8,"Jursich, Gregory",,,69
+220155,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,10,12,23,9,2,0,0,0,0,0,0,0,0,0,0,2,"Rosenhouse-Dantsker, Avia",,,58
+220155,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,12,14,24,7,4,0,0,0,0,0,0,0,0,0,0,8,"Jursich, Gregory",,,69
 220155,CHEM,Chemistry,222,"Analytical Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,7,11,5,3,3,0,0,0,1,0,0,0,0,0,0,1,"Jursich, Gregory",,,31
 220155,CHEM,Chemistry,232,"Organic Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,8,17,20,13,8,0,0,0,1,0,0,0,0,0,0,2,"Mueller, Daniel Stephen","Grad Asst",,69
 220155,CHEM,Chemistry,233,"Organic Chemistry Lab I",FT,"Liberal Arts & Sciences",2458,Chemistry,29,40,37,6,3,0,0,0,1,0,0,0,0,0,0,6,"Grad Asst","McQuade, Lindsey E",,122

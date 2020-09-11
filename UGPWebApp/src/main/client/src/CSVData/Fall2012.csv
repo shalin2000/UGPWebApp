@@ -363,10 +363,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220128,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,33,94,56,33,28,0,0,0,0,0,0,0,0,0,0,8,"Yun, Sang Young",,,252
 220128,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,38,69,67,32,30,0,0,0,0,0,0,0,0,0,0,15,"Lakhani, Ahmed Ashiqali",,,251
 220128,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,40,71,65,38,22,0,0,0,1,0,0,0,0,0,0,14,"Young, Paul Robert",,,251
-220128,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,28,36,36,6,1,0,0,0,7,0,0,0,0,0,0,10,"Kassner, Richard J",,,124
-220128,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,37,59,77,32,18,0,0,0,2,0,0,0,0,0,0,25,"Hatfield, Rita",,,250
-220128,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,38,45,53,18,16,0,0,0,0,0,0,0,0,0,0,18,"Jursich, Gregory",,,188
-220128,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,55,126,133,86,62,0,0,0,11,0,0,0,0,0,0,41,"Modey, William Kojo",,,514
+220128,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,28,36,36,6,1,0,0,0,7,0,0,0,0,0,0,10,"Kassner, Richard J",,,124
+220128,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,37,59,77,32,18,0,0,0,2,0,0,0,0,0,0,25,"Hatfield, Rita",,,250
+220128,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,38,45,53,18,16,0,0,0,0,0,0,0,0,0,0,18,"Jursich, Gregory",,,188
+220128,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,55,126,133,86,62,0,0,0,11,0,0,0,0,0,0,41,"Modey, William Kojo",,,514
 220128,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,25,42,74,21,15,0,0,0,0,0,0,0,0,0,0,27,"Jursich, Gregory",,,204
 220128,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,37,26,80,17,15,0,0,0,1,0,0,0,0,0,0,21,"Papadantonakis, George A",,,197
 220128,CHEM,Chemistry,116,"Honors General Chem I",FT,"Liberal Arts & Sciences",2458,Chemistry,7,4,4,1,0,0,0,0,0,0,0,0,0,0,0,1,"Hammerich, Audrey Dell",,,17

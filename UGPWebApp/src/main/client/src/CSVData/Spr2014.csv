@@ -316,14 +316,14 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220141,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,37,50,27,6,6,0,0,0,0,0,0,0,0,0,0,8,"Widing, Robert W","Grad Asst",,134
 220141,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,14,25,33,25,38,0,0,0,0,0,1,0,0,0,0,27,"Lakhani, Ahmed Ashiqali",,,163
 220141,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,35,19,30,0,8,0,0,0,0,0,74,0,0,0,0,20,"Widing, Robert W",,,186
-220141,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,27,57,67,27,15,0,0,0,0,0,0,0,0,0,0,14,"Modey, William Kojo",,,207
-220141,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,29,72,64,18,12,0,0,0,0,0,0,0,0,0,0,12,"Vazquez, Francisco X",,,207
-220141,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,30,56,70,20,11,0,0,0,0,0,0,0,0,0,0,21,"Rosenhouse-Dantsker, Avia",,,208
-220141,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,35,60,63,24,14,0,0,0,2,0,0,0,0,0,0,10,"Jursich, Gregory",,,208
-220141,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,6,13,19,8,5,0,0,0,0,0,0,0,0,0,0,3,"Waluyo, Iradwikanari",,,54
-220141,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,39,31,57,14,7,0,0,0,0,0,0,0,0,0,0,20,"Jursich, Gregory",,,168
-220141,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,45,45,46,27,27,0,0,0,0,0,0,0,0,0,0,17,"Lakhani, Ahmed Ashiqali",,,207
-220141,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,45,58,70,10,13,0,0,0,0,0,0,0,0,0,0,11,"Jawaid, Ali M",,,207
+220141,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,27,57,67,27,15,0,0,0,0,0,0,0,0,0,0,14,"Modey, William Kojo",,,207
+220141,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,29,72,64,18,12,0,0,0,0,0,0,0,0,0,0,12,"Vazquez, Francisco X",,,207
+220141,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,30,56,70,20,11,0,0,0,0,0,0,0,0,0,0,21,"Rosenhouse-Dantsker, Avia",,,208
+220141,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,35,60,63,24,14,0,0,0,2,0,0,0,0,0,0,10,"Jursich, Gregory",,,208
+220141,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,6,13,19,8,5,0,0,0,0,0,0,0,0,0,0,3,"Waluyo, Iradwikanari",,,54
+220141,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,39,31,57,14,7,0,0,0,0,0,0,0,0,0,0,20,"Jursich, Gregory",,,168
+220141,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,45,45,46,27,27,0,0,0,0,0,0,0,0,0,0,17,"Lakhani, Ahmed Ashiqali",,,207
+220141,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,45,58,70,10,13,0,0,0,0,0,0,0,0,0,0,11,"Jawaid, Ali M",,,207
 220141,CHEM,Chemistry,118,"Honors General Chem II",FT,"Liberal Arts & Sciences",2458,Chemistry,3,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Papadantonakis, George A",,,10
 220141,CHEM,Chemistry,130,Survey/Organic&Biochem,FT,"Liberal Arts & Sciences",2458,Chemistry,36,25,24,4,3,0,0,0,0,0,0,0,0,0,0,6,"Clark, Ginevra",,,98
 220141,CHEM,Chemistry,222,"Analytical Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,17,26,24,4,1,0,0,0,0,0,0,0,0,0,0,6,"Lorieau, Justin L",,,78

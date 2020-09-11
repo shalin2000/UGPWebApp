@@ -57,8 +57,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220165,CELE,"Clerkship Electives-Chicago",616,Radiology,GA,"Coll Medicine at Chicago - CS",2713,Radiology,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,"Xie, Karen Lin",,,14
 220165,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,8,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rosenhouse-Dantsker, Avia",,,13
 220165,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,4,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hatfield, Rita",,,12
-220165,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,11,10,15,6,8,0,0,0,0,0,0,0,0,0,0,4,"Stec, Ewa",,,54
-220165,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,10,16,35,6,3,0,0,0,0,0,0,0,0,0,0,4,"Jursich, Gregory",,,74
+220165,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,11,10,15,6,8,0,0,0,0,0,0,0,0,0,0,4,"Stec, Ewa",,,54
+220165,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,10,16,35,6,3,0,0,0,0,0,0,0,0,0,0,4,"Jursich, Gregory",,,74
 220165,CHEM,Chemistry,222,"Analytical Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,6,12,8,2,2,0,0,0,0,0,0,0,0,0,0,0,"Rosenhouse-Dantsker, Avia",,,30
 220165,CHEM,Chemistry,232,"Organic Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,5,13,29,16,6,0,0,0,1,0,0,0,0,0,0,6,"Yermolina, Maria V",,,76
 220165,CHEM,Chemistry,233,"Organic Chemistry Lab I",FT,"Liberal Arts & Sciences",2458,Chemistry,28,45,27,2,3,0,0,0,0,0,0,0,0,0,0,5,"Grad Asst","Stec, Ewa",,110

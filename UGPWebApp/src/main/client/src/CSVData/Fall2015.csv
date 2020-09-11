@@ -325,11 +325,11 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220158,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,35,65,43,25,17,0,0,0,0,0,0,0,0,0,0,23,"Schroeder, Lianne E",,,208
 220158,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,55,89,47,19,17,0,0,0,1,0,0,0,0,0,0,23,"Wink, Donald J",,,251
 220158,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,75,59,60,16,18,0,0,0,0,0,0,0,0,0,0,24,"Stec, Ewa",,,252
-220158,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,24,50,69,12,21,0,0,0,0,0,0,0,0,0,0,29,"Rosenhouse-Dantsker, Avia",,,205
-220158,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,35,44,81,20,21,0,0,0,0,0,0,0,0,0,0,17,"Montano, Sherwin",,,218
-220158,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,41,69,81,37,13,0,0,0,0,0,0,0,0,0,0,28,"Hatfield, Rita",,,269
-220158,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,42,31,28,8,11,0,0,0,4,0,0,0,0,0,0,15,"Dahl, Russell S","Stec, Ewa",,139
-220158,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,50,53,62,26,27,0,0,0,0,0,0,0,0,0,0,31,"Jursich, Gregory",,,249
+220158,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,24,50,69,12,21,0,0,0,0,0,0,0,0,0,0,29,"Rosenhouse-Dantsker, Avia",,,205
+220158,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,35,44,81,20,21,0,0,0,0,0,0,0,0,0,0,17,"Montano, Sherwin",,,218
+220158,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,41,69,81,37,13,0,0,0,0,0,0,0,0,0,0,28,"Hatfield, Rita",,,269
+220158,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,42,31,28,8,11,0,0,0,4,0,0,0,0,0,0,15,"Dahl, Russell S","Stec, Ewa",,139
+220158,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,50,53,62,26,27,0,0,0,0,0,0,0,0,0,0,31,"Jursich, Gregory",,,249
 220158,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,21,29,76,16,17,0,0,0,1,0,0,0,0,0,0,27,"Hammerich, Audrey Dell",,,187
 220158,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,21,43,73,24,16,0,0,0,0,0,0,0,0,0,0,26,"Jursich, Gregory",,,203
 220158,CHEM,Chemistry,116,"Honors General Chem I",FT,"Liberal Arts & Sciences",2458,Chemistry,6,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hammerich, Audrey Dell",,,11

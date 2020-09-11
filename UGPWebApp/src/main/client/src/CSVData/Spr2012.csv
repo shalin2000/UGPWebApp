@@ -317,11 +317,11 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220121,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,54,58,52,8,17,0,0,0,2,0,0,0,0,0,0,9,"Widing, Robert W",,,200
 220121,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,26,52,66,37,26,0,0,0,0,0,0,0,0,0,0,8,"Young, Paul Robert",,,215
 220121,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,35,42,42,26,19,0,0,0,2,0,0,0,0,0,0,22,"Lakhani, Ahmed Ashiqali",,,188
-220121,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,32,54,83,24,39,0,0,0,2,0,0,0,0,0,0,17,"Widing, Robert W",,,251
-220121,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,47,80,96,6,8,0,0,0,0,0,0,0,0,0,0,13,"Kassner, Richard J",,,250
-220121,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,81,60,73,27,5,0,0,0,2,0,0,0,0,0,0,3,"Young, Paul Robert",,,251
-220121,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,37,43,50,12,15,0,0,0,0,0,0,0,0,0,0,9,"Papadantonakis, George A",,,166
-220121,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,55,101,129,39,24,0,0,0,2,0,0,0,0,0,0,44,"Jursich, Gregory",,,394
+220121,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,32,54,83,24,39,0,0,0,2,0,0,0,0,0,0,17,"Widing, Robert W",,,251
+220121,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,47,80,96,6,8,0,0,0,0,0,0,0,0,0,0,13,"Kassner, Richard J",,,250
+220121,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,81,60,73,27,5,0,0,0,2,0,0,0,0,0,0,3,"Young, Paul Robert",,,251
+220121,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,37,43,50,12,15,0,0,0,0,0,0,0,0,0,0,9,"Papadantonakis, George A",,,166
+220121,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,55,101,129,39,24,0,0,0,2,0,0,0,0,0,0,44,"Jursich, Gregory",,,394
 220121,CHEM,Chemistry,130,Survey/Organic&Biochem,FT,"Liberal Arts & Sciences",2458,Chemistry,11,22,16,5,2,0,0,0,0,0,0,0,0,0,0,11,"Clark, Ginevra",,,67
 220121,CHEM,Chemistry,222,"Analytical Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,13,24,30,3,0,0,0,0,1,0,0,0,0,0,0,8,"Hammerich, Audrey Dell",,,79
 220121,CHEM,Chemistry,232,"Organic Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,29,32,97,22,16,0,0,0,0,0,0,0,0,0,0,51,"Landrie, Chad L.",,,247

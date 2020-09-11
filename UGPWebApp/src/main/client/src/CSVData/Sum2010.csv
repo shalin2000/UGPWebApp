@@ -64,11 +64,11 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220105,CELE,"Clerkship Electives-Chicago",616,Radiology,GA,"Coll Medicine at Chicago - CS",2713,Radiology,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,"Instructor, Missing",,,18
 220105,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,5,7,0,1,0,0,0,0,0,0,1,0,0,0,0,3,"Grad Asst","Jursich, Gregory","Widing, Robert W",17
 220105,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,11,9,14,3,2,0,0,0,0,0,0,0,0,0,0,1,"Grad Asst","Papadantonakis, George A",,40
-220105,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,2,5,7,2,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst","Jursich, Gregory","Krooswyk, Joel D",19
-220105,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,4,3,11,1,2,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","Jursich, Gregory","Cobani, Edisa",21
-220105,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,5,21,20,6,4,0,0,0,1,0,0,0,0,0,0,5,"Grad Asst","Jursich, Gregory","Grad Asst",62
-220105,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,2,2,1,0,2,0,0,0,0,0,0,0,0,0,0,11,"Grad Asst","Balch, Melita Morton",,18
-220105,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,10,11,19,11,8,0,0,0,0,0,0,0,0,0,0,34,"Grad Asst","Balch, Melita Morton","Grad Asst",93
+220105,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,2,5,7,2,1,0,0,0,0,0,0,0,0,0,0,2,"Grad Asst","Jursich, Gregory","Krooswyk, Joel D",19
+220105,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,4,3,11,1,2,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","Jursich, Gregory","Cobani, Edisa",21
+220105,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,5,21,20,6,4,0,0,0,1,0,0,0,0,0,0,5,"Grad Asst","Jursich, Gregory","Grad Asst",62
+220105,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,2,2,1,0,2,0,0,0,0,0,0,0,0,0,0,11,"Grad Asst","Balch, Melita Morton",,18
+220105,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,10,11,19,11,8,0,0,0,0,0,0,0,0,0,0,34,"Grad Asst","Balch, Melita Morton","Grad Asst",93
 220105,CHEM,Chemistry,130,Survey/Organic&Biochem,FT,"Liberal Arts & Sciences",2458,Chemistry,6,9,5,2,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","Widing, Robert W","Miranda, Neil",22
 220105,CHEM,Chemistry,222,"Analytical Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,4,12,15,0,1,0,0,0,1,0,0,0,0,0,0,0,"Papadantonakis, George A","Grad Asst","Grad Asst",33
 220105,CHEM,Chemistry,232,"Organic Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,18,31,51,24,8,0,0,0,0,0,0,0,0,0,0,19,"Grad Asst","Miranda, Neil",,151

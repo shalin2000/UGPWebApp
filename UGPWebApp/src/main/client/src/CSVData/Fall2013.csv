@@ -325,10 +325,10 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220138,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,39,52,49,33,59,0,0,0,0,0,0,0,0,0,0,18,"Lakhani, Ahmed Ashiqali",,,250
 220138,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,53,105,61,6,12,0,0,0,0,0,0,0,0,0,0,14,"Yun, Sang Young",,,251
 220138,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,70,41,65,13,36,0,0,0,2,0,0,0,0,0,0,25,"Widing, Robert W",,,252
-220138,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,26,44,31,10,5,0,0,0,0,0,0,0,0,0,0,8,"Yun, Sang Young",,,124
-220138,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,38,64,65,47,18,0,0,0,0,0,0,0,0,0,0,20,"Hatfield, Rita",,,252
-220138,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,51,58,84,17,21,0,0,0,0,0,0,0,0,0,0,21,"Jursich, Gregory",,,252
-220138,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,70,126,111,77,47,0,0,0,2,0,2,0,0,0,0,33,"Modey, William Kojo",,,468
+220138,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,26,44,31,10,5,0,0,0,0,0,0,0,0,0,0,8,"Yun, Sang Young",,,124
+220138,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,38,64,65,47,18,0,0,0,0,0,0,0,0,0,0,20,"Hatfield, Rita",,,252
+220138,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,51,58,84,17,21,0,0,0,0,0,0,0,0,0,0,21,"Jursich, Gregory",,,252
+220138,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,70,126,111,77,47,0,0,0,2,0,2,0,0,0,0,33,"Modey, William Kojo",,,468
 220138,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,24,54,75,18,19,0,0,0,0,0,0,0,0,0,0,19,"Jursich, Gregory",,,209
 220138,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,36,48,73,15,1,0,0,0,0,0,0,0,0,0,0,27,"Jawaid, Ali M",,,200
 220138,CHEM,Chemistry,116,"Honors General Chem I",FT,"Liberal Arts & Sciences",2458,Chemistry,6,6,4,2,0,0,0,0,1,0,0,0,0,0,0,1,"Papadantonakis, George A",,,20

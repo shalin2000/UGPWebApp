@@ -339,12 +339,12 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220161,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,27,20,21,2,3,0,0,0,0,0,0,0,0,0,0,6,"Rosenhouse-Dantsker, Avia","Grad Asst",,79
 220161,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,18,24,33,8,11,0,0,0,0,0,0,0,0,0,0,5,"Stec, Ewa",,,99
 220161,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,32,43,58,13,16,0,0,0,0,0,0,0,0,0,0,22,"Hatfield, Rita",,,184
-220161,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,19,54,76,21,23,0,0,0,0,0,0,0,0,0,0,17,"Jursich, Gregory",,,210
-220161,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,32,42,78,12,16,0,0,0,0,0,0,0,0,0,0,29,"Stec, Ewa",,,209
-220161,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,51,81,133,69,33,0,0,0,0,0,0,0,0,0,0,50,"Montano, Sherwin",,,417
-220161,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,21,36,67,21,13,0,0,0,2,0,0,0,0,0,0,9,"Hammerich, Audrey Dell",,,169
-220161,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,26,60,75,14,12,0,0,0,1,0,0,0,0,0,0,22,"Rosenhouse-Dantsker, Avia",,,210
-220161,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,38,40,44,19,8,0,0,0,4,0,0,0,0,0,0,15,"Jursich, Gregory",,,168
+220161,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,19,54,76,21,23,0,0,0,0,0,0,0,0,0,0,17,"Jursich, Gregory",,,210
+220161,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,32,42,78,12,16,0,0,0,0,0,0,0,0,0,0,29,"Stec, Ewa",,,209
+220161,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,51,81,133,69,33,0,0,0,0,0,0,0,0,0,0,50,"Montano, Sherwin",,,417
+220161,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,21,36,67,21,13,0,0,0,2,0,0,0,0,0,0,9,"Hammerich, Audrey Dell",,,169
+220161,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,26,60,75,14,12,0,0,0,1,0,0,0,0,0,0,22,"Rosenhouse-Dantsker, Avia",,,210
+220161,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,38,40,44,19,8,0,0,0,4,0,0,0,0,0,0,15,"Jursich, Gregory",,,168
 220161,CHEM,Chemistry,118,"Honors General Chem II",FT,"Liberal Arts & Sciences",2458,Chemistry,10,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"Hammerich, Audrey Dell",,,14
 220161,CHEM,Chemistry,130,Survey/Organic&Biochem,FT,"Liberal Arts & Sciences",2458,Chemistry,42,36,25,4,1,0,0,0,0,0,0,0,0,0,0,3,"Clark, Ginevra",,,111
 220161,CHEM,Chemistry,222,"Analytical Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,18,31,21,3,4,0,0,0,0,0,0,0,0,0,0,7,"Shippy, Scott A.",,,84

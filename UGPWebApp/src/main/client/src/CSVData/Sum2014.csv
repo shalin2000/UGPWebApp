@@ -65,8 +65,8 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220145,CELE,"Clerkship Electives-Chicago",616,Radiology,GA,"Coll Medicine at Chicago - CS",2713,Radiology,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,"Instructor, Missing",,,17
 220145,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,5,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lakhani, Ahmed Ashiqali",,,13
 220145,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,8,5,3,3,1,0,0,0,0,0,0,0,0,0,0,0,"Huma, Loredana Camelia",,,20
-220145,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,14,14,20,8,2,0,0,0,0,0,0,0,0,0,0,2,"Modey, William Kojo",,,60
-220145,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,9,17,29,8,6,0,0,0,0,0,0,0,0,0,0,8,"Jursich, Gregory",,,77
+220145,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,14,14,20,8,2,0,0,0,0,0,0,0,0,0,0,2,"Modey, William Kojo",,,60
+220145,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,9,17,29,8,6,0,0,0,0,0,0,0,0,0,0,8,"Jursich, Gregory",,,77
 220145,CHEM,Chemistry,222,"Analytical Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,6,15,11,6,0,0,0,0,0,0,0,0,0,0,0,1,"Jursich, Gregory",,,39
 220145,CHEM,Chemistry,232,"Organic Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,14,19,38,10,6,0,0,0,0,0,0,0,0,0,0,6,"Yun, Sang Young",,,93
 220145,CHEM,Chemistry,233,"Organic Chemistry Lab I",FT,"Liberal Arts & Sciences",2458,Chemistry,4,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","McQuade, Lindsey E","Grad Asst",15

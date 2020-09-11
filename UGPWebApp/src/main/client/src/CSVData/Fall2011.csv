@@ -345,9 +345,9 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220118,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,40,78,63,16,8,0,0,0,0,0,0,0,0,0,0,10,"Widing, Robert W",,,215
 220118,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,86,114,169,76,74,0,0,0,2,0,0,0,0,0,0,43,"Young, Paul Robert",,,564
 220118,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,101,133,125,39,44,0,0,0,1,0,1,0,0,0,0,54,"Modey, William Kojo",,,498
-220118,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,32,39,51,28,32,0,0,0,0,0,1,0,0,0,0,85,"Balch, Melita Morton",,,268
-220118,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,38,61,92,14,15,0,0,0,3,0,0,0,0,0,0,22,"Widing, Robert W",,,245
-220118,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,62,107,129,52,36,0,0,0,1,0,0,0,0,0,0,42,"Jursich, Gregory",,,429
+220118,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,32,39,51,28,32,0,0,0,0,0,1,0,0,0,0,85,"Balch, Melita Morton",,,268
+220118,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,38,61,92,14,15,0,0,0,3,0,0,0,0,0,0,22,"Widing, Robert W",,,245
+220118,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,62,107,129,52,36,0,0,0,1,0,0,0,0,0,0,42,"Jursich, Gregory",,,429
 220118,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,14,34,84,22,18,0,0,0,0,0,0,0,0,0,0,21,"Hammerich, Audrey Dell",,,193
 220118,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,38,48,66,6,16,0,0,0,0,0,1,0,0,0,0,30,"Papadantonakis, George A",,,205
 220118,CHEM,Chemistry,116,"Honors General Chem I",FT,"Liberal Arts & Sciences",2458,Chemistry,3,6,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"Burns, Richard P",,,13

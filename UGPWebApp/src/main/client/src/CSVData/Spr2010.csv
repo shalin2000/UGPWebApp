@@ -326,12 +326,12 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220101,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,83,71,35,11,8,0,0,0,1,0,0,0,0,0,0,6,"Grad Asst","Widing, Robert W",,215
 220101,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,17,15,11,7,6,0,0,0,0,0,0,0,0,0,0,7,"Cobani, Edisa","Marek, Lee R",,63
 220101,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,57,55,85,42,50,0,0,0,0,0,0,0,0,0,0,19,"Grad Asst","Marek, Lee R",,308
-220101,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,0,7,6,2,4,0,0,0,0,0,0,0,0,0,0,2,"Syed, Samad Ishrati","Landrie, Chad L.",,21
-220101,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,25,44,73,11,12,0,0,0,0,0,0,0,0,0,0,24,"Grad Asst","Landrie, Chad L.",,189
-220101,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,82,158,112,29,22,0,0,0,3,0,0,0,0,0,0,13,"Grad Asst","Young, Paul Robert",,419
-220101,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,17,40,55,15,8,0,0,0,0,0,2,0,0,0,0,26,"Grad Asst","Jursich, Gregory",,163
-220101,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,21,29,29,16,12,0,0,0,0,0,0,0,0,0,0,56,"Grad Asst","Balch, Melita Morton",,163
-220101,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,27,40,70,27,15,0,0,0,3,0,0,0,0,0,0,20,"Grad Asst","Hammerich, Audrey Dell",,202
+220101,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,0,7,6,2,4,0,0,0,0,0,0,0,0,0,0,2,"Syed, Samad Ishrati","Landrie, Chad L.",,21
+220101,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,25,44,73,11,12,0,0,0,0,0,0,0,0,0,0,24,"Grad Asst","Landrie, Chad L.",,189
+220101,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,82,158,112,29,22,0,0,0,3,0,0,0,0,0,0,13,"Grad Asst","Young, Paul Robert",,419
+220101,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,17,40,55,15,8,0,0,0,0,0,2,0,0,0,0,26,"Grad Asst","Jursich, Gregory",,163
+220101,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,21,29,29,16,12,0,0,0,0,0,0,0,0,0,0,56,"Grad Asst","Balch, Melita Morton",,163
+220101,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,27,40,70,27,15,0,0,0,3,0,0,0,0,0,0,20,"Grad Asst","Hammerich, Audrey Dell",,202
 220101,CHEM,Chemistry,118,"Honors General Chem II",FT,"Liberal Arts & Sciences",2458,Chemistry,7,4,3,1,0,0,0,0,1,0,0,0,0,0,0,0,"Grad Asst","Burns, Richard P",,16
 220101,CHEM,Chemistry,222,"Analytical Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,17,23,31,2,0,0,0,0,1,0,0,0,0,0,0,5,"Grad Asst","Papadantonakis, George A",,79
 220101,CHEM,Chemistry,232,"Organic Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,15,32,63,29,22,0,0,0,0,0,0,0,0,0,0,28,"Grad Asst","Miranda, Neil",,189

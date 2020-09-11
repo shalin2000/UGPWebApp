@@ -329,14 +329,14 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220151,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,21,38,17,13,2,0,0,0,1,0,0,0,0,0,0,6,"Rosenhouse-Dantsker, Avia","Grad Asst",,98
 220151,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,23,27,22,18,19,0,0,0,1,0,0,0,0,0,0,16,"Mueller, Daniel Stephen",,,126
 220151,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,43,45,58,9,18,0,0,0,0,0,0,0,0,0,0,15,"Jayarathne, Thebuwana Achari U",,,188
-220151,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,13,36,35,20,13,0,0,0,0,0,0,0,0,0,0,23,"Modey, William Kojo",,,140
-220151,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,32,48,83,15,12,0,0,0,2,0,0,0,0,0,0,15,"Jursich, Gregory",,,207
-220151,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,35,54,72,15,7,0,0,0,0,0,0,0,0,0,0,2,"Dahl, Russell S",,,185
-220151,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,36,67,64,14,15,0,0,0,1,0,0,0,0,0,0,13,"Hatfield, Rita",,,210
-220151,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,3,5,7,1,1,0,0,0,0,0,0,0,0,0,0,2,"Hammerich, Audrey Dell",,,19
-220151,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,40,49,65,34,5,0,0,0,1,0,0,0,0,0,0,12,"Rosenhouse-Dantsker, Avia",,,206
-220151,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,44,56,40,16,4,0,0,0,1,0,0,0,0,0,0,7,"Vazquez, Francisco X",,,168
-220151,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,52,78,56,11,4,0,0,0,0,0,0,0,0,0,0,8,"Jayarathne, Thebuwana Achari U",,,209
+220151,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,13,36,35,20,13,0,0,0,0,0,0,0,0,0,0,23,"Modey, William Kojo",,,140
+220151,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,32,48,83,15,12,0,0,0,2,0,0,0,0,0,0,15,"Jursich, Gregory",,,207
+220151,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,35,54,72,15,7,0,0,0,0,0,0,0,0,0,0,2,"Dahl, Russell S",,,185
+220151,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,36,67,64,14,15,0,0,0,1,0,0,0,0,0,0,13,"Hatfield, Rita",,,210
+220151,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,3,5,7,1,1,0,0,0,0,0,0,0,0,0,0,2,"Hammerich, Audrey Dell",,,19
+220151,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,40,49,65,34,5,0,0,0,1,0,0,0,0,0,0,12,"Rosenhouse-Dantsker, Avia",,,206
+220151,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,44,56,40,16,4,0,0,0,1,0,0,0,0,0,0,7,"Vazquez, Francisco X",,,168
+220151,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,52,78,56,11,4,0,0,0,0,0,0,0,0,0,0,8,"Jayarathne, Thebuwana Achari U",,,209
 220151,CHEM,Chemistry,118,"Honors General Chem II",FT,"Liberal Arts & Sciences",2458,Chemistry,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,1,"Trenary, Michael",,,13
 220151,CHEM,Chemistry,130,Survey/Organic&Biochem,FT,"Liberal Arts & Sciences",2458,Chemistry,40,29,19,4,5,0,0,0,0,0,0,0,0,0,0,6,"Clark, Ginevra",,,103
 220151,CHEM,Chemistry,222,"Analytical Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,12,21,32,9,11,0,0,0,0,0,0,0,0,0,0,6,"Jursich, Gregory",,,91

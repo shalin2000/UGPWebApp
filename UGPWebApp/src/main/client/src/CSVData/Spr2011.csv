@@ -328,11 +328,11 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220111,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,58,68,52,13,6,0,0,0,0,0,0,0,0,0,0,14,"Grad Asst","Widing, Robert W",,211
 220111,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,9,17,18,9,3,0,0,0,0,0,0,0,0,0,0,7,"Yzeiri, Irena","Young, Paul Robert",,63
 220111,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,36,69,97,41,44,0,0,0,1,0,0,0,0,0,0,26,"Grad Asst","Young, Paul Robert",,314
-220111,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,5,11,11,7,4,0,0,0,0,0,0,0,0,0,0,4,"Sevinc, Berdan","Jursich, Gregory",,42
-220111,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,20,45,55,16,12,0,0,0,0,0,0,0,0,0,0,19,"Grad Asst","Jursich, Gregory",,167
-220111,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,28,140,139,72,15,0,0,0,2,0,0,0,0,0,0,24,"Grad Asst","Modey, William Kojo",,420
-220111,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,31,61,90,11,14,0,0,0,0,0,0,0,0,0,0,22,"Grad Asst","Jursich, Gregory",,229
-220111,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,45,87,124,48,12,0,0,0,2,0,0,0,0,0,0,57,"Grad Asst","Papadantonakis, George A",,375
+220111,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,5,11,11,7,4,0,0,0,0,0,0,0,0,0,0,4,"Sevinc, Berdan","Jursich, Gregory",,42
+220111,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,20,45,55,16,12,0,0,0,0,0,0,0,0,0,0,19,"Grad Asst","Jursich, Gregory",,167
+220111,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,28,140,139,72,15,0,0,0,2,0,0,0,0,0,0,24,"Grad Asst","Modey, William Kojo",,420
+220111,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,31,61,90,11,14,0,0,0,0,0,0,0,0,0,0,22,"Grad Asst","Jursich, Gregory",,229
+220111,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,45,87,124,48,12,0,0,0,2,0,0,0,0,0,0,57,"Grad Asst","Papadantonakis, George A",,375
 220111,CHEM,Chemistry,118,"Honors General Chem II",FT,"Liberal Arts & Sciences",2458,Chemistry,5,5,3,1,1,0,0,0,0,0,0,0,0,0,0,0,"Grad Asst","Burns, Richard P",,15
 220111,CHEM,Chemistry,222,"Analytical Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,4,6,4,4,0,0,0,0,1,0,0,0,0,0,0,3,"Grad Asst","Hammerich, Audrey Dell","Grad Asst",22
 220111,CHEM,Chemistry,222,"Analytical Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,7,21,18,7,1,0,0,0,3,0,0,0,0,0,0,7,"Grad Asst","Hammerich, Audrey Dell",,64

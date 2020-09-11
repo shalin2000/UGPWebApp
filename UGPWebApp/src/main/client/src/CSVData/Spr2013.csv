@@ -347,12 +347,12 @@ TERM_CD,CRS_SUBJ_CD,CRS_SUBJ_DESC,CRS_NBR,CRS_TITLE,COLL_CD,COLL_NAME,DEPT_CD,DE
 220131,CHEM,Chemistry,100,"Chemistry and Life",FT,"Liberal Arts & Sciences",2458,Chemistry,55,58,21,7,10,0,0,0,0,0,1,0,0,0,0,8,"Widing, Robert W",,,160
 220131,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,19,51,35,9,7,0,0,0,0,0,0,0,0,0,0,5,"Yun, Sang Young",,,126
 220131,CHEM,Chemistry,101,"Preparatory Chemistry",FT,"Liberal Arts & Sciences",2458,Chemistry,39,46,62,37,37,0,0,0,3,0,1,0,0,0,0,24,"Young, Paul Robert",,,249
-220131,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,8,37,73,35,27,0,0,0,0,0,0,0,0,0,0,28,"Modey, William Kojo",,,208
-220131,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,30,59,99,11,0,0,0,0,5,0,1,0,0,0,0,5,"Kassner, Richard J",,,210
-220131,CHEM,Chemistry,112,"General Chemistry I",FT,"Liberal Arts & Sciences",2458,Chemistry,59,94,150,35,33,0,0,0,2,0,0,0,0,0,0,46,"Jursich, Gregory",,,419
-220131,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,37,58,62,13,11,0,0,0,1,0,1,0,0,0,0,22,"Modey, William Kojo",,,205
-220131,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,46,51,57,18,15,0,0,0,0,0,0,0,0,0,0,11,"Jursich, Gregory",,,198
-220131,CHEM,Chemistry,114,"General Chemistry II",FT,"Liberal Arts & Sciences",2458,Chemistry,48,77,50,30,5,0,0,0,1,0,0,0,0,0,0,19,"Lakhani, Ahmed Ashiqali",,,230
+220131,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,8,37,73,35,27,0,0,0,0,0,0,0,0,0,0,28,"Modey, William Kojo",,,208
+220131,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,30,59,99,11,0,0,0,0,5,0,1,0,0,0,0,5,"Kassner, Richard J",,,210
+220131,CHEM,Chemistry,122,"General Chemistry I Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,59,94,150,35,33,0,0,0,2,0,0,0,0,0,0,46,"Jursich, Gregory",,,419
+220131,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,37,58,62,13,11,0,0,0,1,0,1,0,0,0,0,22,"Modey, William Kojo",,,205
+220131,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,46,51,57,18,15,0,0,0,0,0,0,0,0,0,0,11,"Jursich, Gregory",,,198
+220131,CHEM,Chemistry,124,"General Chemistry II Lecture",FT,"Liberal Arts & Sciences",2458,Chemistry,48,77,50,30,5,0,0,0,1,0,0,0,0,0,0,19,"Lakhani, Ahmed Ashiqali",,,230
 220131,CHEM,Chemistry,118,"Honors General Chem II",FT,"Liberal Arts & Sciences",2458,Chemistry,9,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hammerich, Audrey Dell",,,14
 220131,CHEM,Chemistry,130,Survey/Organic&Biochem,FT,"Liberal Arts & Sciences",2458,Chemistry,37,40,14,0,0,0,0,0,2,0,0,0,0,0,0,1,"Widing, Robert W",,,94
 220131,CHEM,Chemistry,201,"Elements of Glass Blowing",FT,"Liberal Arts & Sciences",2458,Chemistry,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,"Schwandt, Brian D",,,10
