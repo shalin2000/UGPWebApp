@@ -2,7 +2,7 @@
 
 This website helps in providing UIC students with an intuitive platform to learn more about their instructors, conduct research on prior course records, and gather the information they need to plan their future schedules conveniently.
 
-Link to GradePal - https://gradepal.net/
+Link to GradePal - https://grade-pal.web.app/
 
 # To run localhost on the frontend 
   - npm start
